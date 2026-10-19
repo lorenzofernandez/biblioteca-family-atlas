@@ -11,6 +11,7 @@
   const grid=document.querySelector(isAuthors?'#authorGrid':'#bookGrid');if(!grid)return false;
   const section=isAuthors?grid.closest('section'):grid.closest('.book-directory');section.classList.add('library-browser');
   if(isAuthors){document.querySelector('#authorApp').classList.add('directory-only');section.querySelector('h2').textContent='The Authors.';const lives=el('a','Compare lifespans ↗','library-lifespans-link');lives.href=new URL('author-lifespans.html',navBase).href;section.querySelector('h2').after(lives);}else section.querySelector('h1').textContent='The Books.';
+  if(isBooks){document.body.classList.add('books-grid-only');grid.classList.remove('library-list');const u=new URL(location.href);u.searchParams.delete('view');history.replaceState(history.state,'',u);return true;}
   const tools=section.querySelector(isAuthors?'.directory-toolbar':'.book-tools'),switcher=el('div',null,'library-view-switch');switcher.setAttribute('role','group');switcher.setAttribute('aria-label','Display');
   const buttons=[];let mode=new URL(location.href).searchParams.get('view')||sessionStorage.getItem('biblioteca-directory-view')||'grid';
   const setView=value=>{mode=value;grid.classList.toggle('library-list',mode==='list');buttons.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.view===mode)));sessionStorage.setItem('biblioteca-directory-view',mode);const u=new URL(location.href);u.searchParams.set('view',mode);history.replaceState(history.state,'',u);};
