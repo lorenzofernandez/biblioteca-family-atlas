@@ -11,7 +11,7 @@
  const setup=()=>{
   const grid=document.querySelector(isAuthors?'#authorGrid':'#bookGrid');if(!grid)return false;
   const section=isAuthors?grid.closest('section'):grid.closest('.book-directory');section.classList.add('library-browser');
-  if(isAuthors){document.querySelector('#authorApp').classList.add('directory-only');section.querySelector('h2').textContent='The Authors.';const lives=el('a','Compare lifespans ↗','library-lifespans-link');lives.href=new URL('author-lifespans.html',navBase).href;section.querySelector('h2').after(lives);}else section.querySelector('h1').textContent='The Books.';
+  if(isAuthors){document.querySelector('#authorApp').classList.add('directory-only');section.querySelector('h2').textContent='The Authors.';}else section.querySelector('h1').textContent='The Books.';
   document.body.classList.toggle('books-grid-only',isBooks);
   const tools=section.querySelector(isAuthors?'.directory-toolbar':'.book-tools');
   const panel=el('aside',null,'library-filter-panel');panel.hidden=false;panel.setAttribute('aria-label',isAuthors?'Filter authors':'Filter books');
