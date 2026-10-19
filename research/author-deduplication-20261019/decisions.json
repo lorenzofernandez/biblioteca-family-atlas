@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "76b0c91bd5d4e0ae809c552941638727bb81a2c4",
+  "groups": [
+    {
+      "canonicalId": "ab530398d7ab5",
+      "canonicalName": "Jöns Jacob Berzelius",
+      "members": [
+        "a3dbd06044e88",
+        "afd17f291f4dc",
+        "ab95d5928fa7d",
+        "aafdc6729a383",
+        "a1cc1d97407fc",
+        "a149bd12938c8",
+        "a2072dba3542b",
+        "a39355fc6d6d0",
+        "ab530398d7ab5",
+        "a2aa4822b168f"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Jöns Jacob Berzelius; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "aa6c6ed0f403c",
+      "canonicalName": "Friedrich Kohlrausch",
+      "members": [
+        "aa6c6ed0f403c",
+        "aa77543520153",
+        "a09f27c257832",
+        "afb9a6832dd39"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Friedrich Kohlrausch; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a0c8da2e400bf",
+      "canonicalName": "Giovan Pietro Grimaldi",
+      "members": [
+        "a7935a50b2375",
+        "a0c8da2e400bf",
+        "a7c342b2d4474",
+        "a9f0470c31f88",
+        "a004498af44e4"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Giovan Pietro Grimaldi; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a7972d80ef3a2",
+      "canonicalName": "John Frederic Daniell",
+      "members": [
+        "a7972d80ef3a2",
+        "adcf7fd94721e",
+        "a6b8fa9e39add",
+        "ac4ead08f6df0"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for John Frederic Daniell; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "af465f6fed430",
+      "canonicalName": "George de Hevesy",
+      "members": [
+        "af465f6fed430",
+        "a400f0b17de47",
+        "a52f6f0ef8b91",
+        "aa2cfcb822f5e"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for George de Hevesy; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a4b776b5ef719",
+      "canonicalName": "Pierre-Simon Laplace",
+      "members": [
+        "afd2a41542c50",
+        "a0e6a016432bd",
+        "a5af554fc346e",
+        "a4b776b5ef719",
+        "a5bf0273c38b3",
+        "a7ed4570d6d79",
+        "afaabe38ca2f4"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Pierre-Simon Laplace; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "ae089adb12a94",
+      "canonicalName": "Theodore William Richards",
+      "members": [
+        "ac9d66c52cfd3",
+        "a785ca78c7845",
+        "a876496bd872b",
+        "a5dcd56be5647",
+        "a26e5dc3a1692",
+        "ae089adb12a94",
+        "ae5f5a17e4efb",
+        "a2c40001ab09d",
+        "a92db6f35dd1f",
+        "afa720d7b20e9"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Theodore William Richards; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a250babc1f29d",
+      "canonicalName": "Justus von Liebig",
+      "members": [
+        "a126303474b12",
+        "ad39ed6676c35",
+        "a250babc1f29d",
+        "a0ad205c9b5f2",
+        "a7cd7b986d82d",
+        "a227c4ca277c6"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Justus von Liebig; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a7b2e0e2347d8",
+      "canonicalName": "René-Antoine Ferchault de Réaumur",
+      "members": [
+        "a137a3c920ed7",
+        "ac39e8baa55b6",
+        "a7b2e0e2347d8",
+        "a3ccc4c8d6c92",
+        "ac6988900fa99",
+        "a0fecee2ba77c",
+        "abef17d465264",
+        "a2aad0d472c55",
+        "af1419ac5542e"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for René-Antoine Ferchault de Réaumur; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a7116ec87251b",
+      "canonicalName": "Johann Gottlob Lehmann",
+      "members": [
+        "a7116ec87251b",
+        "a7f968e7237bd"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Johann Gottlob Lehmann; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "aa51304c31f77",
+      "canonicalName": "Arthur Amos Noyes",
+      "members": [
+        "a6c4bf95373a8",
+        "aa51304c31f77",
+        "aaa6f4a191676"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Arthur Amos Noyes; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a65b4a82b246d",
+      "canonicalName": "Oliver Lodge",
+      "members": [
+        "a6b0826ef68d7",
+        "a8255a15b0de0",
+        "a65b4a82b246d"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Oliver Lodge; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    },
+    {
+      "canonicalId": "a307a6680a0c3",
+      "canonicalName": "Richard Abegg",
+      "members": [
+        "a412e94f9a1ac",
+        "a307a6680a0c3"
+      ],
+      "confidence": "high",
+      "decisions": [
+        {
+          "reason": "Reviewed spelling, abbreviated or translated name variants for Richard Abegg; shared authority identity and consistent life dates. Original catalogue headings retained as aliases."
+        }
+      ]
+    }
+  ],
+  "heldForReview": []
+}
