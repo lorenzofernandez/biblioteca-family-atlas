@@ -178,8 +178,9 @@
 
  let timelineGeometry=null,timelinePan=0,timelinePanTarget=0,geographyData=null,geographyGeometry=null,worldOutlines=null;
  const cardAt=index=>index<cards.length?cards[index]:catalogueCards[index-cards.length];
+ const filterReopen=document.createElement('button');filterReopen.className='filter-reopen';filterReopen.type='button';filterReopen.textContent='Filters';filterReopen.hidden=true;filterReopen.onclick=()=>cardSearch.show();document.body.append(filterReopen);
  cardSearch=LibraryCardSearch.create({
-  onVisibility:open=>{hideHover();if(open)showFilterWall();else if(!cardSearch.active)leaveWall();wake();},
+  onVisibility:open=>{filterReopen.hidden=open||!catalogueOnly;hideHover();if(open)showFilterWall();else if(!cardSearch.active)leaveWall();wake();},
   onOpen:(index,ids,wasOpen)=>{reopenSearch=wasOpen;openCard(index,ids);},
   onFilter:({active,mask,count})=>{
    if(!active&&!cardSearch.isOpen&&wallBrowsing)leaveWall();
