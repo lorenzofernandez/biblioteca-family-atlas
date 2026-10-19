@@ -35,8 +35,8 @@
  let authorScene=null,authorReveal=0,authorRevealTarget=0;
  const matchingIds=ids=>cardSearch?.active?cardSearch.subset(ids||[]):ids;
  const preference=matchMedia('(prefers-reduced-motion: reduce)');let reduced=preference.matches;
- const motion=$('#motionToggle');function setMotion(value){reduced=value;motion.setAttribute('aria-pressed',String(value));motion.setAttribute('aria-label',value?'Enable full motion':'Reduce motion');document.documentElement.classList.toggle('reduced-motion',value);document.documentElement.style.scrollBehavior=value?'auto':'smooth';wake()}
- motion.onclick=()=>setMotion(!reduced);preference.addEventListener('change',e=>setMotion(e.matches));
+ const motion=$('#motionToggle');function setMotion(value){reduced=value;if(motion){motion.setAttribute('aria-pressed',String(value));motion.setAttribute('aria-label',value?'Enable full motion':'Reduce motion')}document.documentElement.classList.toggle('reduced-motion',value);document.documentElement.style.scrollBehavior=value?'auto':'smooth';wake()}
+ if(motion)motion.onclick=()=>setMotion(!reduced);preference.addEventListener('change',e=>setMotion(e.matches));
  const typingPromise=fetch('cards-assets/typing.json').then(r=>{if(!r.ok)throw Error('Typing text unavailable');return r.json()}).catch(()=>null);
  const data=await fetch('cards-assets/data.json?v16',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Card data could not load');return r.json()}).catch(()=>null);
  if(!data){$('#sceneCaption').hidden=false;$('#sceneCaption').textContent='The cards could not load. Refresh to try again.';return;}
@@ -432,7 +432,7 @@
   if(Math.abs(timelinePan-timelinePanTarget)<.05)timelinePan=timelinePanTarget;
   const timelineDistance=(scrollY-chapterTop(4))/H;
   const openingDistance=scrollY/H;
-  const contextOpacity=reduced?(openingDistance<.55?1:0):1-smooth((openingDistance-.15)/.55);
+  const contextOpacity=reduced?(openingDistance<.64?1:0):1-smooth((openingDistance-.1)/.58);
   contextCopy.style.opacity=contextOpacity;contextCopy.style.visibility=contextOpacity>.01?'visible':'hidden';
   contextCopy.setAttribute('aria-hidden',String(contextOpacity<.01));contextCopy.inert=contextOpacity<.6;
   const stage=Math.round(progress);
@@ -441,7 +441,7 @@
   let narrationOpacity=0;
   copies.forEach((copy,i)=>{
    let opacity=reduced?(i===stage?1:0):smooth(clamp(1-Math.abs(progress-i)/.49));
-   if(i===0)opacity*=reduced?(openingDistance>=.55?1:0):smooth((openingDistance-.55)/.55);
+   if(i===0)opacity*=reduced?(openingDistance>=.64?1:0):smooth((openingDistance-.64)/.36);
    if(i===3)opacity*=cardSearch?.isOpen||cardSearch?.active||wallBrowsing?0:smooth((wallZoomProgress-.6)/.32);
    if(i===4)opacity*=1-smooth((timelineDistance-.5)/.55);
    copy.style.opacity=opacity;copy.style.visibility=opacity>.01?'visible':'hidden';
@@ -451,7 +451,7 @@
   });
   narrationOpacity=Math.max(narrationOpacity,contextOpacity);
   $('.stage-shade').style.opacity=.8*narrationOpacity*(1-focusAmount);
-  const reading=clamp((scrollY-H*.65)/(H*.95));introWords.forEach((word,i)=>{word.style.opacity=reduced?1:mix(.12,1,smooth((reading*(introWords.length+2)-i+2)/4));});
+  const reading=clamp((scrollY-H*.74)/(H*.86));introWords.forEach((word,i)=>{word.style.opacity=reduced?1:mix(.12,1,smooth((reading*(introWords.length+2)-i+2)/4));});
   const timelineLabels=$('#timelineLabels'),axisOpacity=clamp(1-Math.abs(progress-4)/.3)*smooth((timelineDistance-.75)/.3);
   timelineLabels.hidden=axisOpacity<.01;timelineLabels.style.opacity=axisOpacity;timelineLabels.inert=axisOpacity<.6;
   if(timelineGeometry){
