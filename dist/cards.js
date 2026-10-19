@@ -31,7 +31,7 @@
   $('#cataloguer').dataset.card=String(Math.min(5,Math.max(0,Math.floor((distance-originalSequenceStart)/originalCardSpan)+1)));
  }
 
- let W=innerWidth,H=innerHeight,progress=0,target=0,raf=0,active=-1,hovered=-1,pointer=null,hoverTimer,modalPool=[],modalIndex=0,selectedCard=-1,focusAmount=0,focusTarget=0,modalAnimation=null,modalClosing=false;
+ let W=innerWidth,H=innerHeight,progress=catalogueOnly?3:0,target=catalogueOnly?3:0,raf=0,active=-1,hovered=-1,pointer=null,hoverTimer,modalPool=[],modalIndex=0,selectedCard=-1,focusAmount=0,focusTarget=0,modalAnimation=null,modalClosing=false;
  let cardSearch=null,cardFilterMask=null,reopenSearch=false;
  let routes,authorPanel,routeReady=false,routeQueue=Promise.resolve(),cardById=new Map(),routeError=false;
  let authorScene=null,authorReveal=0,authorRevealTarget=0;
@@ -116,7 +116,7 @@
  let wallGrid,wallView,catalogueCards=[],wallIds=new Int32Array(data.total),wallCellById=new Int32Array(data.total);
  let squareLayouts=[],squarePositions=new Float32Array(data.total*3),squareBitmaps=[],squaresActive=false;
  let filteredWallLayout=null,filterTransition=null;
- let wallBrowsing=false,wallList=false;
+ let wallBrowsing=catalogueOnly,wallList=false;
  const inSearchMode=()=>catalogueOnly||cardSearch?.isOpen||cardSearch?.active;
  const wallCamera={scale:1,x:0,y:0};
  let wallDrag=null,suppressWallClick=false;
