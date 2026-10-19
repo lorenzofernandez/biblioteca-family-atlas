@@ -183,7 +183,7 @@
   const dateCorrections=new Map((data.dateCorrections||[]).map(entry=>[entry.id,entry.year]));
   catalogueCards=index.cards.map(row=>({id:row[0],title:row[1],author:row[2],year:dateCorrections.has(row[0])?dateCorrections.get(row[0]):row[3],file:index.files[row[4]],page:row[5],rare:false}));
   if(catalogueCards.length+cards.length!==data.total)throw Error('Incomplete catalogue lookup');
-  if(wallGrid){buildWallLookup();layoutSquares();}cardSearch.setRecords([...cards,...catalogueCards],geo);wallCanvas.dataset.catalogueReady='true';cardById=new Map([...cards,...catalogueCards].map((card,index)=>[card.id,index]));routeReady=true;syncRoute();wake();
+  if(wallGrid){buildWallLookup();layoutSquares();}cardSearch.setRecords([...cards,...catalogueCards],geo);if(new URL(location.href).searchParams.has('catalogue'))cardSearch.show();wallCanvas.dataset.catalogueReady='true';cardById=new Map([...cards,...catalogueCards].map((card,index)=>[card.id,index]));routeReady=true;syncRoute();wake();
  }).catch(error=>{cardSearch.failed();wallCanvas.dataset.catalogueReady='false';console.warn('Catalogue geography unavailable',error.message);$('#sceneCaption').hidden=false;$('#sceneCaption').textContent='The catalogue map could not load. Refresh to try again.'});
  function buildWallLookup(){
   wallIds.fill(-1);wallCellById.fill(-1);
