@@ -23,3 +23,10 @@
 .has-library-navigation.library-directory>main{padding-top:80px}
 .has-library-navigation .story-header{top:68px}
 @media(max-width:650px){.library-navigation{inset:12px 12px auto auto!important;gap:6px!important;font-size:11px!important}.library-navigation a{padding:10px 11px!important}.has-library-navigation{padding-top:0}}
+
+/* Shared navigation geometry on the story and all directory pages. */
+nav.library-navigation{inset:18px 24px auto 24px!important;width:auto!important;height:auto!important;display:flex!important;align-items:center!important;justify-content:flex-end!important;gap:8px!important;background:none!important;border:0!important;backdrop-filter:none!important}
+nav.library-navigation>a{box-sizing:border-box!important;margin:0!important;font:13px/18px Arial,sans-serif!important;letter-spacing:.02em!important;text-transform:none!important;padding:12px 17px!important;border:1px solid #ffffff45!important;border-radius:3px!important;text-decoration:none!important;background:#11120fe8!important;color:#eeeade!important}
+nav.library-navigation>a:hover,nav.library-navigation>a[aria-current=page]{border-color:#c4a76b!important;background:#24251fee!important;color:#e4cea0!important}
+nav.library-navigation>a.library-home{margin-right:auto!important;font:22px/18px Georgia,serif!important;border-color:transparent!important;background:#0008!important;white-space:nowrap}
+@media(max-width:650px){nav.library-navigation{inset:12px 10px auto!important;gap:5px!important}nav.library-navigation>a{font-size:10px!important;padding:9px 7px!important}nav.library-navigation>a.library-home{font-size:17px!important;padding-left:0!important}}
