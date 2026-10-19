@@ -1,0 +1,3534 @@
+[
+  {
+    "id": "w8e990ddda8d5",
+    "title": "Traité élémentaire de minéralogie",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "traitlmentaired00unkngoog",
+      "url": "https://archive.org/details/traitlmentaired00unkngoog",
+      "title": "Traité élémentaire de minéralogie",
+      "creators": [
+        "Beudant, F. S. (François Sulpice), 1787-1850"
+      ],
+      "candidateAuthorNames": [
+        "Beudant, F. S. (François Sulpice), 1787-1850"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1824,
+      "publisher": "Paris, Verdière",
+      "language": "fre",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Book digitized by Google from the library of Ghent University and uploaded to the Internet Archive by user tpb. ; 2 preliminary leaves, vi, …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Mineralogy",
+        "Minéralogie"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/traitlmentaired00unkngoog",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/traitlmentaired00unkngoog",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/traitlmentaired00unkngoog/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "europeanlibraries",
+        "fav-noodles625"
+      ],
+      "matchedUsingTitle": "Traité élémentaire de minéralogie",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w1000db0f46d3",
+    "title": "Série du cyanogène",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "BIUSante_pharma_p5292x1882x04",
+      "url": "https://archive.org/details/BIUSante_pharma_p5292x1882x04",
+      "title": "Série du cyanogène",
+      "creators": [
+        "Moissan, Henri"
+      ],
+      "candidateAuthorNames": [
+        "Moissan, Henri"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1882,
+      "publisher": "Paris : A. Parent",
+      "language": "Portuguese",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Thèse de pharmacie de Paris (agrégation) Available at the Bibliothèque interuniversitaire de santé (Paris). See this resource in Medica digital library : pharma_p5292x1882x04 .",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Thèses et synthèses de pharmacie de Paris"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/BIUSante_pharma_p5292x1882x04",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/BIUSante_pharma_p5292x1882x04",
+          "rights": "Licence ouverte / Open licence Etalab",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/BIUSante_pharma_p5292x1882x04/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "bibliothequeinteruniversitairedesante",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "patron-schools-colleges-university-libraries",
+        "patron-library-collection"
+      ],
+      "matchedUsingTitle": "Série du cyanogène",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wd87aee661202",
+    "title": "Théorie mécanique de la chaleur",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "bub_gb__-K2R4YvE3UC",
+      "url": "https://archive.org/details/bub_gb__-K2R4YvE3UC",
+      "title": "Théorie mécanique de la chaleur",
+      "creators": [
+        "Briot, M. (Charles), 1817-1882"
+      ],
+      "candidateAuthorNames": [
+        "Briot, M. (Charles), 1817-1882"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1869,
+      "publisher": "Paris, Gauthier-Villars",
+      "language": "fre",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.948,
+        "basis": [
+          "Title similarity 93%; weighted title-token coverage 70%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "\"Ce livre est la reproduction de mon cours à la Sorbonne pendant l'année scolaire 1867-1868.\"--Préf",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "bub_upload",
+        "Thermodynamics",
+        "Electricity"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/bub_gb__-K2R4YvE3UC",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/bub_gb__-K2R4YvE3UC",
+          "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "rightsUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/bub_gb__-K2R4YvE3UC/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "bncfirenze",
+        "europeanlibraries",
+        "fav-floura28zz"
+      ],
+      "matchedUsingTitle": "Théorie mécanique de la chaleur",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5e14d5e58c37",
+    "title": "Essays polltical economical and philosophical",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b28774796_0004",
+      "url": "https://archive.org/details/b28774796_0004",
+      "title": "Essays, political, economical, and philosophical",
+      "creators": [
+        "Rumford, Benjamin, Graf von, 1753-1814. n 79060711"
+      ],
+      "candidateAuthorNames": [
+        "Rumford, Benjamin, Graf von, 1753-1814. n 79060711"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1796,
+      "publisher": "[London] : T. Cadell, Jnr. & W. Davies",
+      "language": "eng",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.978,
+        "basis": [
+          "Title similarity 97%; weighted title-token coverage 95%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Vol. i 1765; vol. ii 1798; vol. iii new ed. 1802; vol. iv [1812] ; ESTC",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Charities",
+        "Fireplaces",
+        "Food",
+        "Heat",
+        "Kitchen utensils",
+        "Poor"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b28774796_0004",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b28774796_0004",
+          "rights": "This work is available under the Creative Commons, Public Domain Mark",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b28774796_0004/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary",
+        "fav-m_a_c_"
+      ],
+      "matchedUsingTitle": "Essays polltical economical and philosophical",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w3e30269da564",
+    "title": "Sulla polarizzazione del magnesio in soluzio ni alcaline",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1007/bf02717713",
+      "url": "https://doi.org/10.1007/bf02717713",
+      "title": "Sulla polarizzazione del magnesio in soluzioni alcaline",
+      "creators": [
+        "Adolfo Campetti"
+      ],
+      "candidateAuthorNames": [
+        "Adolfo Campetti"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1901,
+      "publisher": "Springer Science and Business Media LLC",
+      "language": null,
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Il Nuovo Cimento Series 5 · volume 2 · pages 268-271",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Il Nuovo Cimento Series 5",
+      "volume": "2",
+      "issue": "1",
+      "pages": "268-271",
+      "issn": [
+        "0029-6341",
+        "1827-6121"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Sulla polarizzazione del magnesio in soluzio ni alcaline",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wec8ac86d2ec6",
+    "title": "Kompendium der theoretischen Physik",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "bub_gb_ZGQSAAAAIAAJ",
+      "url": "https://archive.org/details/bub_gb_ZGQSAAAAIAAJ",
+      "title": "Kompendium der theoretischen Physik",
+      "creators": [
+        "Voigt, Woldemar, 1850-1919"
+      ],
+      "candidateAuthorNames": [
+        "Voigt, Woldemar, 1850-1919"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1895,
+      "publisher": "Leipzig, Veit & Co.",
+      "language": "ger",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "1.Bd. Mechanik starrer und nichtstarrer Kor̈per. War̈melehre -- 2.Bd. Elektricität und Magnetismus. Optik ; Mode of access: Internet",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "bub_upload",
+        "Electricity",
+        "Magnetism",
+        "Optics"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/bub_gb_ZGQSAAAAIAAJ",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/bub_gb_ZGQSAAAAIAAJ",
+          "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "rightsUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/bub_gb_ZGQSAAAAIAAJ/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "americana",
+        "fav-swarup_dey"
+      ],
+      "matchedUsingTitle": "Kompendium der theoretischen Physik",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wa4640939bbca",
+    "title": "Histoire de la botanique, de la minéralogie et de la géologie",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b24877840",
+      "url": "https://archive.org/details/b24877840",
+      "title": "Histoire de la botanique, de la minéralogie et de la géologie depuis les temps les plus reculés jusqu'à nos jours",
+      "creators": [
+        "Hoefer, M. (Jean Chrétien Ferdinand), 1811-1878. n 86804206"
+      ],
+      "candidateAuthorNames": [
+        "Hoefer, M. (Jean Chrétien Ferdinand), 1811-1878. n 86804206"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1872,
+      "publisher": "Paris : Hachette",
+      "language": "fre",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.931,
+        "basis": [
+          "Title similarity 91%; weighted title-token coverage 74%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Includes bibliographic references",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Geology"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b24877840",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b24877840",
+          "rights": "This work is available under the Creative Commons, Public Domain Mark",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b24877840/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary",
+        "fav-chelsea03426",
+        "fav-namouko"
+      ],
+      "matchedUsingTitle": "Histoire de la botanique, de la Minéralogîe et de la Géologle depuis les temps les plus reculés jusqulà nos jours",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5c0b8d90e693",
+    "title": "Sulla trasformazione del lavoro meccanlco In elettricità e calore",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1007/bf02718628",
+      "url": "https://doi.org/10.1007/bf02718628",
+      "title": "Sulla trasformazione del lavoro meccanico in elettricita’ e calore",
+      "creators": [
+        "Alberto De Eccher"
+      ],
+      "candidateAuthorNames": [
+        "Alberto De Eccher"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1871,
+      "publisher": "Springer Science and Business Media LLC",
+      "language": null,
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.984,
+        "basis": [
+          "Title similarity 98%; weighted title-token coverage 97%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Il Nuovo Cimento Series 2 · volume 5-6 · pages 99-109",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Il Nuovo Cimento Series 2",
+      "volume": "5-6",
+      "issue": "1",
+      "pages": "99-109",
+      "issn": [
+        "0029-6341",
+        "1827-6121"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Sulla trasformazione del lavoro meccanlco In elettricità e calore",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "we86f7c8d388e",
+    "title": "Lehrbuch der synthetischen Methoden der or ganischen Chemie, fUr Studium und Praxis Lelpzig? Veit & Comp• y (Metzger & Wittig), 1903",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "lehrbuchdersynth00posnuoft",
+      "url": "https://archive.org/details/lehrbuchdersynth00posnuoft",
+      "title": "Lehrbuch der synthetischen Methoden der organischen Chemie für Studium und Praxis",
+      "creators": [
+        "Posner, Theodor"
+      ],
+      "candidateAuthorNames": [
+        "Posner, Theodor"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1903,
+      "publisher": "Leipzig Veit",
+      "language": "ger",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.902,
+        "basis": [
+          "Title similarity 87%; weighted title-token coverage 55%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "14",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Chemistry, Organic"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/lehrbuchdersynth00posnuoft",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/lehrbuchdersynth00posnuoft",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/lehrbuchdersynth00posnuoft/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "gerstein",
+        "toronto",
+        "medicalheritagelibrary",
+        "university_of_toronto",
+        "medicallibrary"
+      ],
+      "matchedUsingTitle": "Lehrbuch der synthetischen Methoden der or ganischen Chemie, fUr Studium und Praxis Lelpzig? Veit & Comp• y (Metzger & Wittig), 1903",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wfcd1dd1b1952",
+    "title": "De principio sulphureo dissertationes quibus mantissae loco accessit dissertatio de aethere. Opus posthumum",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b30513698",
+      "url": "https://archive.org/details/b30513698",
+      "title": "De principio sulphureo dissertationes quibus mantissae loco accessit dissertatio de aethere. Opus posthumum",
+      "creators": [
+        "Guglielmini, Domenico, 1655-1710"
+      ],
+      "candidateAuthorNames": [
+        "Guglielmini, Domenico, 1655-1710"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1710,
+      "publisher": "Venetiis : A. Poleti",
+      "language": "lat",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "12 unnumbered leaves, 423 pages ; (8vo)",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b30513698",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b30513698",
+          "rights": "This work is available under the Creative Commons, Public Domain Mark",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b30513698/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary"
+      ],
+      "matchedUsingTitle": "De principio sulphureo dissertationes quibus mantissae loco accessit dissertatio de aethere. Opus posthumum",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wc4c1974df603",
+    "title": "Histoire élémentaire des minéraux usuels",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "histoirelmentai00reyngoog",
+      "url": "https://archive.org/details/histoirelmentai00reyngoog",
+      "title": "Histoire élémentaire des minéraux usuels",
+      "creators": [
+        "Reynaud, J. (Jean), 1806-1863"
+      ],
+      "candidateAuthorNames": [
+        "Reynaud, J. (Jean), 1806-1863"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1867,
+      "publisher": "Paris, L. Hachette et cie",
+      "language": "fre",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb. ; Series title …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Mineralogy"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/histoirelmentai00reyngoog",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/histoirelmentai00reyngoog",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/histoirelmentai00reyngoog/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "americana"
+      ],
+      "matchedUsingTitle": "Histoire élémentaire des minéraux usuels",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w2e6889e2e8e0",
+    "title": "Caroli Rabbii Bononiensis ... De mathematicarum disciplinarum ad theologiam utilitate ipsarumque in ea usu dissertatio",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "carolirabbiibon00rabbgoog",
+      "url": "https://archive.org/details/carolirabbiibon00rabbgoog",
+      "title": "Caroli Rabbii Bononiensis ... De mathematicarum disciplinarum ad theologiam utilitate ipsarumque in ea usu dissertatio ..",
+      "creators": [
+        "Rabbi, Carlo Costanzo, 1678-1746"
+      ],
+      "candidateAuthorNames": [
+        "Rabbi, Carlo Costanzo, 1678-1746"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1729,
+      "publisher": "Faventiae, apud Josephum Antonium Archium",
+      "language": "ita",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.956,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 73%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb. ; Mode of …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Mathematics",
+        "Theology"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/carolirabbiibon00rabbgoog",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/carolirabbiibon00rabbgoog",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/carolirabbiibon00rabbgoog/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "americana"
+      ],
+      "matchedUsingTitle": "Caroli Rabbii Bononiensis ... De mathematicarum disciplinarum ad theologiam utilitate ipsarumque in ea usu dissertatio",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5cf7ab95eadc",
+    "title": "Geschichte der organischen Naturwlssenschaf im Neunzehnten Jahrhundert",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "geschichtederor00mlgoog",
+      "url": "https://archive.org/details/geschichtederor00mlgoog",
+      "title": "Geschichte der organischen Naturwissenschaften im neunzehnten Jahrhundert",
+      "creators": [
+        "Müller, Frans Carl, 1860-1913"
+      ],
+      "candidateAuthorNames": [
+        "Müller, Frans Carl, 1860-1913"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1902,
+      "publisher": "Berlin : G. Bondi",
+      "language": "ger",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.969,
+        "basis": [
+          "Title similarity 96%; weighted title-token coverage 96%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb. ; xv, …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Medicine -- History",
+        "Zoology -- History",
+        "Botany -- History",
+        "Botany",
+        "Medicine",
+        "Zoology"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/geschichtederor00mlgoog",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/geschichtederor00mlgoog",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/geschichtederor00mlgoog/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "americana"
+      ],
+      "matchedUsingTitle": "Geschichte der organischen Naturwlssenschaf im Neunzehnten Jahrhundert",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w606b75608eb8",
+    "title": "Commentarius in Currum triumphalem antimonii Basilii Valentini",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "theodorikerckrin00basi",
+      "url": "https://archive.org/details/theodorikerckrin00basi",
+      "title": "Theodori Kerckringii doctoris medici Commentarius in Currum triumphalem antimonii Basilii Valentini : à se Latinitate donatum",
+      "creators": [
+        "Basilius Valentinus",
+        "Kerckring, Theodor, 1640-1693",
+        "Hooghe, Romeyn de, 1645-1708"
+      ],
+      "candidateAuthorNames": [
+        "Basilius Valentinus",
+        "Kerckring, Theodor, 1640-1693",
+        "Hooghe, Romeyn de, 1645-1708"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1671,
+      "publisher": "Amstelodami : Sumptibus Andreae Frisii",
+      "language": "lat",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.945,
+        "basis": [
+          "Title similarity 93%; weighted title-token coverage 99%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Signatures: *¹² A-P¹² ; Engraved half-title by Romeyn de Hooghe ; Kerckring's commentary is printed as notes which accompany his translation of Basilius Valentinus' …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Medicine, Medieval",
+        "Antimony",
+        "Alchemy"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/theodorikerckrin00basi",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/theodorikerckrin00basi",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/theodorikerckrin00basi/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "gettyalchemy",
+        "getty",
+        "americana",
+        "fav-19omhs72",
+        "fav-awiw1313",
+        "fav-jdziekan",
+        "fav-jennyng",
+        "fav-pere432",
+        "fav-swswswswsw"
+      ],
+      "matchedUsingTitle": "Theodori Kerckringl commentarius in currum triumphalem antimonii Basilii Valentini, a se latinitate donatum",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w542704699120",
+    "title": "Observationes de aere et morbis epidemicis his accedit Opusculum De morbo colico damnoniensi..Editio secunda veneta",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b30540744",
+      "url": "https://archive.org/details/b30540744",
+      "title": "Observationum de aere et morbis epidemicis ... His accedit Opusculum de morbo colico Damnoniensi ...",
+      "creators": [
+        "Huxham, John, 1692-1768"
+      ],
+      "candidateAuthorNames": [
+        "Huxham, John, 1692-1768"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1773,
+      "publisher": "Venetiis : Apud Laurentium Basilium",
+      "language": "lat",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.906,
+        "basis": [
+          "Title similarity 88%; weighted title-token coverage 68%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "2 volumes in 1 : (8vo)",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Disease Outbreaks",
+        "Colic",
+        "Climate",
+        "Epidemics",
+        "England"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b30540744",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b30540744",
+          "rights": "This work is available under the Creative Commons, Public Domain Mark",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b30540744/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary"
+      ],
+      "matchedUsingTitle": "Observationes de aere et morbis epidemicis his accedit Opusculum De morbo colico damnoniensi..Editio secunda veneta",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w7e4ce9c9d736",
+    "title": "The story of alchemy and the beginnings of chemistry",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b24857452",
+      "url": "https://archive.org/details/b24857452",
+      "title": "The story of alchemy and the beginnings of chemistry",
+      "creators": [
+        "Muir, M. M. Pattison (Matthew Moncrieff Pattison), 1848-1931. n 87805064"
+      ],
+      "candidateAuthorNames": [
+        "Muir, M. M. Pattison (Matthew Moncrieff Pattison), 1848-1931. n 87805064"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1902,
+      "publisher": "London : G. Newnes, ltd.",
+      "language": "eng",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Includes index",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Alchemy",
+        "Chemistry"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b24857452",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b24857452",
+          "rights": "It is possible this Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b24857452/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary",
+        "fav-36m16e",
+        "fav-allinspiring",
+        "fav-atlas_shrug",
+        "fav-bill_kearns",
+        "fav-bonardh",
+        "fav-brandon_leiner966",
+        "fav-bunny33",
+        "fav-criminalgoose",
+        "fav-dinextra",
+        "fav-egyptian_satan",
+        "fav-floura28zz",
+        "fav-gary_weaver564",
+        "fav-ggoniem88",
+        "fav-gulosus",
+        "fav-haci_etinkaya",
+        "fav-heather_traver703",
+        "fav-isabela538",
+        "fav-joeaney",
+        "fav-kiehal",
+        "fav-l_archiviste3",
+        "fav-lilly_belle498",
+        "fav-lrl2",
+        "fav-m_bhaswanth",
+        "fav-makak-ma",
+        "fav-melissa_milligan493",
+        "fav-mirak373",
+        "fav-monicalosangeles",
+        "fav-moresunok",
+        "fav-mosra_lk",
+        "fav-mrs_love725",
+        "fav-oms_kaiser",
+        "fav-piptay123",
+        "fav-s5444",
+        "fav-sara_engstr_m",
+        "fav-sewswithdolls",
+        "fav-swswswswsw",
+        "fav-terry_judge",
+        "fav-the_story_farmer",
+        "fav-toni-hernandez",
+        "fav-valy8851",
+        "fav-yoshiyamadeep",
+        "fav-zack_focker"
+      ],
+      "matchedUsingTitle": "The story of alchemy and the beginnings of chemistry",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w9d032a9bf513",
+    "title": "The theory relativity",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "theoryofrelativi00silbrich",
+      "url": "https://archive.org/details/theoryofrelativi00silbrich",
+      "title": "The theory of relativity",
+      "creators": [
+        "Silberstein, Ludwik, b. 1872"
+      ],
+      "candidateAuthorNames": [
+        "Silberstein, Ludwik, b. 1872"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1914,
+      "publisher": "London : Macmillan",
+      "language": "eng",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.969,
+        "basis": [
+          "Title similarity 96%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "viii, 295 p",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Relativity (Physics)"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/theoryofrelativi00silbrich",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/theoryofrelativi00silbrich",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/theoryofrelativi00silbrich/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "cdl",
+        "americana",
+        "fav-alan_kaiser",
+        "fav-jkdanonymoushouse",
+        "fav-juan_angel_torres",
+        "fav-palingenes",
+        "fav-robert_sutherland643",
+        "fav-sarahsal87"
+      ],
+      "matchedUsingTitle": "The theory relativity",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wde780237aff4",
+    "title": "Dell'azione del caso nelle invenzioni, e dell'influsso, degli astri ne' corpi terrestri dissertazioni due",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b30539419",
+      "url": "https://archive.org/details/b30539419",
+      "title": "Dell'azione del caso nelle invenzioni, e dell'influsso, degli astri ne' corpi terrestri dissertazioni due",
+      "creators": [
+        "Belgrado, Jacopo, 1704-1789"
+      ],
+      "candidateAuthorNames": [
+        "Belgrado, Jacopo, 1704-1789"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1757,
+      "publisher": "Padova : Nella Stamperia del Seminario. Appresso G. Manfrè",
+      "language": "ita",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "2 unnumbered leaves, 220 pages, 2 unnumbered leaves ; (4to)",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Astrology",
+        "Science"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b30539419",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b30539419",
+          "rights": "This work is available under the Creative Commons, Public Domain Mark",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b30539419/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary"
+      ],
+      "matchedUsingTitle": "Dell'azione del caso nelle invenzioni, e dell'influsso, degli astri ne' corpi terrestri dissertazioni due",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w45aa8357dd36",
+    "title": "alla celebre Laura Bassi scritte da illustri Italiani e Stranieri con biograf ia",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "lettereinediteal00bassuoft",
+      "url": "https://archive.org/details/lettereinediteal00bassuoft",
+      "title": "Lettere inedite alla celebre Laura Bassi, scritte da illustri italiani e stranieri. Con Biografia",
+      "creators": [
+        "Bassi, Laura"
+      ],
+      "candidateAuthorNames": [
+        "Bassi, Laura"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1885,
+      "publisher": "Bologna Tip. di G. Cenerelli",
+      "language": "ita",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.963,
+        "basis": [
+          "Title similarity 95%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "14",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Bassi, Laura",
+        "Scientists"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/lettereinediteal00bassuoft",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/lettereinediteal00bassuoft",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/lettereinediteal00bassuoft/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "gerstein",
+        "medicalheritagelibrary",
+        "biodiversity",
+        "toronto",
+        "university_of_toronto",
+        "medicallibrary",
+        "fav-a_lesilio",
+        "fav-pia_noemi_vita"
+      ],
+      "matchedUsingTitle": "alla celebre Laura Bassi scritte da illustri Italiani e Stranieri con biograf ia",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w024c844899c1",
+    "title": "Electricity and magnetism..Fifth Edition",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "electricity-and-magnetism",
+      "url": "https://archive.org/details/electricity-and-magnetism",
+      "title": "Electricity And Magnetism",
+      "creators": [
+        "Jenkin, F."
+      ],
+      "candidateAuthorNames": [
+        "Jenkin, F."
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1880,
+      "publisher": "",
+      "language": "eng",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "high",
+        "score": 0.916,
+        "basis": [
+          "Title similarity 89%; weighted title-token coverage 65%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Electricity and magnetism",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Electricity",
+        "Magnetism"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/electricity-and-magnetism",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/electricity-and-magnetism",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/electricity-and-magnetism/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "opensource"
+      ],
+      "matchedUsingTitle": "Electricity and magnetism..Fifth Edition",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w56ae97a8aca9",
+    "title": "Briefe Ilber Alexander von Humboldt's Kosmos",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "briefeberalexa04cottuoft",
+      "url": "https://archive.org/details/briefeberalexa04cottuoft",
+      "title": "Briefe über Alexander von Humboldt's Kosmos : Ein Commentar zu diesem Werke für gebildete Laien",
+      "creators": [
+        "Cotta, Bernhard von, 1808-1879",
+        "Girard, Heinrich, 1814-1878",
+        "Schaller, Julius, 1810-1868"
+      ],
+      "candidateAuthorNames": [
+        "Cotta, Bernhard von, 1808-1879",
+        "Girard, Heinrich, 1814-1878",
+        "Schaller, Julius, 1810-1868"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1848,
+      "publisher": "Leipzig : T.O. Weigel",
+      "language": "ger",
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "medium",
+        "score": 0.812,
+        "basis": [
+          "Title similarity 75%; weighted title-token coverage 84%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Bibliography: v. 1, p. 341-342 ; 14",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Humboldt, Alexander von, 1769-1859"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/briefeberalexa04cottuoft",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/briefeberalexa04cottuoft",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/briefeberalexa04cottuoft/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "gerstein",
+        "biodiversity",
+        "toronto",
+        "university_of_toronto",
+        "fav-yhonewski"
+      ],
+      "matchedUsingTitle": "Briefe Ilber Alexander von Humboldt's Kosmos",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w2e51e179d406",
+    "title": "Sul calore specifico dei liquidi a pressione costante sotto varie pressioni",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1007/bf02712287",
+      "url": "https://doi.org/10.1007/bf02712287",
+      "title": "Sul calore specifico dei liquidi a pressione costante sotto varie pressioni",
+      "creators": [
+        "S. Lussana"
+      ],
+      "candidateAuthorNames": [
+        "S. Lussana"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1908,
+      "publisher": "Springer Science and Business Media LLC",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.948,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Il Nuovo Cimento Series 5 · volume 16 · pages 456-459",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Il Nuovo Cimento Series 5",
+      "volume": "16",
+      "issue": "1",
+      "pages": "456-459",
+      "issn": [
+        "0029-6341",
+        "1827-6121"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Sul calore specifico dei liquidi a pressione costante sotto varie pressioni",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wd1c2e3163a7d",
+    "title": "Polarographische Untersuchungen an Komplexen in Wäszriger LlJsung",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1002/bbpc.19400460306",
+      "url": "https://doi.org/10.1002/bbpc.19400460306",
+      "title": "Polarographische Untersuchungen an Komplexen in wäszriger Lösung",
+      "creators": [
+        "M. V. Stackelberg",
+        "H. V. Freyhold"
+      ],
+      "candidateAuthorNames": [
+        "M. V. Stackelberg",
+        "H. V. Freyhold"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1940,
+      "publisher": "Wiley",
+      "language": null,
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "medium",
+        "score": 0.951,
+        "basis": [
+          "Title similarity 93%; weighted title-token coverage 86%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Elektrochemie und angewandte physikalische Chemie · volume 46 · pages 120-129",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Elektrochemie und angewandte physikalische Chemie",
+      "volume": "46",
+      "issue": "3",
+      "pages": "120-129",
+      "issn": [
+        "0372-8323"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Polarographische Untersuchungen an Komplexen in Wäszriger LlJsung",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w037d907f2554",
+    "title": "Der Zerfall von Schwefeltrioxy.d an Quarzglas",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1912-0114",
+      "url": "https://doi.org/10.1515/zpch-1912-0114",
+      "title": "Der Zerfall von Schwefeltrioxyd an Quarzglas",
+      "creators": [
+        "Max Bodenstein",
+        "Franz Kranendieck"
+      ],
+      "candidateAuthorNames": [
+        "Max Bodenstein",
+        "Franz Kranendieck"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1912,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.927,
+        "basis": [
+          "Title similarity 97%; weighted title-token coverage 97%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 80",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "80",
+      "issue": "1",
+      "pages": null,
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Der Zerfall von Schwefeltrioxy.d an Quarzglas",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w916098ea16da",
+    "title": "Ueber die Dissociation einer im Gleichgewichte befindlichen Verbindung und Uber eine fUr die GUltigkeit des Gesetzes der konstanten Proportlonen notwendige thermodynamlsche",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1908-0122",
+      "url": "https://doi.org/10.1515/zpch-1908-0122",
+      "title": "Über die Dissociation einer im Gleichgewichte befindlichen Verbindung und über eine für die Gültigkeit des Gesetzes der konstanten Proportionen notwendige thermodynamische Beziehung",
+      "creators": [
+        "Rudolf Ruer"
+      ],
+      "candidateAuthorNames": [
+        "Rudolf Ruer"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1908,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.895,
+        "basis": [
+          "Title similarity 93%; weighted title-token coverage 86%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 64",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "64",
+      "issue": "1",
+      "pages": null,
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Ueber die Dissociation einer im Gleichgewichte befindlichen Verbindung und Uber eine fUr die GUltigkeit des Gesetzes der konstanten Proportlonen notwendige thermodynamlsche",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w15c1222188ea",
+    "title": "Cross-reference: Vedi BOTDEN, Th. P.J. and KRÖGER, F.A Energy Transfer in Tungstates and Molybdates activated with 8amarium",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1016/0031-8914(49)90080-4",
+      "url": "https://doi.org/10.1016/0031-8914(49)90080-4",
+      "title": "Energy transfer in tungstates and molybdates activated with samarium",
+      "creators": [
+        "Th.P.J. Botden",
+        "F.A. Kröger"
+      ],
+      "candidateAuthorNames": [
+        "Th.P.J. Botden",
+        "F.A. Kröger"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1949,
+      "publisher": "Elsevier BV",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.846,
+        "basis": [
+          "Title similarity 87%; weighted title-token coverage 66%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Physica · volume 15 · pages 747-768",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Physica",
+      "volume": "15",
+      "issue": "8-9",
+      "pages": "747-768",
+      "issn": [
+        "0031-8914"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Vedi BOTDEN, Th. P.J. and KRÖGER, F.A Energy Transfer in Tungstates and Molybdates activated with 8amarium",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wcded97c5ad7b",
+    "title": "Dissertationes physico-medico-cknymicae curiosae selectiores",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "bub_gb_1hXvtaeIR4MC",
+      "url": "https://archive.org/details/bub_gb_1hXvtaeIR4MC",
+      "title": "Dissertationes physico-medico-chymicae curiosae selectiores ad systema in medicina rationali traditum exactae, et ad sanitatem tuendam maxime pertinentes",
+      "creators": [
+        "Hoffmann, Friedrich, 1660-1742"
+      ],
+      "candidateAuthorNames": [
+        "Hoffmann, Friedrich, 1660-1742"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1737,
+      "publisher": "Venetiis : Ex 'Typographia Balleoniana,'",
+      "language": "lat",
+      "editionRelation": "Different publication year: reference 1737, catalogue 1735",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 2,
+      "confidence": {
+        "level": "medium",
+        "score": 0.728,
+        "basis": [
+          "Title similarity 71%; weighted title-token coverage 87%",
+          "Creator identity could not be compared",
+          "Publication years differ by 2 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "12 unnumbered pages, 547 pages ; (4to) ; Printed in double columns",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "bub_upload",
+        "Medicine"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/bub_gb_1hXvtaeIR4MC",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/bub_gb_1hXvtaeIR4MC",
+          "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "rightsUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/bub_gb_1hXvtaeIR4MC/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "europeanlibraries"
+      ],
+      "matchedUsingTitle": "Dissertationes physico-medico-cknymicae curiosae selectiores",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5f97333ad43b",
+    "title": "Zur chemischen Kinetik des Diazoessigesters",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1907-0110",
+      "url": "https://doi.org/10.1515/zpch-1907-0110",
+      "title": "Zur chemischen Kinetik des Diazoessigesters",
+      "creators": [
+        "W. Fraenkel"
+      ],
+      "candidateAuthorNames": [
+        "W. Fraenkel"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1907,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.948,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 60",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "60",
+      "issue": "1",
+      "pages": null,
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Zur chemischen Kinetik des Diazoessigesters",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w55112fd91f33",
+    "title": "Beitrage zur Kenntnis der Halogensauerstoff verbindungen und II",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1906-5423",
+      "url": "https://doi.org/10.1515/zpch-1906-5423",
+      "title": "Beiträge zur Kenntnis der Halogensauerstoffverbindungen. I. und II.",
+      "creators": [
+        "William Bray"
+      ],
+      "candidateAuthorNames": [
+        "William Bray"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1906,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.941,
+        "basis": [
+          "Title similarity 99%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 54U · pages 463-497",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "54U",
+      "issue": "1",
+      "pages": "463-497",
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Beitrage zur Kenntnis der Halogensauerstoff verbindungen und II",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w65b2ee711701",
+    "title": "Reines Silicium",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1002/zaac.19562830138",
+      "url": "https://doi.org/10.1002/zaac.19562830138",
+      "title": "Reines Silicium",
+      "creators": [
+        "H. von Wartenberg"
+      ],
+      "candidateAuthorNames": [
+        "H. von Wartenberg"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1956,
+      "publisher": "Wiley",
+      "language": null,
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "medium",
+        "score": 1.0,
+        "basis": [
+          "Title similarity 100%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für anorganische und allgemeine Chemie · volume 283 · pages 372-376",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für anorganische und allgemeine Chemie",
+      "volume": "283",
+      "issue": "1-6",
+      "pages": "372-376",
+      "issn": [
+        "0044-2313",
+        "1521-3749"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Reines Silicium",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w86d6dfc6c928",
+    "title": "Meteorologische Untersuchungen",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1002/andp.18270871203",
+      "url": "https://doi.org/10.1002/andp.18270871203",
+      "title": "Einige meteorologische Untersuchungen über den Wind",
+      "creators": [
+        "H. W. Dove"
+      ],
+      "candidateAuthorNames": [
+        "H. W. Dove"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1827,
+      "publisher": "Wiley",
+      "language": null,
+      "editionRelation": "Different publication year: reference 1827, catalogue 1837",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 10,
+      "confidence": {
+        "level": "medium",
+        "score": 0.853,
+        "basis": [
+          "Title similarity 84%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 10 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Annalen der Physik · volume 87 · pages 545-590",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Annalen der Physik",
+      "volume": "87",
+      "issue": "12",
+      "pages": "545-590",
+      "issn": [
+        "0003-3804",
+        "1521-3889"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Meteorologische Untersuchungen",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5a65e16f4273",
+    "title": "Les merveilles de la Sclence ou Description populaire des inventions modernes",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "bub_gb_MzQVAAAAQAAJ",
+      "url": "https://archive.org/details/bub_gb_MzQVAAAAQAAJ",
+      "title": "Les merveilles de la science, ou Description populaire des inventions modernes",
+      "creators": [
+        "Figuier, Louis, 1819-1894"
+      ],
+      "candidateAuthorNames": [
+        "Figuier, Louis, 1819-1894"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1867,
+      "publisher": "Paris : Furne, Jouvet et Cie.",
+      "language": "fre",
+      "editionRelation": "Different publication year: reference 1867, catalogue 1869",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 2,
+      "confidence": {
+        "level": "medium",
+        "score": 0.934,
+        "basis": [
+          "Title similarity 92%; weighted title-token coverage 71%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 2 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "6 volumes : 29 cm ; Vols. 5-6 are 1891 supplement v. 1-2, and v. 5 has subtitle: Description des inventions scientifiques depuis 1870 …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "bub_upload",
+        "Inventions",
+        "Industrial arts -- History",
+        "Science",
+        "Technology",
+        "Engineering",
+        "Découvertes scientifiques",
+        "Industrial arts"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/bub_gb_MzQVAAAAQAAJ",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/bub_gb_MzQVAAAAQAAJ",
+          "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "rightsUrl": "http://creativecommons.org/publicdomain/mark/1.0/",
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/bub_gb_MzQVAAAAQAAJ/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "europeanlibraries",
+        "fav-paruline",
+        "fav-sternocleidomastoid",
+        "fav-vectoralia"
+      ],
+      "matchedUsingTitle": "Les merveilles de la Sclence ou Description populaire des inventions modernes",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w828868ec743a",
+    "title": "Die Leitfähigkeit und innere Reibung von LlSsunge gewisser Salze in Wasser Methylalko.=",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1908-0149",
+      "url": "https://doi.org/10.1515/zpch-1908-0149",
+      "title": "Die Leitfähigkeit und innere Reibung von Lösungen gewisser Salze in Wasser, Methylalkohol, Äthylalkohol, Aceton und binären Gemischen dieser Lösungsmittel",
+      "creators": [
+        "Harry C. Jones",
+        "W. R. Veazey"
+      ],
+      "candidateAuthorNames": [
+        "Harry C. Jones",
+        "W. R. Veazey"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1908,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Different publication year: reference 1908, catalogue 1907",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 1,
+      "confidence": {
+        "level": "medium",
+        "score": 0.805,
+        "basis": [
+          "Title similarity 75%; weighted title-token coverage 81%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 1 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 61",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "61",
+      "issue": "1",
+      "pages": null,
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Die Leitfähigkeit und innere Reibung von LlSsunge gewisser Salze in Wasser Methylalko.=",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "web246f187012",
+    "title": "ou composés cité dans le traité de chimie minérale",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "traitdechimiemi03guicgoog",
+      "url": "https://archive.org/details/traitdechimiemi03guicgoog",
+      "title": "Traité de chimie minérale",
+      "creators": [
+        "Moissan, Henri, 1852-1907",
+        "Guichard, Marcel, b. 1873"
+      ],
+      "candidateAuthorNames": [
+        "Moissan, Henri, 1852-1907",
+        "Guichard, Marcel, b. 1873"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1904,
+      "publisher": "Paris, Masson et cie",
+      "language": "fre",
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.773,
+        "basis": [
+          "Title similarity 83%; weighted title-token coverage 52%",
+          "Creator identity could not be compared",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb. ; t. 1.-2. Metalloïdes.--t. …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Chemistry, Inorganic"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/traitdechimiemi03guicgoog",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/traitdechimiemi03guicgoog",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/traitdechimiemi03guicgoog/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "americana"
+      ],
+      "matchedUsingTitle": "ou composés cité dans le traité de chimie minérale",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wff841e311300",
+    "title": "Die Fluoritphase im System ThO -Y O",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1002/zaac.19522670403",
+      "url": "https://doi.org/10.1002/zaac.19522670403",
+      "title": "Die Fluoritphase im System U<sub>3</sub>O<sub>8</sub>Er<sub>2</sub>O<sub>3</sub>. (Mit 2 Abbildungen)",
+      "creators": [
+        "F. Hund",
+        "U. Peetz"
+      ],
+      "candidateAuthorNames": [
+        "F. Hund",
+        "U. Peetz"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1952,
+      "publisher": "Wiley",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.808,
+        "basis": [
+          "Title similarity 82%; weighted title-token coverage 66%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für anorganische und allgemeine Chemie · volume 267 · pages 189-197",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für anorganische und allgemeine Chemie",
+      "volume": "267",
+      "issue": "4-5",
+      "pages": "189-197",
+      "issn": [
+        "0044-2313",
+        "1521-3749"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Die Fluoritphase im System ThO -Y O",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w64e131884727",
+    "title": "Irreversible Thermodynamics of Steady-State Processes",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1103/revmodphys.31.1017",
+      "url": "https://doi.org/10.1103/revmodphys.31.1017",
+      "title": "Irreversible Thermodynamics of Nonlinear Processes and Noise in Driven Systems",
+      "creators": [
+        "WILLIAM BERNARD",
+        "HERBERT B. CALLEN"
+      ],
+      "candidateAuthorNames": [
+        "WILLIAM BERNARD",
+        "HERBERT B. CALLEN"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1959,
+      "publisher": "American Physical Society (APS)",
+      "language": null,
+      "editionRelation": "Different publication year: reference 1959, catalogue 1962",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 3,
+      "confidence": {
+        "level": "medium",
+        "score": 0.751,
+        "basis": [
+          "Title similarity 71%; weighted title-token coverage 63%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 3 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Reviews of Modern Physics · volume 31 · pages 1017-1044",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Reviews of Modern Physics",
+      "volume": "31",
+      "issue": "4",
+      "pages": "1017-1044",
+      "issn": [
+        "0034-6861"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Irreversible Thermodynamics of Steady-State Processes",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wcb6bbc466c3e",
+    "title": "Ueber Losungsausdehnung bei Ammoniaks&lzen und bei Natriumhyposulfit",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1896-2123",
+      "url": "https://doi.org/10.1515/zpch-1896-2123",
+      "title": "Ueber Lösungsausdehnung bei Ammoniaksalzen und bei Natriumhyposulfit",
+      "creators": [
+        "Hugo Schiff",
+        "U. Monsacchi"
+      ],
+      "candidateAuthorNames": [
+        "Hugo Schiff",
+        "U. Monsacchi"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1896,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.856,
+        "basis": [
+          "Title similarity 88%; weighted title-token coverage 59%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 21U · pages 277-296",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "21U",
+      "issue": "1",
+      "pages": "277-296",
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Ueber Losungsausdehnung bei Ammoniaks&lzen und bei Natriumhyposulfit",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w2aab6bbb995e",
+    "title": "Experimentelle Untersuchungen uber die thermische Ausdehnung von Salzlosungen",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1895-1831",
+      "url": "https://doi.org/10.1515/zpch-1895-1831",
+      "title": "Experimentelle Untersuchungen über die thermische Ausdehnung von Salzlösungen",
+      "creators": [
+        "S. De Lannoy"
+      ],
+      "candidateAuthorNames": [
+        "S. De Lannoy"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1895,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Different publication year: reference 1895, catalogue 1894",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 1,
+      "confidence": {
+        "level": "medium",
+        "score": 0.939,
+        "basis": [
+          "Title similarity 94%; weighted title-token coverage 78%",
+          "Creator identity could not be compared",
+          "Publication years differ by 1 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 18U · pages 443-472",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "18U",
+      "issue": "1",
+      "pages": "443-472",
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Experimentelle Untersuchungen uber die thermische Ausdehnung von Salzlosungen",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w3ee13c4e6fc1",
+    "title": "Cross-reference: Vedi PE14NING, F.M. and MOUBIS, J.H.A On the Normal Cathode Fall in Neon (III.B. Misc. 593/22)",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1016/0031-8914(49)90077-4",
+      "url": "https://doi.org/10.1016/0031-8914(49)90077-4",
+      "title": "On the normal cathode fall in neon",
+      "creators": [
+        "F.M. Penning",
+        "J.H.A. Moubis"
+      ],
+      "candidateAuthorNames": [
+        "F.M. Penning",
+        "J.H.A. Moubis"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1949,
+      "publisher": "Elsevier BV",
+      "language": null,
+      "editionRelation": "Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": null,
+      "confidence": {
+        "level": "medium",
+        "score": 0.741,
+        "basis": [
+          "Title similarity 73%; weighted title-token coverage 38%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Physica · volume 15 · pages 721-732",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Physica",
+      "volume": "15",
+      "issue": "8-9",
+      "pages": "721-732",
+      "issn": [
+        "0031-8914"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Vedi PE14NING, F.M. and MOUBIS, J.H.A On the Normal Cathode Fall in Neon (III.B. Misc. 593/22)",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w51e5c5ae4373",
+    "title": "The Weak Ferromagnetism Believed to be present In a-Fe O and Other Antif erromagnetic Compounds",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1016/0031-8914(50)90031-0",
+      "url": "https://doi.org/10.1016/0031-8914(50)90031-0",
+      "title": "The weak ferromagnetism believed to be present in α-Fe2O3 and other antiferromagnetic compounds",
+      "creators": [
+        "J.L. Snoek"
+      ],
+      "candidateAuthorNames": [
+        "J.L. Snoek"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1950,
+      "publisher": "Elsevier BV",
+      "language": null,
+      "editionRelation": "Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "medium",
+        "score": 0.965,
+        "basis": [
+          "Title similarity 95%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Physica · volume 16 · pages 333-335",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Physica",
+      "volume": "16",
+      "issue": "3",
+      "pages": "333-335",
+      "issn": [
+        "0031-8914"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "The Weak Ferromagnetism Believed to be present In a-Fe O and Other Antif erromagnetic Compounds",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5b6ee17ec353",
+    "title": "Le forze elettromotrici di pile a diversi sali mercuriosl e cuprici Nota 2'",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1007/bf02713005",
+      "url": "https://doi.org/10.1007/bf02713005",
+      "title": "Le f. e. m. di pile a diversi sali mercurosi e guprici e di contatto di soluzione di varia concentrazione e temperatura",
+      "creators": [
+        "A. Mauri",
+        "V. Spagnuolo"
+      ],
+      "candidateAuthorNames": [
+        "A. Mauri",
+        "V. Spagnuolo"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1898,
+      "publisher": "Springer Science and Business Media LLC",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Different publication year: reference 1898, catalogue 1897",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 1,
+      "confidence": {
+        "level": "low",
+        "score": 0.652,
+        "basis": [
+          "Title similarity 55%; weighted title-token coverage 44%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 1 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Il Nuovo Cimento · volume 7 · pages 196-197",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Il Nuovo Cimento",
+      "volume": "7",
+      "issue": "1",
+      "pages": "196-197",
+      "issn": [
+        "0029-6341",
+        "1827-6121"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Le forze elettromotrici di pile a diversi sali mercuriosl e cuprici Nota 2'",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w63f9138774dc",
+    "title": "Einf uhrung în die Chemische Thermodynamik",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1524/zpch.1962.33.5_6.404",
+      "url": "https://doi.org/10.1524/zpch.1962.33.5_6.404",
+      "title": "Einführung in die chemische Thermodynamik",
+      "creators": [
+        "H. G. Hertz"
+      ],
+      "candidateAuthorNames": [
+        "H. G. Hertz"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1962,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1962, catalogue 1949",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 13,
+      "confidence": {
+        "level": "low",
+        "score": 0.734,
+        "basis": [
+          "Title similarity 93%; weighted title-token coverage 74%",
+          "Creator-name overlap 0%",
+          "Publication years differ by 13 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 33 · pages 404-405",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "33",
+      "issue": "5_6",
+      "pages": "404-405",
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Einf uhrung în die Chemische Thermodynamik",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w703d9be43374",
+    "title": "Hermann von Helmholtz. Dritter Band Mit vier Bildnissen und einem Brieffacsimil Braunschweig? Friedrich Vieweg und Sohn, 1903",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "possible book review or bibliographic notice",
+      "externalId": "10.1002/bbpc.19030092407",
+      "url": "https://doi.org/10.1002/bbpc.19030092407",
+      "title": "Hermann von L. Königsberger. Drei Bände mit sieben Bildnissen und einem Brieffaksimile, XII und 373, XIV und 383, X und 142 Seiten. Preis geb. 25 Mk., in Leinwand geb. 25 Mk., in Halbfranz‐band 31 Mk. Verlag von Fr. Vieweg &amp;Sohn, Braunschweig 1902/03",
+      "creators": [],
+      "candidateAuthorNames": [],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1903,
+      "publisher": "Wiley",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Possible book review or bibliographic notice, not the book edition itself. Work identity uncertain. Same stated year; edition still unverified",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "low",
+        "score": 0.512,
+        "basis": [
+          "Title similarity 57%; weighted title-token coverage 55%",
+          "Creator identity could not be compared",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Elektrochemie · volume 9 · pages 504-505",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Elektrochemie",
+      "volume": "9",
+      "issue": "24",
+      "pages": "504-505",
+      "issn": [
+        "2367-1491"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Hermann von Helmholtz. Dritter Band Mit vier Bildnissen und einem Brieffacsimil Braunschweig? Friedrich Vieweg und Sohn, 1903",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wdba38b9d3ca9",
+    "title": "Conf érences scientifiques et alloeutions. Tra duites et annotées sur la deuxième Edition par P. Lugol",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "conferences-scientifiques-et-allocutions",
+      "url": "https://archive.org/details/conferences-scientifiques-et-allocutions",
+      "title": "Conférences Scientifiques Et Allocutions",
+      "creators": [
+        "Thomson, William"
+      ],
+      "candidateAuthorNames": [
+        "Thomson, William"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1893,
+      "publisher": "",
+      "language": "fre",
+      "editionRelation": "Low-confidence candidate. Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "low",
+        "score": 0.749,
+        "basis": [
+          "Title similarity 67%; weighted title-token coverage 26%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Conférences scientifiques et allocutions",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Physics"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/conferences-scientifiques-et-allocutions",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/conferences-scientifiques-et-allocutions",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/conferences-scientifiques-et-allocutions/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "booksbylanguage_french",
+        "booksbylanguage"
+      ],
+      "matchedUsingTitle": "Conf érences scientifiques et alloeutions. Tra duites et annotées sur la deuxième Edition par P. Lugol",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w5a5361553a1a",
+    "title": "Nouveau Manuel complet de Galvanoplastie Nouvelle Edition entièrement ref ondue",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "BIUSante_34003x02",
+      "url": "https://archive.org/details/BIUSante_34003x02",
+      "title": "Histoire naturelle du genre humain ; nouvelle édition augmentée et entièrement refondue avec figures. Tome second",
+      "creators": [
+        "Virey, J.J."
+      ],
+      "candidateAuthorNames": [
+        "Virey, J.J."
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1824,
+      "publisher": "Paris : Crochard",
+      "language": "French",
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1824, catalogue 1873",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 49,
+      "confidence": {
+        "level": "low",
+        "score": 0.505,
+        "basis": [
+          "Title similarity 56%; weighted title-token coverage 45%",
+          "Creator identity could not be compared",
+          "Publication years differ by 49 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Available at the Bibliothèque interuniversitaire de santé (Paris). See this resource in Medica digital library : 34003x02 .",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Divers"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/BIUSante_34003x02",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/BIUSante_34003x02",
+          "rights": "Licence ouverte / Open licence Etalab",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/BIUSante_34003x02/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "bibliothequeinteruniversitairedesante",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "patron-schools-colleges-university-libraries",
+        "patron-library-collection"
+      ],
+      "matchedUsingTitle": "Nouveau Manuel complet de Galvanoplastie Nouvelle Edition entièrement ref ondue",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w785754b1baaf",
+    "title": "A kinetic theory of gases and liquids First Edition",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1524/zpch.1961.29.1_2.143a",
+      "url": "https://doi.org/10.1524/zpch.1961.29.1_2.143a",
+      "title": "Elements of the Kinetic Theory of Gases.",
+      "creators": [],
+      "candidateAuthorNames": [],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1961,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1961, catalogue 1920",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 41,
+      "confidence": {
+        "level": "low",
+        "score": 0.484,
+        "basis": [
+          "Title similarity 63%; weighted title-token coverage 61%",
+          "Creator identity could not be compared",
+          "Publication years differ by 41 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 29 · pages 143-144",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "29",
+      "issue": "1_2",
+      "pages": "143-144",
+      "issn": [
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "A kinetic theory of gases and liquids First Edition",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w56af91d57737",
+    "title": "Die Farbe der Jonen Leipzigg Bei S. Hirzel, 1892",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1892-0947",
+      "url": "https://doi.org/10.1515/zpch-1892-0947",
+      "title": "Über die Farbe der Ionen",
+      "creators": [
+        "W. Ostwald"
+      ],
+      "candidateAuthorNames": [
+        "W. Ostwald"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1892,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "low",
+        "score": 0.763,
+        "basis": [
+          "Title similarity 69%; weighted title-token coverage 56%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 9U · pages 579-602",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "9U",
+      "issue": "1",
+      "pages": "579-602",
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Die Farbe der Jonen Leipzigg Bei S. Hirzel, 1892",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w663f55bda931",
+    "title": "Esposizione di una macchina a mercurio o argento vivo",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "b30762947",
+      "url": "https://archive.org/details/b30762947",
+      "title": "[Diaskepsis] physiologica, de mercurio minerali seu argento vivo",
+      "creators": [
+        "Dettinger, Johann"
+      ],
+      "candidateAuthorNames": [
+        "Dettinger, Johann"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1658,
+      "publisher": "Tübingen : G. Kerner",
+      "language": "lat",
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1658, catalogue 1827",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 169,
+      "confidence": {
+        "level": "low",
+        "score": 0.533,
+        "basis": [
+          "Title similarity 59%; weighted title-token coverage 60%",
+          "Creator identity could not be compared",
+          "Publication years differ by 169 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "16 pages ; (4to) ; Tübingen",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/b30762947",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/b30762947",
+          "rights": "This work is available under the Creative Commons, Public Domain Mark",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/b30762947/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "wellcomelibrary",
+        "ukmhl",
+        "medicalheritagelibrary",
+        "europeanlibraries",
+        "medicallibrary"
+      ],
+      "matchedUsingTitle": "Esposizione di una macchina a mercurio o argento vivo",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w137fd8c356e3",
+    "title": "Essais de chythie sur la chaux vive avec un Supplément sur les ElémeDts: Traduits de I*A lemand",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "BIUSante_pharma_res011301x02",
+      "url": "https://archive.org/details/BIUSante_pharma_res011301x02",
+      "title": "Essais de chymie, sur la chaux vive, la matiere elastique et electrique, le feu, et l'acide universel primitif; avec un supplément sur les eléments: traduits de l'allemand de M. Frederich Meyer, apothicaire à Osnabruck. Par M. P. F. Dreux, ancien apothicaire aide-major des armées du Roi en Allemagne. Tome second",
+      "creators": [
+        "Meyer, Johann Friedrich"
+      ],
+      "candidateAuthorNames": [
+        "Meyer, Johann Friedrich"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1766,
+      "publisher": "A Paris, chez G. Cavelier, libraire, rue Saint Jacques, au Lys d'or. M. DCC. LXVI. Avec approbation & privilege du Roi . De l'imprimerie de L. F. Delatour. 1766",
+      "language": "French",
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Same stated year; edition still unverified",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "low",
+        "score": 0.616,
+        "basis": [
+          "Title similarity 56%; weighted title-token coverage 66%",
+          "Creator identity could not be compared",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Reliure avec l'emblème du collège du collège de pharmacie de Paris et la devise \"Versantur his tribus\". Available at the Bibliothèque interuniversitaire de santé …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Bibliothèque du Collège de pharmacie"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/BIUSante_pharma_res011301x02",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/BIUSante_pharma_res011301x02",
+          "rights": "Licence ouverte / Open licence Etalab",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/BIUSante_pharma_res011301x02/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "bibliothequeinteruniversitairedesante",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "patron-schools-colleges-university-libraries",
+        "patron-library-collection",
+        "fav-19omhs72"
+      ],
+      "matchedUsingTitle": "Essais de chythie sur la chaux vive avec un Supplément sur les ElémeDts: Traduits de I*A lemand",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w26b546d70df3",
+    "title": "Pharmacopoea spagyrica, sive exacta descritio. Pars prima Amsterodami, Apud Joannem Janssonium, 1654",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "BIUSante_pharma_011103x01",
+      "url": "https://archive.org/details/BIUSante_pharma_011103x01",
+      "title": "Pharmacopoea Spagyrica, sive exacta descriptio, qua ratione ex vegetabilibus, animalibus & mineralibus, modo haud usitato faciliorique, utilia, efficacia, & penetrantia medicamenta fieri praepararique possint. Pars prima[-septima et prima appendix]. In usum afflictissimi generis humani in lucem prolata, per Joannem Rudolphum Glauberum.",
+      "creators": [
+        "Glauber, Johann Rudolph"
+      ],
+      "candidateAuthorNames": [
+        "Glauber, Johann Rudolph"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1654,
+      "publisher": "Amstelodami : apud Joannem Janssonium M DC LIV[-XIX].",
+      "language": "Latin",
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Same stated year; edition still unverified",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "low",
+        "score": 0.641,
+        "basis": [
+          "Title similarity 53%; weighted title-token coverage 76%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Recueil factice de quatre pièces de Johann Rudolph Glauber. Table des matières ms. au début de l'ouvrage. - Ex-dono \"Magistri Gillet 1764\" au contre-plat …",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Bibliothèque du Collège de pharmacie"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/BIUSante_pharma_011103x01",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/BIUSante_pharma_011103x01",
+          "rights": "Licence ouverte / Open licence Etalab",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/BIUSante_pharma_011103x01/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "bibliothequeinteruniversitairedesante",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "patron-schools-colleges-university-libraries",
+        "patron-library-collection",
+        "fav-daniil_nikel",
+        "fav-george854",
+        "fav-nicodemus9"
+      ],
+      "matchedUsingTitle": "Pharmacopoea spagyrica, sive exacta descritio. Pars prima Amsterodami, Apud Joannem Janssonium, 1654",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wd41f42091364",
+    "title": "Alkaline storage batteries",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1149/1.2429911",
+      "url": "https://doi.org/10.1149/1.2429911",
+      "title": "Storage Batteries",
+      "creators": [
+        "George Wood Vinal",
+        "John J. Lander"
+      ],
+      "candidateAuthorNames": [
+        "George Wood Vinal",
+        "John J. Lander"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1955,
+      "publisher": "The Electrochemical Society",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1955, catalogue 1969",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 14,
+      "confidence": {
+        "level": "low",
+        "score": 0.709,
+        "basis": [
+          "Title similarity 90%; weighted title-token coverage 68%",
+          "Creator-name overlap 0%",
+          "Publication years differ by 14 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Journal of The Electrochemical Society · volume 102 · pages 256C",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Journal of The Electrochemical Society",
+      "volume": "102",
+      "issue": "10",
+      "pages": "256C",
+      "issn": [
+        "0013-4651"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Alkaline storage batteries",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wd8b163116f95",
+    "title": "Cross-reference: Vedi RABINOIYITCH, E. and IYOOD, IY Kinetics of Recombination of Bromlne-AtomsII (III.B. Misc. 527/11)",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1021/j100828a015",
+      "url": "https://doi.org/10.1021/j100828a015",
+      "title": "KINETICS OF HYDROGEN ATOM RECOMBINATION ON SURFACES<sup>1</sup>",
+      "creators": [
+        "Bernard J. Wood",
+        "Henry Wise"
+      ],
+      "candidateAuthorNames": [
+        "Bernard J. Wood",
+        "Henry Wise"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1961,
+      "publisher": "American Chemical Society (ACS)",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": null,
+      "confidence": {
+        "level": "low",
+        "score": 0.562,
+        "basis": [
+          "Title similarity 49%; weighted title-token coverage 25%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: The Journal of Physical Chemistry · volume 65 · pages 1976-1983",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "The Journal of Physical Chemistry",
+      "volume": "65",
+      "issue": "11",
+      "pages": "1976-1983",
+      "issn": [
+        "0022-3654",
+        "1541-5740"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Vedi RABINOIYITCH, E. and IYOOD, IY Kinetics of Recombination of Bromlne-AtomsII (III.B. Misc. 527/11)",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w9f45ce60d9b1",
+    "title": "Soluzioni solide e miscele isomorfe",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1515/zpch-1927-0153",
+      "url": "https://doi.org/10.1515/zpch-1927-0153",
+      "title": "Soluzioni solide fra composti di elementi a valenza diversa",
+      "creators": [
+        "G. Bruni",
+        "A. Ferrari"
+      ],
+      "candidateAuthorNames": [
+        "G. Bruni",
+        "A. Ferrari"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1927,
+      "publisher": "Walter de Gruyter GmbH",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1927, catalogue 1900",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 27,
+      "confidence": {
+        "level": "low",
+        "score": 0.606,
+        "basis": [
+          "Title similarity 55%; weighted title-token coverage 52%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 27 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für Physikalische Chemie · volume 130",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für Physikalische Chemie",
+      "volume": "130",
+      "issue": "1",
+      "pages": null,
+      "issn": [
+        "2196-7156",
+        "0942-9352"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Soluzioni solide e miscele isomorfe",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w316fa52a82f9",
+    "title": "theory? methods, and applications. Edited by",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1021/ja01613a115",
+      "url": "https://doi.org/10.1021/ja01613a115",
+      "title": "New Instrumental Methods in Electrochemistry. Theory Instrumentation and Applications to Analytical and Physical Chemistry.",
+      "creators": [
+        "Pierre Van Rysselberghe"
+      ],
+      "candidateAuthorNames": [
+        "Pierre Van Rysselberghe"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1955,
+      "publisher": "American Chemical Society (ACS)",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1955, catalogue 1959",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 4,
+      "confidence": {
+        "level": "low",
+        "score": 0.602,
+        "basis": [
+          "Title similarity 59%; weighted title-token coverage 70%",
+          "Creator identity could not be compared",
+          "Publication years differ by 4 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Journal of the American Chemical Society · volume 77 · pages 2349-2350",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Journal of the American Chemical Society",
+      "volume": "77",
+      "issue": "8",
+      "pages": "2349-2350",
+      "issn": [
+        "0002-7863",
+        "1520-5126"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "theory? methods, and applications. Edited by",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "we6568c8df94d",
+    "title": "Kupf er",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1002/zaac.19512660111",
+      "url": "https://doi.org/10.1002/zaac.19512660111",
+      "title": "Über die Lösung von Kupfer in Salpetersäure. II",
+      "creators": [
+        "T. G. Owe Berg"
+      ],
+      "candidateAuthorNames": [
+        "T. G. Owe Berg"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1951,
+      "publisher": "Wiley",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Different publication year: reference 1951, catalogue 1941",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 10,
+      "confidence": {
+        "level": "low",
+        "score": 0.73,
+        "basis": [
+          "Title similarity 68%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 10 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Article metadata: Zeitschrift für anorganische und allgemeine Chemie · volume 266 · pages 118-129",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Zeitschrift für anorganische und allgemeine Chemie",
+      "volume": "266",
+      "issue": "1-3",
+      "pages": "118-129",
+      "issn": [
+        "0044-2313",
+        "1521-3749"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Kupf er",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w9e6446ef1045",
+    "title": "Cross-reference: Vedi NIKITINE, S. et EL KOMOSS, Théorie des pert urbat ions dans I ' approximation du modèle métallique",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1051/jphysrad:01954001506053600",
+      "url": "https://doi.org/10.1051/jphysrad:01954001506053600",
+      "title": "Calcul du spectre d'absorption de quelques colorants dans l'approximation du modèle métallique tenant compte des ramifications des chaines métalliques",
+      "creators": [
+        "S. Nikitine",
+        "S.G. El Komoss"
+      ],
+      "candidateAuthorNames": [
+        "S. Nikitine",
+        "S.G. El Komoss"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1954,
+      "publisher": "EDP Sciences",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Edition comparison incomplete; one or both publication dates missing",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": null,
+      "confidence": {
+        "level": "low",
+        "score": 0.583,
+        "basis": [
+          "Title similarity 52%; weighted title-token coverage 36%",
+          "Creator-name overlap 100%",
+          "A publication year is missing",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Journal de Physique et le Radium · volume 15 · pages 536-538",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Journal de Physique et le Radium",
+      "volume": "15",
+      "issue": "6",
+      "pages": "536-538",
+      "issn": [
+        "0368-3842"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Théorie des pert urbat ions dans I ' approximation du modèle métallique (III.B. Misc. 1179/50)",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wc66be3d91d9e",
+    "title": "Elemente der technischen Chemie",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "elementedertech01schugoog",
+      "url": "https://archive.org/details/elementedertech01schugoog",
+      "title": "Elemente der technischen Chemie : zum Gebrauch beim Unterricht im Königl. Gewerbinstitut und den Provinzial-Gewerbschulen",
+      "creators": [
+        "Schubarth, Ernst Ludwig, 1797-1868"
+      ],
+      "candidateAuthorNames": [
+        "Schubarth, Ernst Ludwig, 1797-1868"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1831,
+      "publisher": "Berlin : August Rücker",
+      "language": "ger",
+      "editionRelation": "Low-confidence candidate. Different publication year: reference 1831, catalogue 1835",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 4,
+      "confidence": {
+        "level": "low",
+        "score": 0.738,
+        "basis": [
+          "Title similarity 69%; weighted title-token coverage 100%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 4 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified"
+        ]
+      },
+      "sourceDescription": "Book digitized by Google and uploaded to the Internet Archive by user tpb. ; volumes ; 21 cm ; Includes bibliographical references",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Chemistry"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/elementedertech01schugoog",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/elementedertech01schugoog",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/elementedertech01schugoog/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "americana"
+      ],
+      "matchedUsingTitle": "Elemente der technischen Chemie",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wf9333b8c3c25",
+    "title": "Solid State Chemistry and Colloid Chemistry",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "progressinsolids0007unse",
+      "url": "https://archive.org/details/progressinsolids0007unse",
+      "title": "Progress in solid state chemistry",
+      "creators": [],
+      "candidateAuthorNames": [],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1964,
+      "publisher": "Oxford, New York [etc.] Pergamon Press [etc.]",
+      "language": "eng",
+      "editionRelation": "Low-confidence candidate. Work identity uncertain. Different publication year: reference 1964, catalogue 1970",
+      "matchType": "Title-overlap lead; work identity uncertain",
+      "yearDifference": 6,
+      "confidence": {
+        "level": "low",
+        "score": 0.585,
+        "basis": [
+          "Title similarity 70%; weighted title-token coverage 64%",
+          "Creator identity could not be compared",
+          "Publication years differ by 6 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "v. 24 cm",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Solid state chemistry"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/progressinsolids0007unse",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/progressinsolids0007unse",
+          "rights": "Rights statement not supplied in retrieved metadata; consult the source record.",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/progressinsolids0007unse/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "trent_university",
+        "internetarchivebooks",
+        "inlibrary",
+        "printdisabled"
+      ],
+      "matchedUsingTitle": "Solid State Chemistry and Colloid Chemistry",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "wffaf26f46267",
+    "title": "Dérivés d Ihydrogénation du carvacrol",
+    "candidate": {
+      "source": "Internet Archive",
+      "referenceType": "digitized publication",
+      "externalId": "BIUSante_pharma_prix_gobleyx1905x01",
+      "url": "https://archive.org/details/BIUSante_pharma_prix_gobleyx1905x01",
+      "title": "Dérivés de l'hydrogénation du thymol, contribution à l'étude des menthols",
+      "creators": [
+        "Brunel, Léon"
+      ],
+      "candidateAuthorNames": [
+        "Brunel, Léon"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1905,
+      "publisher": "[S.l. : s.n.]",
+      "language": "French",
+      "editionRelation": "Low-confidence candidate. Same stated year; edition still unverified",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 0,
+      "confidence": {
+        "level": "low",
+        "score": 0.681,
+        "basis": [
+          "Title similarity 58%; weighted title-token coverage 68%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 0 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Available at the Bibliothèque interuniversitaire de santé (Paris). See this resource in Medica digital library : pharma_prix_gobleyx1905x01 .",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [
+        "Prix de l'École supérieure de pharmacie de Paris"
+      ],
+      "images": [
+        {
+          "url": "https://archive.org/services/img/BIUSante_pharma_prix_gobleyx1905x01",
+          "label": "Reference scan thumbnail · page type unverified",
+          "sourceUrl": "https://archive.org/details/BIUSante_pharma_prix_gobleyx1905x01",
+          "rights": "Licence ouverte / Open licence Etalab",
+          "rightsUrl": null,
+          "verification": "Source-supplied thumbnail URL; cover/title-page identity has not been checked",
+          "confidence": "low"
+        }
+      ],
+      "manifestUrl": "https://iiif.archive.org/iiif/BIUSante_pharma_prix_gobleyx1905x01/manifest.json",
+      "containerTitle": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": [],
+      "collection": [
+        "bibliothequeinteruniversitairedesante",
+        "medicalheritagelibrary",
+        "medicallibrary",
+        "patron-schools-colleges-university-libraries",
+        "patron-library-collection"
+      ],
+      "matchedUsingTitle": "Dérivés d Ihydrogénation du carvacrol",
+      "retrievedAt": "2026-10-17"
+    }
+  },
+  {
+    "id": "w632b9bd92aa5",
+    "title": "Sur une expllcation théorique;:. des phénomènes magnéto-optiques observés dans un cristal",
+    "candidate": {
+      "source": "Crossref",
+      "referenceType": "journal-article",
+      "externalId": "10.1051/jphysrad:01929001009031300",
+      "url": "https://doi.org/10.1051/jphysrad:01929001009031300",
+      "title": "Introduction à une théorie des phénomènes magnéto-optiques dans les cristaux",
+      "creators": [
+        "Jean Becquerel"
+      ],
+      "candidateAuthorNames": [
+        "Jean Becquerel"
+      ],
+      "creatorRoleStatus": "Names supplied in creator metadata; personal roles have not been independently verified",
+      "year": 1929,
+      "publisher": "EDP Sciences",
+      "language": null,
+      "editionRelation": "Low-confidence candidate. Different publication year: reference 1929, catalogue 1906",
+      "matchType": "Possible work match; edition unverified",
+      "yearDifference": 23,
+      "confidence": {
+        "level": "low",
+        "score": 0.71,
+        "basis": [
+          "Title similarity 69%; weighted title-token coverage 44%",
+          "Creator-name overlap 100%",
+          "Publication years differ by 23 year(s)",
+          "Automated bibliographic candidate; physical edition and ownership not verified",
+          "Family record is a cross-reference or continuation; connection requires review"
+        ]
+      },
+      "sourceDescription": "Article metadata: Journal de Physique et le Radium · volume 10 · pages 313-320",
+      "descriptionType": "Catalogue note; may describe physical extent or digitization rather than contents",
+      "subjects": [],
+      "images": [],
+      "manifestUrl": null,
+      "containerTitle": "Journal de Physique et le Radium",
+      "volume": "10",
+      "issue": "9",
+      "pages": "313-320",
+      "issn": [
+        "0368-3842"
+      ],
+      "collection": [],
+      "matchedUsingTitle": "Sur une expllcation théorique;:. des phénomènes magnéto-optiques observés dans un cristal",
+      "retrievedAt": "2026-10-17"
+    }
+  }
+]

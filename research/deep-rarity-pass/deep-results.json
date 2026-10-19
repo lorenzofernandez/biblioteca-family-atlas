@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "w908e18d4ea8f",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Ars conjectandi, opus posthumum",
+      "checkedFields": [
+        {
+          "field": "Author and title",
+          "catalogue": "Jacob Bernoulli; Ars Conjectandi, with series treatise and tennis letter",
+          "source": "Jakob Bernoulli; same title and accompanying works"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Basileae, Impensis Thurnisiorum Fratrum, 1713",
+          "source": "Same place, publisher and 1713 date"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "[4], 306, 35 pages; 2 folding plates",
+          "source": "Smithsonian: [4], 35, [1], 306, [2] pages and 3 folded leaves; ETH: 306, 36 pages, 2 tables and 1 plate"
+        }
+      ],
+      "reasoning": "The complete distinctive title, accompanying works, Basel publisher and 1713 date identify this edition. Ordering of the supplementary matter varies between descriptions.",
+      "discrepancies": [
+        "The family card counts two plates; institutional catalogues distinguish two tables plus one plate or three folded leaves. The family copy needs collation before completeness can be claimed."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_007_B00000001.pdf#page=126",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "Smithsonian · detailed collation and provenance",
+          "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?index=BIB&term=262971",
+          "type": "institutional holding"
+        },
+        {
+          "title": "ETH-Bibliothek · Ars conjectandi, 1713",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/2600091",
+          "type": "institutional source-copy digitization",
+          "institution": "ETH-Bibliothek Zürich",
+          "callNumber": "Rar 4983",
+          "copies": 1
+        },
+        {
+          "title": "BnF · Ars conjectandi, 1713",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb33986269z",
+          "type": "institutional holding",
+          "institution": "Bibliothèque nationale de France",
+          "callNumber": "FB-21978",
+          "copies": 1
+        }
+      ],
+      "verificationScope": "Basel, Thurnisiorum Fratrum, 1713 edition; family copy completeness and issue points unverified.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 7,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 7,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Seven separately documented institutional copies: three Huntington accessions and one each at Smithsonian, ETH, BnF and Kyoto. This is an open minimum, not a worldwide estimate. The family card is not added. A fourth Huntington accession (700959) is a follow-up lead only: its individual page could not be verified in this pass. No supported print-run figure or global census was found.",
+      "evidence": [
+        {
+          "title": "Smithsonian Libraries · Ars conjectandi, 1713",
+          "url": "https://library.si.edu/digital-library/book/jacobibernoulli00bern",
+          "type": "institutional source-copy digitization",
+          "institution": "Smithsonian Libraries and Archives",
+          "callNumber": "39088000323931 / QA273.43 .B52 1713",
+          "copies": 1,
+          "note": "Smithsonian record and its Internet Archive mirror describe the same physical book; former Radcliffe Observatory and Burndy ownership are not extra copies."
+        },
+        {
+          "title": "ETH-Bibliothek · Ars conjectandi, 1713",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/2600091",
+          "type": "institutional source-copy digitization",
+          "institution": "ETH-Bibliothek Zürich",
+          "callNumber": "Rar 4983",
+          "copies": 1
+        },
+        {
+          "title": "BnF · Ars conjectandi, 1713",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb33986269z",
+          "type": "institutional holding",
+          "institution": "Bibliothèque nationale de France",
+          "callNumber": "FB-21978",
+          "copies": 1
+        },
+        {
+          "title": "Kyoto University · Ars conjectandi, 1713 · NII holding record",
+          "url": "https://ci.nii.ac.jp/ncid/BB15576189",
+          "type": "national union catalogue physical holding",
+          "institution": "Kyoto University, Faculty of Science Mathematics Library",
+          "callNumber": "洋||Be02||01 / 2982497",
+          "copies": 1,
+          "note": "Record identifies the 1713 printed quarto and gives 306, 35 pages and three folded leaves, rather than a modern reprint."
+        },
+        {
+          "title": "Huntington · Ars conjectandi · 449000",
+          "url": "https://www.huntington.org/collections/lib-449000",
+          "type": "institutional holding",
+          "institution": "The Huntington Library",
+          "callNumber": "449000",
+          "copies": 1
+        },
+        {
+          "title": "Huntington · Ars conjectandi · 700960",
+          "url": "https://www.huntington.org/collections/lib-700960",
+          "type": "institutional holding",
+          "institution": "The Huntington Library",
+          "callNumber": "700960",
+          "copies": 1,
+          "note": "Separate 1713 accession associated with Vito Volterra."
+        },
+        {
+          "title": "Huntington · Ars conjectandi · 707536",
+          "url": "https://www.huntington.org/collections/lib-707536",
+          "type": "institutional holding",
+          "institution": "The Huntington Library",
+          "callNumber": "707536",
+          "copies": 1,
+          "note": "Separate 1713 accession associated with the Burndy Library. Not the Smithsonian barcode."
+        }
+      ],
+      "editionRelationship": "Basel, Thurnisiorum Fratrum, 1713 edition; family copy completeness and issue points unverified.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 7 documented copies · upper bound unknown",
+        "summary": "Seven separately documented institutional copies: three Huntington accessions and one each at Smithsonian, ETH, BnF and Kyoto. This is an open minimum, not a worldwide estimate. The family card is not added. A fourth Huntington accession (700959) is a follow-up lead only: its individual page could not be verified in this pass. No supported print-run figure or global census was found.",
+        "confidence": "high",
+        "editionRelation": "Basel, Thurnisiorum Fratrum, 1713 edition; family copy completeness and issue points unverified.",
+        "sources": [
+          {
+            "title": "Smithsonian Libraries · Ars conjectandi, 1713",
+            "url": "https://library.si.edu/digital-library/book/jacobibernoulli00bern",
+            "type": "institutional source-copy digitization",
+            "institution": "Smithsonian Libraries and Archives",
+            "callNumber": "39088000323931 / QA273.43 .B52 1713",
+            "copies": 1,
+            "note": "Smithsonian record and its Internet Archive mirror describe the same physical book; former Radcliffe Observatory and Burndy ownership are not extra copies."
+          },
+          {
+            "title": "ETH-Bibliothek · Ars conjectandi, 1713",
+            "url": "https://www.e-rara.ch/zut/content/titleinfo/2600091",
+            "type": "institutional source-copy digitization",
+            "institution": "ETH-Bibliothek Zürich",
+            "callNumber": "Rar 4983",
+            "copies": 1
+          },
+          {
+            "title": "BnF · Ars conjectandi, 1713",
+            "url": "https://catalogue.bnf.fr/ark:/12148/cb33986269z",
+            "type": "institutional holding",
+            "institution": "Bibliothèque nationale de France",
+            "callNumber": "FB-21978",
+            "copies": 1
+          },
+          {
+            "title": "Kyoto University · Ars conjectandi, 1713 · NII holding record",
+            "url": "https://ci.nii.ac.jp/ncid/BB15576189",
+            "type": "national union catalogue physical holding",
+            "institution": "Kyoto University, Faculty of Science Mathematics Library",
+            "callNumber": "洋||Be02||01 / 2982497",
+            "copies": 1,
+            "note": "Record identifies the 1713 printed quarto and gives 306, 35 pages and three folded leaves, rather than a modern reprint."
+          },
+          {
+            "title": "Huntington · Ars conjectandi · 449000",
+            "url": "https://www.huntington.org/collections/lib-449000",
+            "type": "institutional holding",
+            "institution": "The Huntington Library",
+            "callNumber": "449000",
+            "copies": 1
+          },
+          {
+            "title": "Huntington · Ars conjectandi · 700960",
+            "url": "https://www.huntington.org/collections/lib-700960",
+            "type": "institutional holding",
+            "institution": "The Huntington Library",
+            "callNumber": "700960",
+            "copies": 1,
+            "note": "Separate 1713 accession associated with Vito Volterra."
+          },
+          {
+            "title": "Huntington · Ars conjectandi · 707536",
+            "url": "https://www.huntington.org/collections/lib-707536",
+            "type": "institutional holding",
+            "institution": "The Huntington Library",
+            "callNumber": "707536",
+            "copies": 1,
+            "note": "Separate 1713 accession associated with the Burndy Library. Not the Smithsonian barcode."
+          }
+        ]
+      }
+    ],
+    "researchExclusions": [
+      {
+        "source": "https://www.huntington.org/collections/lib-700959",
+        "reason": "Related-item lead only; individual record not successfully read. Not counted."
+      },
+      {
+        "source": "https://www.probabilityandfinance.com/pulskamp/JakobBernoulli/publication.pdf",
+        "reason": "Publication correspondence was read, but provides no numerical print run or survivor count."
+      }
+    ]
+  },
+  {
+    "id": "w23a7d0c1a2c8",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "A compleat system of opticks",
+      "checkedFields": [
+        {
+          "field": "Title and author",
+          "catalogue": "Robert Smith; A complet system of opticks",
+          "source": "Robert Smith; A Compleat System of Opticks"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Cambridge, printed for the Author, 1738",
+          "source": "Cambridge, for the author, 1738"
+        },
+        {
+          "field": "Volumes and plates",
+          "catalogue": "2 volumes; 45 plates in volume I and 34 in II (79 total)",
+          "source": "1738 edition in 2 volumes; Salem describes 83 folded plates"
+        }
+      ],
+      "reasoning": "Author, distinctive title, Cambridge imprint and date confirm the 1738 edition. The family plate count is a copy-level discrepancy, not evidence for a different edition.",
+      "discrepancies": [
+        "The family card totals 79 plates, while a complete edition is described with 83. Missing plates or a cataloguing/counting convention cannot be decided from the card."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_007_S00000001.pdf#page=164",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "Linda Hall Library · Robert Smith and its 1738 copy",
+          "url": "https://www.lindahall.org/about/news/scientist-of-the-day/robert-smith/",
+          "type": "institutional copy description",
+          "institution": "Linda Hall Library",
+          "copies": 1,
+          "note": "The library identifies its copy and Edward Troughton ownership inscription; plate illustrations are from the same book, not separate copies."
+        },
+        {
+          "title": "Salem Athenaeum · 2020 Adopt-a-Book catalogue, page 9",
+          "url": "https://salemathenaeum.net/wp-content/uploads/2020/01/AAB_2020_listings_web.pdf#page=9",
+          "type": "institutional copy description",
+          "institution": "Salem Athenaeum",
+          "copies": 1,
+          "note": "Lists Cambridge 1738 first edition and 83 folded engraved plates. Physical condition and continuing custody were not separately inspected."
+        },
+        {
+          "title": "SLUB Dresden · A Compleat System Of Opticks, 1738",
+          "url": "https://katalog.slub-dresden.de/en/id/0-1133511104",
+          "type": "institutional holding",
+          "institution": "Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden",
+          "callNumber": "catalogue record 0-1133511104",
+          "copies": 1,
+          "note": "Printed book, both volumes; the catalogue notes the volume 2 title lacks an imprint. A reproduction ordering option is a service, not the described object."
+        }
+      ],
+      "verificationScope": "Cambridge, printed for the author, 1738; two-volume edition. Completeness of the family plates is unresolved.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "medium",
+      "documentedLowerBound": 3,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 3,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Three institutional copies are documented at Linda Hall, Salem Athenaeum and SLUB Dresden. Both volumes are treated as one edition copy/set, not two surviving books. These records do not supply a worldwide census, reliable upper bound or original print run. Complete-set and plate completeness still require direct collation.",
+      "evidence": [
+        {
+          "title": "Linda Hall Library · Robert Smith and its 1738 copy",
+          "url": "https://www.lindahall.org/about/news/scientist-of-the-day/robert-smith/",
+          "type": "institutional copy description",
+          "institution": "Linda Hall Library",
+          "copies": 1,
+          "note": "The library identifies its copy and Edward Troughton ownership inscription; plate illustrations are from the same book, not separate copies."
+        },
+        {
+          "title": "Salem Athenaeum · 2020 Adopt-a-Book catalogue, page 9",
+          "url": "https://salemathenaeum.net/wp-content/uploads/2020/01/AAB_2020_listings_web.pdf#page=9",
+          "type": "institutional copy description",
+          "institution": "Salem Athenaeum",
+          "copies": 1,
+          "note": "Lists Cambridge 1738 first edition and 83 folded engraved plates. Physical condition and continuing custody were not separately inspected."
+        },
+        {
+          "title": "SLUB Dresden · A Compleat System Of Opticks, 1738",
+          "url": "https://katalog.slub-dresden.de/en/id/0-1133511104",
+          "type": "institutional holding",
+          "institution": "Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden",
+          "callNumber": "catalogue record 0-1133511104",
+          "copies": 1,
+          "note": "Printed book, both volumes; the catalogue notes the volume 2 title lacks an imprint. A reproduction ordering option is a service, not the described object."
+        }
+      ],
+      "editionRelationship": "Cambridge, printed for the author, 1738; two-volume edition. Completeness of the family plates is unresolved.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 3 documented copies · upper bound unknown",
+        "summary": "Three institutional copies are documented at Linda Hall, Salem Athenaeum and SLUB Dresden. Both volumes are treated as one edition copy/set, not two surviving books. These records do not supply a worldwide census, reliable upper bound or original print run. Complete-set and plate completeness still require direct collation.",
+        "confidence": "medium",
+        "editionRelation": "Cambridge, printed for the author, 1738; two-volume edition. Completeness of the family plates is unresolved.",
+        "sources": [
+          {
+            "title": "Linda Hall Library · Robert Smith and its 1738 copy",
+            "url": "https://www.lindahall.org/about/news/scientist-of-the-day/robert-smith/",
+            "type": "institutional copy description",
+            "institution": "Linda Hall Library",
+            "copies": 1,
+            "note": "The library identifies its copy and Edward Troughton ownership inscription; plate illustrations are from the same book, not separate copies."
+          },
+          {
+            "title": "Salem Athenaeum · 2020 Adopt-a-Book catalogue, page 9",
+            "url": "https://salemathenaeum.net/wp-content/uploads/2020/01/AAB_2020_listings_web.pdf#page=9",
+            "type": "institutional copy description",
+            "institution": "Salem Athenaeum",
+            "copies": 1,
+            "note": "Lists Cambridge 1738 first edition and 83 folded engraved plates. Physical condition and continuing custody were not separately inspected."
+          },
+          {
+            "title": "SLUB Dresden · A Compleat System Of Opticks, 1738",
+            "url": "https://katalog.slub-dresden.de/en/id/0-1133511104",
+            "type": "institutional holding",
+            "institution": "Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden",
+            "callNumber": "catalogue record 0-1133511104",
+            "copies": 1,
+            "note": "Printed book, both volumes; the catalogue notes the volume 2 title lacks an imprint. A reproduction ordering option is a service, not the described object."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w2e30963a2bc4",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Almagestum novum",
+      "checkedFields": [
+        {
+          "field": "Title and author",
+          "catalogue": "Giovanni Battista Riccioli; Almagestum novum",
+          "source": "Same author and title"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Bononiae, Haeres V. Benatii, 1651",
+          "source": "Bononiae, ex typographia haeredis Victorij Benatij, 1651"
+        },
+        {
+          "field": "Published parts",
+          "catalogue": "Pars prior tomi primi and Pars posterior tomi primi",
+          "source": "Only tomus I was published under this title, in two parts"
+        },
+        {
+          "field": "Pagination",
+          "catalogue": "XLVII, 764; XVIII, 676; duplicate numbering 204–211",
+          "source": "763 + terminal page; 675 + terminal page; inserted pages numbered 204½–211½"
+        }
+      ],
+      "reasoning": "The two listed parts, Bologna imprint, date and unusual duplicated page numbering establish the 1651 edition. Smithsonian and Eton explicitly state that the projected later tomes were never issued under this title.",
+      "discrepancies": [
+        "The family card gives only two folding plates and abbreviated preliminary counts; all plates and leaves need physical checking.",
+        "Do not classify the family set as incomplete solely because the title announces three projected tomes."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_002_R00000001.pdf#page=19",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "Smithsonian · Almagestum novum, 1651 · complete two-part bibliographic record",
+          "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?aspect=subtab103&copykey=47456&ipp=20&menu=search&profile=liball&ri=1&session=1E71D7V905372.56822&source=~%21silibraries&spage=0&uri=full%3D3100001~%21535439~%210",
+          "type": "institutional holding",
+          "institution": "Smithsonian Libraries and Archives",
+          "callNumber": "39088009752221 + 39088009749714",
+          "copies": 1,
+          "note": "Two parts of one copy; Smithsonian explicitly notes one apparently missing plate in part II. Former owners and accession numbers are not separate copies."
+        },
+        {
+          "title": "ETH · Almagestum novum, 1651 parts, with later continuation",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/140180",
+          "type": "institutional source-copy digitization",
+          "institution": "ETH-Bibliothek Zürich",
+          "callNumber": "Rar 9471",
+          "copies": 1,
+          "note": "One 1651 copy in two parts; the 1665 Astronomiae reformatae in this aggregate is not counted as another 1651 copy."
+        },
+        {
+          "title": "Eton College · Almagestum novum",
+          "url": "https://catalog.etoncollege.com/B46932",
+          "type": "institutional holding",
+          "institution": "Eton College Library",
+          "callNumber": "Gb.2.13 – Gb.2.14 / B46932",
+          "copies": 1,
+          "note": "Two-volume set with Nicholas Mann provenance. Title and half-titles are misbound; both parts are described."
+        }
+      ],
+      "verificationScope": "Bologna, heirs of Vittorio Benacci, 1651; tomus I, both published parts. Projected tomes II–III were not published under this title.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 4,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 4,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Four independent institutional copies/sets are documented: Smithsonian, ETH, Illinois and Eton. Each two-part set counts once. The Smithsonian copy is imperfect, so this is not a census of complete copies. Brera documents an additional first-part holding, excluded from this two-part minimum. No worldwide total or print-run ceiling was found.",
+      "evidence": [
+        {
+          "title": "Smithsonian · Almagestum novum, 1651 · complete two-part bibliographic record",
+          "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?aspect=subtab103&copykey=47456&ipp=20&menu=search&profile=liball&ri=1&session=1E71D7V905372.56822&source=~%21silibraries&spage=0&uri=full%3D3100001~%21535439~%210",
+          "type": "institutional holding",
+          "institution": "Smithsonian Libraries and Archives",
+          "callNumber": "39088009752221 + 39088009749714",
+          "copies": 1,
+          "note": "Two parts of one copy; Smithsonian explicitly notes one apparently missing plate in part II. Former owners and accession numbers are not separate copies."
+        },
+        {
+          "title": "ETH · Almagestum novum, 1651 parts, with later continuation",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/140180",
+          "type": "institutional source-copy digitization",
+          "institution": "ETH-Bibliothek Zürich",
+          "callNumber": "Rar 9471",
+          "copies": 1,
+          "note": "One 1651 copy in two parts; the 1665 Astronomiae reformatae in this aggregate is not counted as another 1651 copy."
+        },
+        {
+          "title": "University of Illinois · Almagestum novum",
+          "url": "https://exhibits.library.illinois.edu/s/rbml/item/1788",
+          "type": "institutional copy exhibition",
+          "institution": "University of Illinois at Urbana-Champaign, Rare Book & Manuscript Library",
+          "callNumber": "IUQ02074",
+          "copies": 1,
+          "note": "Institution identifies its physical property, Bologna 1651, one volume in two parts."
+        },
+        {
+          "title": "Eton College · Almagestum novum",
+          "url": "https://catalog.etoncollege.com/B46932",
+          "type": "institutional holding",
+          "institution": "Eton College Library",
+          "callNumber": "Gb.2.13 – Gb.2.14 / B46932",
+          "copies": 1,
+          "note": "Two-volume set with Nicholas Mann provenance. Title and half-titles are misbound; both parts are described."
+        }
+      ],
+      "editionRelationship": "Bologna, heirs of Vittorio Benacci, 1651; tomus I, both published parts. Projected tomes II–III were not published under this title.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 4 documented copies · upper bound unknown",
+        "summary": "Four independent institutional copies/sets are documented: Smithsonian, ETH, Illinois and Eton. Each two-part set counts once. The Smithsonian copy is imperfect, so this is not a census of complete copies. Brera documents an additional first-part holding, excluded from this two-part minimum. No worldwide total or print-run ceiling was found.",
+        "confidence": "high",
+        "editionRelation": "Bologna, heirs of Vittorio Benacci, 1651; tomus I, both published parts. Projected tomes II–III were not published under this title.",
+        "sources": [
+          {
+            "title": "Smithsonian · Almagestum novum, 1651 · complete two-part bibliographic record",
+            "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?aspect=subtab103&copykey=47456&ipp=20&menu=search&profile=liball&ri=1&session=1E71D7V905372.56822&source=~%21silibraries&spage=0&uri=full%3D3100001~%21535439~%210",
+            "type": "institutional holding",
+            "institution": "Smithsonian Libraries and Archives",
+            "callNumber": "39088009752221 + 39088009749714",
+            "copies": 1,
+            "note": "Two parts of one copy; Smithsonian explicitly notes one apparently missing plate in part II. Former owners and accession numbers are not separate copies."
+          },
+          {
+            "title": "ETH · Almagestum novum, 1651 parts, with later continuation",
+            "url": "https://www.e-rara.ch/zut/content/titleinfo/140180",
+            "type": "institutional source-copy digitization",
+            "institution": "ETH-Bibliothek Zürich",
+            "callNumber": "Rar 9471",
+            "copies": 1,
+            "note": "One 1651 copy in two parts; the 1665 Astronomiae reformatae in this aggregate is not counted as another 1651 copy."
+          },
+          {
+            "title": "University of Illinois · Almagestum novum",
+            "url": "https://exhibits.library.illinois.edu/s/rbml/item/1788",
+            "type": "institutional copy exhibition",
+            "institution": "University of Illinois at Urbana-Champaign, Rare Book & Manuscript Library",
+            "callNumber": "IUQ02074",
+            "copies": 1,
+            "note": "Institution identifies its physical property, Bologna 1651, one volume in two parts."
+          },
+          {
+            "title": "Eton College · Almagestum novum",
+            "url": "https://catalog.etoncollege.com/B46932",
+            "type": "institutional holding",
+            "institution": "Eton College Library",
+            "callNumber": "Gb.2.13 – Gb.2.14 / B46932",
+            "copies": 1,
+            "note": "Two-volume set with Nicholas Mann provenance. Title and half-titles are misbound; both parts are described."
+          }
+        ]
+      },
+      {
+        "title": "Publication plan and completeness",
+        "range": "Two published parts, not three completed tomes",
+        "summary": "Smithsonian and Eton state that only the first tome appeared, in two parts. The family card lists both. The later Astronomiae reformatae of 1665 is a continuation and is excluded from the 1651 count.",
+        "confidence": "high",
+        "editionRelation": "Bologna, heirs of Vittorio Benacci, 1651; tomus I, both published parts. Projected tomes II–III were not published under this title.",
+        "sources": [
+          {
+            "title": "Smithsonian · Almagestum novum, 1651 · complete two-part bibliographic record",
+            "url": "https://siris-libraries.si.edu/ipac20/ipac.jsp?aspect=subtab103&copykey=47456&ipp=20&menu=search&profile=liball&ri=1&session=1E71D7V905372.56822&source=~%21silibraries&spage=0&uri=full%3D3100001~%21535439~%210",
+            "type": "institutional holding",
+            "institution": "Smithsonian Libraries and Archives",
+            "callNumber": "39088009752221 + 39088009749714",
+            "copies": 1,
+            "note": "Two parts of one copy; Smithsonian explicitly notes one apparently missing plate in part II. Former owners and accession numbers are not separate copies."
+          },
+          {
+            "title": "ETH · Almagestum novum, 1651 parts, with later continuation",
+            "url": "https://www.e-rara.ch/zut/content/titleinfo/140180",
+            "type": "institutional source-copy digitization",
+            "institution": "ETH-Bibliothek Zürich",
+            "callNumber": "Rar 9471",
+            "copies": 1,
+            "note": "One 1651 copy in two parts; the 1665 Astronomiae reformatae in this aggregate is not counted as another 1651 copy."
+          },
+          {
+            "title": "Eton College · Almagestum novum",
+            "url": "https://catalog.etoncollege.com/B46932",
+            "type": "institutional holding",
+            "institution": "Eton College Library",
+            "callNumber": "Gb.2.13 – Gb.2.14 / B46932",
+            "copies": 1,
+            "note": "Two-volume set with Nicholas Mann provenance. Title and half-titles are misbound; both parts are described."
+          }
+        ]
+      }
+    ],
+    "researchExclusions": [
+      {
+        "source": "https://museoastronomico.brera.inaf.it/giovanni-battista-riccioli-almagestum-novum-1651/",
+        "reason": "Brera describes 763 pages and two plates: evidence for the first part only. Not added to a minimum of two-part copies."
+      }
+    ]
+  },
+  {
+    "id": "w2af0c93fda6e",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Principia philosophiae",
+      "checkedFields": [
+        {
+          "field": "Author and title",
+          "catalogue": "René Descartes; Renati Des-Cartes Principia Philosophiae",
+          "source": "Same author and Latin title"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Amstelodami, Apud Ludovicum Elzevirium, 1650",
+          "source": "Same place, publisher and date"
+        },
+        {
+          "field": "Binding and format",
+          "catalogue": "3 volumes bound in one, 20.5 cm",
+          "source": "1650 Principia survives within composite philosophical volumes; Košice copy 20 × 15.5 cm"
+        }
+      ],
+      "reasoning": "The named work, imprint and date identify the 1650 Principia. ETH explicitly lists the 1650 Principia within its collected works. This verifies the named work rather than the identities of the family volume’s other two contents.",
+      "discrepancies": [
+        "The family card does not name the other two bound works or state their dates; the entire composite volume is not verified.",
+        "The previously linked Musicae compendium (1683) is a different work and must not be treated as evidence for this entry."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_004_D00000001.pdf#page=22",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "ETH · Opera philosophica containing Principia philosophiae, 1650",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/2822605",
+          "type": "institutional source-copy digitization",
+          "institution": "ETH-Bibliothek Zürich",
+          "callNumber": "Rar 18",
+          "copies": 1,
+          "note": "One composite volume, explicitly containing the 1650 Principia as its third work; associated works are not extra copies."
+        },
+        {
+          "title": "State Scientific Library Košice · Principia philosophiae, 1650",
+          "url": "https://sclib.svkk.sk/his01/Record/000011297",
+          "type": "institutional holding",
+          "institution": "State Scientific Library in Košice",
+          "callNumber": "R 175 prív. 4. PA",
+          "copies": 1,
+          "note": "Amsterdam, Ludovicum Elzevirium, 1650; [40], 302 [i.e. 292] pages. Bound as the fourth work with Meditationes."
+        }
+      ],
+      "verificationScope": "Amsterdam, Ludovicum Elzevirium, 1650 Principia philosophiae; the family’s complete three-work binding remains uncollated.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "medium",
+      "documentedLowerBound": 3,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 3,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "At least three original 1650 Principia copies are documented at ETH, Košice and Jesus College Cambridge. Bound-with works count once. This minimum concerns the named Principia edition, not identical three-work composite bindings. No global survivor estimate or original print-run figure was found.",
+      "evidence": [
+        {
+          "title": "ETH · Opera philosophica containing Principia philosophiae, 1650",
+          "url": "https://www.e-rara.ch/zut/content/titleinfo/2822605",
+          "type": "institutional source-copy digitization",
+          "institution": "ETH-Bibliothek Zürich",
+          "callNumber": "Rar 18",
+          "copies": 1,
+          "note": "One composite volume, explicitly containing the 1650 Principia as its third work; associated works are not extra copies."
+        },
+        {
+          "title": "State Scientific Library Košice · Principia philosophiae, 1650",
+          "url": "https://sclib.svkk.sk/his01/Record/000011297",
+          "type": "institutional holding",
+          "institution": "State Scientific Library in Košice",
+          "callNumber": "R 175 prív. 4. PA",
+          "copies": 1,
+          "note": "Amsterdam, Ludovicum Elzevirium, 1650; [40], 302 [i.e. 292] pages. Bound as the fourth work with Meditationes."
+        },
+        {
+          "title": "Jesus College Cambridge copy · Michael Edwards, The Lost Library of Anne Conway, note 66",
+          "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/79e4f38c-671f-48ea-99b0-e3556b1ca897/content#page=27",
+          "type": "published first-hand collection research",
+          "institution": "Jesus College, Cambridge, Old Library",
+          "callNumber": "H.9.34",
+          "copies": 1,
+          "note": "Research article identifies the Amsterdam 1650 Principia by shelfmark in its examination of surviving Jesus College books."
+        }
+      ],
+      "editionRelationship": "Amsterdam, Ludovicum Elzevirium, 1650 Principia philosophiae; the family’s complete three-work binding remains uncollated.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 3 documented copies · upper bound unknown",
+        "summary": "At least three original 1650 Principia copies are documented at ETH, Košice and Jesus College Cambridge. Bound-with works count once. This minimum concerns the named Principia edition, not identical three-work composite bindings. No global survivor estimate or original print-run figure was found.",
+        "confidence": "medium",
+        "editionRelation": "Amsterdam, Ludovicum Elzevirium, 1650 Principia philosophiae; the family’s complete three-work binding remains uncollated.",
+        "sources": [
+          {
+            "title": "ETH · Opera philosophica containing Principia philosophiae, 1650",
+            "url": "https://www.e-rara.ch/zut/content/titleinfo/2822605",
+            "type": "institutional source-copy digitization",
+            "institution": "ETH-Bibliothek Zürich",
+            "callNumber": "Rar 18",
+            "copies": 1,
+            "note": "One composite volume, explicitly containing the 1650 Principia as its third work; associated works are not extra copies."
+          },
+          {
+            "title": "State Scientific Library Košice · Principia philosophiae, 1650",
+            "url": "https://sclib.svkk.sk/his01/Record/000011297",
+            "type": "institutional holding",
+            "institution": "State Scientific Library in Košice",
+            "callNumber": "R 175 prív. 4. PA",
+            "copies": 1,
+            "note": "Amsterdam, Ludovicum Elzevirium, 1650; [40], 302 [i.e. 292] pages. Bound as the fourth work with Meditationes."
+          },
+          {
+            "title": "Jesus College Cambridge copy · Michael Edwards, The Lost Library of Anne Conway, note 66",
+            "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/79e4f38c-671f-48ea-99b0-e3556b1ca897/content#page=27",
+            "type": "published first-hand collection research",
+            "institution": "Jesus College, Cambridge, Old Library",
+            "callNumber": "H.9.34",
+            "copies": 1,
+            "note": "Research article identifies the Amsterdam 1650 Principia by shelfmark in its examination of surviving Jesus College books."
+          }
+        ]
+      }
+    ],
+    "researchExclusions": [
+      {
+        "source": "https://www.loc.gov/item/46028327/",
+        "reason": "Library of Congress record is the 1644 edition, not 1650."
+      },
+      {
+        "source": "https://ci.nii.ac.jp/ncid/BA62112710",
+        "reason": "Nagoya record describes a microfilm reproduction, not an original 1650 physical copy."
+      }
+    ]
+  },
+  {
+    "id": "wfd2674d06efe",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Musaeum metallicum in libros IIII distributum",
+      "checkedFields": [
+        {
+          "field": "Author and title",
+          "catalogue": "Ulisse Aldrovandi; Musaeum metallicum in libros IIII distributum",
+          "source": "Same author and title, edited by Bartolomeo Ambrosini"
+        },
+        {
+          "field": "Colophon",
+          "catalogue": "Bononiae, Typis Io. Baptistae Ferronii, 1648",
+          "source": "Same 1648 Bologna Ferroni colophon"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "[8], 979, [13] pages, 38 cm",
+          "source": "979 pages with preliminary and index leaves; folio around 35–37 cm"
+        }
+      ],
+      "reasoning": "The full title, exact colophon and distinctive 979-page body identify the 1648 edition. Institutional copies and the edition bibliography corroborate the match.",
+      "discrepancies": [
+        "Preliminary-leaf counts differ between copies/descriptions, and two documented institutional originals are imperfect. Family completeness requires collation."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_004_A00000001.pdf#page=11",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "Getty Research Institute · Musaeum metallicum, 1648",
+          "url": "https://archive.org/details/gri_33125009352903",
+          "type": "institutional source-copy digitization",
+          "institution": "Getty Research Institute",
+          "callNumber": "9925836960001551",
+          "copies": 1,
+          "note": "Getty-contributed record describes old calf binding and former owners, all belonging to one copy."
+        },
+        {
+          "title": "Science History Institute · Musaeum metallicum, 1648",
+          "url": "https://digital.sciencehistory.org/works/42qbjo2",
+          "type": "institutional source-copy digitization",
+          "institution": "Science History Institute, Roy G. Neville Historical Chemical Library",
+          "callNumber": "QE25 .A537 1648",
+          "copies": 1,
+          "note": "Only selected illustrations digitized; the 979-page original is identified by shelfmark."
+        },
+        {
+          "title": "Curtis Schuh · Aldrovandi bibliography, entry 1: Latin, 1648 first edition",
+          "url": "https://mineralogicalrecord.com/new_biobibliography/aldrovandi-ulysse/",
+          "type": "specialist bibliography",
+          "note": "Edition-specific assessment: “Very scarce.” No numerical population estimate is supplied."
+        }
+      ],
+      "verificationScope": "Bologna, Giovanni Battista Ferroni, 1648 first edition; excludes the abridged 1701 Synopsis.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 4,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 4,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Four original institutional copies are documented: Smithsonian, Getty, Science History Institute and New York Academy of Medicine. Smithsonian and NYAM describe missing leaves, so the minimum includes imperfect copies. This is not a worldwide census. Schuh’s scarcity judgment is qualitative and does not provide a numerical survivor estimate.",
+      "evidence": [
+        {
+          "title": "Smithsonian · Musaeum metallicum, 1648",
+          "url": "https://archive.org/details/vlyssisaldrouan00aldr",
+          "type": "institutional source-copy digitization",
+          "institution": "Smithsonian Libraries and Archives",
+          "callNumber": "39088000102269",
+          "copies": 1,
+          "note": "Smithsonian-contributed record identifies missing first and final leaves of the first gathering. Former Bodleian and Kofoid ownership describes this same copy."
+        },
+        {
+          "title": "Getty Research Institute · Musaeum metallicum, 1648",
+          "url": "https://archive.org/details/gri_33125009352903",
+          "type": "institutional source-copy digitization",
+          "institution": "Getty Research Institute",
+          "callNumber": "9925836960001551",
+          "copies": 1,
+          "note": "Getty-contributed record describes old calf binding and former owners, all belonging to one copy."
+        },
+        {
+          "title": "Science History Institute · Musaeum metallicum, 1648",
+          "url": "https://digital.sciencehistory.org/works/42qbjo2",
+          "type": "institutional source-copy digitization",
+          "institution": "Science History Institute, Roy G. Neville Historical Chemical Library",
+          "callNumber": "QE25 .A537 1648",
+          "copies": 1,
+          "note": "Only selected illustrations digitized; the 979-page original is identified by shelfmark."
+        },
+        {
+          "title": "New York Academy of Medicine · Musaeum metallicum, 1648",
+          "url": "https://catalog.nyam.org/bib/108548",
+          "type": "institutional holding",
+          "institution": "New York Academy of Medicine Library",
+          "callNumber": "FOLIO RB / bib 108548",
+          "copies": 1,
+          "note": "Original is imperfect: two leaves supplied as photocopies from Michigan. The photocopies are not extra originals; Michigan is not added without its own verified holding."
+        }
+      ],
+      "editionRelationship": "Bologna, Giovanni Battista Ferroni, 1648 first edition; excludes the abridged 1701 Synopsis.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 4 documented copies · upper bound unknown",
+        "summary": "Four original institutional copies are documented: Smithsonian, Getty, Science History Institute and New York Academy of Medicine. Smithsonian and NYAM describe missing leaves, so the minimum includes imperfect copies. This is not a worldwide census. Schuh’s scarcity judgment is qualitative and does not provide a numerical survivor estimate.",
+        "confidence": "high",
+        "editionRelation": "Bologna, Giovanni Battista Ferroni, 1648 first edition; excludes the abridged 1701 Synopsis.",
+        "sources": [
+          {
+            "title": "Smithsonian · Musaeum metallicum, 1648",
+            "url": "https://archive.org/details/vlyssisaldrouan00aldr",
+            "type": "institutional source-copy digitization",
+            "institution": "Smithsonian Libraries and Archives",
+            "callNumber": "39088000102269",
+            "copies": 1,
+            "note": "Smithsonian-contributed record identifies missing first and final leaves of the first gathering. Former Bodleian and Kofoid ownership describes this same copy."
+          },
+          {
+            "title": "Getty Research Institute · Musaeum metallicum, 1648",
+            "url": "https://archive.org/details/gri_33125009352903",
+            "type": "institutional source-copy digitization",
+            "institution": "Getty Research Institute",
+            "callNumber": "9925836960001551",
+            "copies": 1,
+            "note": "Getty-contributed record describes old calf binding and former owners, all belonging to one copy."
+          },
+          {
+            "title": "Science History Institute · Musaeum metallicum, 1648",
+            "url": "https://digital.sciencehistory.org/works/42qbjo2",
+            "type": "institutional source-copy digitization",
+            "institution": "Science History Institute, Roy G. Neville Historical Chemical Library",
+            "callNumber": "QE25 .A537 1648",
+            "copies": 1,
+            "note": "Only selected illustrations digitized; the 979-page original is identified by shelfmark."
+          },
+          {
+            "title": "New York Academy of Medicine · Musaeum metallicum, 1648",
+            "url": "https://catalog.nyam.org/bib/108548",
+            "type": "institutional holding",
+            "institution": "New York Academy of Medicine Library",
+            "callNumber": "FOLIO RB / bib 108548",
+            "copies": 1,
+            "note": "Original is imperfect: two leaves supplied as photocopies from Michigan. The photocopies are not extra originals; Michigan is not added without its own verified holding."
+          }
+        ]
+      },
+      {
+        "title": "Specialist bibliography assessment",
+        "range": "Very scarce · qualitative assessment",
+        "summary": "Schuh describes the exact 1648 first edition as very scarce. This supports a tentative rarity signal, with low confidence in present-day worldwide scarcity; it does not establish how many copies survive.",
+        "confidence": "low",
+        "editionRelation": "Bologna, Giovanni Battista Ferroni, 1648 first edition; excludes the abridged 1701 Synopsis.",
+        "sources": [
+          {
+            "title": "Curtis Schuh · Aldrovandi bibliography, entry 1: Latin, 1648 first edition",
+            "url": "https://mineralogicalrecord.com/new_biobibliography/aldrovandi-ulysse/",
+            "type": "specialist bibliography",
+            "note": "Edition-specific assessment: “Very scarce.” No numerical population estimate is supplied."
+          }
+        ]
+      }
+    ],
+    "bibliographyAssessment": {
+      "label": "Very scarce · bibliography assessment",
+      "assessment": "very scarce",
+      "confidence": "low",
+      "editionMatchConfidence": "high",
+      "quote": "Very scarce.",
+      "sourceName": "Curtis Schuh’s Annotated Bio-Bibliography of Mineralogy",
+      "sourceUrl": "https://mineralogicalrecord.com/new_biobibliography/aldrovandi-ulysse/",
+      "editionHeading": "1. Latin, 1648 [First edition].",
+      "scope": "Bologna, Giovanni Battista Ferroni, 1648 first edition; excludes the abridged 1701 Synopsis.",
+      "note": "Attributed qualitative judgment, not a modern worldwide census or numeric range.",
+      "checked": "2026-10-17"
+    }
+  },
+  {
+    "id": "w2f6fdbab3156",
+    "editionReview": {
+      "decision": "probable_edition",
+      "confidence": "medium",
+      "cleanTitle": "Musaeum historicum et physicum",
+      "checkedFields": [
+        {
+          "field": "Author and title",
+          "catalogue": "Giovanni Imperiali; Musaeum historicum et physicum",
+          "source": "Same author and title"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Venetiis, Iuntae / Apud Juntas, 1640",
+          "source": "Venetiis, Apud Juntas, 1640"
+        },
+        {
+          "field": "Parts and extent",
+          "catalogue": "[16], 219, [22] pages; 56 portraits",
+          "source": "Morgan: 2 parts in 1 volume, [16], 212 [misnumbered 122], [8], 219, [23] pages; second-part colophon 1639"
+        }
+      ],
+      "reasoning": "Author, distinctive title, Venetian publisher and date match the 1640 edition. The first and second parts have separate pagination; the 1639 colophon belongs to the second part of the 1640 issue, not automatically a different edition.",
+      "discrepancies": [
+        "The card gives [16], 219, [22] pages and 56 portraits. A complete reference copy has two separately paginated parts, ending at 212 and 219 pages. The card may be abbreviated or describe an incomplete copy; it cannot establish which.",
+        "Detached pages 205–208 are explicitly noted; detached does not necessarily mean missing."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_002_I00000001.pdf#page=2",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "Getty Research Institute · Musaeum historicum et physicum · two physical copies",
+          "url": "https://archive.org/details/musaeumhistoricu00impe",
+          "type": "institutional source-copy digitization and copy notes",
+          "institution": "Getty Research Institute",
+          "callNumber": "9925275640001551, copies 1 and 2",
+          "copies": 2,
+          "note": "Getty describes two different bindings and provenance: copy 1 has James Moores Ball bookplate; copy 2 is bound around Zabarella’s Gli Arronzij and has Staremberg ownership. One digital file is not the reason for counting two."
+        },
+        {
+          "title": "Morgan Library · Musaeum historicum et physicum, 1640",
+          "url": "https://www.themorgan.org/printed-books/346179",
+          "type": "institutional holding",
+          "institution": "The Morgan Library & Museum",
+          "callNumber": "PML 195921",
+          "copies": 1,
+          "note": "Gordon N. Ray bequest; two parts in one volume. Part II colophon dated 1639 within the 1640 issue."
+        }
+      ],
+      "verificationScope": "Venice, Apud Juntas, 1640 edition, with Musaeum physicum colophon dated 1639; minimum includes copies not fully collated in this pass.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "medium",
+      "evidenceConfidence": "medium",
+      "documentedLowerBound": 5,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 5,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Five physical institutional copies are documented: two at Getty and one each at Morgan, Princeton and Linda Hall. Getty’s two copies have distinct bindings and provenance. The evidence does not confirm both-part completeness for Princeton or Linda Hall. This same edition-level evidence applies to two family cards and must not be added twice in a worldwide total. No worldwide census or original print run was found.",
+      "evidence": [
+        {
+          "title": "Getty Research Institute · Musaeum historicum et physicum · two physical copies",
+          "url": "https://archive.org/details/musaeumhistoricu00impe",
+          "type": "institutional source-copy digitization and copy notes",
+          "institution": "Getty Research Institute",
+          "callNumber": "9925275640001551, copies 1 and 2",
+          "copies": 2,
+          "note": "Getty describes two different bindings and provenance: copy 1 has James Moores Ball bookplate; copy 2 is bound around Zabarella’s Gli Arronzij and has Staremberg ownership. One digital file is not the reason for counting two."
+        },
+        {
+          "title": "Morgan Library · Musaeum historicum et physicum, 1640",
+          "url": "https://www.themorgan.org/printed-books/346179",
+          "type": "institutional holding",
+          "institution": "The Morgan Library & Museum",
+          "callNumber": "PML 195921",
+          "copies": 1,
+          "note": "Gordon N. Ray bequest; two parts in one volume. Part II colophon dated 1639 within the 1640 issue."
+        },
+        {
+          "title": "Princeton · Huygens provenance copy of Imperiali, 1640",
+          "url": "https://notabilia.blogs.princeton.edu/2011/11/",
+          "type": "institutional copy description",
+          "institution": "Princeton University Library",
+          "callNumber": "(EX), acquired October 2012; title-page inscription Constanter 1650",
+          "copies": 1,
+          "note": "Institutional provenance report explicitly identifies Venice, Apud Juntas, 1640; completeness not stated."
+        },
+        {
+          "title": "Linda Hall Library · portrait from its Imperiali 1640 book",
+          "url": "https://www.lindahall.org/about/news/scientist-of-the-day/roberto-bellarmine/",
+          "type": "institutional copy exhibition",
+          "institution": "Linda Hall Library",
+          "copies": 1,
+          "note": "Library identifies a Bellarmine portrait from its Musaeum historicum et physicum of 1640. Both-part completeness is not established by the article."
+        }
+      ],
+      "editionRelationship": "Venice, Apud Juntas, 1640 edition, with Musaeum physicum colophon dated 1639; minimum includes copies not fully collated in this pass.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved",
+      "sharedEditionKey": "imperiali-musaeum-venice-juntas-1640"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 5 documented copies · upper bound unknown",
+        "summary": "Five physical institutional copies are documented: two at Getty and one each at Morgan, Princeton and Linda Hall. Getty’s two copies have distinct bindings and provenance. The evidence does not confirm both-part completeness for Princeton or Linda Hall. This same edition-level evidence applies to two family cards and must not be added twice in a worldwide total. No worldwide census or original print run was found.",
+        "confidence": "medium",
+        "editionRelation": "Venice, Apud Juntas, 1640 edition, with Musaeum physicum colophon dated 1639; minimum includes copies not fully collated in this pass.",
+        "sources": [
+          {
+            "title": "Getty Research Institute · Musaeum historicum et physicum · two physical copies",
+            "url": "https://archive.org/details/musaeumhistoricu00impe",
+            "type": "institutional source-copy digitization and copy notes",
+            "institution": "Getty Research Institute",
+            "callNumber": "9925275640001551, copies 1 and 2",
+            "copies": 2,
+            "note": "Getty describes two different bindings and provenance: copy 1 has James Moores Ball bookplate; copy 2 is bound around Zabarella’s Gli Arronzij and has Staremberg ownership. One digital file is not the reason for counting two."
+          },
+          {
+            "title": "Morgan Library · Musaeum historicum et physicum, 1640",
+            "url": "https://www.themorgan.org/printed-books/346179",
+            "type": "institutional holding",
+            "institution": "The Morgan Library & Museum",
+            "callNumber": "PML 195921",
+            "copies": 1,
+            "note": "Gordon N. Ray bequest; two parts in one volume. Part II colophon dated 1639 within the 1640 issue."
+          },
+          {
+            "title": "Princeton · Huygens provenance copy of Imperiali, 1640",
+            "url": "https://notabilia.blogs.princeton.edu/2011/11/",
+            "type": "institutional copy description",
+            "institution": "Princeton University Library",
+            "callNumber": "(EX), acquired October 2012; title-page inscription Constanter 1650",
+            "copies": 1,
+            "note": "Institutional provenance report explicitly identifies Venice, Apud Juntas, 1640; completeness not stated."
+          },
+          {
+            "title": "Linda Hall Library · portrait from its Imperiali 1640 book",
+            "url": "https://www.lindahall.org/about/news/scientist-of-the-day/roberto-bellarmine/",
+            "type": "institutional copy exhibition",
+            "institution": "Linda Hall Library",
+            "copies": 1,
+            "note": "Library identifies a Bellarmine portrait from its Musaeum historicum et physicum of 1640. Both-part completeness is not established by the article."
+          }
+        ]
+      }
+    ],
+    "researchExclusions": [
+      {
+        "source": "https://search.worldcat.org/oclc/24198782",
+        "reason": "Microfiche manifestation excluded."
+      },
+      {
+        "source": "https://www.lombardiabeniculturali.it/stampe/schede/H0450-66892/",
+        "reason": "Detached portrait print record does not establish a surviving complete book."
+      }
+    ]
+  },
+  {
+    "id": "w72aff4f5ac4e",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Musaeum historicum et physicum",
+      "checkedFields": [
+        {
+          "field": "Author and title",
+          "catalogue": "Giovanni Imperiali; Musaeum historicum et physicum",
+          "source": "Same author and title"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Venetiis, Iuntae / Apud Juntas, 1640",
+          "source": "Venetiis, Apud Juntas, 1640"
+        },
+        {
+          "field": "Parts and extent",
+          "catalogue": "2 volumes bound in one; portraits in volume I",
+          "source": "Morgan: 2 parts in 1 volume, [16], 212 [misnumbered 122], [8], 219, [23] pages; second-part colophon 1639"
+        }
+      ],
+      "reasoning": "Author, distinctive title, Venetian publisher and date match the 1640 edition. The first and second parts have separate pagination; the 1639 colophon belongs to the second part of the 1640 issue, not automatically a different edition.",
+      "discrepancies": [
+        "The card states two volumes bound in one but gives no pagination; the complete set and each portrait must be checked physically."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_004_I00000001.pdf#page=3",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "Getty Research Institute · Musaeum historicum et physicum · two physical copies",
+          "url": "https://archive.org/details/musaeumhistoricu00impe",
+          "type": "institutional source-copy digitization and copy notes",
+          "institution": "Getty Research Institute",
+          "callNumber": "9925275640001551, copies 1 and 2",
+          "copies": 2,
+          "note": "Getty describes two different bindings and provenance: copy 1 has James Moores Ball bookplate; copy 2 is bound around Zabarella’s Gli Arronzij and has Staremberg ownership. One digital file is not the reason for counting two."
+        },
+        {
+          "title": "Morgan Library · Musaeum historicum et physicum, 1640",
+          "url": "https://www.themorgan.org/printed-books/346179",
+          "type": "institutional holding",
+          "institution": "The Morgan Library & Museum",
+          "callNumber": "PML 195921",
+          "copies": 1,
+          "note": "Gordon N. Ray bequest; two parts in one volume. Part II colophon dated 1639 within the 1640 issue."
+        }
+      ],
+      "verificationScope": "Venice, Apud Juntas, 1640 edition, with Musaeum physicum colophon dated 1639; minimum includes copies not fully collated in this pass.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "medium",
+      "documentedLowerBound": 5,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 5,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Five physical institutional copies are documented: two at Getty and one each at Morgan, Princeton and Linda Hall. Getty’s two copies have distinct bindings and provenance. The evidence does not confirm both-part completeness for Princeton or Linda Hall. This same edition-level evidence applies to two family cards and must not be added twice in a worldwide total. No worldwide census or original print run was found.",
+      "evidence": [
+        {
+          "title": "Getty Research Institute · Musaeum historicum et physicum · two physical copies",
+          "url": "https://archive.org/details/musaeumhistoricu00impe",
+          "type": "institutional source-copy digitization and copy notes",
+          "institution": "Getty Research Institute",
+          "callNumber": "9925275640001551, copies 1 and 2",
+          "copies": 2,
+          "note": "Getty describes two different bindings and provenance: copy 1 has James Moores Ball bookplate; copy 2 is bound around Zabarella’s Gli Arronzij and has Staremberg ownership. One digital file is not the reason for counting two."
+        },
+        {
+          "title": "Morgan Library · Musaeum historicum et physicum, 1640",
+          "url": "https://www.themorgan.org/printed-books/346179",
+          "type": "institutional holding",
+          "institution": "The Morgan Library & Museum",
+          "callNumber": "PML 195921",
+          "copies": 1,
+          "note": "Gordon N. Ray bequest; two parts in one volume. Part II colophon dated 1639 within the 1640 issue."
+        },
+        {
+          "title": "Princeton · Huygens provenance copy of Imperiali, 1640",
+          "url": "https://notabilia.blogs.princeton.edu/2011/11/",
+          "type": "institutional copy description",
+          "institution": "Princeton University Library",
+          "callNumber": "(EX), acquired October 2012; title-page inscription Constanter 1650",
+          "copies": 1,
+          "note": "Institutional provenance report explicitly identifies Venice, Apud Juntas, 1640; completeness not stated."
+        },
+        {
+          "title": "Linda Hall Library · portrait from its Imperiali 1640 book",
+          "url": "https://www.lindahall.org/about/news/scientist-of-the-day/roberto-bellarmine/",
+          "type": "institutional copy exhibition",
+          "institution": "Linda Hall Library",
+          "copies": 1,
+          "note": "Library identifies a Bellarmine portrait from its Musaeum historicum et physicum of 1640. Both-part completeness is not established by the article."
+        }
+      ],
+      "editionRelationship": "Venice, Apud Juntas, 1640 edition, with Musaeum physicum colophon dated 1639; minimum includes copies not fully collated in this pass.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved",
+      "sharedEditionKey": "imperiali-musaeum-venice-juntas-1640"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 5 documented copies · upper bound unknown",
+        "summary": "Five physical institutional copies are documented: two at Getty and one each at Morgan, Princeton and Linda Hall. Getty’s two copies have distinct bindings and provenance. The evidence does not confirm both-part completeness for Princeton or Linda Hall. This same edition-level evidence applies to two family cards and must not be added twice in a worldwide total. No worldwide census or original print run was found.",
+        "confidence": "medium",
+        "editionRelation": "Venice, Apud Juntas, 1640 edition, with Musaeum physicum colophon dated 1639; minimum includes copies not fully collated in this pass.",
+        "sources": [
+          {
+            "title": "Getty Research Institute · Musaeum historicum et physicum · two physical copies",
+            "url": "https://archive.org/details/musaeumhistoricu00impe",
+            "type": "institutional source-copy digitization and copy notes",
+            "institution": "Getty Research Institute",
+            "callNumber": "9925275640001551, copies 1 and 2",
+            "copies": 2,
+            "note": "Getty describes two different bindings and provenance: copy 1 has James Moores Ball bookplate; copy 2 is bound around Zabarella’s Gli Arronzij and has Staremberg ownership. One digital file is not the reason for counting two."
+          },
+          {
+            "title": "Morgan Library · Musaeum historicum et physicum, 1640",
+            "url": "https://www.themorgan.org/printed-books/346179",
+            "type": "institutional holding",
+            "institution": "The Morgan Library & Museum",
+            "callNumber": "PML 195921",
+            "copies": 1,
+            "note": "Gordon N. Ray bequest; two parts in one volume. Part II colophon dated 1639 within the 1640 issue."
+          },
+          {
+            "title": "Princeton · Huygens provenance copy of Imperiali, 1640",
+            "url": "https://notabilia.blogs.princeton.edu/2011/11/",
+            "type": "institutional copy description",
+            "institution": "Princeton University Library",
+            "callNumber": "(EX), acquired October 2012; title-page inscription Constanter 1650",
+            "copies": 1,
+            "note": "Institutional provenance report explicitly identifies Venice, Apud Juntas, 1640; completeness not stated."
+          },
+          {
+            "title": "Linda Hall Library · portrait from its Imperiali 1640 book",
+            "url": "https://www.lindahall.org/about/news/scientist-of-the-day/roberto-bellarmine/",
+            "type": "institutional copy exhibition",
+            "institution": "Linda Hall Library",
+            "copies": 1,
+            "note": "Library identifies a Bellarmine portrait from its Musaeum historicum et physicum of 1640. Both-part completeness is not established by the article."
+          }
+        ]
+      }
+    ],
+    "researchExclusions": [
+      {
+        "source": "https://search.worldcat.org/oclc/24198782",
+        "reason": "Microfiche manifestation excluded."
+      },
+      {
+        "source": "https://www.lombardiabeniculturali.it/stampe/schede/H0450-66892/",
+        "reason": "Detached portrait print record does not establish a surviving complete book."
+      }
+    ]
+  },
+  {
+    "id": "wee1fc94407e6",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Dialogo sopra la generatione de venti, baleni, tuoni, fulgori, fiumi, laghi, valli e montagne",
+      "checkedFields": [
+        {
+          "field": "Author and title",
+          "catalogue": "Camillo Agrippa; Dialogo sopra la generatione de Venti…",
+          "source": "Same Camillo Agrippa and full meteorological dialogue title"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Roma, Bartholomeo Bonfadino & Tito Diani, 1584",
+          "source": "Same Roman publishers and 1584 date"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "47 pages, 21 cm",
+          "source": "Auction collation 47 [i.e. 46] pages plus final blank; institutional scans described as 46 or 48 pages"
+        }
+      ],
+      "reasoning": "The unusually specific title, author, two publishers and 1584 date agree across three separately credited institutional originals and the specialist description. Apparent 46/47/48 page differences are compatible with misnumbering and treatment of the final blank.",
+      "discrepancies": [
+        "The family card does not state whether the final blank is present. The auction example lacks it; that defect is not transferred to the family copy."
+      ],
+      "sources": [
+        {
+          "title": "Family catalogue card",
+          "url": "originals/00_004_A00000001.pdf#page=9",
+          "type": "original catalogue scan",
+          "note": "Card transcription compared; physical book not inspected."
+        },
+        {
+          "title": "University of California original · Agrippa 1584 digitization",
+          "url": "https://books.google.com/books?id=0kAsAQAAMAAJ",
+          "type": "institutional source-copy digitization",
+          "institution": "University of California",
+          "callNumber": "Google Books source-copy ID 0kAsAQAAMAAJ",
+          "copies": 1,
+          "note": "Google explicitly credits the University of California as the original source; digitized 2011. HathiTrust 010824493 is a mirror, not another copy."
+        },
+        {
+          "title": "Biblioteca Casanatense original · Agrippa 1584 digitization",
+          "url": "https://books.google.com/books?id=fVZc_tRpjigC",
+          "type": "institutional source-copy digitization",
+          "institution": "Biblioteca Casanatense, Rome",
+          "callNumber": "Google Books source-copy ID fVZc_tRpjigC",
+          "copies": 1,
+          "note": "Google identifies original from Casanata Library, Rome; digitized 2016."
+        },
+        {
+          "title": "Sapienza University original · Agrippa 1584 digitization",
+          "url": "https://books.google.com/books?id=x4-T-l6pnPAC",
+          "type": "institutional source-copy digitization",
+          "institution": "Sapienza University of Rome, Biblioteca di Scienze della Terra",
+          "callNumber": "Google Books source-copy ID x4-T-l6pnPAC",
+          "copies": 1,
+          "note": "Google identifies the original institution and digitization in 2013."
+        },
+        {
+          "title": "Arenberg Auctions · 12–13 October 2018, lot 951",
+          "url": "https://my.arenbergauctions.com/catalogue/detail/2463",
+          "type": "specialist auction catalogue",
+          "note": "Describes the exact 1584 Rome edition and attributes strong rarity; no survivor census supplied. Auction copy not added to the institutional minimum."
+        }
+      ],
+      "verificationScope": "Rome, Bartolomeo Bonfadino and Tito Diani, 1584; excludes modern reprints and microfilms.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "medium",
+      "documentedLowerBound": 3,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 3,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "At least three original institutional copies are documented through independently credited source scans: University of California, Casanatense and Sapienza. Google/HathiTrust mirrors count once. BnF’s identified microfilm is excluded, as is the auction copy. This is an open located minimum, not a total population estimate.",
+      "evidence": [
+        {
+          "title": "University of California original · Agrippa 1584 digitization",
+          "url": "https://books.google.com/books?id=0kAsAQAAMAAJ",
+          "type": "institutional source-copy digitization",
+          "institution": "University of California",
+          "callNumber": "Google Books source-copy ID 0kAsAQAAMAAJ",
+          "copies": 1,
+          "note": "Google explicitly credits the University of California as the original source; digitized 2011. HathiTrust 010824493 is a mirror, not another copy."
+        },
+        {
+          "title": "Biblioteca Casanatense original · Agrippa 1584 digitization",
+          "url": "https://books.google.com/books?id=fVZc_tRpjigC",
+          "type": "institutional source-copy digitization",
+          "institution": "Biblioteca Casanatense, Rome",
+          "callNumber": "Google Books source-copy ID fVZc_tRpjigC",
+          "copies": 1,
+          "note": "Google identifies original from Casanata Library, Rome; digitized 2016."
+        },
+        {
+          "title": "Sapienza University original · Agrippa 1584 digitization",
+          "url": "https://books.google.com/books?id=x4-T-l6pnPAC",
+          "type": "institutional source-copy digitization",
+          "institution": "Sapienza University of Rome, Biblioteca di Scienze della Terra",
+          "callNumber": "Google Books source-copy ID x4-T-l6pnPAC",
+          "copies": 1,
+          "note": "Google identifies the original institution and digitization in 2013."
+        }
+      ],
+      "editionRelationship": "Rome, Bartolomeo Bonfadino and Tito Diani, 1584; excludes modern reprints and microfilms.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical source copies. Mirrors and volume parts are deduplicated; former owners, reproductions and family cards are not additional survivors.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 3 documented copies · upper bound unknown",
+        "summary": "At least three original institutional copies are documented through independently credited source scans: University of California, Casanatense and Sapienza. Google/HathiTrust mirrors count once. BnF’s identified microfilm is excluded, as is the auction copy. This is an open located minimum, not a total population estimate.",
+        "confidence": "medium",
+        "editionRelation": "Rome, Bartolomeo Bonfadino and Tito Diani, 1584; excludes modern reprints and microfilms.",
+        "sources": [
+          {
+            "title": "University of California original · Agrippa 1584 digitization",
+            "url": "https://books.google.com/books?id=0kAsAQAAMAAJ",
+            "type": "institutional source-copy digitization",
+            "institution": "University of California",
+            "callNumber": "Google Books source-copy ID 0kAsAQAAMAAJ",
+            "copies": 1,
+            "note": "Google explicitly credits the University of California as the original source; digitized 2011. HathiTrust 010824493 is a mirror, not another copy."
+          },
+          {
+            "title": "Biblioteca Casanatense original · Agrippa 1584 digitization",
+            "url": "https://books.google.com/books?id=fVZc_tRpjigC",
+            "type": "institutional source-copy digitization",
+            "institution": "Biblioteca Casanatense, Rome",
+            "callNumber": "Google Books source-copy ID fVZc_tRpjigC",
+            "copies": 1,
+            "note": "Google identifies original from Casanata Library, Rome; digitized 2016."
+          },
+          {
+            "title": "Sapienza University original · Agrippa 1584 digitization",
+            "url": "https://books.google.com/books?id=x4-T-l6pnPAC",
+            "type": "institutional source-copy digitization",
+            "institution": "Sapienza University of Rome, Biblioteca di Scienze della Terra",
+            "callNumber": "Google Books source-copy ID x4-T-l6pnPAC",
+            "copies": 1,
+            "note": "Google identifies the original institution and digitization in 2013."
+          }
+        ]
+      },
+      {
+        "title": "Specialist rarity assessment",
+        "range": "Rare · attributed market assessment",
+        "summary": "Arenberg’s 2018 lot description calls this exact 1584 first edition a major rarity of sixteenth-century meteorological literature. Treat this as a tentative qualitative signal, not a count of survivors or an appraisal.",
+        "confidence": "low",
+        "editionRelation": "Rome, Bartolomeo Bonfadino and Tito Diani, 1584; excludes modern reprints and microfilms.",
+        "sources": [
+          {
+            "title": "Arenberg Auctions · 12–13 October 2018, lot 951",
+            "url": "https://my.arenbergauctions.com/catalogue/detail/2463",
+            "type": "specialist auction catalogue",
+            "note": "Describes the exact 1584 Rome edition and attributes strong rarity; no survivor census supplied. Auction copy not added to the institutional minimum."
+          }
+        ]
+      }
+    ],
+    "bibliographyAssessment": {
+      "label": "Rare · specialist auction assessment",
+      "assessment": "rare",
+      "confidence": "low",
+      "editionMatchConfidence": "high",
+      "quote": "one of the great rarities of the meteorogical literature of the 16th c.",
+      "sourceName": "Arenberg Auctions, October 2018, lot 951",
+      "sourceUrl": "https://my.arenbergauctions.com/catalogue/detail/2463",
+      "scope": "Rome, Bartolomeo Bonfadino and Tito Diani, 1584; excludes modern reprints and microfilms.",
+      "note": "Attributed market description, not a published census or quantitative estimate.",
+      "checked": "2026-10-17"
+    },
+    "researchExclusions": [
+      {
+        "source": "https://catalogue.bnf.fr/ark:/12148/cb372466207",
+        "reason": "The identified BnF record is an Omnisys microfilm around 1990; its linked Gallica scan cannot be counted as an additional original without tracing the source copy."
+      },
+      {
+        "source": "https://my.arenbergauctions.com/catalogue/detail/2463",
+        "reason": "Auction lot excluded from numerical minimum; present custody and overlap with library copies not established."
+      }
+    ]
+  }
+]

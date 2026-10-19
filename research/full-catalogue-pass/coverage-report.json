@@ -1,0 +1,209 @@
+{
+  "totalRecords": 49780,
+  "localCorpusScreened": 49780,
+  "individualExternalTitlesQueried": 1,
+  "individualExternalTitleApiRequests": 2,
+  "withWorkCandidates": 8338,
+  "workReferenceThumbnailCandidateRecords": 3582,
+  "hostPublicationThumbnailCandidateRecords": 9446,
+  "withHostPublicationCandidates": 9446,
+  "hostOnlyRecords": 7790,
+  "withAnyLead": 16128,
+  "noCandidateInSelectedCorpora": 33652,
+  "newWorkCandidateRecords": 5978,
+  "oldCandidateRecordsNotRetainedByThisPass": 222,
+  "bestWorkCandidateConfidence": {
+    "medium": 3979,
+    "low": 3828,
+    "high": 531
+  },
+  "referenceTypes": {
+    "journal-article": 6170,
+    "cited publication / possible host journal": 9446,
+    "digitized publication": 5240,
+    "possible book review or bibliographic notice": 351
+  },
+  "referenceSources": {
+    "Crossref": 6521,
+    "Internet Archive": 14686
+  },
+  "statuses": {
+    "no_candidate_above_threshold": 33450,
+    "candidate_found": 8338,
+    "host_publication_lead": 7790,
+    "insufficient_searchable_title": 202
+  },
+  "sectionCoverage": {
+    "001": {
+      "workCandidates": 4392,
+      "anyLead": 9243,
+      "hostCandidates": 6258
+    },
+    "005": {
+      "hostCandidates": 3150,
+      "anyLead": 3701,
+      "workCandidates": 798
+    },
+    "007": {
+      "workCandidates": 836,
+      "anyLead": 844,
+      "hostCandidates": 9
+    },
+    "006": {
+      "workCandidates": 1697,
+      "anyLead": 1723,
+      "hostCandidates": 27
+    },
+    "003": {
+      "workCandidates": 241,
+      "anyLead": 243,
+      "hostCandidates": 2
+    },
+    "004": {
+      "workCandidates": 195,
+      "anyLead": 195
+    },
+    "002": {
+      "workCandidates": 179,
+      "anyLead": 179
+    }
+  },
+  "crossrefRetrieval": {
+    "source": "Crossref REST API",
+    "retrievedAt": "2026-10-17",
+    "requests": 93,
+    "itemsRetrieved": 88487,
+    "journals": [
+      {
+        "issn": "0003-3804",
+        "title": "Annalen der Physik",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 28484,
+        "complete": false
+      },
+      {
+        "issn": "0942-9352",
+        "title": "Zeitschrift für Physikalische Chemie",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 16899,
+        "complete": false
+      },
+      {
+        "issn": "0044-2313",
+        "title": "Zeitschrift für anorganische und allgemeine Chemie",
+        "pages": 4,
+        "records": 3245,
+        "totalMatching": 3245,
+        "complete": true
+      },
+      {
+        "issn": "0372-8323",
+        "title": "Zeitschrift für Elektrochemie und angewandte physikalische Chemie",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 12868,
+        "complete": false
+      },
+      {
+        "issn": "2367-1491",
+        "title": "Zeitschrift für Elektrochemie",
+        "pages": 4,
+        "records": 3616,
+        "totalMatching": 3616,
+        "complete": true
+      },
+      {
+        "issn": "0372-8382",
+        "title": "Zeitschrift für Elektrochemie Berichte der Bunsengesellschaft",
+        "pages": 3,
+        "records": 2858,
+        "totalMatching": 2858,
+        "complete": true
+      },
+      {
+        "issn": "0031-8914",
+        "title": "Physica",
+        "pages": 5,
+        "records": 4397,
+        "totalMatching": 4397,
+        "complete": true
+      },
+      {
+        "issn": "0029-6341",
+        "title": "Il Nuovo Cimento",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 11699,
+        "complete": false
+      },
+      {
+        "issn": "0368-3842",
+        "title": "Journal de Physique et le Radium",
+        "pages": 5,
+        "records": 4516,
+        "totalMatching": 4516,
+        "complete": true
+      },
+      {
+        "issn": "0031-899X",
+        "title": "Physical Review",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 36442,
+        "complete": false
+      },
+      {
+        "issn": "0002-7863",
+        "title": "Journal of the American Chemical Society",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 66151,
+        "complete": false
+      },
+      {
+        "issn": "0022-3654",
+        "title": "Journal of Physical Chemistry",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 8437,
+        "complete": false
+      },
+      {
+        "issn": "0941-1216",
+        "title": "Journal für praktische Chemie",
+        "pages": 1,
+        "records": 0,
+        "totalMatching": 0,
+        "complete": true
+      },
+      {
+        "issn": "0013-4651",
+        "title": "Journal of The Electrochemical Society",
+        "pages": 5,
+        "records": 4350,
+        "totalMatching": 4350,
+        "complete": true
+      },
+      {
+        "issn": "0034-6861",
+        "title": "Reviews of Modern Physics",
+        "pages": 2,
+        "records": 1505,
+        "totalMatching": 1505,
+        "complete": true
+      },
+      {
+        "issn": "0028-0836",
+        "title": "Nature",
+        "pages": 8,
+        "records": 8000,
+        "totalMatching": 208617,
+        "complete": false
+      }
+    ],
+    "scope": "Bounded historical article corpus. Up to 8000 metadata records per selected journal dated1600–1965, in API default order. Not individual searches for every family record."
+  },
+  "validation": "PASS: complete record coverage, distinct relationship types, no automatic verified flags, no scan-to-survivor conversions, and complete image/source provenance fields."
+}

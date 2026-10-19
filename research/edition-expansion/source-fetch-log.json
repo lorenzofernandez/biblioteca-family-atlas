@@ -1,0 +1,19 @@
+{
+  "checked": "2026-10-17",
+  "requested": 2904,
+  "returned": 2893,
+  "failures": {
+    "memoirespresente235acad": "The read operation timed out",
+    "bub_gb_ZGQSAAAAIAAJ": "The read operation timed out",
+    "experiencesdeph00poligoog": "The read operation timed out",
+    "BIUSante_46776x11": "The read operation timed out",
+    "bub_gb_olLPAAAAMAAJ": "Source identifier missing or differs from requested record",
+    "statisticalmecha029112mbp": "The read operation timed out",
+    "premierslmentsd00regngoog": "The read operation timed out",
+    "b22331062": "The read operation timed out",
+    "b30368376": "The read operation timed out",
+    "historyoftheorie00whitrich": "Source identifier missing or differs from requested record",
+    "newyorkmedicalpr3186kier": "The read operation timed out"
+  },
+  "method": "Direct item metadata endpoints; identifier validated. Batch-search responses rejected because response identifiers did not match requests."
+}

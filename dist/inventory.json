@@ -1,0 +1,737 @@
+[
+  {
+    "file": "00_001_A00000001.pdf",
+    "pages": 816,
+    "section": "001"
+  },
+  {
+    "file": "00_001_B00000001.pdf",
+    "pages": 3037,
+    "section": "001"
+  },
+  {
+    "file": "00_001_C00000001.pdf",
+    "pages": 1655,
+    "section": "001"
+  },
+  {
+    "file": "00_001_D00000001.pdf",
+    "pages": 1495,
+    "section": "001"
+  },
+  {
+    "file": "00_001_E00000001.pdf",
+    "pages": 600,
+    "section": "001"
+  },
+  {
+    "file": "00_001_F00000001.pdf",
+    "pages": 955,
+    "section": "001"
+  },
+  {
+    "file": "00_001_G00000001.pdf",
+    "pages": 1692,
+    "section": "001"
+  },
+  {
+    "file": "00_001_H00000001.pdf",
+    "pages": 1244,
+    "section": "001"
+  },
+  {
+    "file": "00_001_I00000001.pdf",
+    "pages": 139,
+    "section": "001"
+  },
+  {
+    "file": "00_001_J-K00000001.pdf",
+    "pages": 1417,
+    "section": "001"
+  },
+  {
+    "file": "00_001_L00000001.pdf",
+    "pages": 1595,
+    "section": "001"
+  },
+  {
+    "file": "00_001_M00000001.pdf",
+    "pages": 1763,
+    "section": "001"
+  },
+  {
+    "file": "00_001_N00000001.pdf",
+    "pages": 448,
+    "section": "001"
+  },
+  {
+    "file": "00_001_O00000001.pdf",
+    "pages": 262,
+    "section": "001"
+  },
+  {
+    "file": "00_001_P00000001.pdf",
+    "pages": 1821,
+    "section": "001"
+  },
+  {
+    "file": "00_001_Q00000001.pdf",
+    "pages": 73,
+    "section": "001"
+  },
+  {
+    "file": "00_001_R00000001.pdf",
+    "pages": 1323,
+    "section": "001"
+  },
+  {
+    "file": "00_001_S00000001.pdf",
+    "pages": 2347,
+    "section": "001"
+  },
+  {
+    "file": "00_001_T00000001.pdf",
+    "pages": 730,
+    "section": "001"
+  },
+  {
+    "file": "00_001_U00000001.pdf",
+    "pages": 98,
+    "section": "001"
+  },
+  {
+    "file": "00_001_V00000001.pdf",
+    "pages": 889,
+    "section": "001"
+  },
+  {
+    "file": "00_001_W00000001.pdf",
+    "pages": 940,
+    "section": "001"
+  },
+  {
+    "file": "00_001_X-Y00000001.pdf",
+    "pages": 37,
+    "section": "001"
+  },
+  {
+    "file": "00_001_Z00000001.pdf",
+    "pages": 185,
+    "section": "001"
+  },
+  {
+    "file": "00_002_A00000001.pdf",
+    "pages": 111,
+    "section": "002"
+  },
+  {
+    "file": "00_002_B00000001.pdf",
+    "pages": 72,
+    "section": "002"
+  },
+  {
+    "file": "00_002_C00000001.pdf",
+    "pages": 42,
+    "section": "002"
+  },
+  {
+    "file": "00_002_D00000001.pdf",
+    "pages": 35,
+    "section": "002"
+  },
+  {
+    "file": "00_002_E00000001.pdf",
+    "pages": 16,
+    "section": "002"
+  },
+  {
+    "file": "00_002_F00000001.pdf",
+    "pages": 24,
+    "section": "002"
+  },
+  {
+    "file": "00_002_G00000001.pdf",
+    "pages": 36,
+    "section": "002"
+  },
+  {
+    "file": "00_002_H00000001.pdf",
+    "pages": 23,
+    "section": "002"
+  },
+  {
+    "file": "00_002_I00000001.pdf",
+    "pages": 2,
+    "section": "002"
+  },
+  {
+    "file": "00_002_J-K00000001.pdf",
+    "pages": 5,
+    "section": "002"
+  },
+  {
+    "file": "00_002_L00000001.pdf",
+    "pages": 32,
+    "section": "002"
+  },
+  {
+    "file": "00_002_M00000001.pdf",
+    "pages": 48,
+    "section": "002"
+  },
+  {
+    "file": "00_002_N00000001.pdf",
+    "pages": 20,
+    "section": "002"
+  },
+  {
+    "file": "00_002_O00000001.pdf",
+    "pages": 9,
+    "section": "002"
+  },
+  {
+    "file": "00_002_P00000001.pdf",
+    "pages": 35,
+    "section": "002"
+  },
+  {
+    "file": "00_002_R00000001.pdf",
+    "pages": 43,
+    "section": "002"
+  },
+  {
+    "file": "00_002_S00000001.pdf",
+    "pages": 41,
+    "section": "002"
+  },
+  {
+    "file": "00_002_T00000001.pdf",
+    "pages": 16,
+    "section": "002"
+  },
+  {
+    "file": "00_002_U00000001.pdf",
+    "pages": 2,
+    "section": "002"
+  },
+  {
+    "file": "00_002_V00000001.pdf",
+    "pages": 15,
+    "section": "002"
+  },
+  {
+    "file": "00_002_W00000001.pdf",
+    "pages": 1,
+    "section": "002"
+  },
+  {
+    "file": "00_002_Z00000001.pdf",
+    "pages": 4,
+    "section": "002"
+  },
+  {
+    "file": "00_003_ATLANTI00000001.pdf",
+    "pages": 38,
+    "section": "003"
+  },
+  {
+    "file": "00_003_PERIODICI00000001.pdf",
+    "pages": 434,
+    "section": "003"
+  },
+  {
+    "file": "00_003_SCOMPLETI-SEZ-300000001.pdf",
+    "pages": 300,
+    "section": "003"
+  },
+  {
+    "file": "00_003_TESI00000001.pdf",
+    "pages": 467,
+    "section": "003"
+  },
+  {
+    "file": "00_004_A00000001.pdf",
+    "pages": 28,
+    "section": "004"
+  },
+  {
+    "file": "00_004_B00000001.pdf",
+    "pages": 89,
+    "section": "004"
+  },
+  {
+    "file": "00_004_C00000001.pdf",
+    "pages": 63,
+    "section": "004"
+  },
+  {
+    "file": "00_004_D00000001.pdf",
+    "pages": 40,
+    "section": "004"
+  },
+  {
+    "file": "00_004_E00000001.pdf",
+    "pages": 18,
+    "section": "004"
+  },
+  {
+    "file": "00_004_F00000001.pdf",
+    "pages": 29,
+    "section": "004"
+  },
+  {
+    "file": "00_004_G00000001.pdf",
+    "pages": 54,
+    "section": "004"
+  },
+  {
+    "file": "00_004_H00000001.pdf",
+    "pages": 24,
+    "section": "004"
+  },
+  {
+    "file": "00_004_I00000001.pdf",
+    "pages": 5,
+    "section": "004"
+  },
+  {
+    "file": "00_004_J-K00000001.pdf",
+    "pages": 22,
+    "section": "004"
+  },
+  {
+    "file": "00_004_L00000001.pdf",
+    "pages": 52,
+    "section": "004"
+  },
+  {
+    "file": "00_004_M00000001.pdf",
+    "pages": 52,
+    "section": "004"
+  },
+  {
+    "file": "00_004_MMS00000001.pdf",
+    "pages": 54,
+    "section": "004"
+  },
+  {
+    "file": "00_004_N00000001.pdf",
+    "pages": 5,
+    "section": "004"
+  },
+  {
+    "file": "00_004_O00000001.pdf",
+    "pages": 3,
+    "section": "004"
+  },
+  {
+    "file": "00_004_P00000001.pdf",
+    "pages": 64,
+    "section": "004"
+  },
+  {
+    "file": "00_004_Q00000001.pdf",
+    "pages": 4,
+    "section": "004"
+  },
+  {
+    "file": "00_004_R00000001.pdf",
+    "pages": 38,
+    "section": "004"
+  },
+  {
+    "file": "00_004_S00000001.pdf",
+    "pages": 49,
+    "section": "004"
+  },
+  {
+    "file": "00_004_T00000001.pdf",
+    "pages": 23,
+    "section": "004"
+  },
+  {
+    "file": "00_004_U00000001.pdf",
+    "pages": 2,
+    "section": "004"
+  },
+  {
+    "file": "00_004_V00000001.pdf",
+    "pages": 16,
+    "section": "004"
+  },
+  {
+    "file": "00_004_W00000001.pdf",
+    "pages": 13,
+    "section": "004"
+  },
+  {
+    "file": "00_004_Z00000001.pdf",
+    "pages": 3,
+    "section": "004"
+  },
+  {
+    "file": "00_005_A00000001.pdf",
+    "pages": 363,
+    "section": "005"
+  },
+  {
+    "file": "00_005_B00000001.pdf",
+    "pages": 1137,
+    "section": "005"
+  },
+  {
+    "file": "00_005_C00000001.pdf",
+    "pages": 814,
+    "section": "005"
+  },
+  {
+    "file": "00_005_D00000001.pdf",
+    "pages": 977,
+    "section": "005"
+  },
+  {
+    "file": "00_005_E00000001.pdf",
+    "pages": 206,
+    "section": "005"
+  },
+  {
+    "file": "00_005_F00000001.pdf",
+    "pages": 334,
+    "section": "005"
+  },
+  {
+    "file": "00_005_G00000001.pdf",
+    "pages": 525,
+    "section": "005"
+  },
+  {
+    "file": "00_005_H00000001.pdf",
+    "pages": 342,
+    "section": "005"
+  },
+  {
+    "file": "00_005_I00000001.pdf",
+    "pages": 37,
+    "section": "005"
+  },
+  {
+    "file": "00_005_J-K00000001.pdf",
+    "pages": 213,
+    "section": "005"
+  },
+  {
+    "file": "00_005_L00000001.pdf",
+    "pages": 790,
+    "section": "005"
+  },
+  {
+    "file": "00_005_M00000001.pdf",
+    "pages": 978,
+    "section": "005"
+  },
+  {
+    "file": "00_005_N00000001.pdf",
+    "pages": 263,
+    "section": "005"
+  },
+  {
+    "file": "00_005_O00000001.pdf",
+    "pages": 112,
+    "section": "005"
+  },
+  {
+    "file": "00_005_P00000001.pdf",
+    "pages": 702,
+    "section": "005"
+  },
+  {
+    "file": "00_005_Q00000001.pdf",
+    "pages": 19,
+    "section": "005"
+  },
+  {
+    "file": "00_005_R00000001.pdf",
+    "pages": 387,
+    "section": "005"
+  },
+  {
+    "file": "00_005_S00000001.pdf",
+    "pages": 996,
+    "section": "005"
+  },
+  {
+    "file": "00_005_T00000001.pdf",
+    "pages": 262,
+    "section": "005"
+  },
+  {
+    "file": "00_005_U00000001.pdf",
+    "pages": 18,
+    "section": "005"
+  },
+  {
+    "file": "00_005_V00000001.pdf",
+    "pages": 329,
+    "section": "005"
+  },
+  {
+    "file": "00_005_W00000001.pdf",
+    "pages": 188,
+    "section": "005"
+  },
+  {
+    "file": "00_005_X-Y00000001.pdf",
+    "pages": 3,
+    "section": "005"
+  },
+  {
+    "file": "00_005_Z00000001.pdf",
+    "pages": 63,
+    "section": "005"
+  },
+  {
+    "file": "00_006_A00000001.pdf",
+    "pages": 271,
+    "section": "006"
+  },
+  {
+    "file": "00_006_B00000001.pdf",
+    "pages": 982,
+    "section": "006"
+  },
+  {
+    "file": "00_006_C00000001.pdf",
+    "pages": 575,
+    "section": "006"
+  },
+  {
+    "file": "00_006_D00000001.pdf",
+    "pages": 428,
+    "section": "006"
+  },
+  {
+    "file": "00_006_E00000001.pdf",
+    "pages": 210,
+    "section": "006"
+  },
+  {
+    "file": "00_006_F00000001.pdf",
+    "pages": 382,
+    "section": "006"
+  },
+  {
+    "file": "00_006_G00000001.pdf",
+    "pages": 490,
+    "section": "006"
+  },
+  {
+    "file": "00_006_H00000001.pdf",
+    "pages": 484,
+    "section": "006"
+  },
+  {
+    "file": "00_006_I00000001.pdf",
+    "pages": 74,
+    "section": "006"
+  },
+  {
+    "file": "00_006_J-K00000001.pdf",
+    "pages": 494,
+    "section": "006"
+  },
+  {
+    "file": "00_006_L00000001.pdf",
+    "pages": 467,
+    "section": "006"
+  },
+  {
+    "file": "00_006_M00000001.pdf",
+    "pages": 688,
+    "section": "006"
+  },
+  {
+    "file": "00_006_N00000001.pdf",
+    "pages": 161,
+    "section": "006"
+  },
+  {
+    "file": "00_006_O00000001.pdf",
+    "pages": 111,
+    "section": "006"
+  },
+  {
+    "file": "00_006_P00000001.pdf",
+    "pages": 578,
+    "section": "006"
+  },
+  {
+    "file": "00_006_Q00000001.pdf",
+    "pages": 17,
+    "section": "006"
+  },
+  {
+    "file": "00_006_R00000001.pdf",
+    "pages": 481,
+    "section": "006"
+  },
+  {
+    "file": "00_006_S00000001.pdf",
+    "pages": 780,
+    "section": "006"
+  },
+  {
+    "file": "00_006_T00000001.pdf",
+    "pages": 370,
+    "section": "006"
+  },
+  {
+    "file": "00_006_U00000001.pdf",
+    "pages": 44,
+    "section": "006"
+  },
+  {
+    "file": "00_006_V00000001.pdf",
+    "pages": 189,
+    "section": "006"
+  },
+  {
+    "file": "00_006_W00000001.pdf",
+    "pages": 346,
+    "section": "006"
+  },
+  {
+    "file": "00_006_X-Y00000001.pdf",
+    "pages": 22,
+    "section": "006"
+  },
+  {
+    "file": "00_006_Z00000001.pdf",
+    "pages": 79,
+    "section": "006"
+  },
+  {
+    "file": "00_007_A00000001.pdf",
+    "pages": 100,
+    "section": "007"
+  },
+  {
+    "file": "00_007_B00000001.pdf",
+    "pages": 360,
+    "section": "007"
+  },
+  {
+    "file": "00_007_C00000001.pdf",
+    "pages": 213,
+    "section": "007"
+  },
+  {
+    "file": "00_007_D00000001.pdf",
+    "pages": 163,
+    "section": "007"
+  },
+  {
+    "file": "00_007_E00000001.pdf",
+    "pages": 39,
+    "section": "007"
+  },
+  {
+    "file": "00_007_F00000001.pdf",
+    "pages": 152,
+    "section": "007"
+  },
+  {
+    "file": "00_007_G00000001.pdf",
+    "pages": 145,
+    "section": "007"
+  },
+  {
+    "file": "00_007_H00000001.pdf",
+    "pages": 104,
+    "section": "007"
+  },
+  {
+    "file": "00_007_I00000001.pdf",
+    "pages": 14,
+    "section": "007"
+  },
+  {
+    "file": "00_007_J-K00000001.pdf",
+    "pages": 55,
+    "section": "007"
+  },
+  {
+    "file": "00_007_L00000001.pdf",
+    "pages": 185,
+    "section": "007"
+  },
+  {
+    "file": "00_007_M00000001.pdf",
+    "pages": 272,
+    "section": "007"
+  },
+  {
+    "file": "00_007_N00000001.pdf",
+    "pages": 66,
+    "section": "007"
+  },
+  {
+    "file": "00_007_O00000001.pdf",
+    "pages": 14,
+    "section": "007"
+  },
+  {
+    "file": "00_007_P00000001.pdf",
+    "pages": 257,
+    "section": "007"
+  },
+  {
+    "file": "00_007_Q00000001.pdf",
+    "pages": 2,
+    "section": "007"
+  },
+  {
+    "file": "00_007_R00000001.pdf",
+    "pages": 125,
+    "section": "007"
+  },
+  {
+    "file": "00_007_S00000001.pdf",
+    "pages": 222,
+    "section": "007"
+  },
+  {
+    "file": "00_007_SCOMPLETI00000001.pdf",
+    "pages": 51,
+    "section": "007"
+  },
+  {
+    "file": "00_007_T00000001.pdf",
+    "pages": 99,
+    "section": "007"
+  },
+  {
+    "file": "00_007_U00000001.pdf",
+    "pages": 3,
+    "section": "007"
+  },
+  {
+    "file": "00_007_V00000001.pdf",
+    "pages": 86,
+    "section": "007"
+  },
+  {
+    "file": "00_007_W00000001.pdf",
+    "pages": 60,
+    "section": "007"
+  },
+  {
+    "file": "00_007_X-Y00000001.pdf",
+    "pages": 8,
+    "section": "007"
+  },
+  {
+    "file": "00_007_Z00000001.pdf",
+    "pages": 22,
+    "section": "007"
+  }
+]

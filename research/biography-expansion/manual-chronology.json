@@ -1,0 +1,88 @@
+{
+  "reviewedAt": "2026-10-19",
+  "method": "Source-grounded biographies and identity corrections checked against the linked catalogue publications, their chronology, subjects and collaborators. Original catalogue headings remain aliases. This research file does not change the published data.",
+  "entries": [
+    {
+      "authorIds": ["ad6ea388c468c"],
+      "name": "Julius Elster",
+      "birth": 1854,
+      "death": 1920,
+      "lifeLabel": "1854–1920",
+      "origins": ["Germany"],
+      "short": "German experimental physicist who investigated photoelectricity, atmospheric electricity and radioactivity with Hans Geitel.",
+      "biography": "Julius Elster was a German physicist whose long collaboration with Hans Geitel joined school teaching to internationally important experimental research. The two had known each other since childhood and studied at Heidelberg and Berlin. From 1881 Elster taught in Wolfenbüttel, where they equipped a private laboratory and conducted experiments alongside their teaching. They investigated the electrical effects of light, developed photoelectric apparatus and studied how heated electrodes emit electrical charge. Their work also extended to atmospheric electricity and, after the discovery of radioactivity, to radiation and electrical conduction in gases. The collection preserves these connected interests in papers on light-sensitive surfaces, Sonnblick atmospheric observations and Becquerel rays. Their jointly signed 1894 Nature letter documents the same research partnership and publication programme. These cards belong to Julius Elster, rather than the twentieth-century social theorist Jon Elster.",
+      "sources": [
+        {"title": "Brockhaus: Julius Elster", "url": "https://brockhaus.de/ecs/enzy/article/elster-julius"},
+        {"title": "J. Elster and H. Geitel, Photo-Electric Phenomena, Nature 50 (1894), 451–452", "url": "https://www.nature.com/articles/050451a0"},
+        {"title": "Nature obituary of Hans Geitel: his lifelong collaboration with Julius Elster", "url": "https://www.nature.com/articles/113432b0.pdf"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The linked 1889–1900 physics papers repeatedly name H. Geitel and concern photoelectricity, atmospheric electricity and Becquerel rays. Elster and Geitel's contemporary Nature letter independently identifies this partnership and research programme. Jon Elster, born in 1940, is incompatible with both chronology and subject.",
+      "wikidata": "Q75153",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": ["acb1e8f54f151"],
+      "name": "Michele La Rosa",
+      "birth": 1880,
+      "death": 1933,
+      "lifeLabel": "1880–1933",
+      "origins": ["Italy"],
+      "short": "Italian experimental physicist known for electrical-arc spectroscopy, thermoelectricity and debates about the propagation of light.",
+      "biography": "Michele La Rosa was a Palermo-born physicist who studied under Damiano Macaluso and spent most of his career at the University of Palermo. After graduating in 1902 and working briefly in Florence, he returned as an assistant and became professor of experimental physics in 1914. His experiments examined electrical arcs, the spectra of carbon, thermoelectric effects and the electrical behaviour of metals in magnetic fields. He combined skilled laboratory work with an interest in the foundations of physical theory. During the 1920s he explored a ballistic theory of light and used variable stars to argue against aspects of Einstein's relativity. These were historically significant proposals, not accepted modern explanations. His 1924 paper on Mira Ceti appears in this catalogue. He later became rector of Palermo and directed the physics section of the Enciclopedia Italiana until his death.",
+      "sources": [
+        {"title": "Pietro Nastasi, Michele La Rosa, Dizionario Biografico degli Italiani (2004)", "url": "https://www.treccani.it/enciclopedia/michele-la-rosa_(Dizionario-Biografico)/"},
+        {"title": "Michele La Rosa, Enciclopedia Italiana (1933)", "url": "https://www.treccani.it/enciclopedia/michele-la-rosa_(Enciclopedia-Italiana)/"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The DBI bibliography matches the exact 1924 Mira Ceti title on card w48c0dc07cecd. Its account of singing arcs, the Peltier effect and metals also matches the remaining linked works. The previously selected Spanish military writer born in 1939 is unrelated. One transcribed year, 1809, needs separate card review.",
+      "wikidata": "Q18814538",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": ["a1b0cbe30d372"],
+      "name": "Marc Lefort",
+      "birth": 1922,
+      "death": 2021,
+      "lifeLabel": "1922–2021",
+      "origins": ["France"],
+      "short": "French radiation chemist and nuclear scientist who became the first director of the GANIL heavy-ion laboratory.",
+      "biography": "Marc Lefort was a French chemist whose research moved from the effects of radiation on water to the structure and reactions of atomic nuclei. Recruited to the CNRS by Irène Joliot-Curie in 1946, he worked at the Institut du radium with Moïse Haïssinsky and Paul Bonét-Maury. His early studies examined the chemical changes produced by ionizing radiation in water and aqueous solutions, the subject of the papers preserved here. In 1957 he moved to the nuclear-physics institute at Orsay and established a nuclear-chemistry division. He became a professor at Orsay in 1963 and helped develop heavy-ion research and the ALICE accelerator. He subsequently led construction of GANIL at Caen and served as its first director from 1975 to 1982. The French Physical Society awarded him the Félix Robin prize in 1982.",
+      "sources": [
+        {"title": "GANIL: Décès de Marc Lefort, premier directeur du GANIL", "url": "https://www.ganil-spiral2.eu/fr/2021/01/18/deces-marc-lefort-premier-directeur-du-ganil/"},
+        {"title": "Société Chimique de France: Marc Lefort, radiation-chemistry career and collaborators", "url": "https://new.societechimiquedefrance.fr/wp-content/uploads/2021/03/2021-460-461-mostafavi2-hd.pdf"},
+        {"title": "Reflets de la physique 69 (2021), p. 46: Marc Lefort (1922–2021)", "url": "https://www.refletsdelaphysique.fr/articles/refdp/pdf/2021/02/refdp2021-69.pdf"},
+        {"title": "Journal of Radiation Research bibliography: Anta and Lefort's 1954 water-decomposition study", "url": "https://www.jstage.jst.go.jp/article/jrr1960/32/3/32_3_286/_pdf/-char/en"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The exact 1954 title Décomposition de l'eau par les rayons alpha du polonium is independently cited to M.-C. Anta and M. Lefort. The institutional and chemical-society obituaries establish Marc Lefort's 1946–1957 aqueous-radiation research and the same collaborators found on the catalogue cards. Marc Lesort, born in 1948, was a mistaken name match.",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": ["a1a8caba10a22"],
+      "name": "Agostinho Vicente Lourenço",
+      "birth": 1822,
+      "death": 1893,
+      "lifeLabel": "1822–1893",
+      "origins": ["Portugal", "India"],
+      "short": "Goa-born Portuguese chemist whose work on polyfunctional compounds anticipated later polymer chemistry.",
+      "biography": "Agostinho Vicente Lourenço was born in Goa, then under Portuguese administration, and first trained in medicine. After teaching at the medical school in Nova Goa, he travelled to Europe and shifted toward chemistry. He studied in Paris and worked in laboratories associated with Justus von Liebig, August Wilhelm Hofmann and Charles-Adolphe Wurtz. His research in Wurtz's laboratory examined compounds capable of combining through several reactive groups. Experiments on glycols and related substances described stepwise condensation processes that later historians, including polymer chemist Paul Flory, recognized as precursors of polymer chemistry. The collection holds his 1862 Paris doctoral thesis, Recherches sur les composés polyatomiques. Returning to Portugal, he taught organic and analytical chemistry at Lisbon's Polytechnic School and helped improve its laboratory equipment and experimental teaching. He also investigated Portuguese mineral waters.",
+      "sources": [
+        {"title": "Bernardo J. Herold, Agostinho Vicente Lourenço, CIUHCT Dictionary of the History of Science", "url": "https://dicionario.ciuhct.org/lourenco-agostinho-vicente/"},
+        {"title": "Historical French doctoral-thesis catalogue: Lourenço, Recherches sur les composés polyatomiques, 22 December 1862", "url": "https://core.ac.uk/download/pdf/50562809.pdf"},
+        {"title": "Academia das Ciências de Lisboa: Bernardo Jerosch Herold on Lourenço's early condensation-polymer research", "url": "https://comum.rcaap.pt/bitstreams/dcb403c6-004a-428f-bc48-305a09746210/download"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The historical doctoral catalogue names Lourenço, Agostino-Vicente, with the exact thesis title and 22 December 1862 defence date transcribed on card w086d583a6c40. Current scholarly biographies confirm the chemist and research. The previously selected twentieth-century writer Manuel António dos Santos Lourenço is unrelated.",
+      "resetIdentity": true
+    }
+  ],
+  "held": [],
+  "reviewNotes": [
+    "All four entries correct wrongly selected identities. Clear biographies, dates, origins, portraits and image attribution inherited from the rejected person before applying the replacement. Preserve the original catalogue headings as aliases.",
+    "Michele La Rosa: card w653edaa75d8c has a transcribed publication year of 1809 for a Peltier-effect paper. This is inconsistent with the securely matched author and linked twentieth-century works; probably 1909, but inspect the scan before changing the record. A single erroneous date must not block the supported identity.",
+    "Agostinho Vicente Lourenço: the older French thesis catalogue gives 1826 as his birth year, whereas the modern specialist CIUHCT biography and Portuguese Academy history give 1822. This entry follows those specialist historical studies; the exact thesis match makes the identity secure despite the date discrepancy.",
+    "Julius Elster and Marc Lefort have conflicting exact death dates in some secondary accounts. This file deliberately uses the consistently supported birth and death years.",
+    "Wikidata IDs were retained only for the verified Julius Elster and Michele La Rosa identities. No QID is supplied for Marc Lefort or Agostinho Vicente Lourenço; neither should inherit the previous person's identifier."
+  ]
+}

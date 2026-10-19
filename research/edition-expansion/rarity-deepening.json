@@ -1,0 +1,1002 @@
+{
+  "w5479c5ae293e": {
+    "id": "w5479c5ae293e",
+    "catalogueTitle": "oyens de remédier aux poisons végétaux, ceux qui sont produits par les substances métalliques et au venin animaux Paris, Chez Flrmin Dldot, 1811",
+    "catalogueYear": 1811,
+    "edition": "B. G. Sage, Moyens de remédier aux poisons végétaux… Paris: Firmin Didot, 1811, first edition, v,83 pages.",
+    "editionConfidence": "high",
+    "editionComparison": "The family record gives v,83 pages, matching the first edition. The second edition carries a different title-page address, an explicit second-edition statement, and additional material.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "The author reports an original first-edition print run of 500 copies. This supplies a conditional maximum for originals, not a survival rate."
+    },
+    "survivalEvidence": {
+      "type": "conditional_print_run_ceiling",
+      "lowerBound": 1,
+      "upperBound": 500,
+      "confidence": "low",
+      "interpretation": "One or more documented surviving copies; at most 500 original first-edition copies if the author’s stated print run was exhaustive. This is a conditional 1–500 bound, not an estimate of how many survive.",
+      "assumptions": [
+        "The family copy is the 1811 first edition, supported byv,83 pagination.",
+        "The author’s statement describes the entire first-edition printing, with no unrecorded additional impression.",
+        "The upper bound excludes later editions, facsimiles and modern reproductions.",
+        "No survival rate is inferred;500 must not be displayed as the number of surviving copies."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Sage,1811 second-edition preface, p.vii (Royal College of Physicians digitization)",
+        "url": "https://archive.org/details/b28407441",
+        "claim": "Sage states that he had the first edition printed in 500 copies and distributed them free.",
+        "claimType": "primary historical print-run statement",
+        "checkedAt": "2026-10-17",
+        "quotation": "j’ai distribué gratuitement la première édition de cet ouvrage, que j’avais fait tirer à cinq cents exemplaires."
+      },
+      {
+        "title": "Wellcome Collection: first-edition digitization",
+        "url": "https://wellcomecollection.org/works/mzgfnv9d",
+        "claim": "The 1811 first edition is represented by Wellcome digitization b 30390874. The first-edition OCR ends the preliminaries atv and has 83 numbered pages.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17"
+      },
+      {
+        "title": "Internet Archive: first-edition scan",
+        "url": "https://archive.org/details/b30390874",
+        "claim": "First-edition title page and pagination support the family catalogue identification.",
+        "claimType": "digitized edition",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "originalPrintRun": {
+      "copies": 500,
+      "confidence": "high",
+      "basis": "Author’s own 1811 preface to the second edition, p.vii."
+    }
+  },
+  "w527e11650b83": {
+    "id": "w527e11650b83",
+    "catalogueTitle": "Phoronomia, sive de viribus et motibus corporum solidorum et fluidorum libri duo Amstelodami, Apud Rod. & Gerth.Wetstenios H.F 1716",
+    "catalogueYear": 1716,
+    "edition": "Jacob Hermann, Phoronomia. Amsterdam: Rod. & Gerh.Wetstenios,1716.",
+    "editionConfidence": "high",
+    "editionComparison": "Family author/title/year/imprint agree with the institutional descriptions. Multiple distinct shelfmarks are counted once each.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "A specialist dealer describes this precise 1716 edition as scarce. The qualitative label is tentative; documented holdings cannot establish a worldwide maximum."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 8,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 8 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "University of Basel: Fritz Nagel, Hermann bibliography, Na.022",
+        "url": "https://bernoulli.ub.unibas.ch/index.php/WerkverzeichnisHermann",
+        "claim": "Lists three Basel copies: Frey-Gryn J III 15; Jt IV 4; Jt IV 5.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 3,
+        "shelfmarks": [
+          "Frey-Gryn J III15",
+          "Jt IV4",
+          "Jt IV5"
+        ]
+      },
+      {
+        "title": "Wellcome Collection: Phoronomia 1716",
+        "url": "https://wellcomecollection.org/works/fs8m9eab",
+        "claim": "Documents the 1716 Wetstenios edition, shelfmark EPB/C/28491.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "EPB/C/28491"
+        ]
+      },
+      {
+        "title": "Huntington Library: copy 701740",
+        "url": "https://www.huntington.org/collections/lib-701740",
+        "claim": "1716 edition; call 701740; Burndy/Dibner and Volterra associations.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "701740"
+        ]
+      },
+      {
+        "title": "Huntington Library: copy 700672",
+        "url": "https://www.huntington.org/collections/lib-700672",
+        "claim": "1716 edition; distinct call 700672.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "700672"
+        ]
+      },
+      {
+        "title": "Huntington Library: copy 708050",
+        "url": "https://www.huntington.org/collections/lib-708050",
+        "claim": "1716 edition; distinct call 708050; Burndy Library association.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "708050"
+        ]
+      },
+      {
+        "title": "ETH Zürich: Phoronomia 1716",
+        "url": "https://doi.org/10.3931/e-rara-3670",
+        "claim": "Digitization documents ETH copy Rar 5519.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "Rar 5519"
+        ]
+      },
+      {
+        "title": "Prior Books Ltd:1716 Phoronomia, item 128171",
+        "url": "https://www.abebooks.com/first-edition/Phoronomia-sive-viribus-motibus-corporum-solidorum/31361488028/bd",
+        "claim": "Dealer characterizes the first edition as scarce. A sales description is not a census.",
+        "claimType": "specialist dealer assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "a scarce book"
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "wc854c631fb83": {
+    "id": "wc854c631fb83",
+    "catalogueTitle": "De trans£iguratione metallorum, et occulta summaque antiquorum philosophorum medicina libellus Accessit",
+    "catalogueYear": 1593,
+    "edition": "Morienus Romanus, De transfiguratione metallorum. Hanoviae ad Moenum: Guilielmus Antonius,1593,79 pages.",
+    "editionConfidence": "high",
+    "editionComparison": "Author is truncated in family OCR; title, imprint, year and 79 pages agree. A rare label found for a bound-with work by Jakob Mock 1596 was excluded.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 3,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 3 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection: Morienus 1593",
+        "url": "https://wellcomecollection.org/works/n2r8h7q3",
+        "claim": "Documents the 1593 edition,79 pages; digitization b 32983967.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "ETH Zürich: Morienus 1593",
+        "url": "https://www.e-rara.ch/zut/content/titleinfo/6518338",
+        "claim": "Documents 1593 edition, shelfmark Rar 4791; DOI 10.3931/e-rara-21008.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "Austrian National Library copy digitized in Google Books",
+        "url": "https://books.google.it/books?hl=it&id=8FRWAAAAcAAJ",
+        "claim": "Metadata identifies the original as Austrian National Library and the 1593 G.Antonius edition.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "w606b75608eb8": {
+    "id": "w606b75608eb8",
+    "catalogueTitle": "Theodori Kerckringl commentarius in currum triumphalem antimonii Basilii Valentini, a se latinitate donatum",
+    "catalogueYear": 1671,
+    "edition": "Theodor Kerckring, Commentarius in Currum Triumphalem Antimonii. Amsterdam: Andreas Frisius,1671.",
+    "editionConfidence": "high",
+    "editionComparison": "Title/imprint/year and[22],342,[18]pagination agree. The Penn 1671 manuscript transcription was excluded from printed-copy counts.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh explicitly labels the 1671 Latin edition rare. This is a qualitative bibliography assessment, not a surviving-copy census."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh, Valentinus bibliography, edition 9",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/valentinus-basilius/",
+        "claim": "The Latin 1671 AmsterdamFrisius edition is identified with[22],342,[18]pages and 5 engravings, and assessed as rare.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "Rare."
+      },
+      {
+        "title": "Getty Research Institute digitization",
+        "url": "https://archive.org/details/theodorikerckrin00basi",
+        "claim": "A digitized copy of the 1671 printed commentary is available.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "w31ac1a8fe121": {
+    "id": "w31ac1a8fe121",
+    "catalogueTitle": "La figure de la terre, déterminée par les observations de messieurs de Maupertuis, Clai-a raut, Camus, Le Monnier...et de m. l'abbé Outhier.accompagnés de m. Celsius,..faites",
+    "catalogueYear": 1738,
+    "edition": "Maupertuis, La figure de la terre. Paris: Imprimerie Royale,1738,xxiv,[4],184 pages.",
+    "editionConfidence": "high",
+    "editionComparison": "The family imprint and 184 pages identify the Paris edition. The Amsterdam 1738 edition has a different imprint and 216 pages.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "An auction catalogue explicitly describes the matching Paris 1738 first edition as rare; low confidence as a global scarcity judgment."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "French auction catalogue, exact Paris 1738 edition",
+        "url": "https://media.interencheres.com/353/2017/01/23/103956_f2854d83bbdcb092ed1aa503689cb600.pdf",
+        "claim": "Lists Paris Imprimerie Royale 1738 withxxiv,[4],184 pages and describes the first edition as rare.",
+        "claimType": "specialist auction assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "Edition originale rare."
+      },
+      {
+        "title": "Wellcome digitization: Paris 1738",
+        "url": "https://archive.org/details/b30522791_0003",
+        "claim": "Digitized institutional copy carries the ParisImprimerieRoyale 1738 imprint.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "wcd40bfd36406": {
+    "id": "wcd40bfd36406",
+    "catalogueTitle": "Collezione delle opere del cavaliere conte Alessandro Volta Flrenze, G. Piatti, 1816",
+    "catalogueYear": 1816,
+    "edition": "Alessandro Volta, Collezione delle opere. Firenze: Guglielmo Piatti,1816,5 bound volumes.",
+    "editionConfidence": "medium",
+    "editionComparison": "The family record describes five component volumes. Small one-page differences in collations likely concern blank/unnumbered leaves; complete-set status needs physical checking.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Libreria Scriptorium describes the complete five-volume 1816 collected edition as rare. Apply this signal to the five-volume set, not to an isolated digitized volume."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Libreria Scriptorium catalogue 1511,item 19",
+        "url": "https://libreriascriptorium.it/wp-content/uploads/2023/03/1511.pdf",
+        "claim": "Exact FirenzePiatti 1816 five-volume collected edition is described as the rare first collected edition.",
+        "claimType": "specialist dealer assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "Prima rara ediz. collettiva"
+      },
+      {
+        "title": "Wellesley College digitization of a volume",
+        "url": "https://archive.org/details/collezionedellop22volt_0",
+        "claim": "Digitization supports the edition, but does not on its own establish a surviving complete set.",
+        "claimType": "digitized edition",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "wce7b57961314": {
+    "id": "wce7b57961314",
+    "catalogueTitle": "The History and present State o£ Discoveries relating to Vision, Light arJd Colours. Vol. I London, J.Johnson, 1772",
+    "catalogueYear": 1772,
+    "edition": "Joseph Priestley, The History and Present State of Discoveries Relating to Vision, Light and Colours. London: J.Johnson,1772.",
+    "editionConfidence": "medium",
+    "editionComparison": "Family entry says Vol.I with 422 pages/15 plates; the Wellcome description is 812 pages/24 plates. Treat the family book as the first part of the same edition or incomplete/divided binding until checked; do not assert a complete volume.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection: Priestley 1772, ESTCT 36343",
+        "url": "https://wellcomecollection.org/works/jars5j59",
+        "claim": "Documents 1772 Johnson edition, EPB/C/42179; copy has plateIIdefective and plateXXIIwanting.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "EPB/C/42179"
+        ]
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "wd4afa3ed90a6": {
+    "id": "wd4afa3ed90a6",
+    "catalogueTitle": "Etudes sur La Bière, ses maladies, causes qui les provoquent, procédé pour la rendre inaltérablé,avec une théorie nouvelle de la fermentation",
+    "catalogueYear": 1876,
+    "edition": "Louis Pasteur, Études sur la bière. Paris: Gauthier-Villars,1876.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title/year/imprint match the 1876 edition. Some market copies with 1876 title pages may have later wrappers; original issue cannot be proved from date alone.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 6,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 6 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection: Études sur la bière 1876",
+        "url": "https://wellcomecollection.org/works/bqyq7jy8",
+        "claim": "Lists four physical copies under the 1876 edition: K 16428,11091,8373,8374.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 4,
+        "shelfmarks": [
+          "K16428",
+          "11091",
+          "8373",
+          "8374"
+        ]
+      },
+      {
+        "title": "London School of Hygiene & Tropical Medicine:1876 copy",
+        "url": "https://wellcomecollection.org/works/eer3785g",
+        "claim": "Partner-held LSHTM copy, with Kofoid provenance, separate from Wellcome’s four copies.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "Free Library of Philadelphia:1876 copy",
+        "url": "https://catalog.freelibrary.org/Record/857974",
+        "claim": "Record gives totalcopies 1 and callN 663.4 P 261 forParisGauthier-Villars 1876.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1,
+        "shelfmarks": [
+          "N 663.4 P 261"
+        ]
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "wf6e94129758a": {
+    "id": "wf6e94129758a",
+    "catalogueTitle": "Etudes sur la maladie des vers a soie. Moyen pratique assuré de la combattre et dlen prévenir le retour. Tome I° La pébrine et la f lacherie",
+    "catalogueYear": 1870,
+    "edition": "Louis Pasteur, Études sur la maladie des vers à soie. Paris: Gauthier-Villars,1870.",
+    "editionConfidence": "high",
+    "editionComparison": "Family entry is TomeI; do not infer a complete two-volume set from a first-volume scan.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection: Études sur la maladie des vers à soie 1870",
+        "url": "https://wellcomecollection.org/works/nrmhjqqn",
+        "claim": "Institutional digitization b 28124583_0001 supports the 1870 edition and a surviving represented volume.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "ENSSIB study of University of Burgundy collections",
+        "url": "https://www.enssib.fr/bibliotheque-numerique/documents/1606-reserve-precieuse-et-collections-semi-precieuses-en-bibliotheque-universitaire-l-exemple-de-la-bibliotheque-de-l-universite-de-bourgogne.pdf",
+        "claim": "Historically documents a 1870 first edition atBurgundy,BS 65988. Not counted in the current minimum without reconfirming present holdings.",
+        "claimType": "historical holding",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "w1af6db49d0e2": {
+    "id": "w1af6db49d0e2",
+    "catalogueTitle": "Mémoire sur la construction des télescopes en verre argenté",
+    "catalogueYear": 1859,
+    "edition": "Léon Foucault, Mémoire sur la construction des télescopes en verre argenté. Paris: Mallet-Bachelier,1859.",
+    "editionConfidence": "medium",
+    "editionComparison": "The separately printed memoir must be distinguished from its 1859 Annales de l’Observatoire journal appearance. No scarcity label was transferred from another Foucault offprint.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "EPFL digitization: Foucault 1859",
+        "url": "https://archive.org/details/CHEPFL_LIPR_AXC55",
+        "claim": "Institutional scan identifies the 1859 memoir. Its offprint/journal form should be checked against the family scan.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "w3014258fd4e1": {
+    "id": "w3014258fd4e1",
+    "catalogueTitle": "Lettera del dottor Donato Rossetti al signor Dottor Carlo Fracassati Firenze, all' insegna della stella, 1668",
+    "catalogueYear": 1668,
+    "edition": "Donato Rossetti, Lettera al signor Dottor Carlo Fracassati. Firenze: all’insegna della Stella,1668.",
+    "editionConfidence": "medium",
+    "editionComparison": "Family 45 pages andFlorence 1668 match the Toronto caption-title publication. The letter can occur bound with Rossetti’s Dimostrazione; binding does not create an additional edition.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "University of Toronto, Thomas Fisher Library digitization",
+        "url": "https://archive.org/details/letteradeldottor00ross",
+        "claim": "1668 Florence title with 45,[2]pages; caption title and colophon imprint.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "w80dcf8e7844f": {
+    "id": "w80dcf8e7844f",
+    "catalogueTitle": "An Essay on Electricity explaining the Theory and Practice o£ that useful Science and the mode o£ applying it to medical purposes with an Essay on Magnetism. Third Edition",
+    "catalogueYear": 1787,
+    "edition": "George Adams, An Essay on Electricity, third edition. London,1787.",
+    "editionConfidence": "high",
+    "editionComparison": "The family explicitly states third edition. Do not transfer rarity from first or second editions.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Harvard Countway Library digitization",
+        "url": "https://archive.org/details/essayonelectrici1787adam",
+        "claim": "Institutional scan of the 1787 third edition.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "Contemporary publisher advertisement",
+        "url": "https://wellcomecollection.org/works/mv6ej6wp/items?canvas=25&page=5&shouldScrollToCanvas=true",
+        "claim": "Advertises the third corrected/enlarged edition at six shillings; confirms historical publication but gives no print-run size.",
+        "claimType": "contemporary publication evidence",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "wc9704aa4aff6": {
+    "id": "wc9704aa4aff6",
+    "catalogueTitle": "Vollstandige Charakteristik des Mineral-System' s Dritte Au£lage",
+    "catalogueYear": 1832,
+    "edition": "August Breithaupt, Vollständige Charakteristik des Mineral-Systems, third edition. Dresden & Leipzig: Arnold,1832.",
+    "editionConfidence": "high",
+    "editionComparison": "Family explicitly identifies third edition; year/imprint match.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as very scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 5. German, 1832 [3 rd edition].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/breithaupt-johann-a-f/",
+        "claim": "Edition-specific assessment: very scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "very scarce",
+        "editionHeading": "5. German, 1832 [3 rd edition]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Breithaupt, Johann A.F.",
+      "editionNumber": 5,
+      "editionHeading": "5. German, 1832 [3 rd edition].",
+      "year": 1832,
+      "titleAndImprint": "Vollständige Charakteristik des Mineral-System's [tapered rule] Von August Breithaupt, [...17 lines of titles and memberships...] [rule] Dritte sehr bereicherte Auflage. [tapered rule] Dresden und Leipzig, Arnoldische Buchhandlung. 1832.",
+      "sourceAssessment": "very scarce"
+    }
+  },
+  "w9ad8d610ab62": {
+    "id": "w9ad8d610ab62",
+    "catalogueTitle": "Elements of the Art of assaying metals in two parts The second Edition London, L.Davis and C.Reymers, 1764",
+    "catalogueYear": 1764,
+    "edition": "Johann Andreas Cramer, Elements of the Art of Assaying Metals, second English edition. London: L.Davis & C.Reymers,1764.",
+    "editionConfidence": "high",
+    "editionComparison": "Family explicitly identifies second edition; language, year and imprint match.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as very scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 4. English, 1764 [English transl.].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/cramer-johann-andreas/",
+        "claim": "Edition-specific assessment: very scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "very scarce",
+        "editionHeading": "4. English, 1764 [English transl.]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Cramer, Johann Andreas",
+      "editionNumber": 4,
+      "editionHeading": "4. English, 1764 [English transl.].",
+      "year": 1764,
+      "titleAndImprint": "Elements of the Art of Assaying Metals. In two parts ... The second edition, corrected, London, Printed for L. Davis and C. Reymers, 1764.",
+      "sourceAssessment": "very scarce"
+    }
+  },
+  "wd2139a66a853": {
+    "id": "wd2139a66a853",
+    "catalogueTitle": "BreviS Intriductio in HiStoriam Litteràriam Mlneralogicam atque Methodum Systemata Mine raloglca rite condende, una cum supplementis Holmiae, Upsallae & Aboae, in O££icinls Libr",
+    "catalogueYear": 1779,
+    "edition": "Johan Gotschalk Wallerius, Brevis Introductio in Historiam Litterariam Mineralogicam, second edition. Holmiae,Upsaliae & Aboae: M.Sweder,1779.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title/year/imprint identify this 1779 edition.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as very scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 8. Latin, 1779 [2 nd edition].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/wallerius-johan-gotschalk/",
+        "claim": "Edition-specific assessment: very scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "very scarce",
+        "editionHeading": "8. Latin, 1779 [2 nd edition]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Wallerius, Johan Gotschalk",
+      "editionNumber": 8,
+      "editionHeading": "8. Latin, 1779 [2 nd edition].",
+      "year": 1779,
+      "titleAndImprint": "D.D. Brevis Introductio In Historiam Litterariam Mineralogicam Atque Methodum Systemata Mineralogica Rite Condenda, Una Cum Supplementis; A Johan. Gotsch. Wallerio, [...4 lines of titles and memberships...] [rule] Holmiæ, Upsaliæ & Aboæ, In Officinis Libr. Reg. Ac. Bibliop. M. Swederi, MDCCLXXIX.",
+      "sourceAssessment": "very scarce"
+    }
+  },
+  "w8de42e57bcfe": {
+    "id": "w8de42e57bcfe",
+    "catalogueTitle": "Analytical Essays towards promoting the chemical knowledge o£ mineral substances Translated £or the german London, T.Cadell, Jun. and W.Davies, 1801",
+    "catalogueYear": 1801,
+    "edition": "Martin Heinrich Klaproth, Analytical Essays, English translation, volumeI. London: T.Cadell & W.Davies,1801.",
+    "editionConfidence": "medium",
+    "editionComparison": "Familyxvi,591 pages identify volumeI. Source covers 1801–04 two-volume edition. Its stronger claim for volumeIIis not transferred to this volume.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as very scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 3. English, 1801-4 [English transl.].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/klaproth-martin-heinrich/",
+        "claim": "Edition-specific assessment: very scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "very scarce",
+        "editionHeading": "3. English, 1801-4 [English transl.]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Klaproth, Martin Heinrich",
+      "editionNumber": 3,
+      "editionHeading": "3. English, 1801-4 [English transl.].",
+      "year": 1801,
+      "titleAndImprint": "Analytical Essays Towards Promoting the Chemical Knowledge of Mineral Substances. [tapered rule] By Martin Henry Klaproth, [...4 lines of titles and memberships...] [double rule] [-Vol. II.] Translated From The German. [double rule] London: [rule] Printed For T. Cadell, Jun. And W. Davies, In The Strand By G. Woodfall, No. 22, Paternoster-Row. [rule] 1801. [-1804.]",
+      "sourceAssessment": "very scarce"
+    }
+  },
+  "w22bc95decd40": {
+    "id": "w22bc95decd40",
+    "catalogueTitle": "Mineralogical nomenclature alphabetically arranged\" with synoptic tables of the chemical analyses of minerals Edinburghy printed £or Archibald Constable an",
+    "catalogueYear": 1814,
+    "edition": "Thomas Allan, Mineralogical Nomenclature, third edition. Edinburgh:A.Constable; London:Longman,Hurst,Rees,Orme & Brown,1814.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title/year and both imprints match. Pagination OCR is incomplete; edition checked bibliographically.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 3. English, 1814 [3 rd edition].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/allan-thomas/",
+        "claim": "Edition-specific assessment: scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "scarce",
+        "editionHeading": "3. English, 1814 [3 rd edition]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Allan, Thomas",
+      "editionNumber": 3,
+      "editionHeading": "3. English, 1814 [3 rd edition].",
+      "year": 1814,
+      "titleAndImprint": "Mineralogical Nomenclature, Alphabetically Arranged; with Synoptic Tables of the Chemical Analyses of Minerals. [ornament] Edinburgh: Printed for A. Constable and Company; and for Longman, Hurst, Rees, Orme, and Brown, London. 1814.",
+      "sourceAssessment": "scarce"
+    }
+  },
+  "w4b76135f8673": {
+    "id": "w4b76135f8673",
+    "catalogueTitle": "De I'emploi du ¢balumeau dans les analyses chimiques et les déterminations minéralogiques Traduit du Suédois par F.Fresnel",
+    "catalogueYear": 1821,
+    "edition": "Jöns Jacob Berzelius, De l’emploi du chalumeau, translated byF.Fresnel. Paris:Méquignon-Marvis,1821.",
+    "editionConfidence": "high",
+    "editionComparison": "Family translator, title, imprint and year match this French edition.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as very scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 11. French, 1821 [First edition].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/berzelius-jons-jakob/",
+        "claim": "Edition-specific assessment: very scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "very scarce",
+        "editionHeading": "11. French, 1821 [First edition]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Berzelius, Jöns Jakob",
+      "editionNumber": 11,
+      "editionHeading": "11. French, 1821 [First edition].",
+      "year": 1821,
+      "titleAndImprint": "De l'Emploi du Chalameau dans les Analyses Chimiques et les Déterminations Minéralogiques; Par M. Berzelius. Traduit du Suédois par F. Fresnel. [ornament] A Paris, Chez Méquignon-Marvis, Libraire pour la Partie de Médicine, rue de l'Ecole de Médecine, No 3. [rule] 1821.",
+      "sourceAssessment": "very scarce"
+    }
+  },
+  "w865a4196ad2a": {
+    "id": "w865a4196ad2a",
+    "catalogueTitle": "Lithogéopnosie ou Examen chymique des pierres et des terres en général Ouvrages traduits de I l Allemand",
+    "catalogueYear": 1753,
+    "edition": "Johann Heinrich Pott, Lithogéognosie, French translation. Paris:Jean-ThomasHérissant,1753.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title/year/language match the French translation; assessment is restricted to this edition.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 6. French, 1753 [French transl.].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/pott-johann-heinrich/",
+        "claim": "Edition-specific assessment: scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "scarce",
+        "editionHeading": "6. French, 1753 [French transl.]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Pott, Johann Heinrich",
+      "editionNumber": 6,
+      "editionHeading": "6. French, 1753 [French transl.].",
+      "year": 1753,
+      "titleAndImprint": "Lithogéognosie Ou Examen Chymique Des Pierres Et Des Terres En Général, Et du Talc, de la Topaze & de la Stéatite en particulier, Avec une Dissertation sur le Feu & sur la Lumiere. Par M.J. Pott, Docteur en Médecine, [...2 lines of titles and memberships...] Ouvrages traduits de l'Allemand. [ornament] A Paris, Chez Jean-Thomas Herissant, rue S. Jacques, à S. Paul, & à S. Hilaire. [double rule] M DCC. LIII. Avec Approbation & Privilége du Roi.",
+      "sourceAssessment": "scarce"
+    }
+  },
+  "we5123a970bae": {
+    "id": "we5123a970bae",
+    "catalogueTitle": "LIHistoire naturelle eclaircie dans une de ses parties principales, I l Oryctologie > qUi trai,te des terres, de pierres, des métaux et autres f ossiles",
+    "catalogueYear": 1755,
+    "edition": "Dezallier d’Argenville, L’Oryctologie, second edition. Paris:DeBure l’Aîné,1755.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title, imprint, year,560 pages and 26 plates match the 1755 edition; family mentions a second copy.",
+    "rarityAssessment": {
+      "category": "potentially_rare",
+      "confidence": "low",
+      "reason": "Schuh’s edition-specific bibliography characterizes this edition as scarce. This is an attributed low-confidence scarcity signal, not a worldwide surviving-copy estimate."
+    },
+    "survivalEvidence": {
+      "type": "no_numeric_evidence",
+      "lowerBound": null,
+      "upperBound": null,
+      "confidence": "unresolved",
+      "interpretation": "Worldwide surviving-copy count remains unknown.",
+      "assumptions": []
+    },
+    "sources": [
+      {
+        "title": "Curtis Schuh’s Annotated Bio-Bibliography, 3. French, 1755 [2 nd edition].",
+        "url": "https://mineralogicalrecord.com/new_biobibliography/dezallier-dargenville-a-j/",
+        "claim": "Edition-specific assessment: scarce.",
+        "claimType": "bibliographical scarcity assessment",
+        "checkedAt": "2026-10-17",
+        "quotation": "scarce",
+        "editionHeading": "3. French, 1755 [2 nd edition]."
+      }
+    ],
+    "researchedAt": "2026-10-17",
+    "bibliographyEdition": {
+      "author": "Dezallier D'Argenville, A.J.",
+      "editionNumber": 3,
+      "editionHeading": "3. French, 1755 [2 nd edition].",
+      "year": 1755,
+      "titleAndImprint": "[In red:] L'Historie Naturelle [in black:] Eclaircie Dans Une De Ses Parties Principales, [in red:] L'Oryctologie, [in black:] Qui Traite Des Terres, [in red:] Des Pierres, Des Métaux, [in black:] Des Minéraux, [in black:] Et [in red:] Autres Fossiles, [in black:] Ouvrage Dans Lequel On Trouve une nouvelle méthode Latine & François de les diviser, & une notice critique des principaux Ouvrages qui ont paru fur ces matières. Enrichi de Figures dessinées d'après Nature. Par M *** des Sociétés Royales des Sciences de Londres & de Montpellier. [ornament] [in red:] A Paris, [in black:] Chez [in red:] De Bure [in black:] l'Aîné, Quai des Augustins, du côté du Pont Saint Michel, à Saint Paul. [double rule] [in red:] M. DCC. LV. [in black:] Avec Approbations Et Privilége Du Roy.",
+      "sourceAssessment": "scarce"
+    }
+  },
+  "w03c39c641856": {
+    "id": "w03c39c641856",
+    "catalogueTitle": "De' colori accidentali della Luce ossia del- la generazione dei colori ne var j accidenti dlombra e di lume",
+    "catalogueYear": 1815,
+    "edition": "Carlo Petrini, De’colori accidentali della luce. Pistoia:Manfredini,1815.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title/year/imprint agree with both institutional records.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 2,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 2 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection: Petrini 1815",
+        "url": "https://wellcomecollection.org/works/bfux8fb7",
+        "claim": "Institutional record forPistoiaManfredini 1815.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "Werner Oechslin Library: Petrini 1815",
+        "url": "https://www.bibliothek-oechslin.ch/einfachesuche.php?Suche=%28DE-588%294016443-3",
+        "claim": "Exact edition recorded with local locationD 07 f;cave.N 6/24.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  },
+  "w6c9bc2ff21d7": {
+    "id": "w6c9bc2ff21d7",
+    "catalogueTitle": "Nuove sperienze elettriche secondo la teoria del Sig.Franklin e le produzioni del P.Beccaria Milano, Appresso Giuseppe Galeazzi, 1771",
+    "catalogueYear": 1771,
+    "edition": "Carlo Barletti, Nuove sperienze elettriche. Milano:GiuseppeGaleazzi,1771.",
+    "editionConfidence": "high",
+    "editionComparison": "Family title/year/imprint match the institutional description.",
+    "rarityAssessment": {
+      "category": "unknown",
+      "confidence": "unresolved",
+      "reason": "No source found that supports a current worldwide surviving-copy estimate or a defensible scarcity classification."
+    },
+    "survivalEvidence": {
+      "type": "documented_lower_bound",
+      "lowerBound": 1,
+      "upperBound": null,
+      "confidence": "medium",
+      "interpretation": "At least 1 documented external copy/copies; the worldwide total remains unknown.",
+      "assumptions": [
+        "Institutional catalogue records document holdings; this is not a current physical census.",
+        "Known holdings are a floor, never a population estimate or upper bound."
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wellcome Collection: Barletti 1771",
+        "url": "https://wellcomecollection.org/works/qfhp8xst",
+        "claim": "Institutional record forMilanoGaleazzi 1771.",
+        "claimType": "institutional holding",
+        "checkedAt": "2026-10-17",
+        "copiesCounted": 1
+      },
+      {
+        "title": "Braidense catalogue: recordMILE 002639",
+        "url": "https://opac.braidense.it/bid/MILE002639",
+        "claim": "Additional bibliographic record for the 1771 edition; not counted as a second physical copy without holdings confirmation.",
+        "claimType": "institutional bibliographic record",
+        "checkedAt": "2026-10-17"
+      }
+    ],
+    "researchedAt": "2026-10-17"
+  }
+}

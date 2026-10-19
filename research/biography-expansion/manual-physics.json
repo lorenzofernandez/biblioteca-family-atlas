@@ -1,0 +1,183 @@
+{
+  "reviewedAt": "2026-10-19",
+  "method": "Human-written summaries of live institutional, scholarly and library sources, checked against catalogue titles. Original headings are retained. Multiple authorIds indicate records for the same researched person; this file itself does not merge records.",
+  "entries": [
+    {
+      "authorIds": ["ae4a302c99119"],
+      "name": "Otto Lehmann",
+      "birth": 1855,
+      "death": 1922,
+      "lifeLabel": "1855–1922",
+      "origins": ["Germany"],
+      "short": "German physicist whose microscopy established the study of liquid crystals.",
+      "biography": "Otto Lehmann was a German experimental physicist who helped establish liquid crystals as a distinct form of matter. Born in Konstanz, he studied in Strasbourg and worked in teaching and research before succeeding Heinrich Hertz at the Technical University of Karlsruhe in 1889. He remained there until 1919 and also served as rector. Using a specially equipped polarizing microscope, he studied substances that flowed like liquids while retaining directional optical properties associated with crystals. Friedrich Reinitzer's observations in 1888 helped initiate this work. Lehmann defended the interpretation through decades of controversy and published Flüssige Kristalle in 1904. The catalogue's papers on crystal structure, optical anisotropy, molecular forces and apparently living crystals reflect this sustained research programme. His experiments became part of the scientific foundation for later liquid-crystal displays.",
+      "sources": [
+        {"title": "Karlsruhe Institute of Technology: 125 years of liquid-crystal research", "url": "https://www.kit.edu/kit/pi_2014_15803.php"},
+        {"title": "KIT historical collection: Lehmann's polarizing microscope", "url": "https://www.100objekte.kit.edu/object/024/"},
+        {"title": "Museo Galileo catalogue: Lehmann's 1908 response to Reinitzer", "url": "https://opac.museogalileo.it/imss/search?dls=true&h=any_bc&o=score&p=317&q=%2A%3A%2A&s=100&t=1&v=l"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "Museo Galileo attributes the exact 1908 Reinitzer-response title on card w7bb06e6f3cc4 to Otto Lehmann (1855–1922); the entire linked title set concerns his physics and liquid-crystal research. The earlier Oskar Lehmann selection was incorrect.",
+      "wikidata": "Q64981",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": ["a4f0eda16c540"],
+      "name": "Émile Mathias",
+      "birth": 1861,
+      "death": 1942,
+      "lifeLabel": "1861–1942",
+      "origins": ["France"],
+      "short": "French physicist who investigated liquefied gases, terrestrial magnetism and atmospheric electricity.",
+      "biography": "Émile Mathias was a French physicist whose career connected laboratory thermodynamics with observations of the Earth and atmosphere. He trained in Paris and worked with Louis Cailletet on liquefied gases, completing a doctorate in 1890. He joined the science faculty at Toulouse in 1891, became professor of physics in 1895 and directed the observatory's meteorological and magnetic services. In 1910 he succeeded Bernard Brunhes as professor at Clermont-Ferrand and director of the Puy-de-Dôme meteorological observatory. His publications addressed critical properties of fluids, magnetic surveys and lightning, including attempts to explain ball lightning through what he termed matière fulminante. The collection preserves all three strands: papers on critical points and rectilinear diameters, magnetic mapping, and numerous studies of lightning. His historical explanations of lightning should be read as contemporary research proposals rather than settled modern accounts.",
+      "sources": [
+        {"title": "University of Nantes, Henri Poincaré correspondence: Émile Mathias", "url": "https://henripoincarepapers.univ-nantes.fr/chp/text/mathias-e.html"},
+        {"title": "Bibliothèque nationale de France: Émile Mathias (1861–1942), bibliography", "url": "https://data.bnf.fr/de/ark%3A/12148/cb12358730s.pdf"},
+        {"title": "CNAM digital collection: contemporary account of Mathias's matière fulminante", "url": "https://cnum.cnam.fr/pgi/redir.php?ident=SCVIE.171&onglet=c"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "BnF associates Émile Mathias (1861–1942) with the same matière fulminante, lightning and terrestrial-magnetism publications; the university biography also matches the 1890 liquefied-gas thesis in the catalogue. The physicist candidate Q55267031 is selected instead of the incomplete authority candidate.",
+      "wikidata": "Q55267031",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": ["a10abb049ec4c", "a1e50f3320f6e"],
+      "name": "Guido Ercolini",
+      "birth": 1870,
+      "death": 1944,
+      "lifeLabel": "1870–1944",
+      "origins": ["Italy"],
+      "short": "Italian experimental physicist who studied how electrical and magnetic behaviour changes under mechanical strain.",
+      "biography": "Guido Ercolini was an Italian physicist and teacher, born in Pescia and educated at Pisa. He graduated in 1895 with a dissertation on high-voltage, high-frequency currents supervised by Angelo Battelli. He subsequently worked in the physics laboratory in Florence and taught in secondary schools, including in Messina, where he also qualified to teach experimental physics at university level. His research examined connections between electricity, magnetism and mechanical deformation. Papers in Il Nuovo Cimento investigated the dielectric properties of stretched glass and rubber, elastic metallic wires, electrical resistance and magnetization under strain. He also studied acoustics, including sound intensity and Galton's whistle. The biographical bibliography lists the same papers preserved here, establishing that the catalogue heading rendered as Guido Ercolani belongs to Ercolini. He died in Florence in 1944.",
+      "sources": [
+        {"title": "University of Pisa, biographical dictionary of Italian physicists: Guido Ercolini", "url": "https://osiris.df.unipi.it/~rossi/Ercolini%20Guido.pdf"},
+        {"title": "Accademia dei Lincei: Ercolini's 1898 dielectric-glass papers", "url": "https://operedigitali.lincei.it/rendicontiFMN/rol/visart.php?anno=1898&lang=it&serie=5&type=mat&volume=7"},
+        {"title": "Museo Galileo: Variazione della costante dielettrica del vetro per la trazione meccanica", "url": "https://opac.museogalileo.it/imss/search?dls=true&f=collection_code%3A2&h=any_bc&o=score&p=3743&q=%2A%3A%2A&s=100&t=1&v=l"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The Pisa biography's bibliography matches virtually the complete Ercolani title sequence, including Deformazione elettrica del vetro (1901), the variable capacitor (1900) and palladium wires (1905). The correctly spelled Ercolini entry has matching and overlapping works. Keep both original headings as aliases.",
+      "resetIdentity": true,
+      "recommendedMerge": {"canonicalId": "a10abb049ec4c", "duplicateIds": ["a1e50f3320f6e"], "reason": "Independent bibliography establishes the same person through many exact titles, not name similarity alone."}
+    },
+    {
+      "authorIds": ["ac50582b0895a"],
+      "name": "Robert Luther",
+      "birth": 1868,
+      "death": 1945,
+      "lifeLabel": "1868–1945",
+      "origins": ["Germany", "Russia"],
+      "short": "Physical chemist and photographic scientist who investigated electrochemistry, light-sensitive reactions and colour measurement.",
+      "biography": "Robert Thomas Dietrich Luther was a Moscow-born chemist whose early work in physical chemistry led to a career in scientific photography. After studying at Dorpat and working with Friedrich Beilstein, he continued his training with Wilhelm Ostwald in Leipzig. His 1896 doctorate examined electromotive force and partition equilibrium, a subject represented directly in this collection. He studied electrode potentials, electrolysis and photochemical reactions before becoming the first director of the Scientific Photographic Institute at Dresden in 1908. There he developed a research school devoted to photography as a quantitative science. His contributions included work on photographic sensitivity standards, sensitometry and the relationship between colour stimuli and photographic filters. The catalogue's electrochemical and reversible-photochemical papers belong to this chemist, rather than the nineteenth-century astronomer who shared his name.",
+      "sources": [
+        {"title": "TU Dresden: Robert Luther and his scientific contributions", "url": "https://tu-dresden.de/dcpc/iapp/r-l-stiftung/robert-luther?set_language=en"},
+        {"title": "Sächsische Biografie: Robert Luther (1868–1945)", "url": "https://saebi.isgv.de/biografie/Robert_Luther_%281868-1945%29"},
+        {"title": "German Research Foundation, GEPRIS Historisch: Robert Luther", "url": "https://gepris-historisch.dfg.de/person/5107606"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "Sächsische Biografie identifies Luther's dissertation Electromotorische Kraft und Verteilungsgleichgewicht, matching cards wea48f37aabf2 and w16c8ded018e4. All linked subjects fit the physical chemist. The prior 1889–1976 namesake and astronomer candidates are incompatible.",
+      "wikidata": "Q2158984",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": ["a98de9cf23a96"],
+      "name": "Lavoro Amaduzzi",
+      "birth": 1875,
+      "death": 1931,
+      "lifeLabel": "1875–1931",
+      "origins": ["Italy"],
+      "short": "Italian experimental physicist, teacher and editor known for research on electrical discharges and selenium.",
+      "biography": "Lavoro Amaduzzi was an Italian experimental physicist trained by Augusto Righi at Bologna, where he graduated in 1898 and became Righi's assistant. He combined research with teaching in secondary schools and university courses, eventually taking the chair of experimental physics at Parma in 1923. His investigations concentrated on electrical discharges in gases, photoelectric phenomena, selenium and the measurement of high voltages. He designed an instrument for measuring large potential differences and also studied differences between monocular and binocular vision. Alongside specialist papers, he wrote textbooks and works for a wider readership. From 1914 until his death he directed the Annuario scientifico industriale. The catalogue's Il selenio, papers on luminous discharge patterns, and commemorative volume on Grimaldi, Volta and Melloni illustrate both his experimental interests and his engagement with scientific education and history.",
+      "sources": [
+        {"title": "Dizionario Biografico degli Italiani: Lavoro Amaduzzi", "url": "https://www.treccani.it/enciclopedia/lavoro-amaduzzi_%28Dizionario-Biografico%29/"},
+        {"title": "Sapienza Digital Library: Amaduzzi, Osservazioni e ricerche sperimentali sulle scintille continue", "url": "https://sapienzadigitallibrary.uniroma1.it/DigitalResource/itrousr-DigitalResource_RMSFI_00010079"},
+        {"title": "University of Parma research on Melloni's commemorations and Amaduzzi", "url": "https://www.repository.unipr.it/bitstream/1889/2713/3/tesi%20Colombi%20E.%20-ok.pdf"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The full name, career dates and experimental subjects agree, and the scholarly biography explicitly lists Il selenio (Bologna, 1904), matching card w2fdf563fd706. Parma research independently connects the Grimaldi–Volta–Melloni volume.",
+      "wikidata": "Q55225068",
+      "resetIdentity": false
+    },
+    {
+      "authorIds": ["a61b5d96759fb"],
+      "name": "Anton Maria Vassalli-Eandi",
+      "birth": 1761,
+      "death": 1825,
+      "lifeLabel": "1761–1825",
+      "origins": ["Italy"],
+      "short": "Turin physicist and priest who investigated electricity, meteorology and the practical uses of experimental science.",
+      "biography": "Anton Maria Vassalli-Eandi was a priest and experimental physicist closely associated with Turin's university and scientific institutions. Educated by his uncle Giuseppe Eandi and influenced by Giambattista Beccaria, he developed interests in electrical phenomena and their connections with weather, medicine and agriculture. He taught experimental physics at the University of Turin and participated in debates about galvanism and animal electricity. In 1799 he represented Piedmont in the Paris commission working on the metric system. His teaching influenced the young Amedeo Avogadro. He later directed Turin's observatory and natural-history museum and organised systematic meteorological observations. Although the political restoration cost him his university chair, he retained other scientific responsibilities. The catalogue's weather summaries, observatory reports and experiments with Volta's apparatus reflect the combination of measurement, electrical research and public utility that shaped his career.",
+      "sources": [
+        {"title": "Dizionario Biografico degli Italiani: Anton Maria Vassalli-Eandi", "url": "https://www.treccani.it/enciclopedia/anton-maria-vassalli-eandi_%28Dizionario-Biografico%29/"},
+        {"title": "MuseoTorino: Antonio Vassalli-Eandi, physicist and observatory director", "url": "https://www.museotorino.it/view/s/1dd002ba37f84bef9e7583724e64882c"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The distinctive full name and Turin observatory, meteorological and Volta-related works agree with the scholarly biography and civic-museum record. Anton Maria and Antonio Maria are documented name variants.",
+      "wikidata": "Q15845607",
+      "resetIdentity": false
+    },
+    {
+      "authorIds": ["a2642865c6603"],
+      "name": "Gaetano Magnanini",
+      "birth": 1866,
+      "death": 1950,
+      "lifeLabel": "1866–1950",
+      "origins": ["Italy"],
+      "short": "Italian chemist whose research connected spectroscopy, electrolyte solutions and the theory of dissociation.",
+      "biography": "Gaetano Magnanini was an Italian chemist born in Mirandola. He studied with Stanislao Cannizzaro in Rome, worked with Giacomo Ciamician in Padua and undertook further study in Leipzig. After teaching at Messina, he became professor of general chemistry at Modena in 1892, beginning a long association with that university. His best-known investigations used spectrophotometry to examine the light absorbed by salt solutions and its relationship to electrolytic dissociation. The catalogue preserves this programme in papers on the supposed colour of ions, dissociation and colour, and the effect of boric acid on electrical conductivity. These studies belong to the development of physical chemistry, when conductivity and optical measurements were being used to test competing explanations of what dissolved substances do. The collection also records his interest in electrocatalytic ignition in petrol engines.",
+      "sources": [
+        {"title": "Treccani: Gaetano Magnanini", "url": "https://www.treccani.it/enciclopedia/gaetano-magnanini/"},
+        {"title": "Annali di storia delle università italiane: Ciamician and Cannizzaro correspondence, Magnanini biographical note", "url": "https://centri.unibo.it/cisui/it/pubblicazioni/annali-di-storia-delle-universita-italiane/asui-13.pdf"},
+        {"title": "Bulletin for the History of Chemistry: Magnanini's photometric studies in the development of ionic theory", "url": "https://acshist.scs.illinois.edu/bulletin_open_access/FullIssues/Vol29-2.pdf"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The full name, period and distinctive spectroscopy/dissociation programme match the scholarly accounts and the catalogue's series on ion colour and electrolytic conductivity. One historical article prints 1940 in a note; the current Treccani entry and physics biographical index give 1950.",
+      "wikidata": "Q71476613",
+      "resetIdentity": false
+    },
+    {
+      "authorIds": ["aeed9adf73203"],
+      "name": "Pietro Cardani",
+      "birth": 1858,
+      "death": 1924,
+      "lifeLabel": "1858–1924",
+      "origins": ["Italy"],
+      "short": "Italian experimental physicist, Parma rector and parliamentarian who investigated electrical discharges and measurement methods.",
+      "biography": "Pietro Cardani was an Italian physicist born in Padua and educated in Palermo, where he graduated in 1881. After teaching in Rome, he became professor of experimental physics at Parma in 1893 and served as the university's rector from 1914 to 1919. His strongest research concerned electrical discharges and experimental measurement. He designed an absolute electrometer using communicating tubes and used it to investigate dielectric properties; the catalogue preserves this apparatus alongside papers on capacitor discharges and electrolyte conductivity. He also co-authored a multi-volume university textbook with Angelo Battelli. Cardani's career extended into public life: he represented Parma in Parliament and held local offices. During the First World War he contributed to sound-ranging methods. His published work connects practical instrument design, the teaching of physics and the application of measurement to public and military problems.",
+      "sources": [
+        {"title": "Dizionario Biografico degli Italiani: Pietro Cardani", "url": "https://www.treccani.it/enciclopedia/pietro-cardani_%28Dizionario-Biografico%29/"},
+        {"title": "University of Parma: Cardani and physics at Parma", "url": "https://www.unipr.it/notizie/dal-25-gennaio-al-liceo-sanvitale-la-mostra-cardani-e-la-fisica-parma"},
+        {"title": "Sebastiano Timpanaro, Pietro Cardani: contemporary scientific obituary", "url": "https://osiris.df.unipi.it/~rossi/Cardani_NC.pdf"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The biography specifically describes Cardani's absolute electrometer with communicating tubes, matching card w6823c4fca756, and his research on electrical discharges matches the associated papers. The full name and life dates agree.",
+      "wikidata": "Q15724223",
+      "resetIdentity": false
+    },
+    {
+      "authorIds": ["af665688bd3bf"],
+      "name": "Francesco Orioli",
+      "birth": 1783,
+      "death": 1856,
+      "lifeLabel": "1783–1856",
+      "origins": ["Italy"],
+      "short": "Italian physicist, physician and antiquarian whose career combined scientific debate, archaeology and politics.",
+      "biography": "Francesco Orioli was an Italian scholar whose work crossed physics, medicine, archaeology and politics. Born in Vallerano, he moved from an early ecclesiastical education into teaching and the natural sciences. He became professor of physics at Perugia in 1813 and at Bologna in 1815, while also pursuing medicine and Etruscan antiquities. He helped establish Bologna's medical-surgical society and contributed to scientific and literary periodicals. Participation in the 1831 uprising led to imprisonment and exile. After periods in France and Corfu, where he taught physics, he returned to Italy following the 1846 amnesty and taught archaeology and ancient history in Rome. His later politics became conservative. The catalogue's papers on hail formation, metallic hail-protection devices and mesmerism preserve the natural-philosophical side of a career better known today through its political and archaeological dimensions.",
+      "sources": [
+        {"title": "Dizionario Biografico degli Italiani: Francesco Orioli", "url": "https://www.treccani.it/enciclopedia/francesco-orioli_%28Dizionario-Biografico%29/"},
+        {"title": "University of Pisa, biographical dictionary of Italian physicists: Francesco Orioli", "url": "https://osiris.df.unipi.it/~rossi/Orioli%20Francesco.pdf"},
+        {"title": "Archiginnasio municipal library: Francesco Orioli", "url": "https://www.archiginnasio.it/lang/it/objects/media-01-1a3f21"}
+      ],
+      "identityLevel": "high",
+      "identityReason": "The full name, Bologna publication dates and subjects of meteorology and mesmerism agree with Orioli's documented teaching and research. The modern DBI and university biography support 1783; an older 1935 encyclopedia gives 1785, so the modern biographical chronology is preferred.",
+      "resetIdentity": false
+    }
+  ],
+  "held": [],
+  "reviewNotes": [
+    "Do not retain the old Oskar Lehmann or Robert Justus Karl Martin Luther metadata or portraits when applying the corrected identities.",
+    "Émile Mathias's historical ball-lightning theory is described as a proposal, not modern scientific fact.",
+    "No new portrait was independently licensed or selected in this pass.",
+    "The Guido Ercolini pair is a source-supported merge recommendation; preserve both original catalogue spellings and all book links.",
+    "Institutional bibliographies establish the Ercolini correction particularly strongly: titles on almost every card in the Ercolani entry occur in the biographical bibliography."
+  ]
+}

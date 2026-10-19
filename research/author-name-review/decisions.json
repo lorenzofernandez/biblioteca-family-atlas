@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-19",
+  "baselineCommit": "63c81540b9548ae81ee0abcdc216ade5a65f7eb0",
+  "scope": "Targeted review of historical aliases, translated names, OCR variants and chronological homonyms; not an exhaustive verification of every author.",
+  "entries": [
+    {
+      "canonicalId": "a6d1cb89469a2",
+      "members": [
+        "a6d1cb89469a2"
+      ],
+      "name": "Garcia de Orta",
+      "surname": "Orta",
+      "given": "Garcia de",
+      "birth": null,
+      "death": 1568,
+      "lifeLabel": "c. 1500–1568",
+      "origins": [
+        "Portugal"
+      ],
+      "aliases": [
+        "Garcia da Orta",
+        "Garzia dall’Horto",
+        "Garcia ab Horto",
+        "Garcie du Jardin"
+      ],
+      "reason": "BnF explicitly lists Garzia dall’Horto among Garcia de Orta’s alternative names and cites the same 1589 Dell'historia dei semplici aromati. The card's title, Venetian imprint and date agree with the Wellcome catalogue.",
+      "short": "Portuguese physician and naturalist whose observations in India shaped European knowledge of medicinal plants, spices and drugs.",
+      "biography": "Garcia de Orta was a Portuguese physician and naturalist who worked in India, especially Goa. His Colóquios dos simples e drogas da India, published in 1563, discussed medicinal plants, spices and other substances through conversations that drew on practical experience and local knowledge.\n\nThe catalogue’s “Don Garzia dall’Horto” is his Italian name. The 1589 Venetian volume belongs to the Italian transmission of his work, translated by Annibale Briganti and accompanied by annotations by Carolus Clusius. Authorities differ over his birth year (1499 or about 1501); he died in 1568.",
+      "sources": [
+        {
+          "title": "Bibliothèque nationale de France · Orta, Garcia da (authority and alternative names)",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb119983323"
+        },
+        {
+          "title": "Wellcome Collection · Dell'historia de i semplici aromati, 1589",
+          "url": "https://wellcomecollection.org/works/d7s87mzr"
+        },
+        {
+          "title": "Garcia de Orta · biographical overview",
+          "url": "https://en.wikipedia.org/wiki/Garcia_de_Orta"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a78d1f717fa19",
+      "members": [
+        "a78d1f717fa19",
+        "a56eb58b437ef",
+        "a59150ac54bad"
+      ],
+      "name": "Athanasius Kircher",
+      "surname": "Kircher",
+      "given": "Athanasius",
+      "birth": 1602,
+      "death": 1680,
+      "origins": [
+        "Germany"
+      ],
+      "aliases": [
+        "Atanasio Kircher",
+        "Athanasius Kircherus"
+      ],
+      "reason": "Atanasio, Athanasio and Atanasius are variants of Athanasius. The linked Oedipus aegyptiacus, Prodromus coptus and Magnes are distinctive works of the same seventeenth-century Jesuit scholar.",
+      "short": "German Jesuit scholar in Rome who wrote on ancient Egypt, languages, magnetism and natural philosophy.",
+      "biography": "Athanasius Kircher was a German Jesuit scholar who taught at the Collegio Romano in Rome. His wide-ranging investigations joined languages and antiquities with mathematics and natural philosophy.\n\nThe collection includes Oedipus aegyptiacus, his extensive study of Egypt, Prodromus coptus on the Coptic language, and Magnes on magnetism. Italian and Latin forms of his given name had separated these works into different catalogue profiles.",
+      "sources": [
+        {
+          "title": "Bibliothèque nationale de France · Kircher, Athanasius",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb119097824"
+        },
+        {
+          "title": "University of Pennsylvania · Prodromus coptus sive aegyptiacus",
+          "url": "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha101716456"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a951de483036a",
+      "members": [
+        "a951de483036a",
+        "a872bae6755aa"
+      ],
+      "name": "Joseph du Chesne",
+      "surname": "du Chesne",
+      "given": "Joseph",
+      "birth": null,
+      "death": 1609,
+      "lifeLabel": "c. 1544–1609",
+      "origins": [
+        "France"
+      ],
+      "aliases": [
+        "Josephus Quercetanus",
+        "Giuseppe Quercetano"
+      ],
+      "reason": "BnF identifies Du Chesne with Quercetanus. Braidense and Wellcome catalogue Le ricchezze della riformata farmacopea by Giuseppe Quercetano under Joseph du Chesne, linking the Italian and Latin/French entries.",
+      "short": "French physician and medical writer known in Latin as Quercetanus and in Italian as Giuseppe Quercetano.",
+      "biography": "Joseph du Chesne was a French physician and medical writer who published under the Latin name Josephus Quercetanus. The Italian form Giuseppe Quercetano appears on translations of his pharmacopoeia.\n\nThe collection brings together Latin editions and later Italian editions of Le ricchezze della riformata farmacopea. Their different author names refer to the same writer. His birth is usually placed around 1544; some library catalogues give 1546.",
+      "sources": [
+        {
+          "title": "Bibliothèque nationale de France · Du Chesne, Joseph",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb12396854d"
+        },
+        {
+          "title": "Wellcome Collection · Joseph Du Chesne",
+          "url": "https://wellcomecollection.org/concepts/yzuzm24s"
+        },
+        {
+          "title": "Biblioteca Nazionale Braidense · Le ricchezze della riformata farmacopea",
+          "url": "https://opac.bibliotecabraidense.org/opac_braidense/opaclib?db=solr_braidense&do_cmd=search_show_cmd&from=1&item%3A8006%3ATitolo_uniforme%3A%40frase%40=MILE026815&nentries=10&resultForward=opac%2Fbraidense%2Fbrief.jsp&searchForm=opac%2Fbraidense%2Ferror.jsp"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a41e782c44f40",
+      "members": [
+        "a41e782c44f40",
+        "a60104f3030c0"
+      ],
+      "name": "Conrad Gessner",
+      "surname": "Gessner",
+      "given": "Conrad",
+      "birth": 1516,
+      "death": 1565,
+      "origins": [
+        "Switzerland"
+      ],
+      "aliases": [
+        "Konrad Gesner",
+        "Euonymus Philiatrus",
+        "Evonomo Filatro"
+      ],
+      "preserveBiography": true,
+      "reason": "The OCR form Gksneb/Esner is linked to the 1588 Tesauro di Euonomo Filatro, translated by Pietro Lauro. Braidense attributes this exact edition to Konrad Gesner (record LO1E006978). It joins the existing source-reviewed Gessner profile.",
+      "sources": [
+        {
+          "title": "Biblioteca Nazionale Braidense · Tesauro di Euonomo Filatro, 1588 (LO1E006978)",
+          "url": "https://opac.bibliotecabraidense.org/opac_braidense/opaclib?db=solr_braidense&do_cmd=search_show_cmd&from=1&item%3A1003%3ANomi%3A%3A%40frase%40=+Lauro%2C+Pietro+%3Cca.+1510-ca.+1568%3E&nentries=10&resultForward=opac%2Fbraidense%2Fbrief.jsp&searchForm=opac%2Fbraidense%2Ferror.jsp"
+        }
+      ]
+    },
+    {
+      "canonicalId": "aa241095755b7",
+      "members": [
+        "aa241095755b7",
+        "a8e8dadfc51c8"
+      ],
+      "name": "Girolamo Cardano",
+      "surname": "Cardano",
+      "given": "Girolamo",
+      "birth": 1501,
+      "death": 1576,
+      "origins": [
+        "Italy"
+      ],
+      "aliases": [
+        "Gerolamo Cardano",
+        "Hieronymus Cardanus"
+      ],
+      "reason": "Girolamo and Gerolamo are name variants. Both profiles are attached to the same De subtilitate cards; their works and the Latin form Hieronymus Cardanus agree with the biographical source.",
+      "short": "Italian physician and mathematician whose writings ranged from algebra to medicine, natural philosophy and his own life.",
+      "biography": "Girolamo Cardano, also called Gerolamo Cardano or Hieronymus Cardanus, was an Italian physician, mathematician and prolific writer. His Ars magna became an important work in Renaissance algebra.\n\nThe collection reflects his broader interests through De subtilitate, medical commentaries, writings on dreams and later editions of his autobiography. The Girolamo and Gerolamo entries include the same catalogue cards and have been consolidated.",
+      "sources": [
+        {
+          "title": "University of St Andrews · Girolamo Cardano",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cardan/"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a873fa8031dad",
+      "members": [
+        "a873fa8031dad",
+        "a32d39f06bbbf"
+      ],
+      "name": "Christopher Clavius",
+      "surname": "Clavius",
+      "given": "Christopher",
+      "birth": 1538,
+      "death": 1612,
+      "origins": [
+        "Germany"
+      ],
+      "aliases": [
+        "Christophorus Clavius",
+        "Cristoforo Clavio"
+      ],
+      "reason": "Khristophorus S. J. is an OCR/name variant of Christophorus Clavius. Loyola's Jesuit-science bibliography attributes the 1644 Italian Aritmetica prattica, translated by Lorenzo Castellano, to Clavius.",
+      "short": "German Jesuit mathematician and astronomer who taught in Rome and helped explain and defend the Gregorian calendar.",
+      "biography": "Christopher Clavius was a German Jesuit mathematician and astronomer at the Collegio Romano. His teaching and textbooks helped establish mathematics within Jesuit education, and he played a prominent role in explaining and defending the Gregorian calendar reform.\n\nHis name appears in Latin as Christophorus Clavius. The catalogue’s Italian arithmetic, translated by Lorenzo Castellano, belongs to this same author rather than a separate “Khristophorus” profile.",
+      "sources": [
+        {
+          "title": "University of St Andrews · Christopher Clavius",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clavius/"
+        },
+        {
+          "title": "Loyola University Chicago · Jesuit science bibliography",
+          "url": "https://www.luc.edu/media/lucedu/archives/pdfs/jesuitsciences.pdf"
+        }
+      ]
+    },
+    {
+      "canonicalId": "ac79d8646f0aa",
+      "members": [
+        "ac79d8646f0aa",
+        "aea9fa6d865c5",
+        "aae332ea58f34",
+        "a7612b01636d0",
+        "a56bc624af66e"
+      ],
+      "name": "Giambattista della Porta",
+      "surname": "della Porta",
+      "given": "Giambattista",
+      "birth": 1535,
+      "death": 1615,
+      "origins": [
+        "Italy"
+      ],
+      "aliases": [
+        "Giovanni Battista della Porta",
+        "Giovan Battista Porta",
+        "Ioannes Baptista Porta"
+      ],
+      "replaceWrongIdentityIds": [
+        "aae332ea58f34",
+        "a7612b01636d0",
+        "a56bc624af66e"
+      ],
+      "reason": "The linked Magiae naturalis, De i miracoli, physiognomy, refraction and distillation works belong to the Renaissance scholar. Three entries had been matched to Q98456982 (1873–1954), a chronological homonym; their distinctive titles support Q334154 (1535–1615) instead.",
+      "short": "Neapolitan scholar whose books explored natural magic, optics, cryptography, distillation and physiognomy.",
+      "biography": "Giambattista della Porta was a scholar and playwright from the Naples region. His Magiae naturalis gathered observations and experiments across the natural world, and he also wrote about optics, cryptography, agriculture, distillation and physiognomy.\n\nThe catalogue uses several forms of Giovanni Battista, Giovan Battista and Giambattista. The work titles identify the Renaissance author, not the much later namesake previously proposed for three of these entries.",
+      "sources": [
+        {
+          "title": "University of St Andrews · Giambattista della Porta",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Porta/"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a2066f17992f4",
+      "members": [
+        "a2066f17992f4",
+        "a922d0cb8573f"
+      ],
+      "name": "Vannoccio Biringuccio",
+      "surname": "Biringuccio",
+      "given": "Vannoccio",
+      "birth": 1480,
+      "death": 1539,
+      "origins": [
+        "Italy"
+      ],
+      "aliases": [
+        "Vannuccio Biringuccio",
+        "Vannoccio Biringucci"
+      ],
+      "reason": "The two entries share the same 1558 Pirotechnia card, and their other links are editions of that work. Smithsonian Libraries attributes De la pirotechnia to Vannoccio Biringucci.",
+      "short": "Italian metallurgical writer whose Pirotechnia describes working metals and related practical crafts.",
+      "biography": "Vannoccio Biringuccio is known for De la pirotechnia, first published in 1540. It describes metallurgy and practical processes including refining, casting, distillation, glassmaking and the preparation of gunpowder.\n\nThe catalogue contains early editions and later reprints under the spellings Vannoccio and Vannuccio. The entries sharing the same Pirotechnia card have been joined.",
+      "sources": [
+        {
+          "title": "Smithsonian Libraries · De la pirotechnia",
+          "url": "https://library.si.edu/digital-library/book/delapirotechnial00biri?height=60%25&inline=true&width=80%25"
+        },
+        {
+          "title": "Smithsonian Libraries · Chemistry: Science and the Artist's Book",
+          "url": "https://www.sil.si.edu/exhibitions/science-and-the-artists-book/chem.htm"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a1ff4f3f65464",
+      "members": [
+        "a1ff4f3f65464",
+        "a1144ea438772"
+      ],
+      "name": "Anselmus Boëtius de Boodt",
+      "surname": "de Boodt",
+      "given": "Anselmus Boëtius",
+      "birth": 1550,
+      "death": 1632,
+      "origins": [
+        "Belgium"
+      ],
+      "aliases": [
+        "Anselme Boèce de Boot",
+        "Anselmus Boetius de Boot"
+      ],
+      "reason": "BnF attributes Gemmarum et lapidum historia to Anselme Boèce de Boodt; Wellcome's 1644 Le parfaict ioaillier names Anselme Boece de Boot. The French and Latin names and corresponding gemstone works establish the match.",
+      "short": "Physician and writer on gemstones, known for Gemmarum et lapidum historia and its French translation Le parfaict ioaillier.",
+      "biography": "Anselmus Boëtius de Boodt was a physician associated with Emperor Rudolf II and an author on gemstones and minerals. His Gemmarum et lapidum historia describes precious stones, their properties, value and imitations.\n\nThe French Le parfaict ioaillier appears under Anselme Boèce de Boot. This translated name and the Latin form Anselmus Boetius refer to the same person.",
+      "sources": [
+        {
+          "title": "Bibliothèque nationale de France · Gemmarum et lapidum historia",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb30130877z"
+        },
+        {
+          "title": "Wellcome Collection · Le parfaict ioaillier, 1644",
+          "url": "https://content.www.wellcomecollection.org/works/ap4xjbze"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a4691ef81ebad",
+      "members": [
+        "a4691ef81ebad",
+        "a044c733bf5e3"
+      ],
+      "name": "Niccolò Tartaglia",
+      "surname": "Tartaglia",
+      "given": "Niccolò",
+      "birth": null,
+      "death": 1557,
+      "lifeLabel": "c. 1500–1557",
+      "origins": [
+        "Italy"
+      ],
+      "aliases": [
+        "Nicolo Tartaglia",
+        "Nicolo Tartalea"
+      ],
+      "reason": "Nicolo/Niccolò/Tartalea are forms of Tartaglia. The catalogue cross-references his Italian Euclid and his mathematical challenge with Lodovico Ferrari, both documented activities of the same mathematician.",
+      "short": "Italian mathematician remembered for work on cubic equations and for making mathematical texts available in Italian.",
+      "biography": "Niccolò Tartaglia was an Italian mathematician whose work included algebra, practical mathematics and ballistics. He is particularly associated with solutions of cubic equations and the disputes surrounding their publication.\n\nThe catalogue mentions him through cross-references to an Italian Euclid and to the mathematical challenge involving Lodovico Ferrari. Nicolo and Tartalea are variant forms of his name; these references remain distinguished from directly attributed books.",
+      "sources": [
+        {
+          "title": "University of St Andrews · Niccolò Tartaglia",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a2ada68bce7db",
+      "members": [
+        "a2ada68bce7db",
+        "a3b68535433bf"
+      ],
+      "name": "Heinrich Glarean",
+      "surname": "Glarean",
+      "given": "Heinrich",
+      "birth": 1488,
+      "death": 1563,
+      "origins": [
+        "Switzerland"
+      ],
+      "aliases": [
+        "Heinrich Loriti",
+        "Henricus Loritus Glareanus",
+        "Glareanus"
+      ],
+      "reason": "The catalogue explicitly connects Loriti and Henricus Loritus Glareanus through a pseudonym cross-reference. BnF lists both forms under Heinrich Glarean.",
+      "short": "Swiss humanist, poet and music theorist also known as Heinrich Loriti or Henricus Glareanus.",
+      "biography": "Heinrich Glarean, also known as Heinrich Loriti and by the Latin name Henricus Glareanus, was a Swiss humanist, poet and music theorist.\n\nThe catalogue itself identifies Glareanus as Loriti’s alternative name. Combining the two profiles reconnects that explicit cross-reference with the related catalogue entry.",
+      "sources": [
+        {
+          "title": "Bibliothèque nationale de France · Glarean, Heinrich",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb12462502x"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a9ae0571ce34e",
+      "members": [
+        "a9ae0571ce34e",
+        "a1f3dacc9191f",
+        "a8aedb8dce13f",
+        "a9b7e5fa6962c",
+        "ae15078f64309"
+      ],
+      "name": "César-François Cassini de Thury",
+      "surname": "Cassini de Thury",
+      "given": "César-François",
+      "birth": 1714,
+      "death": 1784,
+      "origins": [
+        "France"
+      ],
+      "aliases": [
+        "Cassini III"
+      ],
+      "reason": "The complete César-François Cassini de Thury name, compatible eighteenth-century memoirs, and existing Q561280 matches connect these OCR variants. This is Cassini III, kept distinct from Jacques Cassini and Jean-Dominique Cassini.",
+      "short": "French astronomer and cartographer, known as Cassini III, who directed work on a national map of France.",
+      "biography": "César-François Cassini de Thury was a French astronomer and cartographer, the third generation of the Cassini family associated with the Paris Observatory. He directed work on the detailed map of France commonly called the Cassini map.\n\nThe catalogue’s memoirs on the Paris meridian, refraction, lunar observations and longitude appear under several OCR variants of his full name. These entries are consolidated here; his father Jacques Cassini and other members of the family retain separate profiles.",
+      "sources": [
+        {
+          "title": "Observatoire de Paris · The Cassini astronomers",
+          "url": "https://www.observatoiredeparis.psl.eu/IMG/pdf/l_astronome_du_roi_et_le_satellite.pdf"
+        }
+      ]
+    },
+    {
+      "canonicalId": "a4944db098f65",
+      "members": [
+        "a4944db098f65"
+      ],
+      "name": "Marin Mersenne",
+      "surname": "Mersenne",
+      "given": "Marin",
+      "birth": 1588,
+      "death": 1648,
+      "origins": [
+        "France"
+      ],
+      "aliases": [
+        "Marinus Mersennus",
+        "F. M. Mersenni"
+      ],
+      "reason": "Kórnik Library attributes the exact 1644 Universae geometriae mixtaeque mathematicae synopsis, printed by Antoine Bertier in Paris, to Marin Mersenne. F. M. Mersenni is the abbreviated Latin heading.",
+      "short": "French Minim friar and scholar whose mathematical work and correspondence connected many seventeenth-century thinkers.",
+      "biography": "Marin Mersenne was a French Minim friar who studied mathematics, music and natural philosophy. His extensive correspondence helped circulate questions and discoveries among seventeenth-century scholars.\n\nThe catalogue’s abbreviated Latin heading “F. M. Mersenni” identifies him through the 1644 Universae geometriae mixtaeque mathematicae synopsis. A matching Kórnik Library record supplies his full name and the same Paris publisher.",
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy · Marin Mersenne",
+          "url": "https://plato.stanford.edu/entries/mersenne/"
+        },
+        {
+          "title": "Kórnik Library · Universae geometriae, 1644",
+          "url": "https://platforma.bk.pan.pl/en/search_results/1266036?q%5Bsort_attributes%5D%5Bfield_name%5D=indexes.value.sort&q%5Bsort_attributes%5D%5Bfilter_field_name%5D=indexes.id&q%5Bsort_attributes%5D%5Bfilter_value%5D=2&q%5Bsort_attributes%5D%5Border%5D=asc"
+        }
+      ]
+    }
+  ],
+  "heldForReview": [
+    {
+      "ids": [
+        "af6f9bbe2761c"
+      ],
+      "reason": "The 1904 Storia della chimica card under Biringucci has an uncertain role and work attribution. It is not merged with the Pirotechnia author."
+    },
+    {
+      "ids": [
+        "ab9bab7aed3b9"
+      ],
+      "reason": "No currently linked records support resolving this OCR Porta entry; keep it separate pending evidence."
+    },
+    {
+      "ids": [
+        "a59a592ce22e6",
+        "af6b1ca1cc2b0"
+      ],
+      "reason": "Martin Ruland the elder's Curationum and Martin Ruland the younger's Lexicon alchimiae are different authors, not duplicate profiles."
+    }
+  ]
+}

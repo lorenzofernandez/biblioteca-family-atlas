@@ -1,0 +1,31 @@
+{
+  "version": "exploratory-1",
+  "checked": "2026-10-17",
+  "total": 49780,
+  "estimated": 35919,
+  "confidenceCounts": {
+    "very-low": 35685,
+    "low": 234
+  },
+  "cohorts": {
+    "recent": 2469,
+    "seventeenth": 490,
+    "offprint": 19658,
+    "twentieth": 5831,
+    "eighteenth": 2151,
+    "nineteenth": 5135,
+    "early": 185
+  },
+  "excluded": {
+    "No usable date or separate-print clue": 4800,
+    "Cross-reference or continuation": 6776,
+    "Multi-year publication scope needs review": 924,
+    "Multi-volume set scope needs review": 734,
+    "Incomplete copy or set scope needs review": 425,
+    "Nonstandard or separately reproduced item": 153,
+    "Documented-copy scope needs individual modelling": 27,
+    "Conflicting edition": 15,
+    "Specific printing limitation needs review": 3,
+    "Specific census or printing evidence takes priority": 4
+  }
+}

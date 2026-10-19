@@ -1,0 +1,21 @@
+Catalogue OCR and data-quality review, 18 October 2026
+
+All 49,780 page/card identifiers in the current catalogue were submitted to Apple Vision accurate text recognition. The earlier bulk pass used fast recognition at 1,200 pixels. This pass renders to a maximum 1,800-pixel width using PDFKit, recognizes Italian, French, English, German, Spanish and Portuguese with language correction disabled, and records text, alternative candidates, line boxes and recognition scores.
+
+Cards with changed headings, changed publication-date extraction, possible text loss, large transcription differences or weaker recognition receive a second pass at 2,200 pixels with language correction enabled. A focused Cassini/Bergman comparison also uses 2,400 pixels. This is a second setting of the same OCR engine, not independent human confirmation. Recognition scores are not calibrated accuracy percentages.
+
+The first accurate pass is the default transcription. Text with large disagreements or possible loss is held for review. Visual inspection supplies explicitly recorded corrections for selected cards. Latin-script lookalike glyphs are normalized in overwhelmingly Latin lines; raw OCR remains retained separately. Historical spelling is not systematically modernized. New dates require agreement of the two accurate settings and must occur in the publication/citation area, excluding the title, page counts and shelfmarks. Previously reviewed date corrections remain authoritative.
+
+Titles are reconstructed from contiguous card lines, stopping at citations/imprints/physical descriptions and joining explicit line breaks. Reviewed editions are protected. Author consolidation requires consistent full source-card names and compatible authority metadata. Surname/initial-only speculation is not a merge rule. Cassini and Bergman have separate documented decisions. Original card text and the work's scholarly attribution remain distinct, including a Cassini card that itself names the wrong generation.
+
+Every updated title is locally compared against the previously retrieved Internet Archive and Crossref reference corpus. Added leads require close title, creator surname and same-year agreement. This is not a new individual web search for every book. Matches remain tentative work-level leads; no surviving-copy estimate or verified physical-copy claim is inferred.
+
+Stable card IDs, file/page references, researched editions, surviving-copy research, reviewed biographies and author redirects are preserved. The history file records before/after text and metadata. The review queue retains unresolved OCR disagreements and the chronology queue flags publication years preceding a proposed author's birth. Posthumous publications are not treated as errors.
+
+Reproduction:
+  Compile recognize.swift with swiftc -O, then run:
+  recognize ORIGINAL_PDF_DIRECTORY INPUT_PAGE_MANIFEST OUTPUT_JSONL SHARD WORKERS LANGUAGE_CORRECTION MAX_WIDTH
+  The program checkpoints by file and page and can safely resume.
+  prepare.py stages transcription changes; authors.py proposes full-name consolidation;
+  rematch.py screens cached bibliography metadata; apply.py integrates the reviewed stage.
+  Intermediate OCR files and baseline snapshots are expected in ../ocr-review beside the checkout.

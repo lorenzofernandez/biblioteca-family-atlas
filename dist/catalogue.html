@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Browse the original family catalogue card by card, following its sections and scanned order."><title>The catalogue · Biblioteca</title><link rel="stylesheet" href="base.css"><link rel="stylesheet" href="site-navigation.css"><link rel="stylesheet" href="catalogue-browser.css"></head>
+<body><header><a class="brand" href="index.html">Biblioteca<span>.</span></a><nav aria-label="Main navigation"><a href="index.html">Home</a><a href="books.html">The books</a><a href="authors.html">The authors</a><a href="catalogue.html" aria-current="page">The catalogue</a></nav></header>
+<main class="catalogue-wrap">
+<section class="card-browser" id="cardBrowser" aria-label="Original catalogue card browser">
+  <div class="catalogue-toolbar">
+    <h1>The catalogue<span> / In her original order</span></h1>
+    <div class="catalogue-actions">
+    <details class="catalogue-menu" id="catalogueMenu">
+      <summary aria-label="Choose catalogue section or card"><span id="drawerName">Opening the catalogue…</span><span aria-hidden="true">⌄</span></summary>
+      <div class="catalogue-options">
+        <div class="menu-heading">Choose a section</div><div id="catalogueDrawers"></div>
+        <div class="menu-heading">Jump to a division <span id="drawerTotal"></span></div>
+        <div class="letter-tabs" id="letterTabs" aria-label="Choose a catalogue division"></div>
+        <form id="jumpForm"><label for="jumpCard">Go to card</label><input id="jumpCard" type="number" min="1" value="1" inputmode="numeric"><button type="submit">Go →</button></form>
+        <label class="card-scrubber"><span class="sr-only">Position in the open catalogue section</span><input id="cardRange" type="range" min="1" max="1" value="1"></label>
+        <div class="card-source-links"><a id="originalLink" href="#" target="_blank" rel="noopener">Original scan ↗</a><a id="recordLink" href="#">Explore this record →</a></div>
+        <p class="scan-note" id="scanNote"></p>
+      </div>
+    </details>
+    <a id="bookPageLink" class="book-page-cta" aria-disabled="true" tabindex="-1">View book page <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <div class="stack-stage" id="stackStage" tabindex="0" role="region" aria-label="Card stack. Scroll, swipe, or use arrow keys to browse.">
+    <div class="card-stack" id="cardStack"><div class="paper-layer paper-layer-4" aria-hidden="true"></div><div class="paper-layer paper-layer-3" aria-hidden="true"></div><div class="paper-layer paper-layer-2" aria-hidden="true"></div><div class="paper-layer paper-layer-1" aria-hidden="true"></div><button class="original-card" id="originalCard" aria-label="Enlarge the original catalogue card"><span class="card-loading">Opening the first card…</span></button></div>
+    <div class="stack-error" id="stackError" hidden></div>
+  </div>
+  <div class="catalogue-bottom">
+    <div class="card-controls"><button id="previousCard" class="card-step" aria-label="Previous card">←</button><div class="card-position" aria-live="polite"><strong id="cardPosition">—</strong><span id="cardDivision"></span></div><button id="nextCard" class="card-step" aria-label="Next card">→</button></div>
+    <p class="stack-instruction">Scroll to turn · Click to look closer</p>
+  </div>
+</section></main>
+<dialog class="card-zoom" id="cardZoom"><button id="closeZoom" aria-label="Close enlarged card">×</button><div id="zoomCanvas"></div><p id="zoomCaption"></p></dialog>
+<script src="site-navigation.js?v=deep-rarity"></script><script type="module" src="catalogue-browser.js"></script></body></html>

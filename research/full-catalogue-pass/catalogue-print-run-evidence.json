@@ -1,0 +1,162 @@
+{
+  "w6aff8edc0f21": {
+    "id": "w6aff8edc0f21",
+    "file": "00_006_G00000001.pdf",
+    "page": 26,
+    "catalogueTitle": "Il \"Taccuino Riproduz. in £ac-simile del ' autograf o conservato nella Biblioteca del- IrArchiginnasio di Bologna. A cura del Comi-",
+    "nonIndependentRecord": false,
+    "continuationOf": null,
+    "signals": [
+      {
+        "type": "reprint_or_facsimile",
+        "confidence": "medium",
+        "scope": "edition",
+        "ocrExcerpt": "Riproduz. in £ac-simile del\n' autograf o conservato nella Biblioteca del-\nIrArchiginnasio di Bologna. A cura del Comi-\ntato tser la celeb",
+        "meaning": "The catalogue explicitly identifies a facsimile/anastatic edition; do not transfer the original edition’s rarity.",
+        "review": "manual OCR and context review",
+        "source": {
+          "title": "Family catalogue, 00_006_G 00000001.pdf, scan 26",
+          "url": "originals/00_006_G00000001.pdf#page=26",
+          "file": "00_006_G00000001.pdf",
+          "page": 26,
+          "recordId": "w6aff8edc0f21"
+        },
+        "rarityEffect": "edition-scope safeguard"
+      },
+      {
+        "type": "limited_print_run",
+        "confidence": "medium",
+        "scope": "Galvani notebook facsimile, not the original handwritten notebook",
+        "ocrExcerpt": "Edizione di 500 esemplari, Esemplare n.353.",
+        "meaning": "The scan confirms a 500-copy edition and copy 353. This limits the facsimile issue conditionally, not the manuscript or all Galvani editions.",
+        "review": "original scanned card visually checked",
+        "source": {
+          "title": "Family catalogue, 00_006_G 00000001.pdf, scan 26",
+          "url": "originals/00_006_G00000001.pdf#page=26",
+          "file": "00_006_G00000001.pdf",
+          "page": 26,
+          "recordId": "w6aff8edc0f21"
+        },
+        "rarityEffect": "tentative source-backed limited-issue signal",
+        "verifiedTranscription": "Edizione di 500 esemplari, Esemplare n.353.",
+        "originalPrintRun": 500,
+        "numberedCopy": 353,
+        "conditionalSurvivorUpperBound": 500,
+        "assumptions": [
+          "The 500-copy statement describes the whole facsimile issue.",
+          "The catalogue’s printed 1837 date conflicts with the bicentenary context;1937 is independently supported."
+        ],
+        "dateConflict": {
+          "catalogueDate": 1837,
+          "proposedDate": 1937,
+          "sourceUrl": "https://www.bibliotecasalaborsa.it/bolognaonline/lang/en/cronologia-di-bologna/1937",
+          "reason": "Bologna Library records the 1937 Galvani bicentenary and presentation of the notebook facsimile. The catalogue date error is present in the scan, not only OCR."
+        }
+      }
+    ],
+    "worldwideSurvivingCopies": null
+  },
+  "wceeacceca787": {
+    "id": "wceeacceca787",
+    "file": "00_006_R00000001.pdf",
+    "page": 339,
+    "catalogueTitle": "Il piombo/ Ediz. della Rassegna L t Industria Mine= 1956 raria",
+    "nonIndependentRecord": false,
+    "continuationOf": null,
+    "signals": [
+      {
+        "type": "limited_print_run",
+        "confidence": "medium",
+        "scope": "1956 private/non-trade issue of Rolandi, Il piombo",
+        "ocrExcerpt": "(Edizione di 120 esemplari £uori commercio)",
+        "meaning": "The family catalogue states 120 copies for this issue. If exhaustive and accurate,120 is a ceiling for surviving originals; it is not an estimate of how many survive.",
+        "review": "original scanned card visually checked",
+        "source": {
+          "title": "Family catalogue, 00_006_R 00000001.pdf, scan 339",
+          "url": "originals/00_006_R00000001.pdf#page=339",
+          "file": "00_006_R00000001.pdf",
+          "page": 339,
+          "recordId": "wceeacceca787"
+        },
+        "rarityEffect": "tentative source-backed limited-issue signal",
+        "verifiedTranscription": "Edizione di 120 esemplari fuori commercio",
+        "originalPrintRun": 120,
+        "conditionalSurvivorUpperBound": 120,
+        "assumptions": [
+          "The statement describes the entire issue, not a numbered subset.",
+          "Later editions, reproductions and any unrecorded impressions are excluded."
+        ]
+      }
+    ],
+    "worldwideSurvivingCopies": null
+  },
+  "wc090b7af60a9": {
+    "id": "wc090b7af60a9",
+    "file": "00_006_B00000001.pdf",
+    "page": 506,
+    "catalogueTitle": "li strume1lti della scienza e la scienza degli strumentl Flrenze, Seeber, 1929 cm. 25,5 j pp. XVI, 253, tavv. 136 £.t",
+    "nonIndependentRecord": false,
+    "continuationOf": null,
+    "signals": [
+      {
+        "type": "limited_print_run_conflict",
+        "confidence": "low",
+        "scope": "Boffito, Gli strumenti della scienza, Firenze:Seeber,1929",
+        "ocrExcerpt": "(Edlzione dl 300 esemplari numerati\n328)",
+        "meaning": "The scan confirms the contradictory 300-copy limitation and copy 328. Retain as a numbered/limited-edition lead, but no numeric bound is safe until the book’s limitation leaf is checked.",
+        "review": "original scanned card visually checked",
+        "source": {
+          "title": "Family catalogue, 00_006_B 00000001.pdf, scan 506",
+          "url": "originals/00_006_B00000001.pdf#page=506",
+          "file": "00_006_B00000001.pdf",
+          "page": 506,
+          "recordId": "wc090b7af60a9"
+        },
+        "rarityEffect": "tentative source-backed limited-issue signal",
+        "verifiedTranscription": "Edizione di 300 esemplari numerati - n°328",
+        "reportedPrintRun": 300,
+        "numberedCopy": 328,
+        "conditionalSurvivorUpperBound": null,
+        "assumptions": [
+          "At least one catalogue number may be wrong, or numbering may cover a broader issue."
+        ]
+      }
+    ],
+    "worldwideSurvivingCopies": null
+  },
+  "w4c7a884422f6": {
+    "id": "w4c7a884422f6",
+    "file": "00_002_T00000001.pdf",
+    "page": 13,
+    "catalogueTitle": "Lezioni accademiche...Seconda edizione...[Se= gue:]Introduzione alla fisica sperimentale del' l'abate Domenico Scinà..Terza edizione. Mila= no... M. DCCC. XVII",
+    "nonIndependentRecord": false,
+    "continuationOf": null,
+    "signals": [
+      {
+        "type": "special_issue_print_run",
+        "confidence": "low",
+        "scope": "Special Parma blue-paper issues of the two bound works; not the entire regular edition",
+        "ocrExcerpt": "Se ne\nsono tirate due sole copie in carta turchina\ndi Parma",
+        "meaning": "The continuation quotes a two-copy special-paper limitation from the colophons. It does not explicitly confirm that the family copy is on this paper. Do not apply a two-copy ceiling to the family entry until its paper is checked.",
+        "review": "original scanned card visually checked",
+        "source": {
+          "title": "Family catalogue, 00_002_T 00000001.pdf, scan 14",
+          "url": "originals/00_002_T00000001.pdf#page=14",
+          "file": "00_002_T00000001.pdf",
+          "page": 14,
+          "recordId": "wb258bf990e81"
+        },
+        "rarityEffect": "tentative source-backed limited-issue signal",
+        "verifiedTranscription": "Se ne sono tirate due sole copie in carta turchina di Parma",
+        "specialIssuePrintRun": 2,
+        "conditionalSurvivorUpperBound": null,
+        "assumptions": [
+          "The bound works are Torricelli’s Lezioni accademiche,1823,and Scinà’s Introduzione,1817.",
+          "The family copy’s paper remains unverified."
+        ],
+        "evidenceRecordId": "wb258bf990e81"
+      }
+    ],
+    "worldwideSurvivingCopies": null
+  }
+}

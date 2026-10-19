@@ -1,0 +1,15 @@
+{
+  "validated": "2026-10-19",
+  "checks": [
+    "49,780 unique scanned cards and stable identifiers",
+    "Before/after history and earlier evidence provenance",
+    "Shared light/dark data and author associations",
+    "Author redirects and separate Cassini generations",
+    "Reviewed biographies and rare-book evidence retained",
+    "Publication geography and circulation evidence boundaries",
+    "Book-summary semantic checks",
+    "Dark and light browser records; desktop and mobile author panels",
+    "Static bundle under 256 MiB"
+  ],
+  "browserPageErrors": []
+}

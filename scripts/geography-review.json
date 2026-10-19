@@ -1,0 +1,2641 @@
+[
+  {
+    "id": "w00005278d2b9",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, I.E.I., 1957.",
+    "source": "originals/00_001_F00000001.pdf"
+  },
+  {
+    "id": "w01284bf5c853",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, an VIII de la République [1801]- 1817.",
+    "source": "originals/00_003_PERIODICI00000001.pdf"
+  },
+  {
+    "id": "w01bc0316eb75",
+    "country": "NLD",
+    "place": "Amsterdam",
+    "evidence": "Amsterdam, North-Holland Publishing Company,",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "w04561d15e809",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, Presso Leonardo e Giammaria Fratel=",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "w0456603d9278",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Böttingen, Heidelberg, Springer Ver=",
+    "source": "originals/00_006_O00000001.pdf"
+  },
+  {
+    "id": "w04c569828aef",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et Fils, 1888.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "w06375d3749af",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez P.G.Le Mercier Fils, 1732.",
+    "source": "originals/00_007_D00000001.pdf"
+  },
+  {
+    "id": "w0681ad83eb58",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze,Felice Le Monnier, (Stab. Tip. E.",
+    "source": "originals/00_006_A00000001.pdf"
+  },
+  {
+    "id": "w07f38d08bb0e",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Dalla Stamperia Piatti, 1822.",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "w09405871c10d",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Butterworths, 1963.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w09f9b4d36093",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Chapman and Hall, 1966.",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w0a4370989d39",
+    "country": "FRA",
+    "place": "Grenoble",
+    "evidence": "Grenoble, Allier Frères,",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "w0b46c45c8010",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Walter de Gruyter & Co., 1939.",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w0bda3896d826",
+    "country": "MULTI",
+    "place": "London; New York",
+    "evidence": "New York, London, loronto,",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w0c93aa14469d",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Francesco Vallardi, 1860.",
+    "source": "originals/00_001_C00000001.pdf"
+  },
+  {
+    "id": "w0d4c775b33d9",
+    "country": "ITA",
+    "place": "Ferrara",
+    "evidence": "Ferrara, Soc. An, tipografica Emiliana, 1932.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w0e2a504d0bc7",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Baudry et C., 1885.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w0f52282060d3",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Hill Publishing Company, 1907.",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w0f9cbbc77d4f",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Stamperia reale, 1767.",
+    "source": "originals/00_002_M00000001.pdf"
+  },
+  {
+    "id": "w14ab18509ba5",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, G.Bell and Sons, 1932.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w151a09ab7d13",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gibert, 1864•",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "w161d3cee54f9",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Hierosme de Marnet et Guillaume",
+    "source": "originals/00_004_L00000001.pdf"
+  },
+  {
+    "id": "w16b1647b3174",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, nella Stamperia Piatti, 1833.",
+    "source": "originals/00_007_G00000001.pdf"
+  },
+  {
+    "id": "w176a1a4dc3e7",
+    "country": "DEU",
+    "place": "Braunschweig",
+    "evidence": "Braunschweig, Friedr.Vieweg & Sohn, 1949.",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w1892abc81c5f",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Turin, Impr. Royale, 1842.",
+    "source": "originals/00_005_P00000001.pdf"
+  },
+  {
+    "id": "w194bd34e4f1b",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1899.",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w1b5144be06f6",
+    "country": "GBR",
+    "place": "Oxford",
+    "evidence": "Oxford, at the CJarendon Press, 1893.",
+    "source": "originals/00_006_T00000001.pdf"
+  },
+  {
+    "id": "w1b760f27f932",
+    "country": "DEU",
+    "place": "Halle",
+    "evidence": "Halle, C.Schulze & Co.,",
+    "source": "originals/00_001_W00000001.pdf"
+  },
+  {
+    "id": "w1b9bf7c6cc5c",
+    "country": "DEU",
+    "place": "Dresden",
+    "evidence": "Dresden, Theodor Steinkopft, 1932.",
+    "source": "originals/00_001_M00000001.pdf"
+  },
+  {
+    "id": "w1bc043911399",
+    "country": "FRA",
+    "place": "Lille",
+    "evidence": "Lille, Camille Robbe, 1909.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "w1bc0c28d67f6",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Victor",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w1c0ae76a356d",
+    "country": "GBR",
+    "place": "London; Oxford",
+    "evidence": "Oxford, London, New York, Paris, Pergamon",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w1c9e4f47c877",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Angelo Stanislao Brambilla, 1823.",
+    "source": "originals/00_005_B00000001.pdf"
+  },
+  {
+    "id": "w1d0d8253f2c6",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, H. Dunod et E. Pinat,",
+    "source": "originals/00_006_V00000001.pdf"
+  },
+  {
+    "id": "w1d326591bfe8",
+    "country": "NLD",
+    "place": "Eindhoven",
+    "evidence": "Eindhoven, Labor. N.V. Philips 1953.",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w1d3284ef6b7d",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et Fils, 1893.",
+    "source": "originals/00_001_G00000001.pdf"
+  },
+  {
+    "id": "w1d32f32f4da1",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nella Stamperia del Longhi, 1775.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "w1dc665486e59",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, S. Hirzel, (August Pries), 1907.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w1e7f977398fa",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Napoli, lypis",
+    "source": "originals/00_007_G00000001.pdf"
+  },
+  {
+    "id": "w1f3869ee1fcc",
+    "country": "POL",
+    "place": "Wrocław",
+    "evidence": "Breslau, Maruschke & Berendt, 1899.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w1f8267428c25",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, H. Dunod et E. Pinat, (Tours, impr.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w20aacf105023",
+    "country": "BEL",
+    "place": "Leuven",
+    "evidence": "Louvain, Peeters-Ruelens, (impr.Ruelens),",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w22d5ffcc2ac2",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, dalla Stamperia Reale, 1830.",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "w23fd6886182c",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Johann Ambrosius Barth, 1927.",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w2500ac79f52e",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, John Wiley & Sons, 1950.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "w27067aa86162",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez P.Fr.Gueffier, 1785.",
+    "source": "originals/00_007_S00000001.pdf"
+  },
+  {
+    "id": "w279a1dff9d18",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Reinhold Publishing Corporation,",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w289d93c723c9",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venetia, Appresso Giodano Ziletti, 1558.",
+    "source": "originals/00_004_P00000001.pdf"
+  },
+  {
+    "id": "w2931a40095d8",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Panckoucke-Moutard, 1779.",
+    "source": "originals/00_002_A00000001.pdf"
+  },
+  {
+    "id": "w29eab30cd0a8",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez Madame Huzard, 1826.",
+    "source": "originals/00_005_R00000001.pdf"
+  },
+  {
+    "id": "w2aedcd4fd092",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Wilhelm Engelmann, (Poschel & Trep=",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w2b12731323cf",
+    "country": "ITA",
+    "place": "Verona",
+    "evidence": "Verona, per gli eredi di Marco Moroni, 1784",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "w2b374c2b1b9e",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, A.Hermann & Fils, (Liavali, Impr.L.Bax=",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w2b378d21bebc",
+    "country": "MULTI",
+    "place": "Princeton; London",
+    "evidence": "Princeton, Toront°1968. / London, Melbourne, D.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w2b5c3aa6585b",
+    "country": "USA",
+    "place": "Baltimore",
+    "evidence": "Baltimore, The Lord Baltimore Press, 1909.",
+    "source": "originals/00_001_R00000001.pdf"
+  },
+  {
+    "id": "w2c3a32480fcb",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Frat. Treves, 1908.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w2ca990c7f6ed",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Romae, ex Typographia Generosi Salomonii,",
+    "source": "originals/00_007_N00000001.pdf"
+  },
+  {
+    "id": "w2ca9b30bff99",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, à la Librairie Encyclopédique de Roret",
+    "source": "originals/00_007_V00000001.pdf"
+  },
+  {
+    "id": "w2d18d23d3f83",
+    "country": "SWE",
+    "place": "Uppsala",
+    "evidence": "Uppsala, Almquist & Wiksells, 1946.",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w2e8a467f3018",
+    "country": "AUT",
+    "place": "Wien",
+    "evidence": "Wien, Springer Verlag, 1941.",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "w30b55f67d676",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Tip. dell'Unione Cooperativa Editrice,",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "w31245d04374d",
+    "country": "ITA",
+    "place": "Pavia",
+    "evidence": "Pavia, Fusi, 1911.",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w319319200d97",
+    "country": "MULTI",
+    "place": "New York; Toronto",
+    "evidence": "Toronto, New York, London, D. Van Nostrand",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w33e385b08e82",
+    "country": "DEU",
+    "place": "Braunschweig",
+    "evidence": "Braunschweig, Friedrich Vieweg, 1898.",
+    "source": "originals/00_003_PERIODICI00000001.pdf"
+  },
+  {
+    "id": "w35305f3ce9c4",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venetia, Appresso 1l Barezzi, 1644.",
+    "source": "originals/00_004_R00000001.pdf"
+  },
+  {
+    "id": "w355512995967",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1868. d'Examen.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "w3555f6f37564",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nicola Zanichelli, 1943, 1942, 1951",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w359fec045070",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Carlo Clausen, 1906.",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w35e968143a09",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Baldassare Ponti, (Tipi di Giuseppe",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w36c77acc74e3",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Per Francesco Sonzogno di Gio.Battist:",
+    "source": "originals/00_007_J-K00000001.pdf"
+  },
+  {
+    "id": "w3736664245b3",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, B.G. Teubner, 1887.",
+    "source": "originals/00_001_J-K00000001.pdf"
+  },
+  {
+    "id": "w38396dba11bf",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1968.",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "w39866da5027a",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Napoli, Alberto Morano, (S.I.E.M.), 1928.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w39ababc0f2fd",
+    "country": "USA",
+    "place": "Washington",
+    "evidence": "Washington, Government Printing Office, 1932.",
+    "source": "originals/00_001_H00000001.pdf"
+  },
+  {
+    "id": "w3b42d0d075fd",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Masson et C., (Corbeil, impr. Crété),",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w3bd6fdd71694",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Massone et Cie, (Liège, Impr. Georges",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "w3c6a1123d435",
+    "country": "USA",
+    "place": "Washington",
+    "evidence": "Washington, United States Department of the",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w3e706713065c",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, A. Colin (Imp. H. Tessier, Orléans),",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w3ebace235dc0",
+    "country": "ITA",
+    "place": "Pavia",
+    "evidence": "Pavia, Presso Fusi e Comp., 1816.",
+    "source": "originals/00_005_B00000001.pdf"
+  },
+  {
+    "id": "w3fe206a94281",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Carlo Manfredi, 1952.",
+    "source": "originals/00_001_P00000001.pdf"
+  },
+  {
+    "id": "w407677715315",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Johann Ambrosius Barth, 1914.",
+    "source": "originals/00_001_R00000001.pdf"
+  },
+  {
+    "id": "w410aab4bd47b",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Per 11 Casaletti, 1779.",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "w419e9f824d4a",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, presso Angelo Monti (Tipografia Bon=",
+    "source": "originals/00_007_V00000001.pdf"
+  },
+  {
+    "id": "w43c9663e38ad",
+    "country": "ITA",
+    "place": "Palermo",
+    "evidence": "Palermo, Nella Tipografia di Filippo Solli,",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "w43ee33916891",
+    "country": "ITA",
+    "place": "Palermo",
+    "evidence": "Palermo, dalle Stampe del Solli, 1807.",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "w445d960447bc",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, MoGraw-Hill Book",
+    "source": "originals/00_006_X-Y00000001.pdf"
+  },
+  {
+    "id": "w44824b211a4e",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Marcel Dekker, 1965.",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "w45aa0ca8f85f",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, M.me V.e Courcier, 1819.",
+    "source": "originals/00_007_L00000001.pdf"
+  },
+  {
+    "id": "w45aa8357dd36",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Tipografia G. Cenerelli, 1885.",
+    "source": "originals/00_006_L00000001.pdf"
+  },
+  {
+    "id": "w4619deb8690c",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Bourloton",
+    "source": "originals/00_001_G00000001.pdf"
+  },
+  {
+    "id": "w463e0f1d245b",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1878.",
+    "source": "originals/00_001_M00000001.pdf"
+  },
+  {
+    "id": "w4688266fe0e5",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Dover Publications Inc., 1966.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w46d2d307d779",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, E.Martinet, 1868.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "w47d5fe46221d",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Butterworths Scientific Publications,",
+    "source": "originals/00_006_T00000001.pdf"
+  },
+  {
+    "id": "w488e85dc779f",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Georges Carré, 1892.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w49911621221b",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Napoli, dalla Stamperia Orsiniana, 1806.",
+    "source": "originals/00_007_C00000001.pdf"
+  },
+  {
+    "id": "w49b6d129f517",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez Delaplace, An X (1802).",
+    "source": "originals/00_007_S00000001.pdf"
+  },
+  {
+    "id": "w4a00c53fd7a9",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Ed. Albin Michel, 1946.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w4a944ef3b64c",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Tip. Sociale, 1898.",
+    "source": "originals/00_001_P00000001.pdf"
+  },
+  {
+    "id": "w4b9781af62ca",
+    "country": "CHE",
+    "place": "Genève",
+    "evidence": "Genevae, Sumpt.I.Ant.& Samuelis De Tour=",
+    "source": "originals/00_004_A00000001.pdf"
+  },
+  {
+    "id": "w4b97e4d4141f",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Montecatini, (Ind.Grif. Nicola Moneta)",
+    "source": "originals/00_006_V00000001.pdf"
+  },
+  {
+    "id": "w4c06da1edb70",
+    "country": "ITA",
+    "place": "Pesaro",
+    "evidence": "Pesaro, Federici, 1889.",
+    "source": "originals/00_001_F00000001.pdf"
+  },
+  {
+    "id": "w4c2b5a2b91d0",
+    "country": "NLD",
+    "place": "Amsterdam",
+    "evidence": "Amsterdam, North-Holland Publishing Company,",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w4cbf89587d48",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Fues's Verlag, (druk, Stephan Gei-",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w4eeaa14d02ee",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Hermann & Co., 1943.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w4f7e4e4c5e53",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Annesio Nobili, 1818.",
+    "source": "originals/00_005_M00000001.pdf"
+  },
+  {
+    "id": "w50a647b79bf2",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Ernest Flammarion, 1937.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "w50a6f5f5b299",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Printed for J.Johnson, 1777.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "w50f09abb92c6",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Verlag von Julius Springer, 1933.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w515f0fcf2a06",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez Desaint, (de l'Impr. de Lottin",
+    "source": "originals/00_007_L00000001.pdf"
+  },
+  {
+    "id": "w51ce87690ae8",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Reinhold Publishing Corporation,",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w52f6fa281b3a",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Tipo-Litografia del Ministero della",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "w5365dd20d595",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Soc.Franc, d'Edit.Littér. et Technique,",
+    "source": "originals/00_007_V00000001.pdf"
+  },
+  {
+    "id": "w53afe8905cf0",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Ernest Flammarion, ( Imp.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w53f939b30b94",
+    "country": "USA",
+    "place": "Cleveland",
+    "evidence": "Cleveland, American Society for Metals, 1955.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w546860a6b11e",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Akademische Verlagsgesellschaft M.",
+    "source": "originals/00_001_M00000001.pdf"
+  },
+  {
+    "id": "w54b2f196f646",
+    "country": "ITA",
+    "place": "Pavia",
+    "evidence": "Pavia, Nella Stamperia del R. ed I.Monastero",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "w554675cc444b",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Druck von E?Ebering, 1901.",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w5546e0d545ea",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, Ferrari, 1893.",
+    "source": "originals/00_001_L00000001.pdf"
+  },
+  {
+    "id": "w556b6f2bffab",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Julius Springer, 1926.",
+    "source": "originals/00_006_E00000001.pdf"
+  },
+  {
+    "id": "w56dd8604182c",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Springer, 1942.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w5727e2531fcd",
+    "country": "ITA",
+    "place": "Bergamo",
+    "evidence": "Bergamo, ITAG, 1904.",
+    "source": "originals/00_001_Z00000001.pdf"
+  },
+  {
+    "id": "w59772b617830",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Casa Editrice Leonardo da Vinci, (Stat",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w5a5534fded4d",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, per la Società Tipografica, 1845.",
+    "source": "originals/00_005_C00000001.pdf"
+  },
+  {
+    "id": "w5a9f1ed52c3a",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venetiis, Apud Hieronymum Scotum, 1562.",
+    "source": "originals/00_004_T00000001.pdf"
+  },
+  {
+    "id": "w5ac43bd1ed60",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Furne, Jouvet et C., 1868.",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "w5b7dfb1a3394",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, presso il Salomoni, 1808.",
+    "source": "originals/00_005_C00000001.pdf"
+  },
+  {
+    "id": "w5d5e0bf6358e",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Akademische Verlagsgesellschaft M.B.",
+    "source": "originals/00_006_T00000001.pdf"
+  },
+  {
+    "id": "w5df2abdd3bdc",
+    "country": "FRA",
+    "place": "Montpellier",
+    "evidence": "Montpellier, Delord-Bohem et Martial, 1902.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "w61d9e1128899",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Dover, (Dover Pubblicatons inc.),",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w62920ce8c053",
+    "country": "ITA",
+    "place": "Modena",
+    "evidence": "Modena, Dalla Tipografia Vincenzi e Rossi,",
+    "source": "originals/00_007_R00000001.pdf"
+  },
+  {
+    "id": "w62b7e54b0ffa",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et Fils, 1894, 1895,",
+    "source": "originals/00_006_N00000001.pdf"
+  },
+  {
+    "id": "w63ba7616cde0",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, George Allen and Unwin; (Bath, The",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w657689adb978",
+    "country": "DEU",
+    "place": "München",
+    "evidence": "Munchen, Berlag Georg D.M. Callwen, (Drud &",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w65769508fddc",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venetiis, Ex Officina Isasmiana Vincentii.",
+    "source": "originals/00_004_M00000001.pdf"
+  },
+  {
+    "id": "w659ba1d95e96",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Becker & Erler Kom.-Ges., 1940.",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "w65e55e9f0871",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Société d'édotopn d'enseignement su=",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "w66c3457d41f8",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Tip. delle Belle Arti, 1846.",
+    "source": "originals/00_005_T00000001.pdf"
+  },
+  {
+    "id": "w67c6d3683f85",
+    "country": "AUT",
+    "place": "Wien",
+    "evidence": "Wien, Alfred Hölder, 1914.",
+    "source": "originals/00_001_P00000001.pdf"
+  },
+  {
+    "id": "w67eb02743a27",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, E. & F. N.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w67eb555f57cd",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Ch. Béranger, 1924.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w6810241a41ae",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et Cie, 1932.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w6835af6656e2",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Hill Publishing Company, 1909.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "w69f1a03d3ef9",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, s.n.t., 1927.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w6a3bc777af43",
+    "country": "NLD",
+    "place": "Amsterdam",
+    "evidence": "Amsterdam; P. de Coup; poi P. Mortier; poi",
+    "source": "originals/00_002_A00000001.pdf"
+  },
+  {
+    "id": "w6acf1d72b662",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, chez Panckoucke Libraire et Moutard Im=",
+    "source": "originals/00_007_A00000001.pdf"
+  },
+  {
+    "id": "w6bf7097bd98e",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Tip. dei Minori Corrigendi, 1895.",
+    "source": "originals/00_001_G00000001.pdf"
+  },
+  {
+    "id": "w6c662467da55",
+    "country": "ITA",
+    "place": "Vicenza",
+    "evidence": "Vicenza, Gir. Burato, 1877.",
+    "source": "originals/00_001_F00000001.pdf"
+  },
+  {
+    "id": "w6cfa5927bbdd",
+    "country": "MULTI",
+    "place": "Budapest; Berlin",
+    "evidence": "Berlin, Budapest, R. Friedlander & Sohn,",
+    "source": "originals/00_001_F00000001.pdf"
+  },
+  {
+    "id": "w6db3cdabd2fc",
+    "country": "DEU",
+    "place": "Stuttgart",
+    "evidence": "Stuttgart, Ferdinand Enke, 1928-1937.",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w6db3e38c37c2",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Tipografia Chirio e Mina, 1830.",
+    "source": "originals/00_005_L00000001.pdf"
+  },
+  {
+    "id": "w6edbfd4bbd69",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Methuen & Co., New York, John Wiley",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w6f4a3adff834",
+    "country": "DNK",
+    "place": "København",
+    "evidence": "København, Andr. Fred. Høst & Són, 1925.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "w6f9404d42aa4",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1939.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w6fde1209622b",
+    "country": "MULTI",
+    "place": "London; New York",
+    "evidence": "New York, London, Paris, Gordon and Breach,",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w7003f04b20f9",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, John Wiley & Sons, 1880.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w70289a34a760",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, V.Hoepli, (Tip.Lombardi di M.Bellinza\"",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "w704da9e29dd8",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Metallurgical Publishing Co.,1940.",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w717506498ee1",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Tipografia Cecchi, 1849.",
+    "source": "originals/00_005_D00000001.pdf"
+  },
+  {
+    "id": "w7209f87691b4",
+    "country": "USA",
+    "place": "Cleveland",
+    "evidence": "Cleveland, American Society for Metals, 1954.",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "w725339498c88",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, per Gaetano Cambiagi Stampatore Granı",
+    "source": "originals/00_007_F00000001.pdf"
+  },
+  {
+    "id": "w73313fba774a",
+    "country": "GBR",
+    "place": "Cambridge",
+    "evidence": "Cambridge, at the University Press, 1920.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w7459b89322dc",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Fllix Alcan, ( Chartres, Impr. Du=",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w74a3c24c940d",
+    "country": "DEU",
+    "place": "Dresden",
+    "evidence": "Dresden, Theodor Steinkopff, fmnt",
+    "source": "originals/00_006_O00000001.pdf"
+  },
+  {
+    "id": "w75a65d9ce7ba",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Napoli, B.Pellerano, 1880.",
+    "source": "originals/00_006_T00000001.pdf"
+  },
+  {
+    "id": "w76ce58ca54ff",
+    "country": "ITA",
+    "place": "Padova",
+    "evidence": "Patavii, Typis Jo.Antonii Conzatti, 1787.",
+    "source": "originals/00_007_C00000001.pdf"
+  },
+  {
+    "id": "w784067b2e2ce",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Napoli, Luigi Pierro, 1904.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w798d140ff966",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Facsimile-Edition, W. Junk, 1904.",
+    "source": "originals/00_001_S00000001.pdf"
+  },
+  {
+    "id": "w7ada5f0218fb",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Scott, Webster and Geary, 1839.",
+    "source": "originals/00_007_N00000001.pdf"
+  },
+  {
+    "id": "w7aff162f3a3d",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Dalla Società Tipografica dei Clas=",
+    "source": "originals/00_005_T00000001.pdf"
+  },
+  {
+    "id": "w7affb0014d55",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Federico Bencini, 1857.",
+    "source": "originals/00_007_T00000001.pdf"
+  },
+  {
+    "id": "w7d4f1738b835",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Collombon et Brůle,",
+    "source": "originals/00_001_T00000001.pdf"
+  },
+  {
+    "id": "w7d9952e5648a",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Sten Editrice, 1921.",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "w7e9c766d2593",
+    "country": "MULTI",
+    "place": "London; New York",
+    "evidence": "New York, London, John Wiley & Sons, 1960.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w7ec1199b86bb",
+    "country": "ITA",
+    "place": "Brescia",
+    "evidence": "Brescia, Per Gio Maria Rizzardi, 1714.",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "w7ee6440704c8",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, dalla Tipografia di Angelo Bonfanti,",
+    "source": "originals/00_007_D00000001.pdf"
+  },
+  {
+    "id": "w7f30ddadf256",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Napoli, Stamp. del Fibreno, 1874.",
+    "source": "originals/00_001_G00000001.pdf"
+  },
+  {
+    "id": "w7f556311c49b",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Ulrico Hoepli, (tip. I",
+    "source": "originals/00_006_Z00000001.pdf"
+  },
+  {
+    "id": "w7f7a0dd6cb79",
+    "country": "ITA",
+    "place": "Pisa",
+    "evidence": "Pisa, Pieraccini, 1904.",
+    "source": "originals/00_001_L00000001.pdf"
+  },
+  {
+    "id": "w8033c3b31494",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Editrice Studium, (Tip.Agostiniana),",
+    "source": "originals/00_006_L00000001.pdf"
+  },
+  {
+    "id": "w8136e202f884",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, John Churchill, (F. Shoberi), MDCCCL=",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w81efaa33cc10",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Macmillan and Co., (Edinburgh, R. &",
+    "source": "originals/00_006_T00000001.pdf"
+  },
+  {
+    "id": "w85d68fbbd1ef",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Julius Springer, 1913.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w85fb8b7a9668",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Ernest Grund, (Imp.Paul Dupont), 1924.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w85fbf3bd44a7",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, nella Stamperia Piatti, 1834.",
+    "source": "originals/00_007_L00000001.pdf"
+  },
+  {
+    "id": "w86fe704753e3",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Verlag Technik, (Borna-Leipzig, Ro=",
+    "source": "originals/00_006_A00000001.pdf"
+  },
+  {
+    "id": "w87dc47fbefcf",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, Appresso Francesco Storti, 1739.",
+    "source": "originals/00_007_D00000001.pdf"
+  },
+  {
+    "id": "w884b03ae28d3",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Tipografia del Commercio, 1820-1827.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "w8929166d85e8",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, imprimerie Delagrave, 1947.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "w8929d85ce3d7",
+    "country": "MULTI",
+    "place": "Amsterdam; New York",
+    "evidence": "New York, Amsterdam, London, Brussels, Elsevier",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "w89bdad7cc140",
+    "country": "DEU",
+    "place": "Heidelberg; Berlin",
+    "evidence": "Berlin, Heidelberg, New York, Springer-Verlag",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "w8a511a125e47",
+    "country": "USA",
+    "place": "Washington",
+    "evidence": "Washington, National Academy of Sciences, 1962",
+    "source": "originals/00_006_U00000001.pdf"
+  },
+  {
+    "id": "w8a9b44d6ddcd",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Hermann et Cie, 1934.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "w8ae556148909",
+    "country": "SWE",
+    "place": "Lund",
+    "evidence": "Lund, A.B.Ph.Lindstedts Univ.Bokhandel, 1944",
+    "source": "originals/00_006_O00000001.pdf"
+  },
+  {
+    "id": "w8bc381a24840",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Tamburini Editore, 1964.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "w8da499f1c448",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1907.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "w8dee40135296",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Lipsia, Bernardo Tauchnitz, 1905.",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w8ea7300cfe32",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nicola Ianichelli, 1910.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w8f16c895b13b",
+    "country": "USA",
+    "place": "Chicago",
+    "evidence": "Chicago, The University Press, s.d.",
+    "source": "originals/00_001_D00000001.pdf"
+  },
+  {
+    "id": "w8f16efb4736c",
+    "country": "DEU",
+    "place": "Stuttgart",
+    "evidence": "Stuttgart, Ferdinand Enke, 1907.",
+    "source": "originals/00_001_N00000001.pdf"
+  },
+  {
+    "id": "w8f3bfbb0bc7b",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, 1917-1937.",
+    "source": "originals/00_003_PERIODICI00000001.pdf"
+  },
+  {
+    "id": "w8f607474f1ec",
+    "country": "DEU",
+    "place": "Heidelberg",
+    "evidence": "Heidelberg, Carl Winter, 1909.",
+    "source": "originals/00_006_E00000001.pdf"
+  },
+  {
+    "id": "w8ff4bbdc7324",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Federaz.Ital, delle Bibliotecje Popo=",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "w901991282541",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Cugini Pomba e comp., 1853.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "w9244e66c0ea8",
+    "country": "GBR",
+    "place": "Oxford",
+    "evidence": "Oxford, Clarendon Press, (Charles Batey), 1957",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w92d8d0ef5c87",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Akad.Verlagsgesellschaft Geest & Por",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "w94b95c87f90a",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Luigi Pezzati, 1827.",
+    "source": "originals/00_005_R00000001.pdf"
+  },
+  {
+    "id": "w94def90e9ee3",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Romae, typis et impensis Iosephi Vannaccii",
+    "source": "originals/00_004_V00000001.pdf"
+  },
+  {
+    "id": "w95723ae9e5eb",
+    "country": "IRL",
+    "place": "Dublin",
+    "evidence": "Dublin, William Curry, Jun. and company, 1840.",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "w95727a6eaa25",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Julius Springer, 1933.",
+    "source": "originals/00_006_E00000001.pdf"
+  },
+  {
+    "id": "w9572ff35d084",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Macmillan and Co., 1884-1887.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w95e17abb4121",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, printed for C.Dilly in the Poultry,",
+    "source": "originals/00_007_S00000001.pdf"
+  },
+  {
+    "id": "w965030d4c591",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Zanichelli, 1963.",
+    "source": "originals/00_006_A00000001.pdf"
+  },
+  {
+    "id": "w972e13580d0a",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nicola Zanichelli, 1874.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "w980cebf7faf1",
+    "country": "DEU",
+    "place": "Darmstadt",
+    "evidence": "Darmstadt, Juni 1957.",
+    "source": "originals/00_006_I00000001.pdf"
+  },
+  {
+    "id": "w98a0e3f04c08",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, appresso Antonio Zatta e figli,1784.",
+    "source": "originals/00_007_E00000001.pdf"
+  },
+  {
+    "id": "w98c53527ddf0",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, A. Desrez ( E. Duverger ), 1838.",
+    "source": "originals/00_002_D00000001.pdf"
+  },
+  {
+    "id": "w9af035d4222b",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Presses Universitaire de France, 1944",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w9b5fb18a2272",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, De Mallet-Bachelier, s.d.",
+    "source": "originals/00_001_M00000001.pdf"
+  },
+  {
+    "id": "w9bf3530c5330",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Verlag von Julius Springer, 1921.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "w9cf6c313bfb9",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, U.Hoepli, (Tip.U.Allegretti), 1903.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w9efce276becc",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, McGraw-Hill, 1968.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "w9f6b4456090e",
+    "country": "NLD",
+    "place": "Amsterdam",
+    "evidence": "Amsterdam, Elsevier Publishing Co., 1961.",
+    "source": "originals/00_001_H00000001.pdf"
+  },
+  {
+    "id": "w9fb5f27a474c",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez Bernard, 1806.",
+    "source": "originals/00_007_F00000001.pdf"
+  },
+  {
+    "id": "w9fff48ad086f",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Heinemann Educational Books Ltd.,",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "wa0939dff73a8",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Mallet-Bachelier, 1854.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "wa0b825ec4d57",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, McGraw-Hill, (Ann Arbor, Edwards",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "wa24f1691baaa",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Courcier, 1808.",
+    "source": "originals/00_002_L00000001.pdf"
+  },
+  {
+    "id": "wa24fda59b0e4",
+    "country": "ITA",
+    "place": "Catania",
+    "evidence": "Catania, Tipi dell 'Università, 1832.",
+    "source": "originals/00_005_L00000001.pdf"
+  },
+  {
+    "id": "wa3083902af55",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Methuen & Co., 1930.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wa3c169376b2b",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, George E. Eyre and William Spotti=",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "wa430f9494700",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gide, (imprimerie Claye J.), 1862.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "wa4c471f4ec5e",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Max Janecke, (Stephan Geibel),1914.",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "wa533cce81408",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Carlo Clausen, 1906.",
+    "source": "originals/00_001_A00000001.pdf"
+  },
+  {
+    "id": "wa6a57da99eb7",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, V.ve Ch.Dunod, (Saint-Amand, Impr.Bus=",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "wa6ef8eda62d8",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Johann Ambrosius Barth, 1921.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wa7f2cccc1162",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Tipi dell'arte della stampa, 1877.",
+    "source": "originals/00_001_G00000001.pdf"
+  },
+  {
+    "id": "wa8176ecc7f3d",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Otto Spamer, 1916.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "wa83c0daae524",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, His Majesty's Stationery Office,",
+    "source": "originals/00_001_R00000001.pdf"
+  },
+  {
+    "id": "wa8868a4227ec",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, a cura",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "wa9f816f2c2c0",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Arte e Storia, 1942.",
+    "source": "originals/00_006_L00000001.pdf"
+  },
+  {
+    "id": "waab14030f45c",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, nella Stamperia De Romanis, 1818-1819.",
+    "source": "originals/00_007_S00000001.pdf"
+  },
+  {
+    "id": "wab8f348a97db",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Marcel Giard,",
+    "source": "originals/00_006_N00000001.pdf"
+  },
+  {
+    "id": "wabfef0b98a22",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Dalla Tipografia Sonzogno e comp.,",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "wac6d11842ed3",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, Dover Publications, Inc., 1962.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wacdcc576b4b4",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Mallet-Bachelier, 1860.",
+    "source": "originals/00_005_P00000001.pdf"
+  },
+  {
+    "id": "wad2606b0a387",
+    "country": "ITA",
+    "place": "Modena",
+    "evidence": "Modena, presso la Tipografia Camerale, 1824.",
+    "source": "originals/00_005_P00000001.pdf"
+  },
+  {
+    "id": "wafc0ea3630d1",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Lelio dalla Volpe, 1770.",
+    "source": "originals/00_007_F00000001.pdf"
+  },
+  {
+    "id": "wb02ff776ca58",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, J.Nourse, 1749.",
+    "source": "originals/00_007_H00000001.pdf"
+  },
+  {
+    "id": "wb25a578769cc",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, J.B.Baillière et Fils, 1906.",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "wb338f25e02ce",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, Nella Stamperia Palese, 1807.",
+    "source": "originals/00_005_Z00000001.pdf"
+  },
+  {
+    "id": "wb3cc3463ebff",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, McGraw-Hill Book Comp., (Boston,",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wb3f1e7f339c1",
+    "country": "NLD",
+    "place": "Leiden",
+    "evidence": "Leiden, H. Buurman, s.d.",
+    "source": "originals/00_001_D00000001.pdf"
+  },
+  {
+    "id": "wb4aa65eb527c",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Editori della Biblioteca Utile, (",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wb519723bb508",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, National lead Company Research La",
+    "source": "originals/00_001_W00000001.pdf"
+  },
+  {
+    "id": "wb563ff3c5959",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, I.C.& E.C.Jack, s.d.",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "wb5d23b3a267a",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Gilbert",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wb769e76b24f2",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1911.",
+    "source": "originals/00_001_C00000001.pdf"
+  },
+  {
+    "id": "wb847e9d351ea",
+    "country": "ITA",
+    "place": "Genova",
+    "evidence": "Genova, Tip. Sordo-muti, 1844.",
+    "source": "originals/00_005_E00000001.pdf"
+  },
+  {
+    "id": "wb86c2d7cc186",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, A. Hermann, 1904.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "wb89100ac0a0e",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, John Wiley & Sons, 1954.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "wb8b613886e66",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez P. de Lormel, 1772.",
+    "source": "originals/00_007_S00000001.pdf"
+  },
+  {
+    "id": "wb96f94d54032",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, J. Hermann, 1926.",
+    "source": "originals/00_001_L00000001.pdf"
+  },
+  {
+    "id": "wb96fa759aba7",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Frat.",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wb9b97d38bfd0",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, à la Iibrairie Encyclopédique de Roret,",
+    "source": "originals/00_007_R00000001.pdf"
+  },
+  {
+    "id": "wb9de8c68b4da",
+    "country": "CHE",
+    "place": "Zürich",
+    "evidence": "Zurich, J.Wurster & C., 1880.",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "wba97ea7656c8",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Verlag Chemie, G.M.B.H., (W. Hentsche'",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wbc2ef586f68c",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, Le Monnier, 1879.",
+    "source": "originals/00_001_T00000001.pdf"
+  },
+  {
+    "id": "wbcc28104c23a",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, N.Zanichelli, 1903.",
+    "source": "originals/00_001_C00000001.pdf"
+  },
+  {
+    "id": "wbd0c933e75f8",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Hermann & Cie, 1935.",
+    "source": "originals/00_001_D00000001.pdf"
+  },
+  {
+    "id": "wbd3144bdf92e",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, bei Friedrich Nicolai, 1813.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "wbd31db3a6372",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez Leroy (De l'Impeimerie de Ph.D.",
+    "source": "originals/00_007_N00000001.pdf"
+  },
+  {
+    "id": "wbda0e824894b",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Dunod (Orleans, Imprim. Nouvelle),",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wbdc5a7e1b541",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nicola Zanichelli, (Coop. Tip.",
+    "source": "originals/00_006_E00000001.pdf"
+  },
+  {
+    "id": "wbeed85401b14",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Presso Nicola Zanichelli, 1872.",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "wbf37fa3ed0bf",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Victor Masson et Fils, 1870.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "wc015723455f8",
+    "country": "DNK",
+    "place": "København",
+    "evidence": "København, Bianco Lunos, 1921.",
+    "source": "originals/00_001_H00000001.pdf"
+  },
+  {
+    "id": "wc03ae3f89181",
+    "country": "BEL",
+    "place": "Antwerpen",
+    "evidence": "Anvers, J. Folkerts, 1897.",
+    "source": "originals/00_001_V00000001.pdf"
+  },
+  {
+    "id": "wc05f7b09266f",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, U.Hoepli, (Tip.Pietro Faverio), 1897,",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "wc0847403be73",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, R. and J.Dodeley, 1764.",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "wc1d14063a43a",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Max Jänecke,",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wc1f67c5578d8",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, S. Hirzel, 1921.",
+    "source": "originals/00_001_L00000001.pdf"
+  },
+  {
+    "id": "wc1f6f24d2110",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Zecchi e .'ona, 1849.",
+    "source": "originals/00_001_G00000001.pdf"
+  },
+  {
+    "id": "wc343f7c9be70",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, imprimerie Delagrave, 1923.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "wc38da89a9ce7",
+    "country": "FRA",
+    "place": "Rouen",
+    "evidence": "Rouen, Mégard et C., L$859].",
+    "source": "originals/00_006_A00000001.pdf"
+  },
+  {
+    "id": "wc3b2809233a0",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Butterworths, 1962.",
+    "source": "originals/00_001_D00000001.pdf"
+  },
+  {
+    "id": "wc4ff79e73591",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1910.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "wc6024d4b0649",
+    "country": "MULTI",
+    "place": "London; New York",
+    "evidence": "New York, London, Interscience Publishers,",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "wc705a04f98c3",
+    "country": "ITA",
+    "place": "Modena",
+    "evidence": "Modena, Tip. Camerale, 1823.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "wc7e31ed2d5a3",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, presso Giuseppe Marelli, 1808.",
+    "source": "originals/00_007_A00000001.pdf"
+  },
+  {
+    "id": "wc8e645db3e70",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Dunod, 1879 |?]•",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "wc90b07ce0e7c",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Firenze, nella Stamperia di Lorenzo Vanni,",
+    "source": "originals/00_005_G00000001.pdf"
+  },
+  {
+    "id": "wc9300aadc5cb",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Julius Springer, (Leipzig, Otto",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wc955e5dc414b",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Longmans, Green and Co.,",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "wc97a898c9676",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Masson et C., 1950.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wca33fc5a2952",
+    "country": "ITA",
+    "place": "Cagliari",
+    "evidence": "Cagliari, Tipografia di A. Timon, 1846.",
+    "source": "originals/00_005_C00000001.pdf"
+  },
+  {
+    "id": "wcaa286ed61f0",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Tipi Governativi-Alla Volpe, 1849.",
+    "source": "originals/00_005_T00000001.pdf"
+  },
+  {
+    "id": "wcbefc86bd4b1",
+    "country": "DEU",
+    "place": "Wiesbaden",
+    "evidence": "Wiesbaden, Inh. W. KIemm, 1948.",
+    "source": "originals/00_001_H00000001.pdf"
+  },
+  {
+    "id": "wcc83305197a1",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Tipografia A. Gattinoni, 1889.",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "wccf231070dec",
+    "country": "ITA",
+    "place": "Napoli",
+    "evidence": "Neapoli, Typis Felicis Mosca, 1734.",
+    "source": "originals/00_007_B00000001.pdf"
+  },
+  {
+    "id": "wcd3c329ca20b",
+    "country": "ITA",
+    "place": "Pesaro",
+    "evidence": "Pesaro, dalla Stamperia Nobili, 1825.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "wcd86e7bc0d49",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Librairie Encyclopédique de Roret, (Bar-",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "wcdab5f52f7b2",
+    "country": "NLD",
+    "place": "Leiden",
+    "evidence": "Leiden, Eduard Ijdo, 1919.",
+    "source": "originals/00_001_N00000001.pdf"
+  },
+  {
+    "id": "wce3fe8a77034",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Longanesi e C.,",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "wceaef7a9675f",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Iom.9 Fasc. di Aprile.",
+    "source": "originals/00_007_S00000001.pdf"
+  },
+  {
+    "id": "wcef86a184928",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, David l'aîné (J.-B, Coignard), 1747.",
+    "source": "originals/00_002_A00000001.pdf"
+  },
+  {
+    "id": "wcf674ce14a11",
+    "country": "ITA",
+    "place": "Padova",
+    "evidence": "Padova, I. Penada, 1941.",
+    "source": "originals/00_001_C00000001.pdf"
+  },
+  {
+    "id": "wd2011689d928",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Parisiis, Apud Antonium Bertier, 1644.",
+    "source": "originals/00_004_M00000001.pdf"
+  },
+  {
+    "id": "wd2baa027d5e1",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, The engineering and Mining Journal,",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "wd3bd366cfd4c",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et Fils, 1896.",
+    "source": "originals/00_001_P00000001.pdf"
+  },
+  {
+    "id": "wd3bdfea3d811",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Roret Libraire, 1827.",
+    "source": "originals/00_007_A00000001.pdf"
+  },
+  {
+    "id": "wd3e2c3bea308",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, A.F. Stella (Noova Veneta Stamperia),",
+    "source": "originals/00_002_R00000001.pdf"
+  },
+  {
+    "id": "wd4c0c136abf3",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Dunod, (Orléans, impr. Nouvelle),1947.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "wd50af9ee0c79",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Parisiis, Martinus Iuvenis, 1569.",
+    "source": "originals/00_002_S00000001.pdf"
+  },
+  {
+    "id": "wd554f93b4cef",
+    "country": "DNK",
+    "place": "København",
+    "evidence": "København, Bianco Lunos , 1918.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "wd67c54d95848",
+    "country": "ITA",
+    "place": "Verona",
+    "evidence": "Verona, Tipografia Poligrafica di G. Antonel=",
+    "source": "originals/00_007_V00000001.pdf"
+  },
+  {
+    "id": "wd67c92dfd4fe",
+    "country": "BEL",
+    "place": "Bruxelles",
+    "evidence": "Bruxelles, Reine Elisabeth, 1927.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wd7101ab8f5df",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Butterworths, 1964-1969.",
+    "source": "originals/00_006_M00000001.pdf"
+  },
+  {
+    "id": "wd710c557ad1f",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, U.Hoepli, (Tip.Sociale), 1928.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wd75a9f76dac9",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Cesare Tamburini, 1951.",
+    "source": "originals/00_001_P00000001.pdf"
+  },
+  {
+    "id": "wd813dc34104a",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, M.Cooper, 1746.",
+    "source": "originals/00_005_P00000001.pdf"
+  },
+  {
+    "id": "wda199a1add16",
+    "country": "USA",
+    "place": "New Haven",
+    "evidence": "New Haven, Yale University Press, 1936.",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "wda3efd31ae21",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Hermann",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wdb1c278fb251",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Vincenzo Bona, 1912.",
+    "source": "originals/00_001_R00000001.pdf"
+  },
+  {
+    "id": "wdbb0569c548c",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, presso Annesio Nobili e Comp.,1825.",
+    "source": "originals/00_005_O00000001.pdf"
+  },
+  {
+    "id": "wdbd5bfcec6bb",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nicola Zanichelli, (Stab. Poligra=",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "wdbfad67c6cce",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et C., 1923.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wdc44f48ff449",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Bachelier, (Imprimerie E.J.Bailly),",
+    "source": "originals/00_007_A00000001.pdf"
+  },
+  {
+    "id": "wdc6981ead7ec",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1947.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "wddb6411115af",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Edward Arnold & Co,",
+    "source": "originals/00_006_H00000001.pdf"
+  },
+  {
+    "id": "wde6f23d45330",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez G.Martin, J.B.Coignard & H.L.Gue=",
+    "source": "originals/00_007_D00000001.pdf"
+  },
+  {
+    "id": "wde948bfa9127",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Akademie Verlag, 1958.",
+    "source": "originals/00_006_R00000001.pdf"
+  },
+  {
+    "id": "wdeb9310eed79",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Sir Isaac Pitman & sons, 1948.",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "wdf72d0662f14",
+    "country": "USA",
+    "place": "Washington",
+    "evidence": "Washington, National Academy of Sciences,",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wdf973311e912",
+    "country": "BEL",
+    "place": "Bruxelles",
+    "evidence": "Bruxelles, Centre d'information de l'Etain,",
+    "source": "originals/00_001_L00000001.pdf"
+  },
+  {
+    "id": "wdfe105799662",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Marsigki, 1826.",
+    "source": "originals/00_001_O00000001.pdf"
+  },
+  {
+    "id": "we02b4cac9a76",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1878.",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "we12eb89eb31a",
+    "country": "DEU",
+    "place": "Leipzig",
+    "evidence": "Leipzig, Georg Thieme, (Druck von F.E.Haag),",
+    "source": "originals/00_006_P00000001.pdf"
+  },
+  {
+    "id": "we1c2e5fe1045",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Félix Alcan, 1884.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "we2568348637c",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Macmillan and Co., 1920.",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "we2c5e0766364",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, dalla stamperia di San Tommaso d'A=",
+    "source": "originals/00_005_M00000001.pdf"
+  },
+  {
+    "id": "we334411295e0",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venetiis, Pinellorum aere, 1721.",
+    "source": "originals/00_007_M00000001.pdf"
+  },
+  {
+    "id": "we5cea2fae4e6",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Methuen & Co., New York, John Wiley &",
+    "source": "originals/00_006_A00000001.pdf"
+  },
+  {
+    "id": "we5f370c4cabd",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, U.Hoepli, (Tip.U.Allegretti), 1909.",
+    "source": "originals/00_006_C00000001.pdf"
+  },
+  {
+    "id": "we63d4f775324",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Turati, 1850.",
+    "source": "originals/00_005_G00000001.pdf"
+  },
+  {
+    "id": "we662a5990604",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, dalla Tipografia Marsigli, 1826.",
+    "source": "originals/00_005_O00000001.pdf"
+  },
+  {
+    "id": "we71bc0afb951",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Tip. Gamberini e Parmeggiani, 1895.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "we8685a9e61b3",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Ermanno Loescher,",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "we9219472703f",
+    "country": "ITA",
+    "place": "Siena",
+    "evidence": "Siena, Biblioteca del Clero, 1895.",
+    "source": "originals/00_006_Z00000001.pdf"
+  },
+  {
+    "id": "we9ff3c303263",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Chez l'Auteur (Moreau Imprimeur), 1822",
+    "source": "originals/00_007_L00000001.pdf"
+  },
+  {
+    "id": "we9ffe82a91b2",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Verlag von C.Regenhardt, 1885.",
+    "source": "originals/00_006_J-K00000001.pdf"
+  },
+  {
+    "id": "web96abe1494f",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Unione Tipografico-Editrice,1856.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wec743184bb31",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Bauwesen, 1965.",
+    "source": "originals/00_006_B00000001.pdf"
+  },
+  {
+    "id": "wed9ce7c29e9b",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, John Wiley & Sons, 1967.",
+    "source": "originals/00_006_S00000001.pdf"
+  },
+  {
+    "id": "wedc1c7434845",
+    "country": "ITA",
+    "place": "Firenze",
+    "evidence": "Florentiae, Ex Imp.Typographio, 1750.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "wee0b00b7c831",
+    "country": "SWE",
+    "place": "Stockholm",
+    "evidence": "Stockholm, P.A. Norstedt & Soner, 1893.",
+    "source": "originals/00_001_B00000001.pdf"
+  },
+  {
+    "id": "wee55287a46ca",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, G. Masson, (Imp, A. Lahure), 1882.",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wef33e21f913c",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars, 1906.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "wf1cd80baa08b",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Stab. Tip, della Soc. Editr. Laziale,",
+    "source": "originals/00_006_T00000001.pdf"
+  },
+  {
+    "id": "wf2d0008a8282",
+    "country": "GBR",
+    "place": "London",
+    "evidence": "London, Edward Arnold & Co.,",
+    "source": "originals/00_006_W00000001.pdf"
+  },
+  {
+    "id": "wf41d168a49ac",
+    "country": "ITA",
+    "place": "Bologna",
+    "evidence": "Bologna, Nicola Zanichelli, (Tipografia Com=",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wf467bd56a212",
+    "country": "USA",
+    "place": "Cleveland",
+    "evidence": "Cleveland, American Society for Metals,",
+    "source": "originals/00_006_D00000001.pdf"
+  },
+  {
+    "id": "wf4fb364ab40a",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Torino, Chiantore, (Vincenzo Bona), 1946.",
+    "source": "originals/00_006_G00000001.pdf"
+  },
+  {
+    "id": "wf52072707e8c",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Tamburini, 1960.",
+    "source": "originals/00_006_F00000001.pdf"
+  },
+  {
+    "id": "wf58fab9e88cd",
+    "country": "ITA",
+    "place": "Roma",
+    "evidence": "Roma, Tip. delle Belle Arti, 1858.",
+    "source": "originals/00_001_V00000001.pdf"
+  },
+  {
+    "id": "wf648e6ed424e",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Masson et Cie, 1935.",
+    "source": "originals/00_001_F00000001.pdf"
+  },
+  {
+    "id": "wf7013cac0d04",
+    "country": "DEU",
+    "place": "Berlin",
+    "evidence": "Berlin, Julius Springer,",
+    "source": "originals/00_003_SCOMPLETI-SEZ-300000001.pdf"
+  },
+  {
+    "id": "wf74bba6a697f",
+    "country": "CHE",
+    "place": "Genève",
+    "evidence": "Genève, Chez Henri-Albert Gosse & Comp.,1750.",
+    "source": "originals/00_007_V00000001.pdf"
+  },
+  {
+    "id": "wf7954712e3c2",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, à la Librairie Encyclopédique de Roret",
+    "source": "originals/00_007_W00000001.pdf"
+  },
+  {
+    "id": "wf7956b53ad7d",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, Appresso Francesco di Niccolò Pez=",
+    "source": "originals/00_007_G00000001.pdf"
+  },
+  {
+    "id": "wfa2fc25e3336",
+    "country": "FRA",
+    "place": "Paris",
+    "evidence": "Paris, Gauthier-Villars et Fils, 1892.",
+    "source": "originals/00_003_TESI00000001.pdf"
+  },
+  {
+    "id": "wfb0d6f3ff3b9",
+    "country": "ITA",
+    "place": "Venezia",
+    "evidence": "Venezia, Appresso Gio.Battista Recurti, 1753.",
+    "source": "originals/00_007_G00000001.pdf"
+  },
+  {
+    "id": "wfb3228d20c80",
+    "country": "NLD",
+    "place": "Leiden",
+    "evidence": "Leiden, Eduard ijdo, 1914.",
+    "source": "originals/00_001_E00000001.pdf"
+  },
+  {
+    "id": "wfecf04b4aefc",
+    "country": "USA",
+    "place": "New York",
+    "evidence": "New York, John Wiley &sons, Inc. 1953.",
+    "source": "originals/00_001_A00000001.pdf"
+  },
+  {
+    "id": "wfef4d9490907",
+    "country": "ITA",
+    "place": "Torino",
+    "evidence": "Turin, de l'Imprimerie Royale, 1845.",
+    "source": "originals/00_007_P00000001.pdf"
+  },
+  {
+    "id": "wfef4ee0b09ab",
+    "country": "ESP",
+    "place": "Madrid",
+    "evidence": "Madrid, C. Bermejo, 1949.",
+    "source": "originals/00_001_R00000001.pdf"
+  },
+  {
+    "id": "wfff7530b6fe2",
+    "country": "ITA",
+    "place": "Milano",
+    "evidence": "Milano, Tamburini Cesare, (Bologna, Stabi=",
+    "source": "originals/00_006_B00000001.pdf"
+  }
+]

@@ -1,0 +1,536 @@
+{
+  "reviewedAt": "2026-10-19",
+  "method": "Targeted inspection of the largest unresolved names, expanded to obvious title/shelfmark/institution cases. Evidence is the preserved catalogue text; CABART page additionally rendered and visually checked. No dataset changes.",
+  "nonPersons": [
+    {
+      "authorId": "ad4795137848d",
+      "name": "Technolögie",
+      "catalogueRecordCount": 36,
+      "classification": "subject-heading",
+      "confidence": "high",
+      "reason": "TECHNOLOGIE heads a sequence of unrelated articles about industrial devices and processes, such as bottling wine and charcoal manufacture. It names a subject, not a person.",
+      "recommendation": "Do not generate a human biography. Classify as a catalogue subject heading; individual article authors remain unidentified where absent.",
+      "evidence": [
+        {
+          "recordId": "w26926ab65722",
+          "file": "00_005_T00000001.pdf",
+          "page": 34,
+          "heading": "TECHNOLOGIE",
+          "title": "Appareil à transvaser les vins en bouteilles",
+          "excerpt": "II.B.Misc.228\nTECHNOLOGIE.\nAppareil à transvaser les vins en bouteilles.\nEstr. da \"Ann. des Arts et Manüfactures\", T.32\ncm.20,5; pp.83-94; tav.1 f.t.",
+          "sourceUrl": "originals/00_005_T00000001.pdf#page=34"
+        },
+        {
+          "recordId": "w7e624c4b362b",
+          "file": "00_005_T00000001.pdf",
+          "page": 35,
+          "heading": "TECHNOLOGIE",
+          "title": "Appareil destimé à la carbonisaion de la houi le... s.1., s.n.t.,",
+          "excerpt": "II.B.Misc.99/2\nTECHNOLOGIE.\nAppareil destimé à la carbonisaion de la houi\nle...\ns.1., s.n.t.,\ns.d.\ncm.20; pp.212-223.",
+          "sourceUrl": "originals/00_005_T00000001.pdf#page=35"
+        }
+      ]
+    },
+    {
+      "authorId": "a5cce8a31d2a7",
+      "name": "Hydraulique",
+      "catalogueRecordCount": 17,
+      "classification": "subject-heading",
+      "confidence": "high",
+      "reason": "HYDRAULIQUE groups articles about pumps, drilling machines and canals. The heading is a subject classification.",
+      "recommendation": "Do not generate a human biography; retain a short subject-heading description and exclude from human-author coverage.",
+      "evidence": [
+        {
+          "recordId": "w4fe99e5b61b9",
+          "file": "00_005_H00000001.pdf",
+          "page": 315,
+          "heading": "HYDRAULIQUE",
+          "title": "suite des recherches sur l'effet des machines et outils, dont on se produire des mouvemens instantanées",
+          "excerpt": "II.B.Misc.841\nHYDRAULIQUE\nsuite des recherches sur l'effet\ndes machines et outils,\ndont on se\nproduire des mouvemens\ninstantanées...\ns.l.,s.n.t..s.d.\ncm. 20,5; pp. 101-112.",
+          "sourceUrl": "originals/00_005_H00000001.pdf#page=315"
+        },
+        {
+          "recordId": "w5415e9d9112c",
+          "file": "00_005_H00000001.pdf",
+          "page": 316,
+          "heading": "HYDRAULIQUE",
+          "title": "description d'une nouvelle Pompe",
+          "excerpt": "II.B.Misc.882/2\nHYDRAULIQUE\ndescription d'une nouvelle Pom=\npe.\nEstr. da \" Ann. des Arts et Manufactures\",\nT. XXIII.\ncm. 20,5; pp. 212-214;\ntav. 1.",
+          "sourceUrl": "originals/00_005_H00000001.pdf#page=316"
+        }
+      ]
+    },
+    {
+      "authorId": "a7f7ff80a22e3",
+      "name": "Agriculture",
+      "catalogueRecordCount": 15,
+      "classification": "subject-heading",
+      "confidence": "high",
+      "reason": "AGRICULTURE groups wheat planting, agricultural labour and farm-machinery articles. It is not a named person.",
+      "recommendation": "Do not generate a human biography; classify as a subject heading.",
+      "evidence": [
+        {
+          "recordId": "wece30488241d",
+          "file": "00_005_A00000001.pdf",
+          "page": 65,
+          "heading": "AGRICULTURE",
+          "title": "Avantages qui résultent de la plantation du blé",
+          "excerpt": "II.B.Misc.206\nAGRICULTURE.\nAvantages qui résultent de la plantation du\nblé.\ns.l.,s.n.t.,s.d.\ncm.20,5; pp.31-42.",
+          "sourceUrl": "originals/00_005_A00000001.pdf#page=65"
+        },
+        {
+          "recordId": "w6b3ed7b05e1b",
+          "file": "00_005_A00000001.pdf",
+          "page": 67,
+          "heading": "AGRICULTURE",
+          "title": "Compazaison entre le travail des chevaux et celui des boeufs, pour les opérations de griculture",
+          "excerpt": "II.B.Misc.427/2\nAGRICULTURE.\nCompazaison entre le travail des chevaux et\ncelui des boeufs, pour les\nopérations de\ngriculture.\nEstr. da \"Ann.des Arts et Manufactures\",I.43\ncm.20,5; pp.210-223.",
+          "sourceUrl": "originals/00_005_A00000001.pdf#page=67"
+        }
+      ]
+    },
+    {
+      "authorId": "a31bacc4f26e3",
+      "name": "Chimie",
+      "catalogueRecordCount": 9,
+      "classification": "subject-heading",
+      "confidence": "high",
+      "reason": "CHIMIE is used as a subject/title heading for chemistry plates and extracts on tinplate and medicinal iron.",
+      "recommendation": "Do not generate a human biography; preserve the catalogue grouping without inventing authorship.",
+      "evidence": [
+        {
+          "recordId": "wc0d12a2bb486",
+          "file": "00_005_C00000001.pdf",
+          "page": 488,
+          "heading": "CHIMIE,",
+          "title": "contenant vingt-cing planches, vingt-quatre simples & une double. Tome II Chimie. (Plaches du Dict.Rais. des Arts)",
+          "excerpt": "II.B.Misc.1678\nCHIMIE,\ncontenant vingt-cing planches, vingt-quatre\nsimples & une double. Tome II Chimie.\n(Plaches du Dict.Rais. des Arts)\ncm.25; tavv.25.",
+          "sourceUrl": "originals/00_005_C00000001.pdf#page=488"
+        },
+        {
+          "recordId": "w7400ed732046",
+          "file": "00_005_C00000001.pdf",
+          "page": 489,
+          "heading": "CHIMIE",
+          "title": "Sur I'art de faire le fer-blane xtr. de l Histoire de ItAcademie Royale des Sciences ti",
+          "excerpt": "II.A.Misc.411/2\nCHIMIE.\nSur z*区88g8 1' art de faire le fer-blanc.\nExtr. de 1'\"Histoire de l'Academie Royale des\nSciences\", s.d.\ncm.18; pp.38-44.",
+          "sourceUrl": "originals/00_005_C00000001.pdf#page=489"
+        }
+      ]
+    },
+    {
+      "authorId": "adc38509b79c2",
+      "name": "Machines",
+      "catalogueRecordCount": 8,
+      "classification": "subject-or-series-heading",
+      "confidence": "high",
+      "reason": "MACHINES is the first word of the recurring title Machines ou inventions approuvées par l’Académie. Cards give different years of that recurring report.",
+      "recommendation": "Treat as a title/series grouping, not a human author.",
+      "evidence": [
+        {
+          "recordId": "wdc00e6803576",
+          "file": "00_005_M00000001.pdf",
+          "page": 19,
+          "heading": "MACHINES",
+          "title": "ou inventions approuvées par I'Academie en MDCCXXIV",
+          "excerpt": "II.A. Misc. 1435/3\nMACHINES\nou inventions approuvées par I'Aca=\ndemie en MDCCXXIV.\nEstr. da \"Histoire de 1'Academie Royale des\nSciences\", 1724.\ncm. 17; pp. 130-134.",
+          "sourceUrl": "originals/00_005_M00000001.pdf#page=19"
+        },
+        {
+          "recordId": "wfb78db672dc5",
+          "file": "00_005_M00000001.pdf",
+          "page": 23,
+          "heading": "MACHINES",
+          "title": "ou inventions approuve'es par I'academie en MDCCIV",
+          "excerpt": "II.A. Misc. 1700/1\nMACHINES\nou inventions approuve'es par I'a=\ncademie en MDCCIV.\nEstr. da \"Histoire de l'Academie Royale des\nSciences, 1704.\ncm. 17,5; pр. 153-154.",
+          "sourceUrl": "originals/00_005_M00000001.pdf#page=23"
+        }
+      ]
+    },
+    {
+      "authorId": "a80b1f8c12bd7",
+      "name": "lÖl Iii.A",
+      "catalogueRecordCount": 12,
+      "classification": "ocr-shelfmark-artifact",
+      "confidence": "high",
+      "reason": "The displayed name lÖl Iii.A is derived from shelfmark text. Its records have incompatible true headings including ABRIDGMENTS, ALMANACCO, BECKER H., BROGLIE Louis de, and COHN Emil, all carrying III.A shelfmarks.",
+      "recommendation": "Exclude from person biographies. Review and repair each book-author link separately; never assign one biography across this mixed group.",
+      "evidence": [
+        {
+          "recordId": "w23b26202e01f",
+          "file": "00_006_A00000001.pdf",
+          "page": 20,
+          "heading": "ABRIDGMENTS of Specifications relating to",
+          "title": "ABRIDGMENTS of Specifications relating to kiningA.9.1618-1866. tunnelling and well-sinking. Iondon, George E.Eyre and William Spottiswoode, 1874",
+          "excerpt": "III.A.805\nABRIDGMENTS of Specifications relating to\nkiningA.9.1618-1866.\ntunnelling and well-sin=\nking.\nIondon, George E.Eyre and William Spottis=\nwoode, 1874.\ncm.18; pp.XIV, 329.\n(Patents for Inventions)",
+          "sourceUrl": "originals/00_006_A00000001.pdf#page=20"
+        },
+        {
+          "recordId": "w199c877692e6",
+          "file": "00_006_A00000001.pdf",
+          "page": 95,
+          "heading": "ALMANACCO DEI 3 MONDI 1939 XVII-XVIII anno V",
+          "title": "ALMANACCO DEI 3 MONDI 1939 XVII-XVIII anno V. Decimo mogliaio. Dedicato a G. Marconi",
+          "excerpt": "III.A. 1054\nALMANACCO DEI 3 MONDI 1939 XVII-XVIII anno V.\nDecimo mogliaio. Dedicato a G. Marconi.\nBologna, Stabilimenti Poligrafici editori de\n\"il Resto del Carlino\", 1939.\ncm. 19,5; pp.\n238.",
+          "sourceUrl": "originals/00_006_A00000001.pdf#page=95"
+        }
+      ]
+    },
+    {
+      "authorId": "a2f8b7c05f3dc",
+      "name": "Académie royale des sciences (France)",
+      "catalogueRecordCount": 9,
+      "classification": "corporate-author",
+      "confidence": "high",
+      "reason": "The cards name the Académie royale des sciences, Paris, and its Histoire/Mémoires publications. This is a scientific institution.",
+      "recommendation": "Provide an institutional history if researched; exclude from human biography denominators and do not invent birth/death or a portrait.",
+      "evidence": [
+        {
+          "recordId": "w9478c230c4a8",
+          "file": "00_002_A00000001.pdf",
+          "page": 44,
+          "heading": "ACADÉMIE ROYALE DES SCIENCES. Paris",
+          "title": "Histoire de IIAcadémie royale des sciences avec les Memoires de matbématique et de physique Nouvelle edition, revue",
+          "excerpt": "Im/2795\nACADÉMIE ROYALE DES SCIENCES. Paris.\nHistoire de l'Académie royale des sciences...\navec les Mémoires de matbémațique et de physi=\nque... Nouvelle edition, revue, corrigée et\naugmentée.\nParis, G. Martin; J.-B. Coignard fils; H.L.\nGuerin, 1732.\ncm. 24,5; pp.[10], 166, 560; fig.; tav. 14 ri=\npieg.\nEx libris abraso del\nSeminario di Torino.\nLeg. pelle.",
+          "sourceUrl": "originals/00_002_A00000001.pdf#page=44"
+        },
+        {
+          "recordId": "wd0c79202bce5",
+          "file": "00_002_A00000001.pdf",
+          "page": 50,
+          "heading": "ACADÉMIE ROYALE DES SCIENCES",
+          "title": "Paris. Mémoires de mathématique et de physique, présentés à l'Académie...par divers sçavants, et lus dans ses assemblées",
+          "excerpt": "1x.\"\nIm/2866-2869\nACADÉMIE ROYALE DES SCIENCES.\nParis.\nMémoires de mathématique et de physique, pré=\nsentés à l'Académie...par divers sçavants, et\nlus dans ses assemblées.\nParis, Impx. royale, 1750-1763.\ncm. 25; vol. 4.\nI. I.: 1750; pp.[4], XIX, 592; fig.; tav. 18\ndi cui 1 ripieg. I. II.: 1755; pp.[8j, XX,\n624; tav. 26 di cui 2 ripieg.\nT. III.: 1760;\npp.[6], XXII, 654; fig\ntav. 25 di cui 2 ri=\npieg.\n./.",
+          "sourceUrl": "originals/00_002_A00000001.pdf#page=50"
+        }
+      ]
+    },
+    {
+      "authorId": "a2c2bf966e706",
+      "name": "Academia Caesareo-Leopoldina Naturae Curisorum.",
+      "catalogueRecordCount": 2,
+      "classification": "corporate-author",
+      "confidence": "high",
+      "reason": "Academia Caesareo-Leopoldina Naturae Curisorum is an OCR form of the academy named on the Ephemerides medico-physicarum cards.",
+      "recommendation": "Classify as a scientific academy/corporate author, retaining original spelling. Any institutional history requires its own authority match.",
+      "evidence": [
+        {
+          "recordId": "wb433f72c8ef9",
+          "file": "00_002_A00000001.pdf",
+          "page": 2,
+          "heading": "ACADEMIA CAESAREA LEOPOLDINO-CAROLINA NATU=",
+          "title": "RAECURIOSORUTht Academiae Caesareo-Leopoldinae Carolinae naturae curiosorum epherides sive observationum medico-physicarum",
+          "excerpt": "Im/3212-3215\nACADEMIA CAESAREA LEOPOLDINO-CAROLINA NATU=\nRAECURIOSORUM.\nAcademiae Caesareo-Leopoldinae Carolinae na=\nturae curiosorum epherides sive observatio=\nnum medico-physicarum..centuriaIII..et IV.-\nIX.et X.…..\nNoribergae, W. Michaoelles (J.E. Adelbulne=\nrus; M.G. Heinius; [poi] Augustae Vindelico =i\nrum, Vidua P.\nKuhtzii (P. Detleffsen), 1715-\n1722.\ncm. 20,5; vol. 4.",
+          "sourceUrl": "originals/00_002_A00000001.pdf#page=2"
+        },
+        {
+          "recordId": "wba259beb4220",
+          "file": "00_002_A00000001.pdf",
+          "page": 16,
+          "heading": "ACADEMIA CAESAREO-LEOPOLDINA NATURAE CURIOSO=",
+          "title": "RUM Academiae Caesareo-Leopoldinae naturae curlo- sorum ephemerides sive observatlonum medico- physicarum",
+          "excerpt": "Im/32İİ\nACADEMIA CAESAREO-LEOPOLDINA NATURAE CURIOSO=\nRUM.\nAcademiae Caesareo-Leopoldinae naturae curio=\nsorum ephemerides sive\nobservationum medico-\nphysicarum..centuria I et II... .\nFrancofurti et\n• Lipsae, Chr. Riegelius (M.G.\nHeinius), 1712.\ncm. 21; pp. 24, 438, 2]; 368, 8 ; fig.; tav.\n19 di cui 4 ripieg e z ritr.\nLeg. pergam.",
+          "sourceUrl": "originals/00_002_A00000001.pdf#page=16"
+        }
+      ]
+    },
+    {
+      "authorId": "aea9a87c14e1c",
+      "name": "SocietÃ  reale di Napoli",
+      "catalogueRecordCount": 1,
+      "classification": "corporate-author",
+      "confidence": "high",
+      "reason": "The record is SOCIETA’ REALE DI NAPOLI, Atti dell’Accademia delle Scienze Fisiche e Matematiche; a society/publication rather than a person.",
+      "recommendation": "Use corporate-author treatment; fix encoding only with retained original name.",
+      "evidence": [
+        {
+          "recordId": "we241a9b20af3",
+          "file": "00_003_PERIODICI00000001.pdf",
+          "page": 382,
+          "heading": "Period.C.19/1~3",
+          "title": "SOCIETA' REALE DI NAPOLI. Atti dell'Accademia delle Scienze Fisiche e Matematiche",
+          "excerpt": "Period.C.19/1~3\nSOCIETA' REALE DI NAPOLI.\nAtti dell'Accademia delle Scienze Fisiche e\nMatematiche.\nNapoli, vol1.1-3\n(1863-1866-68)",
+          "sourceUrl": "originals/00_003_PERIODICI00000001.pdf#page=382"
+        }
+      ]
+    },
+    {
+      "authorId": "a680942baae8e",
+      "name": "Società dei naturalisti in Napoli",
+      "catalogueRecordCount": 1,
+      "classification": "journal-or-publisher-mention",
+      "confidence": "high",
+      "reason": "The sole card’s heading is VANNI, G.; Società di Naturalisti in Napoli occurs inside the cited Bollettino title. It is not the person who wrote the article.",
+      "recommendation": "Exclude from human biographies and flag the author relationship separately as a cited journal/society mention.",
+      "evidence": [
+        {
+          "recordId": "w850e799d6bf2",
+          "file": "00_001_V00000001.pdf",
+          "page": 137,
+          "heading": "VANNI, G",
+          "title": "pio del contatto del Vol.*a Istr. da 'Bollettino della Società di Naturalisti in Napoli",
+          "excerpt": "III.B. Misc. 2617/2\nVANNI, G.\nSulla dimostrazione sperimentale del princi=\npio del contatto del Volta.\nEstr. da: \"Bollettino della Società di Natu=\nralisti in Napoli\", 1905.\ncm. 24,5; pр. 7.",
+          "sourceUrl": "originals/00_001_V00000001.pdf#page=137"
+        }
+      ]
+    },
+    {
+      "authorId": "a466b093f2f36",
+      "name": "IV Ii",
+      "catalogueRecordCount": 1,
+      "classification": "ocr-volume-fragment",
+      "confidence": "high",
+      "reason": "IV Ii has been extracted from Ragionamenti filosofici, Parte I, II, IV. Roman numerals identify volume/part numbers.",
+      "recommendation": "Do not generate a person biography; inspect this incomplete-title record separately.",
+      "evidence": [
+        {
+          "recordId": "w633fff5304f6",
+          "file": "00_007_SCOMPLETI00000001.pdf",
+          "page": 21,
+          "heading": "Ragionamenti filosofici, Parte I, II, IV",
+          "title": "Roma, Gioacchino Puccinelli, 1785-1786",
+          "excerpt": "II. Sc.15/1,2,4\nLASCARIS GUARINI, Giambattista.\nRagionamenti filosofici, Parte I, II, IV.\nRoma, Gioacchino Puccinelli, 1785-1786.\ncm.18; voll.3 (manca la parte III); tavv.2\nf.t. nella Parte I.\nLeg.m.pelle.",
+          "sourceUrl": "originals/00_007_SCOMPLETI00000001.pdf#page=21"
+        }
+      ]
+    },
+    {
+      "authorId": "aba7b99bd0f7b",
+      "name": "Misc.lOÖ Ii.B",
+      "catalogueRecordCount": 1,
+      "classification": "ocr-shelfmark-artifact",
+      "confidence": "high",
+      "reason": "Misc.lOÖ Ii.B is shelfmark material. The linked card begins DUFRENOX and concerns iron cementation.",
+      "recommendation": "Exclude from human biographies and review the book’s actual heading; do not assume Dufrenox’s identity without another check.",
+      "evidence": [
+        {
+          "recordId": "w992004ab4849",
+          "file": "00_005_D00000001.pdf",
+          "page": 804,
+          "heading": "DUFRENOX,",
+          "title": "Note sur la cémentation du fer au moyen de l'hydrogène carboné",
+          "excerpt": "II.B.Misc.100\nDUFRENOX,\nNote sur la cémentation du fer au moyen de\nl'hydrogène carboné.\ns.l., s.n.t., s.d.\ncm.21; pp.171-173.",
+          "sourceUrl": "originals/00_005_D00000001.pdf#page=804"
+        }
+      ]
+    },
+    {
+      "authorId": "a576600087c22",
+      "name": "la pe= Recherches Physiques Sur La Lumière",
+      "catalogueRecordCount": 1,
+      "classification": "title-fragment",
+      "confidence": "high",
+      "reason": "Recherches Physiques Sur La Lumière is the beginning of the book title, continuing la pesanteur, les marées, le cours des astres. The fragment la pe= belongs to a wrapped title line.",
+      "recommendation": "Do not create a biography for the title. Authorship requires an independent bibliographic match.",
+      "evidence": [
+        {
+          "recordId": "w61e1b7579289",
+          "file": "00_005_R00000001.pdf",
+          "page": 100,
+          "heading": "RECHERCHES PHYSIQUES sur la lumière, la pe=",
+          "title": "santeur, les marées, le cours des astres et sur la comète de 1680... Berne, Chez Abr.Wagner Fils, 1760",
+          "excerpt": "II.B.Misc.665\nRECHERCHES PHYSIQUES sur la lumière, la pe=\nsanteur, les marées, le cours des astres et\nsur la comète de 1680...\nBerne, Chez Abr.Wagner Fils, 1760.\ncm.20,5; pp.[2], 36; tav.l f.t.",
+          "sourceUrl": "originals/00_005_R00000001.pdf#page=100"
+        }
+      ]
+    },
+    {
+      "authorId": "af921dd8ac27e",
+      "name": "Marine",
+      "catalogueRecordCount": 14,
+      "classification": "subject-heading",
+      "confidence": "high",
+      "reason": "Thirteen cards use MARINE as a naval-engineering subject heading for unrelated articles about boats, sounding instruments, rudders, capstans, ventilation, ship beams, emergency masts and sails. Most cite Annales des Arts et Manufactures. The fourteenth record is a Réaumur paper whose title contains Pinne Marine; Marine is neither its heading nor its author. The current David Marine (1888–1976) pathologist match, and other modern surname matches, are unsupported and chronologically impossible.",
+      "recommendation": "Classify MARINE as a catalogue subject heading; clear the unrelated human identity candidates and biography. Preserve the naval titles as subject-indexed records. Separately remove the false Marine author relationship from w69c7aa37a292, whose heading is REAUMUR, René Antoine de.",
+      "resetIdentity": true,
+      "evidence": [
+        {
+          "recordId": "wbb22075e77b5",
+          "file": "00_005_M00000001.pdf",
+          "page": 354,
+          "heading": "MARINE",
+          "title": "Bateau d'une nouvelle construction, présentant de nombreux avantages",
+          "excerpt": "II.B.Misc.256\nMARINE.\nBateau d'une nouvelle construction, présen=\ntant de nombreux avantages.\nEstr. da \"Ann.des Arts et Manufactures\", I.35.\ncm.20; pp.7-14.",
+          "sourceUrl": "originals/00_005_M00000001.pdf#page=354"
+        },
+        {
+          "recordId": "w7d0bf92b706d",
+          "file": "00_005_M00000001.pdf",
+          "page": 364,
+          "heading": "MARINE",
+          "title": "Perfectionnement dabs la formation des mats de fortune",
+          "excerpt": "II.B.Misc.359\nMARINE.\nPerfectionnement dabs la formation des mats\nde fortune.\nEstr. da \"Ann.des Arts et Manufactures\",T.34.\nn.102, Décembre 1809.\ncm.20,5; pp.225-228; tav.1 f.t.",
+          "sourceUrl": "originals/00_005_M00000001.pdf#page=364"
+        },
+        {
+          "recordId": "w69c7aa37a292",
+          "file": "00_005_R00000001.pdf",
+          "page": 85,
+          "heading": "REAUMUR , René Antoine de",
+          "title": "Observations sur le coquillage appellé Pinne Marine, ou nacre de perle; à l'occasion duquel on explique la formation des Perle",
+          "excerpt": "II. A. Misc. 1094\nREAUMUR , René Antoine de\nObservations sur le coquillage appellé Pinne\nMarine, ou nacre de perle; à l'occasion du=\nquel on explique la formation des Perle.\nEstr. da \" Memoires de l'Academie Royale des\nSciences \", 1717?\ncm. 16; pp. 227-250; tavv. 2:\nf.t。",
+          "sourceUrl": "originals/00_005_R00000001.pdf#page=85"
+        }
+      ],
+      "rejectedCandidateIds": [
+        "Q5237127",
+        "Q19288672",
+        "Q54699510"
+      ],
+      "clearIdentityMetadata": [
+        "identityCandidates",
+        "possibleIdentity",
+        "birth",
+        "death",
+        "lifeLabel",
+        "origins",
+        "wikidata",
+        "description",
+        "portrait",
+        "portraitSource",
+        "imageKind",
+        "bio",
+        "bioShort",
+        "bioSource",
+        "bioSources",
+        "bioSourceTitle",
+        "bioSourceKind",
+        "bioLicense"
+      ]
+    }
+  ],
+  "ambiguous": [
+    {
+      "authorId": "ae4a302c99119",
+      "name": "O Lehmann",
+      "reason": "Likely Otto Lehmann given liquid-crystal papers, but the initial alone is not sufficient evidence for a biography. Requires an authority match and distinctive-title verification.",
+      "recommendation": "Preserve catalogue-based context and unresolved identity status until researched. Do not expand initials from a name similarity alone.",
+      "evidence": [
+        {
+          "recordId": "w75b3a9660e26",
+          "file": "00_001_L00000001.pdf",
+          "page": 701,
+          "heading": "LEHMANN, O",
+          "title": "Bemerkung zu den Abhandlungen von D. Vorlander und Ada Prins über flüssige Krystalle",
+          "excerpt": "III.B. Misc. 620/4\nLEHMANN, O.\nBemerkung zu den Abhandlungen von D. Vorlan=\nder und Ada Prins über flüssige Krystalle.\nEstr. da:\"Berichte der Deutschen Chemischen\nGesellschaft\", 1908.\ncm. 23; pp. 3774-3783 fig.",
+          "sourceUrl": "originals/00_001_L00000001.pdf#page=701"
+        },
+        {
+          "recordId": "w7bb06e6f3cc4",
+          "file": "00_001_L00000001.pdf",
+          "page": 702,
+          "heading": "LEHMANN, O",
+          "title": "Bemerkungen zu Fr.Reinitzers Mitteiling über die Geschichte der flüssigen Kristalle",
+          "excerpt": "III.B.Misc.137/10\nLEHMANN, O.\nBemerkungen zu Fr.Reinitzers Mitteiling über\ndie Geschichte der flüssigen Kristalle.\nEstr.da: \"Annalen der Physik\", Vierte Folge,\nBand 27, 1908.\ncm.22; pp.1099-1102.",
+          "sourceUrl": "originals/00_001_L00000001.pdf#page=702"
+        }
+      ]
+    },
+    {
+      "authorId": "a4f0eda16c540",
+      "name": "E Mathias",
+      "reason": "Initial-only author, with geophysical and experimental-physics works. A plausible full-name match must be verified against the article titles; do not invent life dates from the initial.",
+      "recommendation": "Human candidate, not a subject heading; retain uncertainty pending source review.",
+      "evidence": [
+        {
+          "recordId": "wd3ddde04a076",
+          "file": "00_001_B00000001.pdf",
+          "page": 72,
+          "heading": "BAILLAUD, B. et MATHIAS, E",
+          "title": "Sur la carte magnétique des Iles Britanniques",
+          "excerpt": "III.C. Misc. 94/97\nBAILLAUD, B. et MATHIAS, E.\nSur la carte magnétique des Iles Britanniques\nEstr. da: \" Acad. des Sciences \", 1906•\ncm. 28,5; pp. 555-559.",
+          "sourceUrl": "originals/00_001_B00000001.pdf#page=72"
+        },
+        {
+          "recordId": "wddd2aa8572e0",
+          "file": "00_001_M00000001.pdf",
+          "page": 627,
+          "heading": "MATHIAS, E",
+          "title": "Contribution à l'étude de la matiére fulminante",
+          "excerpt": "III.B. Misc. 1198/98\nMATHIAS, E.\nContribution à l'étude de la matiére fulmi=\nnante...\nEstr. da: \" Acad. des\nSciences \", 1929.\ncm. 28; pp. 607-608.",
+          "sourceUrl": "originals/00_001_M00000001.pdf#page=627"
+        }
+      ]
+    },
+    {
+      "authorId": "a6e1dfb17fd96",
+      "name": "LOIqGUEVILLE et Langlois",
+      "reason": "Name combines two people, while linked records mix LANGLOIS alone, LANGLOIS et JACQUOT and other headings. One personal biography cannot describe this composite reliably.",
+      "recommendation": "Hold for contributor-role/name splitting and individual authority research.",
+      "evidence": [
+        {
+          "recordId": "w4193f79df5d3",
+          "file": "00_001_J-K00000001.pdf",
+          "page": 53,
+          "heading": "JACQUOT",
+          "title": "Etudes minéralogiques et chlmlques (III.B. Mlsc. 1246)",
+          "excerpt": "JACQUOT\nVedi:\nLANGLOIS et JACQUOT\nEtudes minéralogiques et chimiques...\n(CIII.B. Misc. 1246)",
+          "sourceUrl": "originals/00_001_J-K00000001.pdf#page=53"
+        },
+        {
+          "recordId": "w5cb4853ad2a1",
+          "file": "00_001_L00000001.pdf",
+          "page": 286,
+          "heading": "LANGLOIS",
+          "title": "Action de l'oide sur une solution concentrée le cyanure de potassium",
+          "excerpt": "III.B. Misc. 925/9\nLANGLOIS\nAction de l'oide sur une solution concentrée\nle cyanure de potassium.\ns.n.t.\ncm. 21,5; pр. 220-226.",
+          "sourceUrl": "originals/00_001_L00000001.pdf#page=286"
+        },
+        {
+          "recordId": "w216e9998bcc6",
+          "file": "00_001_L00000001.pdf",
+          "page": 287,
+          "heading": "LANGLOIS",
+          "title": "De la production du chlorure et du bromure de cyanogène",
+          "excerpt": "III.B. Misc. 1223/6\nLANGLOIS\nDe la production du chlorure et du bromure\nde cyanogène.\nEstr. da: \" Ann. de Chim. et de Phys.\", 1861•\ncm. 21; pp. 480-483.",
+          "sourceUrl": "originals/00_001_L00000001.pdf#page=287"
+        }
+      ]
+    },
+    {
+      "authorId": "a392017c6cffb",
+      "name": "MM Fine",
+      "reason": "M.M. Fine appears as an initialled Bureau of Mines contributor on technical reports. This is likely a person, but the full given names and life dates have not been established by these cards.",
+      "recommendation": "Do not classify as non-person merely because MM resembles an honorific; retain initialled name until external identification.",
+      "evidence": [
+        {
+          "recordId": "w0a2df1801a06",
+          "file": "00_001_D00000001.pdf",
+          "page": 814,
+          "heading": "DeVANEY, F.D., FINE, MM. and SHKLTON, S.M",
+          "title": "6. Ore-Dressing Studies of Manganese Ores. Concentration of Manganese Ores from the Little Florida Mountains, Luna County, N. Mex",
+          "excerpt": "III.B. Misc. 1098/4\nDeVANEX, F.D., FINE, MM. and SHELTON, S.N.\n6. Ore-Dressing Studies of Manganese Ores.\nConcentration of Manganese Ores from the Lit=\ntle Florida Mountains, Luna County, N. Mex.\nEstr. da: \"Report of Investigation Bureau of\nMines\", 1942.\ncm. 26,5; pp. 9.",
+          "sourceUrl": "originals/00_001_D00000001.pdf#page=814"
+        },
+        {
+          "recordId": "wc5629e0251a9",
+          "file": "00_001_F00000001.pdf",
+          "page": 307,
+          "heading": "FINE, M.M",
+          "title": "Cross-reference: Vedi ZADRA, J.B., FINE, M.M., SHELTON, S.M. and JOHNSTON, T.L Concentration o£ Mang&nese-Bearîng Ore £rom",
+          "excerpt": "FINE, M.M.\nVedi:\nZADRA, J.B., FINE, M.M., SHELION, S.M. and\nJOHNSTON, T.L.\nConcentration of Manganese-Bearing Ore from\nthe Mayfield Proeprty, Van Horn, Tex.\nOIII.B. Misc. 1098/8)",
+          "sourceUrl": "originals/00_001_F00000001.pdf#page=307"
+        }
+      ]
+    }
+  ],
+  "separateAttributionIssue": {
+    "recordId": "w0704f7b9eaf6",
+    "file": "00_005_C00000001.pdf",
+    "page": 1,
+    "shelfmark": "II.B.Misc.389/3",
+    "sourceUrl": "originals/00_005_C00000001.pdf#page=1",
+    "originalScanVisuallyChecked": true,
+    "renderedEvidence": "research/biography-expansion/cabart-original-card.png",
+    "headingAsPrinted": "CABART",
+    "titleAsPrinted": "Description de la caisse du calorimètre de M. Dulong.",
+    "citationAsPrinted": "Estr. da \"Ann. de Chim. et de Phys.\", III série, T. VIII (Juin 1843). cm. 20,5; pp. 183–189.",
+    "currentLinkedAuthorId": "adbcca23f70fb",
+    "currentLinkedAuthorName": "J Dulong",
+    "currentAttributionReason": "Surname-only heading matches one current catalogue entry; a homonym remains possible.",
+    "currentAttributionEvidence": "Dulong",
+    "finding": "The original card clearly prints CABART on the author-heading line. Dulong appears only after de M. in the title as the person whose calorimeter is described. The current automated attribution extracted the subject of the title and treated it as an author heading.",
+    "certainty": "high that the present card does not support Dulong as author; CABART’s expanded identity and external article attribution remain unverified",
+    "recommendedSeparateAction": "Review the book-author association in a distinct attribution pass. Preserve the raw heading CABART; remove or relabel Dulong as a related-person mention only after deciding the relationship schema. Do not use this card as evidence for Dulong’s authorship or silently attach a Cabart biography."
+  }
+}

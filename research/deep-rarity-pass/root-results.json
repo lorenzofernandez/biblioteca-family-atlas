@@ -1,0 +1,733 @@
+[
+  {
+    "id": "w647821587e75",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Essay d’analyse sur les jeux de hazard",
+      "reasoning": "The anonymous family card matches the CCFr first-edition title, Paris printer, 1708 date and XXIV, 189, [3] pagination. CCFr attributes the work to Pierre Rémond de Montmort. The card cannot distinguish the two issues described by the IFoA inventory.",
+      "checkedFields": [
+        {
+          "field": "Title",
+          "catalogue": "Essay d’analyse sur les jeux de hazard",
+          "source": "Same title; attributed to Pierre Rémond de Montmort"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Paris, Jacques Quillau, 1708",
+          "source": "Paris, Jacques Quillau, 1708"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "XXIV, 189, [3] pages",
+          "source": "CCFr: XXIV, 189, [3] pages"
+        }
+      ],
+      "discrepancies": [
+        "The card does not describe folding tables or textual issue points; first-issue rarity cannot be transferred to this family copy."
+      ],
+      "sources": [
+        {
+          "title": "Valenciennes municipal library · J 4-36 · CCFr",
+          "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/00111278843",
+          "institution": "Bibliothèque municipale de Valenciennes",
+          "callNumber": "J 4-36",
+          "copies": 1,
+          "type": "institutional holding"
+        },
+        {
+          "title": "Institute and Faculty of Actuaries · RKN 20214 · 2025 inventory",
+          "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+          "institution": "Institute and Faculty of Actuaries",
+          "callNumber": "RKN 20214",
+          "copies": 1,
+          "type": "institutional holding"
+        }
+      ],
+      "verificationScope": "Paris, Jacques Quillau, 1708 first edition, across its issues; family issue and completeness unverified.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 4,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 4,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Four distinct institutional copies are documented: Valenciennes, BnF, IFoA and Ghent. This is a located minimum for the 1708 edition across issues. No worldwide census, reliable upper bound or survival rate was found. Auction appearances were excluded because a copy can be sold repeatedly.",
+      "evidence": [
+        {
+          "title": "Valenciennes municipal library · J 4-36 · CCFr",
+          "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/00111278843",
+          "institution": "Bibliothèque municipale de Valenciennes",
+          "callNumber": "J 4-36",
+          "copies": 1,
+          "type": "institutional holding"
+        },
+        {
+          "title": "BnF · Réserve des livres rares · RÉS V-908",
+          "url": "https://expositions.bnf.fr/cnac/grand/cir_3607.htm",
+          "institution": "Bibliothèque nationale de France",
+          "callNumber": "RÉS V-908",
+          "copies": 1,
+          "type": "institutional copy exhibition"
+        },
+        {
+          "title": "Institute and Faculty of Actuaries · RKN 20214 · 2025 inventory",
+          "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+          "institution": "Institute and Faculty of Actuaries",
+          "callNumber": "RKN 20214",
+          "copies": 1,
+          "type": "institutional holding"
+        },
+        {
+          "title": "Ghent University source copy · Google Books digitization",
+          "url": "https://books.google.com/books?id=Cqk_AAAAcAAJ",
+          "institution": "Ghent University",
+          "copies": 1,
+          "type": "institutional source-copy digitization"
+        }
+      ],
+      "editionRelationship": "Paris, Jacques Quillau, 1708 first edition, across its issues; family issue and completeness unverified.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical institutional source copies; no extrapolation from digitizations, search hits or auction transactions.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 4 documented copies · upper bound unknown",
+        "summary": "Four distinct institutional copies are documented: Valenciennes, BnF, IFoA and Ghent. This is a located minimum for the 1708 edition across issues. No worldwide census, reliable upper bound or survival rate was found. Auction appearances were excluded because a copy can be sold repeatedly.",
+        "confidence": "high",
+        "editionRelation": "Paris, Jacques Quillau, 1708 first edition, across its issues; family issue and completeness unverified.",
+        "sources": [
+          {
+            "title": "Valenciennes municipal library · J 4-36 · CCFr",
+            "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/00111278843",
+            "institution": "Bibliothèque municipale de Valenciennes",
+            "callNumber": "J 4-36",
+            "copies": 1,
+            "type": "institutional holding"
+          },
+          {
+            "title": "BnF · Réserve des livres rares · RÉS V-908",
+            "url": "https://expositions.bnf.fr/cnac/grand/cir_3607.htm",
+            "institution": "Bibliothèque nationale de France",
+            "callNumber": "RÉS V-908",
+            "copies": 1,
+            "type": "institutional copy exhibition"
+          },
+          {
+            "title": "Institute and Faculty of Actuaries · RKN 20214 · 2025 inventory",
+            "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+            "institution": "Institute and Faculty of Actuaries",
+            "callNumber": "RKN 20214",
+            "copies": 1,
+            "type": "institutional holding"
+          },
+          {
+            "title": "Ghent University source copy · Google Books digitization",
+            "url": "https://books.google.com/books?id=Cqk_AAAAcAAJ",
+            "institution": "Ghent University",
+            "copies": 1,
+            "type": "institutional source-copy digitization"
+          }
+        ]
+      },
+      {
+        "title": "Issue-specific market evidence",
+        "range": "First-issue scarcity · family issue unresolved",
+        "summary": "A specialist dealer distinguishes an early issue without folding tables and reports a small auction history. This is an attributed market observation, not a survivor census. The family card does not establish this issue.",
+        "confidence": "low",
+        "editionRelation": "First issue of 1708 only; not assigned to the family copy.",
+        "sources": [
+          {
+            "title": "Sophia Rare Books · 1708 first-issue description",
+            "url": "https://www.sophiararebooks.com/pages/books/4632/pierre-remond-de-montmort/essay-danalyse-sur-les-jeux-de-hazard"
+          },
+          {
+            "title": "Institute and Faculty of Actuaries · RKN 20214 · 2025 inventory",
+            "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+            "institution": "Institute and Faculty of Actuaries",
+            "callNumber": "RKN 20214",
+            "copies": 1,
+            "type": "institutional holding"
+          }
+        ]
+      }
+    ],
+    "researchPatch": {
+      "title": "Essay d’analyse sur les jeux de hazard",
+      "year": 1708,
+      "imprint": "Paris: Jacques Quillau, 1708",
+      "language": "French",
+      "summary": "A study of chance in card games, dice and related games, using combinatorial reasoning to calculate outcomes and advantages. The first edition appeared in 1708; Montmort expanded it in 1713. The family card describes the 1708 edition.",
+      "summarySources": [
+        {
+          "title": "BnF · Réserve des livres rares · RÉS V-908",
+          "url": "https://expositions.bnf.fr/cnac/grand/cir_3607.htm",
+          "institution": "Bibliothèque nationale de France",
+          "callNumber": "RÉS V-908",
+          "copies": 1,
+          "type": "institutional copy exhibition"
+        },
+        {
+          "title": "Valenciennes municipal library · J 4-36 · CCFr",
+          "url": "https://ccfr.bnf.fr/portailccfr/ark:/16871/00111278843",
+          "institution": "Bibliothèque municipale de Valenciennes",
+          "callNumber": "J 4-36",
+          "copies": 1,
+          "type": "institutional holding"
+        }
+      ]
+    },
+    "attributionPatch": {
+      "id": "a2b30cab1fdf0",
+      "name": "Pierre Rémond de Montmort",
+      "reason": "The anonymous 1708 title and exact pagination match the CCFr record explicitly attributed to Montmort."
+    }
+  },
+  {
+    "id": "w09b0d7410fc7",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Essay d’analyse sur les jeux de hazard · second edition",
+      "reasoning": "The family card specifies the second edition, Paris, Quillau, 1713, and XLII, 414, [2] pages. IFoA RKN 20215 agrees on those identifying fields. The stated number of folding tables differs, so completeness is not verified.",
+      "checkedFields": [
+        {
+          "field": "Edition",
+          "catalogue": "Seconde édition, 1713",
+          "source": "Second edition, 1713"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Paris, Jacques Quillau",
+          "source": "Paris, Jacques Quillau"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "XLII, 414, [2]; 3 folding tables",
+          "source": "IFoA: XLII, 414, [2]; 6 folding plates; RSL: XLII, 416; 5 table leaves"
+        }
+      ],
+      "discrepancies": [
+        "Folding-table totals differ between the family card and sources; inspect the physical volume before treating it as complete."
+      ],
+      "sources": [
+        {
+          "title": "Institute and Faculty of Actuaries · RKN 20215 · 2025 inventory",
+          "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+          "institution": "Institute and Faculty of Actuaries",
+          "callNumber": "RKN 20215",
+          "copies": 1,
+          "type": "institutional holding"
+        },
+        {
+          "title": "Edward Worth Library · its 1713 Montmort copy",
+          "url": "https://mathematics.edwardworthlibrary.ie/probability/montmort/",
+          "institution": "Edward Worth Library",
+          "copies": 1,
+          "type": "institutional copy exhibition"
+        },
+        {
+          "title": "Russian State Library · H 137/200",
+          "url": "https://search.rsl.ru/ru/record/01004788583",
+          "institution": "Russian State Library",
+          "callNumber": "H 137/200",
+          "copies": 1,
+          "type": "institutional holding"
+        }
+      ],
+      "verificationScope": "Paris, Jacques Quillau, 1713 second edition; completeness of folding tables remains unverified.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 3,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 3,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Three independent institutional copies are located at IFoA, the Edward Worth Library and the Russian State Library. RSL’s microfilm entry is not an additional physical copy; IFoA’s modern facsimile is excluded. No worldwide upper bound or defensible point estimate was found.",
+      "evidence": [
+        {
+          "title": "Institute and Faculty of Actuaries · RKN 20215 · 2025 inventory",
+          "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+          "institution": "Institute and Faculty of Actuaries",
+          "callNumber": "RKN 20215",
+          "copies": 1,
+          "type": "institutional holding"
+        },
+        {
+          "title": "Edward Worth Library · its 1713 Montmort copy",
+          "url": "https://mathematics.edwardworthlibrary.ie/probability/montmort/",
+          "institution": "Edward Worth Library",
+          "copies": 1,
+          "type": "institutional copy exhibition"
+        },
+        {
+          "title": "Russian State Library · H 137/200",
+          "url": "https://search.rsl.ru/ru/record/01004788583",
+          "institution": "Russian State Library",
+          "callNumber": "H 137/200",
+          "copies": 1,
+          "type": "institutional holding"
+        }
+      ],
+      "editionRelationship": "Paris, Jacques Quillau, 1713 second edition; completeness of folding tables remains unverified.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical institutional source copies; no extrapolation from digitizations, search hits or auction transactions.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 3 documented copies · upper bound unknown",
+        "summary": "Three independent institutional copies are located at IFoA, the Edward Worth Library and the Russian State Library. RSL’s microfilm entry is not an additional physical copy; IFoA’s modern facsimile is excluded. No worldwide upper bound or defensible point estimate was found.",
+        "confidence": "high",
+        "editionRelation": "Paris, Jacques Quillau, 1713 second edition; completeness of folding tables remains unverified.",
+        "sources": [
+          {
+            "title": "Institute and Faculty of Actuaries · RKN 20215 · 2025 inventory",
+            "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+            "institution": "Institute and Faculty of Actuaries",
+            "callNumber": "RKN 20215",
+            "copies": 1,
+            "type": "institutional holding"
+          },
+          {
+            "title": "Edward Worth Library · its 1713 Montmort copy",
+            "url": "https://mathematics.edwardworthlibrary.ie/probability/montmort/",
+            "institution": "Edward Worth Library",
+            "copies": 1,
+            "type": "institutional copy exhibition"
+          },
+          {
+            "title": "Russian State Library · H 137/200",
+            "url": "https://search.rsl.ru/ru/record/01004788583",
+            "institution": "Russian State Library",
+            "callNumber": "H 137/200",
+            "copies": 1,
+            "type": "institutional holding"
+          }
+        ]
+      }
+    ],
+    "researchPatch": {
+      "title": "Essay d’analyse sur les jeux de hazard · second edition",
+      "year": 1713,
+      "imprint": "Paris: Jacques Quillau, 1713",
+      "language": "French",
+      "summary": "The expanded second edition develops Montmort’s treatment of games of chance and includes correspondence with the Bernoullis. The Edward Worth Library illustrates its discussions of dice outcomes and the banker’s advantage in card games.",
+      "summarySources": [
+        {
+          "title": "Edward Worth Library · its 1713 Montmort copy",
+          "url": "https://mathematics.edwardworthlibrary.ie/probability/montmort/",
+          "institution": "Edward Worth Library",
+          "copies": 1,
+          "type": "institutional copy exhibition"
+        },
+        {
+          "title": "Institute and Faculty of Actuaries · RKN 20215 · 2025 inventory",
+          "url": "https://actuaries.org.uk/media/aognluto/allcat1900_202502_isbd_listbyau1.pdf#page=108",
+          "institution": "Institute and Faculty of Actuaries",
+          "callNumber": "RKN 20215",
+          "copies": 1,
+          "type": "institutional holding"
+        }
+      ]
+    },
+    "attributionPatch": {
+      "id": "a2b30cab1fdf0",
+      "name": "Pierre Rémond de Montmort",
+      "reason": "Author attribution independently confirmed by institutional records of both editions."
+    }
+  },
+  {
+    "id": "wba46e50037bf",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes",
+      "reasoning": "The family title, author, Lausanne/Geneva imprint, Bousquet and 1744 date agree with Smithsonian metadata and the Posner copy dossier. The family collation also agrees: [2], 322, [2] pages and five folding plates.",
+      "checkedFields": [
+        {
+          "field": "Imprint",
+          "catalogue": "Lausanne and Geneva, M.-M. Bousquet, 1744",
+          "source": "Same places, publisher and year"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "[2], 322, [2]; five folding plates",
+          "source": "Smithsonian: [2], 322, [2]; five folding plates"
+        }
+      ],
+      "discrepancies": [],
+      "sources": [
+        {
+          "title": "Smithsonian Libraries · Dibner source copy 39088000877480",
+          "url": "https://library.si.edu/digital-library/book/methodusinvenie00eule",
+          "institution": "Smithsonian Libraries",
+          "callNumber": "39088000877480",
+          "copies": 1,
+          "type": "institutional source-copy digitization"
+        },
+        {
+          "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+          "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+          "institution": "Carnegie Mellon University · Posner Collection",
+          "callNumber": "517.4 E88M 1744",
+          "copies": 1,
+          "type": "institutional copy dossier"
+        }
+      ],
+      "verificationScope": "1744 edition; the two family catalogue cards are not assumed to be the same physical book.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 2,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 2,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Two independent institutional copies: Smithsonian and Carnegie Mellon’s Posner Collection. The Internet Archive mirror of the Smithsonian scan counts once. Repeated sale descriptions in the Posner dossier are not additional copies. The worldwide total remains unestimated.",
+      "evidence": [
+        {
+          "title": "Smithsonian Libraries · Dibner source copy 39088000877480",
+          "url": "https://library.si.edu/digital-library/book/methodusinvenie00eule",
+          "institution": "Smithsonian Libraries",
+          "callNumber": "39088000877480",
+          "copies": 1,
+          "type": "institutional source-copy digitization"
+        },
+        {
+          "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+          "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+          "institution": "Carnegie Mellon University · Posner Collection",
+          "callNumber": "517.4 E88M 1744",
+          "copies": 1,
+          "type": "institutional copy dossier"
+        }
+      ],
+      "editionRelationship": "1744 Bousquet edition; complete-copy status of the family item is separate.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical institutional source copies; no extrapolation from digitizations, search hits or auction transactions.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 2 documented copies · upper bound unknown",
+        "summary": "Two independent institutional copies: Smithsonian and Carnegie Mellon’s Posner Collection. The Internet Archive mirror of the Smithsonian scan counts once. Repeated sale descriptions in the Posner dossier are not additional copies. The worldwide total remains unestimated.",
+        "confidence": "high",
+        "editionRelation": "1744 Bousquet edition; complete-copy status of the family item is separate.",
+        "sources": [
+          {
+            "title": "Smithsonian Libraries · Dibner source copy 39088000877480",
+            "url": "https://library.si.edu/digital-library/book/methodusinvenie00eule",
+            "institution": "Smithsonian Libraries",
+            "callNumber": "39088000877480",
+            "copies": 1,
+            "type": "institutional source-copy digitization"
+          },
+          {
+            "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+            "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+            "institution": "Carnegie Mellon University · Posner Collection",
+            "callNumber": "517.4 E88M 1744",
+            "copies": 1,
+            "type": "institutional copy dossier"
+          }
+        ]
+      }
+    ],
+    "bibliographyAssessment": {
+      "assessment": "Rare when complete with all five plates",
+      "confidence": "low",
+      "matchConfidence": "high",
+      "applicable": true,
+      "referenceYear": 1744,
+      "editionHeading": "1744 first edition, with all five folding plates",
+      "editionRelationship": "Family card lists all five folding plates, but current physical completeness is uninspected.",
+      "scope": "Historic dealer assessment preserved in the Posner acquisition file.",
+      "reason": "A dealer description in the Posner dossier calls complete examples rare. The family catalogue lists five plates. This dated commercial judgment has no numerical threshold or worldwide census.",
+      "sources": [
+        {
+          "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+          "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+          "institution": "Carnegie Mellon University · Posner Collection",
+          "callNumber": "517.4 E88M 1744",
+          "copies": 1,
+          "type": "institutional copy dossier"
+        }
+      ],
+      "checked": "2026-10-17",
+      "method": "Explicit attributed qualitative assessment; no conversion to a survivor total.",
+      "sourceBias": "Historic sale description; market selection and dated opinion."
+    }
+  },
+  {
+    "id": "w844a05b75c66",
+    "editionReview": {
+      "decision": "verified_edition",
+      "confidence": "high",
+      "cleanTitle": "Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes",
+      "reasoning": "The family title, author, Lausanne/Geneva imprint, Bousquet and 1744 date agree with Smithsonian metadata and the Posner copy dossier. This second family card has no usable pagination; the edition connection is strong, but completeness remains unresolved.",
+      "checkedFields": [
+        {
+          "field": "Imprint",
+          "catalogue": "Lausanne and Geneva, M.-M. Bousquet, 1744",
+          "source": "Same places, publisher and year"
+        },
+        {
+          "field": "Extent",
+          "catalogue": "Pagination not recorded legibly",
+          "source": "Smithsonian: [2], 322, [2]; five folding plates"
+        }
+      ],
+      "discrepancies": [
+        "No complete family collation; do not apply rarity claims limited to complete copies."
+      ],
+      "sources": [
+        {
+          "title": "Smithsonian Libraries · Dibner source copy 39088000877480",
+          "url": "https://library.si.edu/digital-library/book/methodusinvenie00eule",
+          "institution": "Smithsonian Libraries",
+          "callNumber": "39088000877480",
+          "copies": 1,
+          "type": "institutional source-copy digitization"
+        },
+        {
+          "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+          "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+          "institution": "Carnegie Mellon University · Posner Collection",
+          "callNumber": "517.4 E88M 1744",
+          "copies": 1,
+          "type": "institutional copy dossier"
+        }
+      ],
+      "verificationScope": "1744 edition; the two family catalogue cards are not assumed to be the same physical book.",
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "high",
+      "evidenceConfidence": "high",
+      "documentedLowerBound": 2,
+      "countUnit": "distinct documented institutional copies",
+      "worldwideSurvivingRange": {
+        "min": 2,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "Two independent institutional copies: Smithsonian and Carnegie Mellon’s Posner Collection. The Internet Archive mirror of the Smithsonian scan counts once. Repeated sale descriptions in the Posner dossier are not additional copies. The worldwide total remains unestimated.",
+      "evidence": [
+        {
+          "title": "Smithsonian Libraries · Dibner source copy 39088000877480",
+          "url": "https://library.si.edu/digital-library/book/methodusinvenie00eule",
+          "institution": "Smithsonian Libraries",
+          "callNumber": "39088000877480",
+          "copies": 1,
+          "type": "institutional source-copy digitization"
+        },
+        {
+          "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+          "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+          "institution": "Carnegie Mellon University · Posner Collection",
+          "callNumber": "517.4 E88M 1744",
+          "copies": 1,
+          "type": "institutional copy dossier"
+        }
+      ],
+      "editionRelationship": "1744 Bousquet edition; complete-copy status of the family item is separate.",
+      "checked": "2026-10-17",
+      "method": "Conservative enumeration of distinct physical institutional source copies; no extrapolation from digitizations, search hits or auction transactions.",
+      "globalEstimateConfidence": "unresolved"
+    },
+    "survivalEvidence": [
+      {
+        "title": "Copies identified in independent collections",
+        "range": "At least 2 documented copies · upper bound unknown",
+        "summary": "Two independent institutional copies: Smithsonian and Carnegie Mellon’s Posner Collection. The Internet Archive mirror of the Smithsonian scan counts once. Repeated sale descriptions in the Posner dossier are not additional copies. The worldwide total remains unestimated.",
+        "confidence": "high",
+        "editionRelation": "1744 Bousquet edition; complete-copy status of the family item is separate.",
+        "sources": [
+          {
+            "title": "Smithsonian Libraries · Dibner source copy 39088000877480",
+            "url": "https://library.si.edu/digital-library/book/methodusinvenie00eule",
+            "institution": "Smithsonian Libraries",
+            "callNumber": "39088000877480",
+            "copies": 1,
+            "type": "institutional source-copy digitization"
+          },
+          {
+            "title": "Carnegie Mellon · Posner collection file 517.4 E88M 1744",
+            "url": "https://iiif.library.cmu.edu/file/Posner_Files_517.4_E88M_1744/Posner_Files_517.4_E88M_1744.pdf",
+            "institution": "Carnegie Mellon University · Posner Collection",
+            "callNumber": "517.4 E88M 1744",
+            "copies": 1,
+            "type": "institutional copy dossier"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "w6aff8edc0f21",
+    "editionReview": {
+      "decision": "probable_edition",
+      "confidence": "medium",
+      "cleanTitle": "Il Taccuino di Luigi Galvani · facsimile",
+      "reasoning": "The original scan describes a bicentenary facsimile published in Bologna by Nicola Zanichelli and numbered 353 of 500. The Como institutional inventory and Seab catalogue identify the corresponding 1937 publication. The card itself says 1837; this is a catalogue date conflict, not just an OCR error. Treat 1937 as the proposed correction until the book is inspected. A contemporary 1937 UMI notice independently describes Zanichelli’s numbered edition of 500; the family date conflict remains.",
+      "verificationScope": "Probable 1937 Zanichelli notebook facsimile. No verified physical-copy census or current ownership count.",
+      "discrepancies": [
+        "Family card: 1837; external references: 1937.",
+        "Family card:XXV, 68 leaves, 41 pages; Seab describesXXV, 68 leaves, 42 pages. The one-page difference needs inspection.",
+        "Any later reproduction must be distinguished from the 500-copy numbered issue."
+      ],
+      "checkedFields": [
+        {
+          "field": "Title / form",
+          "catalogue": "Il Taccuino; facsimile for the Galvani bicentenary",
+          "source": "Il Taccuino di Luigi Galvani; bicentenary facsimile"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Bologna, Nicola Zanichelli, 1837",
+          "source": "Bologna, Zanichelli, 1937"
+        },
+        {
+          "field": "Limitation",
+          "catalogue": "500 copies; family copy numbered 353",
+          "source": "Seab catalogue entry 1038 describes 500 numbered copies"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Comune di Como · Fondo Voltiano · entry e 177",
+          "url": "https://www.comune.como.it/export/sites/comune-di-como/.galleries/Settore-07/Fondo_Voltiano.pdf#page=37"
+        },
+        {
+          "title": "Libreria Seab catalogue · entry 1038",
+          "url": "https://ilab.org/assets/catalogues/catalogs_files_2084_177.pdf#page=77"
+        },
+        {
+          "title": "Bologna Library ·1937 bicentenary chronology",
+          "url": "https://www.bibliotecasalaborsa.it/bolognaonline/lang/en/cronologia-di-bologna/1937"
+        },
+        {
+          "title": "Unione Matematica Italiana · 1937 contemporary publication notice, p. 248",
+          "url": "https://www.bdim.eu/item?fmt=pdf&id=BUMI_1937_1_16_5_244_0",
+          "type": "contemporary publication notice",
+          "originalPrintRun": 500,
+          "accessNote": "Indexed full-text passage read; direct PDF retrieval returned an error."
+        }
+      ],
+      "dateChecked": "2026-10-17"
+    },
+    "survivalResearch": {
+      "editionMatchConfidence": "medium",
+      "evidenceConfidence": "medium",
+      "documentedLowerBound": null,
+      "countUnit": "physical copies of the specified issue",
+      "worldwideSurvivingRange": {
+        "min": null,
+        "max": null,
+        "confidence": "low",
+        "isEstimate": false
+      },
+      "worldwideEstimate": null,
+      "note": "The scan confirms a 500-copy edition and copy 353. This limits the facsimile issue conditionally, not the manuscript or all Galvani editions. The 500-copy statement describes the whole facsimile issue. The catalogue’s printed 1837 date conflicts with the bicentenary context;1937 is independently supported. A contemporary UMI publication notice corroborates the 500-copy printing. This strengthens the original-run evidence, not a present-day survivor estimate.",
+      "evidence": [
+        {
+          "title": "Family catalogue, 00_006_G 00000001.pdf, scan 26",
+          "url": "originals/00_006_G00000001.pdf#page=26",
+          "file": "00_006_G00000001.pdf",
+          "page": 26,
+          "recordId": "w6aff8edc0f21",
+          "type": "original catalogue printing note"
+        },
+        {
+          "title": "Bologna Library · Galvani bicentenary, 1937",
+          "url": "https://www.bibliotecasalaborsa.it/bolognaonline/lang/en/cronologia-di-bologna/1937",
+          "type": "historical chronology"
+        },
+        {
+          "title": "Unione Matematica Italiana · 1937 contemporary publication notice, p. 248",
+          "url": "https://www.bdim.eu/item?fmt=pdf&id=BUMI_1937_1_16_5_244_0",
+          "type": "contemporary publication notice",
+          "originalPrintRun": 500,
+          "accessNote": "Indexed full-text passage read; direct PDF retrieval returned an error."
+        }
+      ],
+      "editionRelationship": "Galvani notebook facsimile, not the original handwritten notebook",
+      "checked": "2026-10-17",
+      "conditionalSurvivalBounds": {
+        "min": null,
+        "maxApprox": 500,
+        "confidence": "low",
+        "kind": "conditional ceiling only; not a likely surviving range",
+        "assumptions": "The 500-copy statement describes the whole facsimile issue. The catalogue’s printed 1837 date conflicts with the bicentenary context;1937 is independently supported."
+      },
+      "originalPrintRun": 500
+    },
+    "survivalEvidence": [
+      {
+        "title": "Catalogue limitation statement",
+        "range": "Conditional ceiling: 500 copies",
+        "summary": "The scan confirms a 500-copy edition and copy 353. This limits the facsimile issue conditionally, not the manuscript or all Galvani editions. The 500-copy statement describes the whole facsimile issue. The catalogue’s printed 1837 date conflicts with the bicentenary context;1937 is independently supported.",
+        "confidence": "low",
+        "editionRelation": "Galvani notebook facsimile, not the original handwritten notebook",
+        "sources": [
+          {
+            "title": "Family catalogue, 00_006_G 00000001.pdf, scan 26",
+            "url": "originals/00_006_G00000001.pdf#page=26",
+            "file": "00_006_G00000001.pdf",
+            "page": 26,
+            "recordId": "w6aff8edc0f21",
+            "type": "original catalogue printing note"
+          },
+          {
+            "title": "Bologna Library · Galvani bicentenary, 1937",
+            "url": "https://www.bibliotecasalaborsa.it/bolognaonline/lang/en/cronologia-di-bologna/1937",
+            "type": "historical chronology"
+          }
+        ]
+      },
+      {
+        "title": "Contemporary confirmation of the printing",
+        "range": "500 numbered copies originally published",
+        "summary": "A 1937 UMI notice independently reports the numbered Zanichelli edition and its facsimile format. The catalogue’s 1837 date remains in conflict; 500 is still a conditional ceiling, not a likely count of surviving copies.",
+        "confidence": "medium",
+        "editionRelation": "Probable 1937 issue; family date conflict retained.",
+        "sources": [
+          {
+            "title": "Unione Matematica Italiana · 1937 contemporary publication notice, p. 248",
+            "url": "https://www.bdim.eu/item?fmt=pdf&id=BUMI_1937_1_16_5_244_0",
+            "type": "contemporary publication notice",
+            "originalPrintRun": 500,
+            "accessNote": "Indexed full-text passage read; direct PDF retrieval returned an error."
+          }
+        ]
+      }
+    ]
+  }
+]

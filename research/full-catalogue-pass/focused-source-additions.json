@@ -1,0 +1,85 @@
+{
+  "w6aff8edc0f21": {
+    "candidates": [
+      {
+        "source": "Comune di Como · Fondo Voltiano inventory",
+        "title": "Il Taccuino di Luigi Galvani",
+        "creators": [
+          "Luigi Galvani",
+          "Comitato Celebrazioni II Centenario"
+        ],
+        "year": 1937,
+        "url": "https://www.comune.como.it/export/sites/comune-di-como/.galleries/Settore-07/Fondo_Voltiano.pdf#page=37",
+        "confidence": {
+          "level": "medium",
+          "reason": "Title, bicentenary context, Bologna and Zanichelli agree. The family card prints 1837; the institutional inventory gives 1937. The numbered 500-copy issue still needs comparison with the physical limitation leaf."
+        },
+        "editionRelation": "Probable 1937 facsimile edition; the family catalogue date is in conflict. Inventory entry e 177 identifies the work, not the numbered issue or current copy completeness.",
+        "images": []
+      }
+    ],
+    "editionReview": {
+      "decision": "probable_edition",
+      "confidence": "medium",
+      "cleanTitle": "Il Taccuino di Luigi Galvani · facsimile",
+      "reasoning": "The original scan describes a bicentenary facsimile published in Bologna by Nicola Zanichelli and numbered 353 of 500. The Como institutional inventory and Seab catalogue identify the corresponding 1937 publication. The card itself says 1837; this is a catalogue date conflict, not just an OCR error. Treat 1937 as the proposed correction until the book is inspected.",
+      "verificationScope": "Probable 1937 Zanichelli notebook facsimile. No verified physical-copy census or current ownership count.",
+      "discrepancies": [
+        "Family card: 1837; external references: 1937.",
+        "Family card:XXV, 68 leaves, 41 pages; Seab describesXXV, 68 leaves, 42 pages. The one-page difference needs inspection.",
+        "Any later reproduction must be distinguished from the 500-copy numbered issue."
+      ],
+      "checkedFields": [
+        {
+          "field": "Title / form",
+          "catalogue": "Il Taccuino; facsimile for the Galvani bicentenary",
+          "source": "Il Taccuino di Luigi Galvani; bicentenary facsimile"
+        },
+        {
+          "field": "Imprint",
+          "catalogue": "Bologna, Nicola Zanichelli, 1837",
+          "source": "Bologna, Zanichelli, 1937"
+        },
+        {
+          "field": "Limitation",
+          "catalogue": "500 copies; family copy numbered 353",
+          "source": "Seab catalogue entry 1038 describes 500 numbered copies"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Comune di Como · Fondo Voltiano · entry e 177",
+          "url": "https://www.comune.como.it/export/sites/comune-di-como/.galleries/Settore-07/Fondo_Voltiano.pdf#page=37"
+        },
+        {
+          "title": "Libreria Seab catalogue · entry 1038",
+          "url": "https://ilab.org/assets/catalogues/catalogs_files_2084_177.pdf#page=77"
+        },
+        {
+          "title": "Bologna Library ·1937 bicentenary chronology",
+          "url": "https://www.bibliotecasalaborsa.it/bolognaonline/lang/en/cronologia-di-bologna/1937"
+        }
+      ],
+      "dateChecked": "2026-10-17"
+    }
+  },
+  "wceeacceca787": {
+    "candidates": [
+      {
+        "source": "Biblioteca CAI Varallo · Lascito Rolandi",
+        "title": "Il piombo",
+        "creators": [
+          "Giovanni Rolandi"
+        ],
+        "year": null,
+        "url": "https://digilander.libero.it/bibliotecacaivarallo/rolandi.html",
+        "confidence": {
+          "level": "medium",
+          "reason": "The library lists Rolandi’s title and Edizioni de L’Industria Mineraria, but supplies no year, collation or limitation statement."
+        },
+        "editionRelation": "Same-work institutional lead. The listing does not establish the 1956 numbered/limited issue or a copy count for it.",
+        "images": []
+      }
+    ]
+  }
+}

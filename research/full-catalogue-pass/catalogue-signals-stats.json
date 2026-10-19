@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-17",
+  "recordsScreened": 49780,
+  "screenedTextField": "original catalogue OCR only",
+  "positiveRecords": 20580,
+  "independentPositiveRecords": 20578,
+  "nonIndependentRecords": 6776,
+  "noExplicitSignalFound": 22426,
+  "signalCounts": {
+    "extract_or_offprint_notation": 19965,
+    "incomplete_collection_section": 303,
+    "typescript": 43,
+    "manuscript": 38,
+    "duplicated_copy": 45,
+    "autograph_presentation": 59,
+    "copy_incomplete": 123,
+    "photocopy": 11,
+    "reprint_or_facsimile": 16,
+    "later_impression": 13,
+    "manuscript_component": 14,
+    "limited_print_run": 2,
+    "limited_print_run_conflict": 1,
+    "special_issue_print_run": 1
+  },
+  "manuallyReviewedCandidateCounts": {
+    "scarcity": 93,
+    "printing": 95,
+    "manuscript": 122,
+    "reproduction": 29,
+    "incomplete": 134
+  },
+  "directEditionScarcityAssertionsFound": 0,
+  "visuallyCheckedNumericalNotes": 4,
+  "usableConditionalPrintRunCeilings": 2,
+  "worldwideSurvivalEstimatesCreated": 0,
+  "caution": "These are catalogue-derived evidence flags, not 49,780 external edition investigations. No signal found does not mean common; offprint, typescript, age and small known-holdings counts do not by themselves establish rarity."
+}

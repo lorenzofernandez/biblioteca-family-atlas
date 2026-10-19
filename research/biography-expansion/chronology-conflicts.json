@@ -1,0 +1,4752 @@
+[
+  {
+    "id": "ad6ea388c468c",
+    "name": "J Elster",
+    "wikidata": "Q468043",
+    "possibleIdentity": "Jon Elster",
+    "firstYear": 1889,
+    "lastYear": 1900,
+    "recordCount": 26,
+    "birth": 1940
+  },
+  {
+    "id": "acb1e8f54f151",
+    "name": "M La Rosa",
+    "wikidata": "Q96606849",
+    "possibleIdentity": "Juan Miguel Teijeiro de la Rosa",
+    "firstYear": 1809,
+    "lastYear": 1924,
+    "recordCount": 19,
+    "birth": 1939
+  },
+  {
+    "id": "aa27a8a793268",
+    "name": "S.M Shelton",
+    "wikidata": "Q7613905",
+    "possibleIdentity": "Steve Shelton",
+    "firstYear": 1938,
+    "lastYear": 1942,
+    "recordCount": 15,
+    "birth": 1949
+  },
+  {
+    "id": "a9ff09b368c17",
+    "name": "Charles Matteucci",
+    "wikidata": "Q110211486",
+    "possibleIdentity": "Charles Mattei",
+    "firstYear": 1829,
+    "lastYear": 1850,
+    "recordCount": 14,
+    "birth": 1889
+  },
+  {
+    "id": "af921dd8ac27e",
+    "name": "Marine",
+    "wikidata": "Q5237127",
+    "possibleIdentity": "David Marine",
+    "firstYear": 1717,
+    "lastYear": 1809,
+    "recordCount": 14,
+    "birth": 1888
+  },
+  {
+    "id": "a1b0cbe30d372",
+    "name": "Marc Lefort",
+    "wikidata": "Q33111816",
+    "possibleIdentity": "Marc Lesort",
+    "firstYear": 1950,
+    "lastYear": 1954,
+    "recordCount": 13,
+    "birth": 1948
+  },
+  {
+    "id": "af1f34375d256",
+    "name": "D Hanson",
+    "wikidata": "Q95271300",
+    "possibleIdentity": "David Lee Hanson",
+    "firstYear": 1921,
+    "lastYear": 1935,
+    "recordCount": 12,
+    "birth": 1935
+  },
+  {
+    "id": "a2f1482b88dad",
+    "name": "Giuseppe Lavini",
+    "wikidata": "Q16853698",
+    "possibleIdentity": "Giuseppe Lavini",
+    "firstYear": 1830,
+    "lastYear": 1840,
+    "recordCount": 11,
+    "birth": 1857
+  },
+  {
+    "id": "ac2a604a7c864",
+    "name": "M.L Gruner",
+    "wikidata": "Q95308493",
+    "possibleIdentity": "Max Gruner",
+    "firstYear": 1863,
+    "lastYear": 1881,
+    "recordCount": 10,
+    "birth": 1876
+  },
+  {
+    "id": "ad0f819bfe4f9",
+    "name": "L.B Guyton",
+    "wikidata": "Q109931847",
+    "possibleIdentity": "Louis-Marie Guyton",
+    "firstYear": 1790,
+    "lastYear": 1790,
+    "recordCount": 9,
+    "birth": 1794
+  },
+  {
+    "id": "a39b598f13f9e",
+    "name": "Denis Taylor",
+    "wikidata": "Q504726",
+    "possibleIdentity": "Dennis Taylor",
+    "firstYear": 1947,
+    "lastYear": 1951,
+    "recordCount": 8,
+    "birth": 1949
+  },
+  {
+    "id": "a4560d1f1929c",
+    "name": "J Janssen",
+    "wikidata": "Q102292263",
+    "possibleIdentity": "Jacques Janssen",
+    "firstYear": 1885,
+    "lastYear": 1901,
+    "recordCount": 8,
+    "birth": 1939
+  },
+  {
+    "id": "aabfca82eb2d1",
+    "name": "Hans Betz",
+    "wikidata": "Q19590066",
+    "possibleIdentity": "Hans Betz",
+    "firstYear": 1937,
+    "lastYear": 1938,
+    "recordCount": 8,
+    "birth": 1931
+  },
+  {
+    "id": "aac5614c8e53b",
+    "name": "Daniel Berthel(Yr",
+    "wikidata": "Q112499049",
+    "possibleIdentity": "Daniel Berthier",
+    "firstYear": 1885,
+    "lastYear": 1904,
+    "recordCount": 7,
+    "birth": 1946
+  },
+  {
+    "id": "af9ee03dc994d",
+    "name": "C Bouquet",
+    "wikidata": "Q55987160",
+    "possibleIdentity": "Alan Coates Bouquet",
+    "firstYear": 1854,
+    "lastYear": 1875,
+    "recordCount": 7,
+    "birth": 1884
+  },
+  {
+    "id": "a705445828c10",
+    "name": "Samuel Heiman",
+    "wikidata": "Q97728191",
+    "possibleIdentity": "Samuel Heyman",
+    "firstYear": 1949,
+    "lastYear": 1950,
+    "recordCount": 6,
+    "birth": 1949
+  },
+  {
+    "id": "a74d838eb0b8a",
+    "name": "Pierre Montagne",
+    "wikidata": "Q3386325",
+    "possibleIdentity": "Pierre Montagnon",
+    "firstYear": 1926,
+    "lastYear": 1934,
+    "recordCount": 6,
+    "birth": 1931
+  },
+  {
+    "id": "a85c1f737eea2",
+    "name": "H Davy",
+    "wikidata": "Q11007547",
+    "possibleIdentity": "Hippolyte Marié-Davy",
+    "firstYear": 1804,
+    "lastYear": 1813,
+    "recordCount": 6,
+    "birth": 1820
+  },
+  {
+    "id": "ab5a6f2dbf7f2",
+    "name": "James B Winslow",
+    "wikidata": "Q18911132",
+    "possibleIdentity": "Evelyn James Winslow",
+    "firstYear": 1720,
+    "lastYear": 1743,
+    "recordCount": 6,
+    "birth": 1870
+  },
+  {
+    "id": "ace256eb71a65",
+    "name": "Oliver W Brown",
+    "wikidata": "Q29025507",
+    "possibleIdentity": "Oliver Bowen",
+    "firstYear": 1936,
+    "lastYear": 1939,
+    "recordCount": 6,
+    "birth": 1942
+  },
+  {
+    "id": "afa9aa0cbbafa",
+    "name": "H Geiger",
+    "wikidata": "Q5234521",
+    "possibleIdentity": "David H. Geiger",
+    "firstYear": 1910,
+    "lastYear": 1919,
+    "recordCount": 6,
+    "birth": 1935
+  },
+  {
+    "id": "a062c1f83e18f",
+    "name": "B Wilson",
+    "wikidata": "Q4731519",
+    "possibleIdentity": "Allen Benjamin Wilson",
+    "firstYear": 1764,
+    "lastYear": 1775,
+    "recordCount": 5,
+    "birth": 1824
+  },
+  {
+    "id": "a37e819299536",
+    "name": "Germain Gauthier",
+    "wikidata": "Q3104114",
+    "possibleIdentity": "Germain Gauthier",
+    "firstYear": 1909,
+    "lastYear": 1953,
+    "recordCount": 5,
+    "birth": 1950
+  },
+  {
+    "id": "a3e242ffeab1a",
+    "name": "Enrico Paolini",
+    "wikidata": "Q1343879",
+    "possibleIdentity": "Enrico Paolini",
+    "firstYear": 1905,
+    "lastYear": 1932,
+    "recordCount": 5,
+    "birth": 1945
+  },
+  {
+    "id": "a47b2ff4f72b4",
+    "name": "Heinz Siebert",
+    "wikidata": "Q112482348",
+    "possibleIdentity": "Heinz-Günther Sieberth",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 5,
+    "birth": 1934
+  },
+  {
+    "id": "a52cb3443e111",
+    "name": "R. B Mears",
+    "wikidata": "Q303982",
+    "possibleIdentity": "Roger Mears",
+    "firstYear": 1938,
+    "lastYear": 1949,
+    "recordCount": 5,
+    "birth": 1947
+  },
+  {
+    "id": "a532973d97b03",
+    "name": "J Lambert",
+    "wikidata": "Q2865164",
+    "possibleIdentity": "Arthur Join-Lambert",
+    "firstYear": 1781,
+    "lastYear": 1784,
+    "recordCount": 5,
+    "birth": 1839
+  },
+  {
+    "id": "a9f7d33cb2403",
+    "name": "C Rossi",
+    "wikidata": "Q290502",
+    "possibleIdentity": "Cristina Peri Rossi",
+    "firstYear": 1936,
+    "lastYear": 1936,
+    "recordCount": 5,
+    "birth": 1941
+  },
+  {
+    "id": "ad31efca5332a",
+    "name": "J Koppel",
+    "wikidata": "Q134611117",
+    "possibleIdentity": "Juta Koppel",
+    "firstYear": 1901,
+    "lastYear": 1920,
+    "recordCount": 5,
+    "birth": 1938
+  },
+  {
+    "id": "a050d31cbefb3",
+    "name": "T.L Joseph",
+    "wikidata": "Q18985979",
+    "possibleIdentity": "K.T. Joseph",
+    "firstYear": 1926,
+    "lastYear": 1930,
+    "recordCount": 4,
+    "birth": 1946
+  },
+  {
+    "id": "a0b09112896a9",
+    "name": "Antonio Selmi",
+    "wikidata": "Q61482098",
+    "possibleIdentity": "Antonio Alberto Semi",
+    "firstYear": 1863,
+    "lastYear": 1874,
+    "recordCount": 4,
+    "birth": 1944
+  },
+  {
+    "id": "a0e95fb6745cf",
+    "name": "E Wilson",
+    "wikidata": "Q1064288",
+    "possibleIdentity": "Charles Erwin Wilson",
+    "firstYear": 1895,
+    "lastYear": 1897,
+    "recordCount": 4,
+    "birth": 1890
+  },
+  {
+    "id": "a164e62e6de17",
+    "name": "John Pringle",
+    "wikidata": "Q26211718",
+    "possibleIdentity": "John Pringle",
+    "firstYear": 1774,
+    "lastYear": 1774,
+    "recordCount": 4,
+    "birth": 1877
+  },
+  {
+    "id": "a3f74036f94ad",
+    "name": "Jean Baptiste Le Rond dl Alembert",
+    "wikidata": "Q56000821",
+    "possibleIdentity": "Jean Pierre Albert",
+    "firstYear": 1747,
+    "lastYear": 1761,
+    "recordCount": 4,
+    "birth": 1949
+  },
+  {
+    "id": "a4711ff53ebe7",
+    "name": "Alberto Masini",
+    "wikidata": "Q104676336",
+    "possibleIdentity": "Alberto Marini",
+    "firstYear": 1900,
+    "lastYear": 1902,
+    "recordCount": 4,
+    "birth": 1939
+  },
+  {
+    "id": "a52a914ad5cf0",
+    "name": "A Joffe",
+    "wikidata": "Q2698889",
+    "possibleIdentity": "Abraham Z. Joffe",
+    "firstYear": 1907,
+    "lastYear": 1907,
+    "recordCount": 4,
+    "birth": 1909
+  },
+  {
+    "id": "a71b3825344fd",
+    "name": "William Henley",
+    "wikidata": "Q8007368",
+    "possibleIdentity": "William Cumming Henley",
+    "firstYear": 1774,
+    "lastYear": 1774,
+    "recordCount": 4,
+    "birth": 1860
+  },
+  {
+    "id": "a8390d10b84f8",
+    "name": "Franco Magrini",
+    "wikidata": "Q21208689",
+    "possibleIdentity": "Franco Magni",
+    "firstYear": 1886,
+    "lastYear": 1887,
+    "recordCount": 4,
+    "birth": 1930
+  },
+  {
+    "id": "a86dc10f616eb",
+    "name": "G. P Dube",
+    "wikidata": "Q109668769",
+    "possibleIdentity": "Ghyslain Dubé",
+    "firstYear": 1939,
+    "lastYear": 1939,
+    "recordCount": 4,
+    "birth": 1949
+  },
+  {
+    "id": "a9e640ff7d6fc",
+    "name": "L. L Burgess",
+    "wikidata": "Q124315779",
+    "possibleIdentity": "Robert L. Burgess",
+    "firstYear": 1910,
+    "lastYear": 1910,
+    "recordCount": 4,
+    "birth": 1931
+  },
+  {
+    "id": "abda065b6a5c5",
+    "name": "M.B Royer",
+    "wikidata": "Q33134122",
+    "possibleIdentity": "Jean-Marie Royer",
+    "firstYear": 1932,
+    "lastYear": 1938,
+    "recordCount": 4,
+    "birth": 1944
+  },
+  {
+    "id": "ad0ddf42d8f8e",
+    "name": "John Ingen Housz",
+    "wikidata": "Q2851695",
+    "possibleIdentity": "Arnold Hugo Ingen Housz",
+    "firstYear": 1778,
+    "lastYear": 1779,
+    "recordCount": 4,
+    "birth": 1888
+  },
+  {
+    "id": "ae4cd0796ae89",
+    "name": "G. de Metz",
+    "wikidata": "Q94784893",
+    "possibleIdentity": "Gerhard Metz",
+    "firstYear": 1902,
+    "lastYear": 1906,
+    "recordCount": 4,
+    "birth": 1927
+  },
+  {
+    "id": "aeadb43c5a0cd",
+    "name": "J Brentano",
+    "wikidata": "Q106673259",
+    "possibleIdentity": "Jean-Louis Funck-Brentano",
+    "firstYear": 1927,
+    "lastYear": 1929,
+    "recordCount": 4,
+    "birth": 1924
+  },
+  {
+    "id": "af6bac2529175",
+    "name": "Ettore Gliozzi",
+    "wikidata": "Q18686371",
+    "possibleIdentity": "Ettore Gliozzi",
+    "firstYear": 1951,
+    "lastYear": 1954,
+    "recordCount": 4,
+    "birth": 1995
+  },
+  {
+    "id": "afb585ff3599a",
+    "name": "Jean Hunter",
+    "wikidata": "Q24790085",
+    "possibleIdentity": "Jean-Paul Hütter",
+    "firstYear": 1774,
+    "lastYear": 1781,
+    "recordCount": 4,
+    "birth": 1908
+  },
+  {
+    "id": "afeaedd22dafd",
+    "name": "Leopold de Buch",
+    "wikidata": "Q961117",
+    "possibleIdentity": "Rudy Kousbroek",
+    "firstYear": 1832,
+    "lastYear": 1832,
+    "recordCount": 4,
+    "birth": 1929
+  },
+  {
+    "id": "a0276a4f52a64",
+    "name": "Giuseppe Tofani",
+    "wikidata": "Q36561288",
+    "possibleIdentity": "Giuseppe De Toni",
+    "firstYear": 1788,
+    "lastYear": 1796,
+    "recordCount": 3,
+    "birth": 1907
+  },
+  {
+    "id": "a03c4f28557d9",
+    "name": "Herbert Mayer",
+    "wikidata": "Q17575645",
+    "possibleIdentity": "Herbert Mayr",
+    "firstYear": 1950,
+    "lastYear": 1950,
+    "recordCount": 3,
+    "birth": 1947
+  },
+  {
+    "id": "a0d3a15ba80b8",
+    "name": "Louis Roy",
+    "wikidata": "Q3166970",
+    "possibleIdentity": "Jean-Louis Roy",
+    "firstYear": 1914,
+    "lastYear": 1923,
+    "recordCount": 3,
+    "birth": 1941
+  },
+  {
+    "id": "a1893c5498eb4",
+    "name": "Compan",
+    "wikidata": "Q518041",
+    "possibleIdentity": "André Compan",
+    "firstYear": 1901,
+    "lastYear": 1902,
+    "recordCount": 3,
+    "birth": 1922
+  },
+  {
+    "id": "a1935812e449c",
+    "name": "G Rousseau",
+    "wikidata": "Q5544074",
+    "possibleIdentity": "George Rousseau",
+    "firstYear": 1885,
+    "lastYear": 1893,
+    "recordCount": 3,
+    "birth": 1941
+  },
+  {
+    "id": "a1e8ad0960f92",
+    "name": "Arthur Phillips",
+    "wikidata": "Q21522951",
+    "possibleIdentity": "Arthur M. Phillips",
+    "firstYear": 1926,
+    "lastYear": 1926,
+    "recordCount": 3,
+    "birth": 1947
+  },
+  {
+    "id": "a27be10260c20",
+    "name": "J. W Belton",
+    "wikidata": "Q6831367",
+    "possibleIdentity": "Michael J.S. Belton",
+    "firstYear": 1937,
+    "lastYear": 1937,
+    "recordCount": 3,
+    "birth": 1934
+  },
+  {
+    "id": "a2776469d1cea",
+    "name": "Giuseppe Brambilla",
+    "wikidata": "Q3770163",
+    "possibleIdentity": "Giuseppe Brambilla",
+    "firstYear": 1866,
+    "lastYear": 1866,
+    "recordCount": 3,
+    "birth": 1888
+  },
+  {
+    "id": "a33b975ea1b76",
+    "name": "Alexandre Hebert",
+    "wikidata": "Q2781816",
+    "possibleIdentity": "Alexandre Hébert",
+    "firstYear": 1882,
+    "lastYear": 1911,
+    "recordCount": 3,
+    "birth": 1921
+  },
+  {
+    "id": "a3d4f8c5e8e7c",
+    "name": "R O'Reilly",
+    "wikidata": "Q124054371",
+    "possibleIdentity": "Ron O'Reilly",
+    "firstYear": 1801,
+    "lastYear": 1801,
+    "recordCount": 3,
+    "birth": 1914
+  },
+  {
+    "id": "a4022e240651e",
+    "name": "Victor Yngve",
+    "wikidata": "Q3350971",
+    "possibleIdentity": "Victor Yngve",
+    "firstYear": 1918,
+    "lastYear": 1918,
+    "recordCount": 3,
+    "birth": 1920
+  },
+  {
+    "id": "a40c95588981a",
+    "name": "James Hall",
+    "wikidata": "Q102384055",
+    "possibleIdentity": "James Fenton Hall",
+    "firstYear": 1804,
+    "lastYear": 1807,
+    "recordCount": 3,
+    "birth": 1946
+  },
+  {
+    "id": "a515852dcf02c",
+    "name": "G Ampola",
+    "wikidata": "Q112394538",
+    "possibleIdentity": "Mary G. Ampola",
+    "firstYear": 1896,
+    "lastYear": 1896,
+    "recordCount": 3,
+    "birth": 1934
+  },
+  {
+    "id": "a52444d7f0ac2",
+    "name": "Charles Henry",
+    "wikidata": "Q74551",
+    "possibleIdentity": "Charles H. Henry",
+    "firstYear": 1892,
+    "lastYear": 1909,
+    "recordCount": 3,
+    "birth": 1937
+  },
+  {
+    "id": "a699d569299ae",
+    "name": "R Watson",
+    "wikidata": "Q4767786",
+    "possibleIdentity": "Annah Robinson Watson",
+    "firstYear": 1778,
+    "lastYear": 1781,
+    "recordCount": 3,
+    "birth": 1848
+  },
+  {
+    "id": "a8ae43ff1458a",
+    "name": "Jean Franc.Aimé Dejean",
+    "wikidata": "Q55672460",
+    "possibleIdentity": "Jean-Marie-Lucien Dejeanne",
+    "firstYear": 1777,
+    "lastYear": 1792,
+    "recordCount": 3,
+    "birth": 1842
+  },
+  {
+    "id": "a93a10fcdf40e",
+    "name": "Giuseppe Ambrosoli",
+    "wikidata": "Q3769958",
+    "possibleIdentity": "Giuseppe Ambrosoli",
+    "firstYear": 1854,
+    "lastYear": 1860,
+    "recordCount": 3,
+    "birth": 1923
+  },
+  {
+    "id": "a9a4b13e2a671",
+    "name": "Gian Lodovico Bianconi",
+    "wikidata": "Q3836359",
+    "possibleIdentity": "Lodovico Bianchini",
+    "firstYear": 1746,
+    "lastYear": 1802,
+    "recordCount": 3,
+    "birth": 1803
+  },
+  {
+    "id": "aae823b55c0fa",
+    "name": "Federico Enriques",
+    "wikidata": "Q3741704",
+    "possibleIdentity": "Federico Enriques",
+    "firstYear": 1913,
+    "lastYear": 1938,
+    "recordCount": 3,
+    "birth": 1941
+  },
+  {
+    "id": "aaf1dc7758cf0",
+    "name": "Jean Antoine (Abbé) Nollef",
+    "wikidata": "Q94868350",
+    "possibleIdentity": "Jean Noll",
+    "firstYear": 1740,
+    "lastYear": 1756,
+    "recordCount": 3,
+    "birth": 1870
+  },
+  {
+    "id": "ab490852284c3",
+    "name": "W Veith",
+    "wikidata": "Q1797896",
+    "possibleIdentity": "Walter Veith",
+    "firstYear": 1954,
+    "lastYear": 1954,
+    "recordCount": 3,
+    "birth": 1949
+  },
+  {
+    "id": "abc2bd6fc4f1e",
+    "name": "Ferrari",
+    "wikidata": "Q123102747",
+    "possibleIdentity": "Adolfo Ferrari",
+    "firstYear": 1897,
+    "lastYear": 1897,
+    "recordCount": 3,
+    "birth": 1900
+  },
+  {
+    "id": "ac0ea45e27b89",
+    "name": "Giovanni Martinenghi",
+    "wikidata": "Q61477511",
+    "possibleIdentity": "Giovanni Marenghi",
+    "firstYear": 1801,
+    "lastYear": 1802,
+    "recordCount": 3,
+    "birth": 1868
+  },
+  {
+    "id": "ac12592b9b25d",
+    "name": "John G Thompson",
+    "wikidata": "Q313168",
+    "possibleIdentity": "John G. Thompson",
+    "firstYear": 1930,
+    "lastYear": 1934,
+    "recordCount": 3,
+    "birth": 1932
+  },
+  {
+    "id": "ac4161512d4e5",
+    "name": "Hans Pitsch",
+    "wikidata": "Q65046210",
+    "possibleIdentity": "Hans Pietsch",
+    "firstYear": 1881,
+    "lastYear": 1885,
+    "recordCount": 3,
+    "birth": 1907
+  },
+  {
+    "id": "ac556ad2ad03f",
+    "name": "André Samuel",
+    "wikidata": "Q112412349",
+    "possibleIdentity": "Andrew E. Samuel",
+    "firstYear": 1926,
+    "lastYear": 1926,
+    "recordCount": 3,
+    "birth": 1931
+  },
+  {
+    "id": "ad4bfbc3cd60a",
+    "name": "Giovanni Pozzl",
+    "wikidata": "Q3767973",
+    "possibleIdentity": "Giovanni Pozzi",
+    "firstYear": 1806,
+    "lastYear": 1820,
+    "recordCount": 3,
+    "birth": 1923
+  },
+  {
+    "id": "ad5448a9893b4",
+    "name": "R.H Cherry",
+    "wikidata": "Q7343294",
+    "possibleIdentity": "Robert D. Cherry",
+    "firstYear": 1940,
+    "lastYear": 1940,
+    "recordCount": 3,
+    "birth": 1944
+  },
+  {
+    "id": "ad552f7f67cd5",
+    "name": "Francesco Maria Coli",
+    "wikidata": "Q16557158",
+    "possibleIdentity": "Francesco Colzi",
+    "firstYear": 1800,
+    "lastYear": 1810,
+    "recordCount": 3,
+    "birth": 1855
+  },
+  {
+    "id": "ad9b90f739b63",
+    "name": "Francisco Macedo",
+    "wikidata": "Q10284756",
+    "possibleIdentity": "Francisco Ferraz de Macedo",
+    "firstYear": 1660,
+    "lastYear": 1660,
+    "recordCount": 3,
+    "birth": 1845
+  },
+  {
+    "id": "adf12ed8a5d47",
+    "name": "E. F Armstrong",
+    "wikidata": "Q5559357",
+    "possibleIdentity": "Edward Frankland Armstrong",
+    "firstYear": 1843,
+    "lastYear": 1843,
+    "recordCount": 3,
+    "birth": 1878
+  },
+  {
+    "id": "ae4723ae079ee",
+    "name": "Christopher L Wilson",
+    "wikidata": "Q5767680",
+    "possibleIdentity": "Christopher Grey-Wilson",
+    "firstYear": 1937,
+    "lastYear": 1938,
+    "recordCount": 3,
+    "birth": 1944
+  },
+  {
+    "id": "aea788c6b00c7",
+    "name": "H Landolt",
+    "wikidata": "Q61971613",
+    "possibleIdentity": "Hans Heinrich Landolt",
+    "firstYear": 1879,
+    "lastYear": 1910,
+    "recordCount": 3,
+    "birth": 1917
+  },
+  {
+    "id": "aeca8e1785eb7",
+    "name": "A.M Azzam",
+    "wikidata": "Q14088336",
+    "possibleIdentity": "Issam Alnagm Azzam",
+    "firstYear": 1950,
+    "lastYear": 1952,
+    "recordCount": 3,
+    "birth": 1948
+  },
+  {
+    "id": "af9866fda4483",
+    "name": "A Costantino",
+    "wikidata": "Q108662763",
+    "possibleIdentity": "Alberto Costantino",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 3,
+    "birth": 1948
+  },
+  {
+    "id": "afae9d067df60",
+    "name": "Pierre Renaud",
+    "wikidata": "Q75708067",
+    "possibleIdentity": "Jean-Pierre Renard",
+    "firstYear": 1951,
+    "lastYear": 1951,
+    "recordCount": 3,
+    "birth": 1948
+  },
+  {
+    "id": "a018f1454eed3",
+    "name": "A Baud",
+    "wikidata": "Q55771965",
+    "possibleIdentity": "Charles-Albert Baud",
+    "firstYear": 1901,
+    "lastYear": 1901,
+    "recordCount": 2,
+    "birth": 1920
+  },
+  {
+    "id": "a010c1dc0d8d6",
+    "name": "Robert Walen",
+    "wikidata": "Q85839656",
+    "possibleIdentity": "Robert Walpen",
+    "firstYear": 1952,
+    "lastYear": 1952,
+    "recordCount": 2,
+    "birth": 1948
+  },
+  {
+    "id": "a054eb170ec7b",
+    "name": "S Okada",
+    "wikidata": "Q529990",
+    "possibleIdentity": "Satoru Okada",
+    "firstYear": 1954,
+    "lastYear": 1954,
+    "recordCount": 2,
+    "birth": 1947
+  },
+  {
+    "id": "a07c2da064957",
+    "name": "Johann Hartung",
+    "wikidata": "Q21537494",
+    "possibleIdentity": "Ernst Johannes Hartung",
+    "firstYear": 1557,
+    "lastYear": 1557,
+    "recordCount": 2,
+    "birth": 1893
+  },
+  {
+    "id": "a086a18e83e14",
+    "name": "George Singer",
+    "wikidata": "Q5544573",
+    "possibleIdentity": "George Singer",
+    "firstYear": 1817,
+    "lastYear": 1819,
+    "recordCount": 2,
+    "birth": 1847
+  },
+  {
+    "id": "a0a5b1a8b0297",
+    "name": "S Levine",
+    "wikidata": "Q112476815",
+    "possibleIdentity": "Steven I. Levine",
+    "firstYear": 1939,
+    "lastYear": 1939,
+    "recordCount": 2,
+    "birth": 1941
+  },
+  {
+    "id": "a0befeee404c1",
+    "name": "W.G Robson",
+    "wikidata": "Q18672965",
+    "possibleIdentity": "William Robson",
+    "firstYear": 1898,
+    "lastYear": 1898,
+    "recordCount": 2,
+    "birth": 1895
+  },
+  {
+    "id": "a0ec9d10bc2db",
+    "name": "C.F Elam",
+    "wikidata": "Q133834777",
+    "possibleIdentity": "Barbara Clark Elam",
+    "firstYear": 1935,
+    "lastYear": 1935,
+    "recordCount": 2,
+    "birth": 1929
+  },
+  {
+    "id": "a0fa5447ad08a",
+    "name": "Arthur Beyer",
+    "wikidata": "Q15300084",
+    "possibleIdentity": "Arthur Beer",
+    "firstYear": 1906,
+    "lastYear": 1906,
+    "recordCount": 2,
+    "birth": 1900
+  },
+  {
+    "id": "a1273ce17501b",
+    "name": "K Kimura",
+    "wikidata": "Q11518727",
+    "possibleIdentity": "Katsumi Kimura",
+    "firstYear": 1932,
+    "lastYear": 1932,
+    "recordCount": 2,
+    "birth": 1931
+  },
+  {
+    "id": "a12f040cb7eff",
+    "name": "Sentis",
+    "wikidata": "Q110976796",
+    "possibleIdentity": "Georges Sentis",
+    "firstYear": 1838,
+    "lastYear": 1839,
+    "recordCount": 2,
+    "birth": 1948
+  },
+  {
+    "id": "a1375749791bd",
+    "name": "E Parry",
+    "wikidata": "Q4385607",
+    "possibleIdentity": "Emyr Jones Parry",
+    "firstYear": 1951,
+    "lastYear": 1951,
+    "recordCount": 2,
+    "birth": 1947
+  },
+  {
+    "id": "a19a7154ece2d",
+    "name": "Harry Matheson",
+    "wikidata": "Q102128791",
+    "possibleIdentity": "Harry Mathews",
+    "firstYear": 1934,
+    "lastYear": 1934,
+    "recordCount": 2,
+    "birth": 1931
+  },
+  {
+    "id": "a19f2d616c90d",
+    "name": "Harry G Parker",
+    "wikidata": "Q119414879",
+    "possibleIdentity": "Harry Lee Parker",
+    "firstYear": 1895,
+    "lastYear": 1895,
+    "recordCount": 2,
+    "birth": 1894
+  },
+  {
+    "id": "a19f52017bd2c",
+    "name": "Johann Broen",
+    "wikidata": "Q94837899",
+    "possibleIdentity": "Johann Adam Brein",
+    "firstYear": 1686,
+    "lastYear": 1686,
+    "recordCount": 2,
+    "birth": 1892
+  },
+  {
+    "id": "a1c1f669ff329",
+    "name": "E.G Sutherland",
+    "wikidata": "Q112551010",
+    "possibleIdentity": "David E. R. Sutherland",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 2,
+    "birth": 1940
+  },
+  {
+    "id": "a1ec6cac3e97d",
+    "name": "H Hartman",
+    "wikidata": "Q126127034",
+    "possibleIdentity": "Joseph H. Hartman",
+    "firstYear": 1956,
+    "lastYear": 1956,
+    "recordCount": 2,
+    "birth": 1949
+  },
+  {
+    "id": "a216b6b5fe7a2",
+    "name": "Max Geiger",
+    "wikidata": "Q94882167",
+    "possibleIdentity": "Max Geiger",
+    "firstYear": 1908,
+    "lastYear": 1908,
+    "recordCount": 2,
+    "birth": 1903
+  },
+  {
+    "id": "a21fa670722dc",
+    "name": "JO.Alberto Euler",
+    "wikidata": "Q21511536",
+    "possibleIdentity": "Walter Alberto Egler",
+    "firstYear": 1757,
+    "lastYear": 1757,
+    "recordCount": 2,
+    "birth": 1924
+  },
+  {
+    "id": "a271af67157e9",
+    "name": "Adolf Krebs",
+    "wikidata": "Q15990435",
+    "possibleIdentity": "Adolf Krebs",
+    "firstYear": 1532,
+    "lastYear": 1888,
+    "recordCount": 2,
+    "birth": 1931
+  },
+  {
+    "id": "a30bc1cf6cb3b",
+    "name": "A Descamps",
+    "wikidata": "Q3287585",
+    "possibleIdentity": "Marc-Alain Descamps",
+    "firstYear": 1868,
+    "lastYear": 1868,
+    "recordCount": 2,
+    "birth": 1930
+  },
+  {
+    "id": "a347be013e76c",
+    "name": "Delaurier",
+    "wikidata": "Q6132466",
+    "possibleIdentity": "James DeLaurier",
+    "firstYear": 1881,
+    "lastYear": 1881,
+    "recordCount": 2,
+    "birth": 1941
+  },
+  {
+    "id": "a34e579b686cb",
+    "name": "H Lefebvre",
+    "wikidata": "Q4798934",
+    "possibleIdentity": "Arthur H. Lefebvre",
+    "firstYear": 1926,
+    "lastYear": 1926,
+    "recordCount": 2,
+    "birth": 1923
+  },
+  {
+    "id": "a36bb29d5c780",
+    "name": "S Millman",
+    "wikidata": "Q102273538",
+    "possibleIdentity": "Richard Steven Millman",
+    "firstYear": 1946,
+    "lastYear": 1946,
+    "recordCount": 2,
+    "birth": 1945
+  },
+  {
+    "id": "a394322e6553c",
+    "name": "Luigi Pagani",
+    "wikidata": "Q3902908",
+    "possibleIdentity": "Pier Luigi Pagani",
+    "firstYear": 1879,
+    "lastYear": 1879,
+    "recordCount": 2,
+    "birth": 1923
+  },
+  {
+    "id": "a3c22fed28104",
+    "name": "P. B Huber",
+    "wikidata": "Q112387600",
+    "possibleIdentity": "Klaus-Peter Huber",
+    "firstYear": 1906,
+    "lastYear": 1906,
+    "recordCount": 2,
+    "birth": 1934
+  },
+  {
+    "id": "a3ecf2f23e8b2",
+    "name": "A Fortin",
+    "wikidata": "Q3156724",
+    "possibleIdentity": "J.-Andre Fortin",
+    "firstYear": 1890,
+    "lastYear": 1890,
+    "recordCount": 2,
+    "birth": 1937
+  },
+  {
+    "id": "a40904c4bca27",
+    "name": "Gino Zanetti",
+    "wikidata": "Q93251535",
+    "possibleIdentity": "Gino Zanotti",
+    "firstYear": 1903,
+    "lastYear": 1903,
+    "recordCount": 2,
+    "birth": 1923
+  },
+  {
+    "id": "a4400288776e7",
+    "name": "J Martinet",
+    "wikidata": "Q14947562",
+    "possibleIdentity": "Jacques Martinet",
+    "firstYear": 1918,
+    "lastYear": 1918,
+    "recordCount": 2,
+    "birth": 1939
+  },
+  {
+    "id": "a48d59a453ea3",
+    "name": "Pierre Le Lorrain de Vallemont",
+    "wikidata": "Q99355945",
+    "possibleIdentity": "Pierre Vallet",
+    "firstYear": 1696,
+    "lastYear": 1696,
+    "recordCount": 2,
+    "birth": 1845
+  },
+  {
+    "id": "a49b9224f8f92",
+    "name": "Carl von Linnè",
+    "wikidata": "Q683305",
+    "possibleIdentity": "Carl August Liner",
+    "firstYear": 1792,
+    "lastYear": 1793,
+    "recordCount": 2,
+    "birth": 1871
+  },
+  {
+    "id": "a4b05c47d3267",
+    "name": "Hugo Kraufe",
+    "wikidata": "Q1626019",
+    "possibleIdentity": "Hugo Ernst Käufer",
+    "firstYear": 1923,
+    "lastYear": 1923,
+    "recordCount": 2,
+    "birth": 1927
+  },
+  {
+    "id": "a4c84004b740a",
+    "name": "Francesco Tomasini",
+    "wikidata": "Q64711045",
+    "possibleIdentity": "Francesco Tomasoni",
+    "firstYear": 1887,
+    "lastYear": 1887,
+    "recordCount": 2,
+    "birth": 1947
+  },
+  {
+    "id": "a4c18be445b5e",
+    "name": "Carl Kuhn",
+    "wikidata": "Q1039319",
+    "possibleIdentity": "Carl Kühne",
+    "firstYear": 1866,
+    "lastYear": 1866,
+    "recordCount": 2,
+    "birth": 1871
+  },
+  {
+    "id": "a4cf2252fe3f3",
+    "name": "J Hunter",
+    "wikidata": "Q4757408",
+    "possibleIdentity": "Andrew J. Hunter",
+    "firstYear": 1781,
+    "lastYear": 1781,
+    "recordCount": 2,
+    "birth": 1831
+  },
+  {
+    "id": "a4e5e670dfcc8",
+    "name": "J.G Thompson",
+    "wikidata": "Q313168",
+    "possibleIdentity": "John G. Thompson",
+    "firstYear": 1930,
+    "lastYear": 1930,
+    "recordCount": 2,
+    "birth": 1932
+  },
+  {
+    "id": "a507fdaed1ac4",
+    "name": "M Stoll",
+    "wikidata": "Q107165499",
+    "possibleIdentity": "Hanns Müller-Stoll",
+    "firstYear": 1898,
+    "lastYear": 1898,
+    "recordCount": 2,
+    "birth": 1911
+  },
+  {
+    "id": "a5215ef1f22d7",
+    "name": "F Mylius",
+    "wikidata": "Q1448343",
+    "possibleIdentity": "Franz Mylius",
+    "firstYear": 1752,
+    "lastYear": 1752,
+    "recordCount": 2,
+    "birth": 1854
+  },
+  {
+    "id": "a547e08e38247",
+    "name": "A Laurie",
+    "wikidata": "Q111049910",
+    "possibleIdentity": "Alec H. Laurie",
+    "firstYear": 1908,
+    "lastYear": 1908,
+    "recordCount": 2,
+    "birth": 1907
+  },
+  {
+    "id": "a5559267768fd",
+    "name": "J. M Seguin",
+    "wikidata": "Q3169759",
+    "possibleIdentity": "Jean-Pierre Seguin",
+    "firstYear": 1852,
+    "lastYear": 1863,
+    "recordCount": 2,
+    "birth": 1920
+  },
+  {
+    "id": "a579c83a6a776",
+    "name": "De Ferrari",
+    "wikidata": "Q5516039",
+    "possibleIdentity": "Gabriella De Ferrari",
+    "firstYear": 1890,
+    "lastYear": 1890,
+    "recordCount": 2,
+    "birth": 1941
+  },
+  {
+    "id": "a5b69aa46e6d2",
+    "name": "Charles A Rouiller",
+    "wikidata": "Q59530022",
+    "possibleIdentity": "Charles Rouiller",
+    "firstYear": 1906,
+    "lastYear": 1906,
+    "recordCount": 2,
+    "birth": 1922
+  },
+  {
+    "id": "a5f461d6c6883",
+    "name": "A. D Denning",
+    "wikidata": "Q324398",
+    "possibleIdentity": "Alfred Denning, Baron Denning",
+    "firstYear": 1903,
+    "lastYear": 1903,
+    "recordCount": 2,
+    "birth": 1899
+  },
+  {
+    "id": "a602f01929bca",
+    "name": "Pierre Boley",
+    "wikidata": "Q54694800",
+    "possibleIdentity": "Pierre Bolle",
+    "firstYear": 1902,
+    "lastYear": 1902,
+    "recordCount": 2,
+    "birth": 1923
+  },
+  {
+    "id": "a60585a66b2e5",
+    "name": "H Gault",
+    "wikidata": "Q95243706",
+    "possibleIdentity": "Hugh Richard Gault",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 2,
+    "birth": 1915
+  },
+  {
+    "id": "a697109a5902a",
+    "name": "Richard Johnson",
+    "wikidata": "Q93373033",
+    "possibleIdentity": "Richard Allen Johnson",
+    "firstYear": 1855,
+    "lastYear": 1855,
+    "recordCount": 2,
+    "birth": 1940
+  },
+  {
+    "id": "a73844c646975",
+    "name": "A Kuhne",
+    "wikidata": "Q95342820",
+    "possibleIdentity": "Armin Kühne",
+    "firstYear": 1913,
+    "lastYear": 1913,
+    "recordCount": 2,
+    "birth": 1940
+  },
+  {
+    "id": "a752e6359cf8f",
+    "name": "Jacques Picard",
+    "wikidata": "Q22108819",
+    "possibleIdentity": "Jacques Picard",
+    "firstYear": 1928,
+    "lastYear": 1928,
+    "recordCount": 2,
+    "birth": 1925
+  },
+  {
+    "id": "a770dbdf303d8",
+    "name": "Francesco Bacone",
+    "wikidata": "Q3749602",
+    "possibleIdentity": "Francesco Barone",
+    "firstYear": 1645,
+    "lastYear": 1648,
+    "recordCount": 2,
+    "birth": 1923
+  },
+  {
+    "id": "a7acbfec2e6fb",
+    "name": "R. K Greenhalgh",
+    "wikidata": "Q104177595",
+    "possibleIdentity": "Roger Greenhalgh",
+    "firstYear": 1939,
+    "lastYear": 1939,
+    "recordCount": 2,
+    "birth": 1941
+  },
+  {
+    "id": "a7ab32f8f7611",
+    "name": "C. J Leadbeater",
+    "wikidata": "Q36516928",
+    "possibleIdentity": "Barry S. C. Leadbeater",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 2,
+    "birth": 1940
+  },
+  {
+    "id": "a7f49237f11ef",
+    "name": "D.F Lamb",
+    "wikidata": "Q112520742",
+    "possibleIdentity": "David R. Lamb",
+    "firstYear": 1942,
+    "lastYear": 1942,
+    "recordCount": 2,
+    "birth": 1939
+  },
+  {
+    "id": "a817e29db3b7c",
+    "name": "H Wagner",
+    "wikidata": "Q102145193",
+    "possibleIdentity": "Daniel H. Wagner",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 2,
+    "birth": 1924
+  },
+  {
+    "id": "a812eeed34e4e",
+    "name": "Giovanni Carbonelli",
+    "wikidata": "Q117849091",
+    "possibleIdentity": "Giovanni Carpinelli",
+    "firstYear": 1925,
+    "lastYear": 1925,
+    "recordCount": 2,
+    "birth": 1945
+  },
+  {
+    "id": "a85eca4aef710",
+    "name": "Werner Herrmann",
+    "wikidata": "Q94790650",
+    "possibleIdentity": "Werner M. Herrmann",
+    "firstYear": 1928,
+    "lastYear": 1941,
+    "recordCount": 2,
+    "birth": 1941
+  },
+  {
+    "id": "a87d64b56ada9",
+    "name": "Karl Siebel",
+    "wikidata": "Q94842021",
+    "possibleIdentity": "Karl-August Seel",
+    "firstYear": 1922,
+    "lastYear": 1922,
+    "recordCount": 2,
+    "birth": 1933
+  },
+  {
+    "id": "a897175ab002c",
+    "name": "Vincenzo Curzio",
+    "wikidata": "Q30221115",
+    "possibleIdentity": "Vincenzo Curi",
+    "firstYear": 1805,
+    "lastYear": 1819,
+    "recordCount": 2,
+    "birth": 1837
+  },
+  {
+    "id": "a8a23d899a889",
+    "name": "R Lindemann",
+    "wikidata": "Q7360763",
+    "possibleIdentity": "Rolf Lindemann",
+    "firstYear": 1906,
+    "lastYear": 1910,
+    "recordCount": 2,
+    "birth": 1942
+  },
+  {
+    "id": "a8d30791f9551",
+    "name": "Robert Bakish",
+    "wikidata": "Q32539380",
+    "possibleIdentity": "Robert Bakish",
+    "firstYear": 1956,
+    "lastYear": 1956,
+    "recordCount": 2,
+    "birth": 1963
+  },
+  {
+    "id": "a8ee38aaec280",
+    "name": "Jean Francois Morand",
+    "wikidata": "Q1685525",
+    "possibleIdentity": "Jean François Clément Morand",
+    "firstYear": 1728,
+    "lastYear": 1728,
+    "recordCount": 2,
+    "birth": 1726
+  },
+  {
+    "id": "a918cb0a660f8",
+    "name": "P De La Gorce",
+    "wikidata": "Q3370358",
+    "possibleIdentity": "Paul-Marie de La Gorce",
+    "firstYear": 1910,
+    "lastYear": 1910,
+    "recordCount": 2,
+    "birth": 1928
+  },
+  {
+    "id": "a92b81b582881",
+    "name": "J Rossel",
+    "wikidata": "Q102302580",
+    "possibleIdentity": "Jean Rossel",
+    "firstYear": 1896,
+    "lastYear": 1896,
+    "recordCount": 2,
+    "birth": 1918
+  },
+  {
+    "id": "a9556f747390a",
+    "name": "Marco Antonio Giovanni Gianesini",
+    "wikidata": "Q55281050",
+    "possibleIdentity": "Giovanni Giannini",
+    "firstYear": 1771,
+    "lastYear": 1771,
+    "recordCount": 2,
+    "birth": 1793
+  },
+  {
+    "id": "a9d1dfc406b61",
+    "name": "Felix Bernard",
+    "wikidata": "Q1403345",
+    "possibleIdentity": "Felix Bernard",
+    "firstYear": 1860,
+    "lastYear": 1860,
+    "recordCount": 2,
+    "birth": 1897
+  },
+  {
+    "id": "a9eaa4c16c560",
+    "name": "A Chevallier",
+    "wikidata": "Q35998080",
+    "possibleIdentity": "Alix Chevallier",
+    "firstYear": 1861,
+    "lastYear": 1861,
+    "recordCount": 2,
+    "birth": 1938
+  },
+  {
+    "id": "a9fa9800ea6a4",
+    "name": "Alberto Fortis",
+    "wikidata": "Q712825",
+    "possibleIdentity": "Alberto Fortis",
+    "firstYear": 1740,
+    "lastYear": 1740,
+    "recordCount": 2,
+    "birth": 1741
+  },
+  {
+    "id": "aa0480154cdd9",
+    "name": "Alexander Campbell",
+    "wikidata": "Q4718753",
+    "possibleIdentity": "Alexander Douglas Campbell",
+    "firstYear": 1778,
+    "lastYear": 1778,
+    "recordCount": 2,
+    "birth": 1899
+  },
+  {
+    "id": "aa48f72d4e8ba",
+    "name": "Johann Jacob Hoffmann",
+    "wikidata": "Q55048706",
+    "possibleIdentity": "Johann Jacob Julius Hoffmann",
+    "firstYear": 1677,
+    "lastYear": 1683,
+    "recordCount": 2,
+    "birth": 1767
+  },
+  {
+    "id": "aa5b3381c00ef",
+    "name": "Raymond Chevallier",
+    "wikidata": "Q3420755",
+    "possibleIdentity": "Raymond Chevallier",
+    "firstYear": 1925,
+    "lastYear": 1927,
+    "recordCount": 2,
+    "birth": 1929
+  },
+  {
+    "id": "aa5966b768d05",
+    "name": "A Ostrogovich",
+    "wikidata": "Q12729326",
+    "possibleIdentity": "Giorgio Ugo Augosto Ostrogovich",
+    "firstYear": 1911,
+    "lastYear": 1911,
+    "recordCount": 2,
+    "birth": 1904
+  },
+  {
+    "id": "aa706e33a698e",
+    "name": "Camille Lefevre",
+    "wikidata": "Q21518568",
+    "possibleIdentity": "Camille Léon Lefebvre",
+    "firstYear": 1890,
+    "lastYear": 1891,
+    "recordCount": 2,
+    "birth": 1905
+  },
+  {
+    "id": "aaede9279062a",
+    "name": "E Kopp",
+    "wikidata": "Q98316694",
+    "possibleIdentity": "Ekkehard Kopp",
+    "firstYear": 1842,
+    "lastYear": 1842,
+    "recordCount": 2,
+    "birth": 1944
+  },
+  {
+    "id": "aaf0e1f6f4da8",
+    "name": "P Curie",
+    "wikidata": "Q15407602",
+    "possibleIdentity": "Paul Curie",
+    "firstYear": 1805,
+    "lastYear": 1805,
+    "recordCount": 2,
+    "birth": 1799
+  },
+  {
+    "id": "ab58c5d876490",
+    "name": "M Gex",
+    "wikidata": "Q112910708",
+    "possibleIdentity": "Maurice Gex",
+    "firstYear": 1925,
+    "lastYear": 1925,
+    "recordCount": 2,
+    "birth": 1930
+  },
+  {
+    "id": "ab5fafa78ce3b",
+    "name": "S Schroeder",
+    "wikidata": "Q48471579",
+    "possibleIdentity": "Susan Schroeder",
+    "firstYear": 1845,
+    "lastYear": 1845,
+    "recordCount": 2,
+    "birth": 1939
+  },
+  {
+    "id": "ab6fd37f21eac",
+    "name": "Gaetano Platania",
+    "wikidata": "Q93241668",
+    "possibleIdentity": "Gaetano Platania",
+    "firstYear": 1905,
+    "lastYear": 1905,
+    "recordCount": 2,
+    "birth": 1947
+  },
+  {
+    "id": "ab82d6d8673b5",
+    "name": "Daniel Gray",
+    "wikidata": "Q112374172",
+    "possibleIdentity": "Daniel Gay",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 2,
+    "birth": 1942
+  },
+  {
+    "id": "abb5da969d579",
+    "name": "Jean-Baptiste Vasco",
+    "wikidata": "Q21012238",
+    "possibleIdentity": "Jean Nicolas Eugène Vesco",
+    "firstYear": 1788,
+    "lastYear": 1790,
+    "recordCount": 2,
+    "birth": 1816
+  },
+  {
+    "id": "abcc19dee87fb",
+    "name": "Hans Fincke",
+    "wikidata": "Q106838191",
+    "possibleIdentity": "Hans Fink",
+    "firstYear": 1839,
+    "lastYear": 1932,
+    "recordCount": 2,
+    "birth": 1944
+  },
+  {
+    "id": "ac3073fa7be7d",
+    "name": "Claude Burlet",
+    "wikidata": "Q95222126",
+    "possibleIdentity": "Claude Alain Burdet",
+    "firstYear": 1700,
+    "lastYear": 1707,
+    "recordCount": 2,
+    "birth": 1942
+  },
+  {
+    "id": "ac3d690f7846c",
+    "name": "Luigi Mori",
+    "wikidata": "Q102459841",
+    "possibleIdentity": "Luigi Morino",
+    "firstYear": 1841,
+    "lastYear": 1841,
+    "recordCount": 2,
+    "birth": 1938
+  },
+  {
+    "id": "ac583db659ee9",
+    "name": "Ch-V Zenger",
+    "wikidata": "Q27376",
+    "possibleIdentity": "Christoph Zenger",
+    "firstYear": 1896,
+    "lastYear": 1896,
+    "recordCount": 2,
+    "birth": 1940
+  },
+  {
+    "id": "ac8a848fca189",
+    "name": "Fernand Meyer",
+    "wikidata": "Q2532952",
+    "possibleIdentity": "Fernand Meyer",
+    "firstYear": 1912,
+    "lastYear": 1912,
+    "recordCount": 2,
+    "birth": 1947
+  },
+  {
+    "id": "ac8d95152b3dd",
+    "name": "G Viard",
+    "wikidata": "Q112490015",
+    "possibleIdentity": "Georges Viard",
+    "firstYear": 1850,
+    "lastYear": 1903,
+    "recordCount": 2,
+    "birth": 1934
+  },
+  {
+    "id": "acc50dd54502f",
+    "name": "Jean Janin",
+    "wikidata": "Q55229878",
+    "possibleIdentity": "Jean-Baptiste Jadin",
+    "firstYear": 1772,
+    "lastYear": 1784,
+    "recordCount": 2,
+    "birth": 1906
+  },
+  {
+    "id": "acd669ff32c56",
+    "name": "J Nicolas",
+    "wikidata": "Q19663837",
+    "possibleIdentity": "Jean-Louis Nicolas",
+    "firstYear": 1774,
+    "lastYear": 1774,
+    "recordCount": 2,
+    "birth": 1942
+  },
+  {
+    "id": "ad1f4827e93b0",
+    "name": "Robert Hooke",
+    "wikidata": "Q102198851",
+    "possibleIdentity": "Robert Hooke",
+    "firstYear": 1705,
+    "lastYear": 1705,
+    "recordCount": 2,
+    "birth": 1918
+  },
+  {
+    "id": "ad2491faef2b1",
+    "name": "Gaetano Cari",
+    "wikidata": "Q2000683",
+    "possibleIdentity": "Gaetano Cesari",
+    "firstYear": 1779,
+    "lastYear": 1783,
+    "recordCount": 2,
+    "birth": 1870
+  },
+  {
+    "id": "ad532fdb3501f",
+    "name": "David Bain",
+    "wikidata": "Q5231054",
+    "possibleIdentity": "David Bain",
+    "firstYear": 1928,
+    "lastYear": 1928,
+    "recordCount": 2,
+    "birth": 1972
+  },
+  {
+    "id": "ad730586f6e2c",
+    "name": "J. H Adriani",
+    "wikidata": "Q10325528",
+    "possibleIdentity": "Marcus Jan Adriani",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 2,
+    "birth": 1908
+  },
+  {
+    "id": "adcaa3ed93178",
+    "name": "G Smith",
+    "wikidata": "Q51334458",
+    "possibleIdentity": "A. G. Dew-Smith",
+    "firstYear": 1731,
+    "lastYear": 1770,
+    "recordCount": 2,
+    "birth": 1848
+  },
+  {
+    "id": "add965ef4cefe",
+    "name": "W Kaufmann",
+    "wikidata": "Q140547123",
+    "possibleIdentity": "H. W. Kaufmann",
+    "firstYear": 1907,
+    "lastYear": 1907,
+    "recordCount": 2,
+    "birth": 1949
+  },
+  {
+    "id": "adfe19960739b",
+    "name": "Luigi Cittadini",
+    "wikidata": "Q50683584",
+    "possibleIdentity": "Luigi Cittadini",
+    "firstYear": 1780,
+    "lastYear": 1780,
+    "recordCount": 2,
+    "birth": 1787
+  },
+  {
+    "id": "ae02a3ed6cc74",
+    "name": "Pierre Couplet",
+    "wikidata": "Q15840507",
+    "possibleIdentity": "Pierre Coullet",
+    "firstYear": 1727,
+    "lastYear": 1732,
+    "recordCount": 2,
+    "birth": 1949
+  },
+  {
+    "id": "ae0bde479ff51",
+    "name": "Francesco Roncalli",
+    "wikidata": "Q109839406",
+    "possibleIdentity": "Francesco Roncalli",
+    "firstYear": 1724,
+    "lastYear": 1724,
+    "recordCount": 2,
+    "birth": 1938
+  },
+  {
+    "id": "ae3a033c431f6",
+    "name": "E Guyon",
+    "wikidata": "Q3592192",
+    "possibleIdentity": "Étienne Guyon",
+    "firstYear": 1893,
+    "lastYear": 1893,
+    "recordCount": 2,
+    "birth": 1935
+  },
+  {
+    "id": "ae6ce703b4d7f",
+    "name": "Paul Schneider",
+    "wikidata": "Q117520931",
+    "possibleIdentity": "Paul A. Schneider",
+    "firstYear": 1928,
+    "lastYear": 1928,
+    "recordCount": 2,
+    "birth": 1931
+  },
+  {
+    "id": "ae8c394925629",
+    "name": "R Otto",
+    "wikidata": "Q112545387",
+    "possibleIdentity": "Rainer Otto",
+    "firstYear": 1940,
+    "lastYear": 1940,
+    "recordCount": 2,
+    "birth": 1939
+  },
+  {
+    "id": "ae9cf0e500b0c",
+    "name": "Hans Preis",
+    "wikidata": "Q110550026",
+    "possibleIdentity": "Hans Prins",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 2,
+    "birth": 1945
+  },
+  {
+    "id": "aef65e6a93f60",
+    "name": "M. A Wheeler",
+    "wikidata": "Q30676482",
+    "possibleIdentity": "Michael A. Wheeler",
+    "firstYear": 1935,
+    "lastYear": 1935,
+    "recordCount": 2,
+    "birth": 1943
+  },
+  {
+    "id": "af3ad773a5b58",
+    "name": "Paolo Rossi",
+    "wikidata": "Q686429",
+    "possibleIdentity": "Paolo Rossi",
+    "firstYear": 1911,
+    "lastYear": 1913,
+    "recordCount": 2,
+    "birth": 1923
+  },
+  {
+    "id": "af619fadac8b1",
+    "name": "H Wilkinson",
+    "wikidata": "Q21612713",
+    "possibleIdentity": "Hazel Patricia Wilkinson",
+    "firstYear": 1937,
+    "lastYear": 1937,
+    "recordCount": 2,
+    "birth": 1932
+  },
+  {
+    "id": "af68020a8e802",
+    "name": "George Rennie",
+    "wikidata": "Q21538083",
+    "possibleIdentity": "George Edward Rennie",
+    "firstYear": 1818,
+    "lastYear": 1818,
+    "recordCount": 2,
+    "birth": 1861
+  },
+  {
+    "id": "afcb04612b759",
+    "name": "K Schmitt",
+    "wikidata": "Q93604189",
+    "possibleIdentity": "Klaus Schmitt",
+    "firstYear": 1943,
+    "lastYear": 1943,
+    "recordCount": 2,
+    "birth": 1940
+  },
+  {
+    "id": "a00352c06f973",
+    "name": "M Knoll",
+    "wikidata": "Q96336948",
+    "possibleIdentity": "Mathias Knoll",
+    "firstYear": 1948,
+    "lastYear": 1948,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a02a1d4c1dbd2",
+    "name": "S. D Muzaffar",
+    "wikidata": "Q20396318",
+    "possibleIdentity": "Sami Al-Muzaffar",
+    "firstYear": 1923,
+    "lastYear": 1923,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a03fec9eafc74",
+    "name": "Campanile",
+    "wikidata": "Q51277405",
+    "possibleIdentity": "Enrico Campanile",
+    "firstYear": 1897,
+    "lastYear": 1897,
+    "recordCount": 1,
+    "birth": 1936
+  },
+  {
+    "id": "a032c5a8bdfbe",
+    "name": "George John Singer",
+    "wikidata": "Q5544573",
+    "possibleIdentity": "George Singer",
+    "firstYear": 1814,
+    "lastYear": 1814,
+    "recordCount": 1,
+    "birth": 1847
+  },
+  {
+    "id": "a04b859737e04",
+    "name": "Kurt Binder",
+    "wikidata": "Q78956",
+    "possibleIdentity": "Kurt Binder",
+    "firstYear": 1927,
+    "lastYear": 1927,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "a06735d5ff986",
+    "name": "H Gerding",
+    "wikidata": "Q13653575",
+    "possibleIdentity": "Hans Gerding",
+    "firstYear": 1949,
+    "lastYear": 1949,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "a0654c95363a2",
+    "name": "Paul Dube'",
+    "wikidata": "Q136564937",
+    "possibleIdentity": "Pauline Dubé",
+    "firstYear": 1649,
+    "lastYear": 1649,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a0691260d204b",
+    "name": "Giuseppe Zanchi",
+    "wikidata": "Q97065258",
+    "possibleIdentity": "Giuseppe Maria Zanghí",
+    "firstYear": 1748,
+    "lastYear": 1748,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "a09774419c205",
+    "name": "Joseph Gautieri",
+    "wikidata": "Q1238207",
+    "possibleIdentity": "Joseph Dominique Gauthier",
+    "firstYear": 1800,
+    "lastYear": 1800,
+    "recordCount": 1,
+    "birth": 1910
+  },
+  {
+    "id": "a0a03fc8d98a9",
+    "name": "Paul Otto Bohmig",
+    "wikidata": "Q108197026",
+    "possibleIdentity": "Paul Böhm",
+    "firstYear": 1898,
+    "lastYear": 1898,
+    "recordCount": 1,
+    "birth": 1918
+  },
+  {
+    "id": "a0ac51a0ffd43",
+    "name": "Etienne Gray",
+    "wikidata": "Q2336833",
+    "possibleIdentity": "Jaques Étienne Gay",
+    "firstYear": 1731,
+    "lastYear": 1731,
+    "recordCount": 1,
+    "birth": 1786
+  },
+  {
+    "id": "a0a7ea20c6596",
+    "name": "Joseph Louis Lagrande",
+    "wikidata": "Q21518301",
+    "possibleIdentity": "Joannes Joseph Lagarde",
+    "firstYear": 1806,
+    "lastYear": 1806,
+    "recordCount": 1,
+    "birth": 1866
+  },
+  {
+    "id": "a0be0afbb93fd",
+    "name": "Larry J Barton",
+    "wikidata": "Q112395277",
+    "possibleIdentity": "Larry L. Barton",
+    "firstYear": 1926,
+    "lastYear": 1926,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a0daba8143ddf",
+    "name": "R. W Lunn",
+    "wikidata": "Q7373090",
+    "possibleIdentity": "Roy Lunn",
+    "firstYear": 1925,
+    "lastYear": 1925,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "a0e4947277a73",
+    "name": "Pierre Coste",
+    "wikidata": "Q60485549",
+    "possibleIdentity": "Pierre Coste",
+    "firstYear": 1758,
+    "lastYear": 1758,
+    "recordCount": 1,
+    "birth": 1873
+  },
+  {
+    "id": "a11f7bae82f0a",
+    "name": "L Brouwer",
+    "wikidata": "Q3263402",
+    "possibleIdentity": "Louis de Brouwer",
+    "firstYear": 1920,
+    "lastYear": 1920,
+    "recordCount": 1,
+    "birth": 1923
+  },
+  {
+    "id": "a11a7f703875a",
+    "name": "L Tissier",
+    "wikidata": "Q55619832",
+    "possibleIdentity": "Jean-Louis Tissier",
+    "firstYear": 1892,
+    "lastYear": 1892,
+    "recordCount": 1,
+    "birth": 1945
+  },
+  {
+    "id": "a12703dd8e21b",
+    "name": "M Zimmermann",
+    "wikidata": "Q1890127",
+    "possibleIdentity": "Manfred Zimmermann",
+    "firstYear": 1759,
+    "lastYear": 1759,
+    "recordCount": 1,
+    "birth": 1933
+  },
+  {
+    "id": "a12cdcf5f0336",
+    "name": "R Pohl",
+    "wikidata": "Q1804723",
+    "possibleIdentity": "Robert Otto Pohl",
+    "firstYear": 1914,
+    "lastYear": 1914,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "a13e599299836",
+    "name": "Philip S Smith",
+    "wikidata": "Q111582483",
+    "possibleIdentity": "Philip Sidney Smith",
+    "firstYear": 1774,
+    "lastYear": 1774,
+    "recordCount": 1,
+    "birth": 1877
+  },
+  {
+    "id": "a149e5c9118dc",
+    "name": "Eugène Blanc",
+    "wikidata": "Q112183391",
+    "possibleIdentity": "Eugene Charlton Black",
+    "firstYear": 1931,
+    "lastYear": 1931,
+    "recordCount": 1,
+    "birth": 1927
+  },
+  {
+    "id": "a169f2032ff1f",
+    "name": "K.M Watson",
+    "wikidata": "Q21165335",
+    "possibleIdentity": "James Kay Graham Watson",
+    "firstYear": 1930,
+    "lastYear": 1930,
+    "recordCount": 1,
+    "birth": 1936
+  },
+  {
+    "id": "a17a012273aa4",
+    "name": "Luigi Brenta",
+    "wikidata": "Q91427008",
+    "possibleIdentity": "Gian Luigi Brena",
+    "firstYear": 1841,
+    "lastYear": 1841,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a17d6053fb23c",
+    "name": "Eugenio Netto",
+    "wikidata": "Q17413823",
+    "possibleIdentity": "Feliciano Eugênio Neto",
+    "firstYear": 1885,
+    "lastYear": 1885,
+    "recordCount": 1,
+    "birth": 1920
+  },
+  {
+    "id": "a1925b4dda415",
+    "name": "R.C Vickery",
+    "wikidata": "Q21611714",
+    "possibleIdentity": "Albert Roy Vickery",
+    "firstYear": 1953,
+    "lastYear": 1953,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "a1a8caba10a22",
+    "name": "A.-V Lourenco",
+    "wikidata": "Q16940233",
+    "possibleIdentity": "Manuel António dos Santos Lourenço",
+    "firstYear": 1862,
+    "lastYear": 1862,
+    "recordCount": 1,
+    "birth": 1936
+  },
+  {
+    "id": "a1aaa55c3ad15",
+    "name": "Giuseppe Maria Savani",
+    "wikidata": "Q3771414",
+    "possibleIdentity": "Giuseppe Savini",
+    "firstYear": 1786,
+    "lastYear": 1786,
+    "recordCount": 1,
+    "birth": 1848
+  },
+  {
+    "id": "a1b22e595a5ef",
+    "name": "Carlo Montanari",
+    "wikidata": "Q106840317",
+    "possibleIdentity": "Carlo Montani",
+    "firstYear": 1894,
+    "lastYear": 1894,
+    "recordCount": 1,
+    "birth": 1937
+  },
+  {
+    "id": "a1ff04e71109a",
+    "name": "J Livingston",
+    "wikidata": "Q112356745",
+    "possibleIdentity": "James D. Livingston",
+    "firstYear": 1904,
+    "lastYear": 1904,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "a1f14db1ea973",
+    "name": "Victor Steger",
+    "wikidata": "Q1380183",
+    "possibleIdentity": "Victor J. Stenger",
+    "firstYear": 1896,
+    "lastYear": 1896,
+    "recordCount": 1,
+    "birth": 1935
+  },
+  {
+    "id": "a1f8fe91594c8",
+    "name": "William Vose Pickett",
+    "wikidata": "Q54088593",
+    "possibleIdentity": "William B. Pickett",
+    "firstYear": 1857,
+    "lastYear": 1857,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a205c3517a248",
+    "name": "Paul R Cook",
+    "wikidata": "Q20880576",
+    "possibleIdentity": "Paul M. Cook",
+    "firstYear": 1916,
+    "lastYear": 1916,
+    "recordCount": 1,
+    "birth": 1924
+  },
+  {
+    "id": "a204aa5c9aaff",
+    "name": "R.E.H Pomeroy",
+    "wikidata": "Q90695055",
+    "possibleIdentity": "Lawrence R. Pomeroy",
+    "firstYear": 1915,
+    "lastYear": 1915,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "a20d3386bada4",
+    "name": "Jean Baptiste Rome' (De) De Itisle",
+    "wikidata": "Q111180241",
+    "possibleIdentity": "Jean-Baptiste Derome",
+    "firstYear": 1772,
+    "lastYear": 1772,
+    "recordCount": 1,
+    "birth": 1837
+  },
+  {
+    "id": "a20d86659131d",
+    "name": "Giuseppe Antonio Aldini",
+    "wikidata": "Q3769928",
+    "possibleIdentity": "Giuseppe Albini",
+    "firstYear": 1785,
+    "lastYear": 1785,
+    "recordCount": 1,
+    "birth": 1827
+  },
+  {
+    "id": "a217063d3b7d8",
+    "name": "Georges Poisson",
+    "wikidata": "Q1509044",
+    "possibleIdentity": "Georges Poisson",
+    "firstYear": 1899,
+    "lastYear": 1899,
+    "recordCount": 1,
+    "birth": 1924
+  },
+  {
+    "id": "a246d28c56ce4",
+    "name": "Wiedemann",
+    "wikidata": "Q107327",
+    "possibleIdentity": "Alfred Wiedemann",
+    "firstYear": 1859,
+    "lastYear": 1859,
+    "recordCount": 1,
+    "birth": 1856
+  },
+  {
+    "id": "a24668b613d47",
+    "name": "Stefano Rodriguez de Castro",
+    "wikidata": "Q5945183",
+    "possibleIdentity": "José Rodríguez de Castro",
+    "firstYear": 1624,
+    "lastYear": 1624,
+    "recordCount": 1,
+    "birth": 1739
+  },
+  {
+    "id": "a25ec0d954498",
+    "name": "Helmut Krainer",
+    "wikidata": "Q61037645",
+    "possibleIdentity": "Helmut Krawinkler",
+    "firstYear": 1943,
+    "lastYear": 1943,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a25b63d543fe9",
+    "name": "Antonio Rivato",
+    "wikidata": "Q73284288",
+    "possibleIdentity": "Antonio Martínez de la Riva",
+    "firstYear": 1847,
+    "lastYear": 1847,
+    "recordCount": 1,
+    "birth": 1882
+  },
+  {
+    "id": "a265a56ea0b51",
+    "name": "Georges Vincent",
+    "wikidata": "Q131625023",
+    "possibleIdentity": "Georges Vincent",
+    "firstYear": 1899,
+    "lastYear": 1899,
+    "recordCount": 1,
+    "birth": 1916
+  },
+  {
+    "id": "a264f8dc8c3f0",
+    "name": "Philippe Miller",
+    "wikidata": "Q63967464",
+    "possibleIdentity": "Philippe Müller",
+    "firstYear": 1731,
+    "lastYear": 1731,
+    "recordCount": 1,
+    "birth": 1916
+  },
+  {
+    "id": "a26af1ab0e747",
+    "name": "J.B Lock",
+    "wikidata": "Q21505773",
+    "possibleIdentity": "John Michael Lock",
+    "firstYear": 1897,
+    "lastYear": 1897,
+    "recordCount": 1,
+    "birth": 1942
+  },
+  {
+    "id": "a27e0d7d1b9bd",
+    "name": "Francis Henry Egerton",
+    "wikidata": "Q3161146",
+    "possibleIdentity": "James Henry Emerton",
+    "firstYear": 1812,
+    "lastYear": 1812,
+    "recordCount": 1,
+    "birth": 1847
+  },
+  {
+    "id": "a27000200dec3",
+    "name": "(Benjamin Thomson Count o£ ) Rumford",
+    "wikidata": "Q8006252",
+    "possibleIdentity": "William Byron Rumford",
+    "firstYear": 1799,
+    "lastYear": 1799,
+    "recordCount": 1,
+    "birth": 1908
+  },
+  {
+    "id": "a28cf6437aa15",
+    "name": "Augusto Forti",
+    "wikidata": "Q115544062",
+    "possibleIdentity": "Augusto Forti",
+    "firstYear": 1928,
+    "lastYear": 1928,
+    "recordCount": 1,
+    "birth": 1933
+  },
+  {
+    "id": "a29b037752e7d",
+    "name": "B. J Spence",
+    "wikidata": "Q4910961",
+    "possibleIdentity": "Bill Spence",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1906
+  },
+  {
+    "id": "a297773e75d67",
+    "name": "Donald M Levy",
+    "wikidata": "Q16221578",
+    "possibleIdentity": "Donald Levy",
+    "firstYear": 1912,
+    "lastYear": 1912,
+    "recordCount": 1,
+    "birth": 1939
+  },
+  {
+    "id": "a29f409c589ed",
+    "name": "Charles L Parsons",
+    "wikidata": "Q16658090",
+    "possibleIdentity": "Charles Lathrop Parsons",
+    "firstYear": 1630,
+    "lastYear": 1630,
+    "recordCount": 1,
+    "birth": 1867
+  },
+  {
+    "id": "a2913dfee9143",
+    "name": "Pietro Martini",
+    "wikidata": "Q21542336",
+    "possibleIdentity": "Pietro Martini",
+    "firstYear": 1741,
+    "lastYear": 1741,
+    "recordCount": 1,
+    "birth": 1800
+  },
+  {
+    "id": "a2aa7128c43b1",
+    "name": "Werner Gebhardt",
+    "wikidata": "Q112488031",
+    "possibleIdentity": "Werner Gebhardt",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "a2a62d14c7ed6",
+    "name": "J.W Halley",
+    "wikidata": "Q132996628",
+    "possibleIdentity": "J. Woods Halley",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 1,
+    "birth": 1938
+  },
+  {
+    "id": "a2a43c7896871",
+    "name": "Julian H Forbes",
+    "wikidata": "Q16868046",
+    "possibleIdentity": "Julian Chela-Flores",
+    "firstYear": 1904,
+    "lastYear": 1904,
+    "recordCount": 1,
+    "birth": 1942
+  },
+  {
+    "id": "a2a79a6db9d9f",
+    "name": "Luigi Palcani",
+    "wikidata": "Q3839962",
+    "possibleIdentity": "Luigi Pagliani",
+    "firstYear": 1817,
+    "lastYear": 1817,
+    "recordCount": 1,
+    "birth": 1847
+  },
+  {
+    "id": "a2b6740e80c28",
+    "name": "Marie-Jean-Antoine Caritat marquis Condorcet",
+    "wikidata": "Q201477",
+    "possibleIdentity": "Jean-Antoine-Nicolas de Caritat de Condorcet",
+    "firstYear": 1735,
+    "lastYear": 1735,
+    "recordCount": 1,
+    "birth": 1743
+  },
+  {
+    "id": "a2cc614e43d85",
+    "name": "Jerzy Starkiewicz",
+    "wikidata": "Q21338283",
+    "possibleIdentity": "Jerzy Staszkiewicz",
+    "firstYear": 1929,
+    "lastYear": 1929,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "a2c58896d0dbe",
+    "name": "Giuseppe Carloni",
+    "wikidata": "Q109686456",
+    "possibleIdentity": "Giuseppe Carlotti",
+    "firstYear": 1860,
+    "lastYear": 1860,
+    "recordCount": 1,
+    "birth": 1886
+  },
+  {
+    "id": "a2d6ffc04c47f",
+    "name": "P.D Sale",
+    "wikidata": "Q112449724",
+    "possibleIdentity": "Peter F. Sale",
+    "firstYear": 1908,
+    "lastYear": 1908,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "a30ec8f174e39",
+    "name": "Hans Haalck",
+    "wikidata": "Q95313217",
+    "possibleIdentity": "Hans-Peter Haack",
+    "firstYear": 1942,
+    "lastYear": 1942,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a31a2f19b11d1",
+    "name": "José Antonio Gonzales",
+    "wikidata": "Q136724021",
+    "possibleIdentity": "Antonio Casas González",
+    "firstYear": 1650,
+    "lastYear": 1650,
+    "recordCount": 1,
+    "birth": 1933
+  },
+  {
+    "id": "a31ee3ccc4c40",
+    "name": "Claude Francois Bertxelot",
+    "wikidata": "Q68424807",
+    "possibleIdentity": "Claude-Isabelle Brelot",
+    "firstYear": 1782,
+    "lastYear": 1782,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "a324d3441554e",
+    "name": "Pierre Carrè",
+    "wikidata": "Q7192128",
+    "possibleIdentity": "Pierre Carreau",
+    "firstYear": 1904,
+    "lastYear": 1904,
+    "recordCount": 1,
+    "birth": 1939
+  },
+  {
+    "id": "a32c6285ccafb",
+    "name": "William Cooke",
+    "wikidata": "Q8008634",
+    "possibleIdentity": "William Ernest Cooke",
+    "firstYear": 1755,
+    "lastYear": 1755,
+    "recordCount": 1,
+    "birth": 1863
+  },
+  {
+    "id": "a32c1cd153de8",
+    "name": "M Carrie",
+    "wikidata": "Q3167977",
+    "possibleIdentity": "Jean-Michel Carrié",
+    "firstYear": 1863,
+    "lastYear": 1863,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "a32ab59e21b86",
+    "name": "William Nieholson",
+    "wikidata": "Q3433028",
+    "possibleIdentity": "Edward William Nelson",
+    "firstYear": 1787,
+    "lastYear": 1787,
+    "recordCount": 1,
+    "birth": 1883
+  },
+  {
+    "id": "a330910d1e592",
+    "name": "Franz Eeumann",
+    "wikidata": "Q112487733",
+    "possibleIdentity": "Franz Eggemann",
+    "firstYear": 1884,
+    "lastYear": 1884,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "a335f30a98d05",
+    "name": "H Hering",
+    "wikidata": "Q95285713",
+    "possibleIdentity": "H. Hering",
+    "firstYear": 1936,
+    "lastYear": 1936,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a34dcace4c3da",
+    "name": "K. A Holmgren",
+    "wikidata": "Q6066521",
+    "possibleIdentity": "Patricia Kern Holmgren",
+    "firstYear": 1855,
+    "lastYear": 1855,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a355bc0b56c66",
+    "name": "Viterbi",
+    "wikidata": "Q505358",
+    "possibleIdentity": "Andrew Viterbi",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 1,
+    "birth": 1935
+  },
+  {
+    "id": "a3519fc051483",
+    "name": "Jean-BaptLSte Le Rond dl Alembert",
+    "wikidata": "Q56000821",
+    "possibleIdentity": "Jean Pierre Albert",
+    "firstYear": 1777,
+    "lastYear": 1777,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a35c49b0349d6",
+    "name": "Giovanni Onorato Castiglioni",
+    "wikidata": "Q16559778",
+    "possibleIdentity": "Giovanni Battista Castiglioni",
+    "firstYear": 1729,
+    "lastYear": 1729,
+    "recordCount": 1,
+    "birth": 1931
+  },
+  {
+    "id": "a369ed618bc43",
+    "name": "Pierre Vigier",
+    "wikidata": "Q382656",
+    "possibleIdentity": "Jean-Pierre Vigier",
+    "firstYear": 1867,
+    "lastYear": 1867,
+    "recordCount": 1,
+    "birth": 1920
+  },
+  {
+    "id": "a36e2ea4891a2",
+    "name": "Rudolf Rasch",
+    "wikidata": "Q112427566",
+    "possibleIdentity": "Rudolf Rasch",
+    "firstYear": 1940,
+    "lastYear": 1940,
+    "recordCount": 1,
+    "birth": 1945
+  },
+  {
+    "id": "a36d1fd62f96e",
+    "name": "Johann Carl Fischer",
+    "wikidata": "Q21513159",
+    "possibleIdentity": "Johann Carl Fischer",
+    "firstYear": 1801,
+    "lastYear": 1801,
+    "recordCount": 1,
+    "birth": 1804
+  },
+  {
+    "id": "a379a4869ba7f",
+    "name": "Jean Herbette",
+    "wikidata": "Q44620046",
+    "possibleIdentity": "Jean Hébette",
+    "firstYear": 1906,
+    "lastYear": 1906,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "a37e795ee278a",
+    "name": "Alexander Lieber",
+    "wikidata": "Q22133523",
+    "possibleIdentity": "Alexander Liber",
+    "firstYear": 1843,
+    "lastYear": 1843,
+    "recordCount": 1,
+    "birth": 1914
+  },
+  {
+    "id": "a37d046aceda4",
+    "name": "Paul Mouy",
+    "wikidata": "Q3371882",
+    "possibleIdentity": "Paul Mouy",
+    "firstYear": 1646,
+    "lastYear": 1646,
+    "recordCount": 1,
+    "birth": 1888
+  },
+  {
+    "id": "a37e01b13f2c6",
+    "name": "Waldemar Pick",
+    "wikidata": "Q94781052",
+    "possibleIdentity": "Waldemar Moortgat-Pick",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1923
+  },
+  {
+    "id": "a3823b9edba83",
+    "name": "Marc Rosenberg",
+    "wikidata": "Q98059955",
+    "possibleIdentity": "Marc Rothenberg",
+    "firstYear": 1922,
+    "lastYear": 1922,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a39232bceada0",
+    "name": "John Frank",
+    "wikidata": "Q6217675",
+    "possibleIdentity": "John A. Franks",
+    "firstYear": 1795,
+    "lastYear": 1795,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "a3c1d1ec9f6e7",
+    "name": "J.F Boutet",
+    "wikidata": "Q100150943",
+    "possibleIdentity": "Josiane Boutet",
+    "firstYear": 1871,
+    "lastYear": 1871,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "a3c382be3260d",
+    "name": "Jean-Baptiste Le Rond dl Alfmbert",
+    "wikidata": "Q56000821",
+    "possibleIdentity": "Jean Pierre Albert",
+    "firstYear": 1758,
+    "lastYear": 1758,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a3e29f18d2b4c",
+    "name": "William Pryce",
+    "wikidata": "Q8017083",
+    "possibleIdentity": "William Price",
+    "firstYear": 1778,
+    "lastYear": 1778,
+    "recordCount": 1,
+    "birth": 1800
+  },
+  {
+    "id": "a439965c3ad43",
+    "name": "George Berkeley",
+    "wikidata": "Q5536927",
+    "possibleIdentity": "George Berkeley",
+    "firstYear": 1732,
+    "lastYear": 1732,
+    "recordCount": 1,
+    "birth": 1870
+  },
+  {
+    "id": "a47333a270675",
+    "name": "Joseph Andr Murray",
+    "wikidata": "Q381349",
+    "possibleIdentity": "Francis Joseph Murray",
+    "firstYear": 1787,
+    "lastYear": 1787,
+    "recordCount": 1,
+    "birth": 1911
+  },
+  {
+    "id": "a4944979dafbc",
+    "name": "J Anes",
+    "wikidata": "Q10309871",
+    "possibleIdentity": "José Manuel Anes",
+    "firstYear": 1895,
+    "lastYear": 1895,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "a49f8b3665ec7",
+    "name": "W Greiner",
+    "wikidata": "Q133656353",
+    "possibleIdentity": "Walter Greiner",
+    "firstYear": 1920,
+    "lastYear": 1920,
+    "recordCount": 1,
+    "birth": 1926
+  },
+  {
+    "id": "a4a446cc09a6b",
+    "name": "Giuseppe Scudery",
+    "wikidata": "Q119084112",
+    "possibleIdentity": "Giuseppe Scuderi",
+    "firstYear": 1772,
+    "lastYear": 1772,
+    "recordCount": 1,
+    "birth": 1918
+  },
+  {
+    "id": "a4bbe7812c1e6",
+    "name": "Jean Savard",
+    "wikidata": "Q97959181",
+    "possibleIdentity": "Jean-Guy Savard",
+    "firstYear": 1930,
+    "lastYear": 1930,
+    "recordCount": 1,
+    "birth": 1931
+  },
+  {
+    "id": "a4b20915335bf",
+    "name": "Giuseppe Francesco Testa",
+    "wikidata": "Q94108834",
+    "possibleIdentity": "Antonio Giuseppe Testa",
+    "firstYear": 1753,
+    "lastYear": 1753,
+    "recordCount": 1,
+    "birth": 1756
+  },
+  {
+    "id": "a4cd8f31d7818",
+    "name": "R Lang",
+    "wikidata": "Q126195728",
+    "possibleIdentity": "Herbert Raphael Lang",
+    "firstYear": 1899,
+    "lastYear": 1899,
+    "recordCount": 1,
+    "birth": 1904
+  },
+  {
+    "id": "a4dfdc519431f",
+    "name": "Jobann Friedrich Sheffer",
+    "wikidata": "Q94914851",
+    "possibleIdentity": "Friedrich Gottlieb Schaefer",
+    "firstYear": 1569,
+    "lastYear": 1569,
+    "recordCount": 1,
+    "birth": 1850
+  },
+  {
+    "id": "a4fdfdf3a1ed5",
+    "name": "P Lefebvre",
+    "wikidata": "Q65589959",
+    "possibleIdentity": "Jean-Pierre Lefebvre",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "a50716fa3ca91",
+    "name": "Vincenzo Grassi",
+    "wikidata": "Q21514218",
+    "possibleIdentity": "Vincenzo Grasso",
+    "firstYear": 1796,
+    "lastYear": 1796,
+    "recordCount": 1,
+    "birth": 1914
+  },
+  {
+    "id": "a5126c1d0e14a",
+    "name": "Julius Grunwald",
+    "wikidata": "Q1085249",
+    "possibleIdentity": "Christoph Julius Johannes Grünewald",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1939
+  },
+  {
+    "id": "a5122f26790c6",
+    "name": "William Meade",
+    "wikidata": "Q8016788",
+    "possibleIdentity": "William Perrett Mead",
+    "firstYear": 1839,
+    "lastYear": 1839,
+    "recordCount": 1,
+    "birth": 1889
+  },
+  {
+    "id": "a546b549dcfe4",
+    "name": "Carlo Dal Verme",
+    "wikidata": "Q3762597",
+    "possibleIdentity": "Gian Carlo Dal Verme",
+    "firstYear": 1781,
+    "lastYear": 1781,
+    "recordCount": 1,
+    "birth": 1908
+  },
+  {
+    "id": "a5434707da7a4",
+    "name": "T• /) Marie",
+    "wikidata": "Q21516778",
+    "possibleIdentity": "Thomas Joseph Caron Irénée-Marie",
+    "firstYear": 1895,
+    "lastYear": 1895,
+    "recordCount": 1,
+    "birth": 1898
+  },
+  {
+    "id": "a56574af0bce6",
+    "name": "John Conroy",
+    "wikidata": "Q6245750",
+    "possibleIdentity": "John M. Conroy",
+    "firstYear": 1878,
+    "lastYear": 1878,
+    "recordCount": 1,
+    "birth": 1920
+  },
+  {
+    "id": "a567c6d7c8083",
+    "name": "Rudolf Bauer",
+    "wikidata": "Q112456712",
+    "possibleIdentity": "Jost Rudolf Bauer",
+    "firstYear": 1918,
+    "lastYear": 1918,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "a5607ae82bcd4",
+    "name": "ß Besson",
+    "wikidata": "Q2829568",
+    "possibleIdentity": "Alain Besson",
+    "firstYear": 1891,
+    "lastYear": 1891,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "a571c7092338b",
+    "name": "George Thomson",
+    "wikidata": "Q5512351",
+    "possibleIdentity": "George Malcolm Thomson",
+    "firstYear": 1673,
+    "lastYear": 1673,
+    "recordCount": 1,
+    "birth": 1848
+  },
+  {
+    "id": "a5788ea535580",
+    "name": "G.B Dumas",
+    "wikidata": "Q3050841",
+    "possibleIdentity": "Georges Dumas",
+    "firstYear": 1847,
+    "lastYear": 1847,
+    "recordCount": 1,
+    "birth": 1866
+  },
+  {
+    "id": "a5a42ca044fed",
+    "name": "Giulio Cesare Scaligero",
+    "wikidata": "Q100149038",
+    "possibleIdentity": "Giulio Massimo Scalinger",
+    "firstYear": 1557,
+    "lastYear": 1557,
+    "recordCount": 1,
+    "birth": 1857
+  },
+  {
+    "id": "a5bf771fd8bc3",
+    "name": "Felix Dfarcet",
+    "wikidata": "Q94731475",
+    "possibleIdentity": "Félix d'Arcet",
+    "firstYear": 1777,
+    "lastYear": 1777,
+    "recordCount": 1,
+    "birth": 1807
+  },
+  {
+    "id": "a5c5e1f4a738d",
+    "name": "Henry T Bröwn",
+    "wikidata": "Q95696642",
+    "possibleIdentity": "Henry T. Brown",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 1,
+    "birth": 1932
+  },
+  {
+    "id": "a5dee959bae92",
+    "name": "Charles H Fulton",
+    "wikidata": "Q102172010",
+    "possibleIdentity": "Charles Thomas Fulton",
+    "firstYear": 1912,
+    "lastYear": 1912,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "a5d928f1feb31",
+    "name": "Richard Lewis",
+    "wikidata": "Q7325045",
+    "possibleIdentity": "Richard D. Lewis",
+    "firstYear": 1731,
+    "lastYear": 1731,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "a5dd2a461ecf5",
+    "name": "J Böulanger",
+    "wikidata": "Q3164857",
+    "possibleIdentity": "Jean-Claude Boulanger",
+    "firstYear": 1887,
+    "lastYear": 1887,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "a5ffd5263e7e6",
+    "name": "P. O Schupp",
+    "wikidata": "Q35023546",
+    "possibleIdentity": "Paul Schupp",
+    "firstYear": 1933,
+    "lastYear": 1933,
+    "recordCount": 1,
+    "birth": 1937
+  },
+  {
+    "id": "a60a64d86c902",
+    "name": "John H Evans",
+    "wikidata": "Q6238798",
+    "possibleIdentity": "John Henry Evans",
+    "firstYear": 1871,
+    "lastYear": 1871,
+    "recordCount": 1,
+    "birth": 1872
+  },
+  {
+    "id": "a61cc42321239",
+    "name": "M. L Anson",
+    "wikidata": "Q85990895",
+    "possibleIdentity": "Edward M. Anson",
+    "firstYear": 1946,
+    "lastYear": 1946,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "a614441f49d0b",
+    "name": "Franco Magni",
+    "wikidata": "Q21208689",
+    "possibleIdentity": "Franco Magni",
+    "firstYear": 1912,
+    "lastYear": 1912,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "a616e6f57fab5",
+    "name": "Franco Ridella",
+    "wikidata": "Q3751543",
+    "possibleIdentity": "Franco Rella",
+    "firstYear": 1941,
+    "lastYear": 1941,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "a61fb7ec57366",
+    "name": "Jean-Baptiste Le Rond dl Alenbert",
+    "wikidata": "Q56000821",
+    "possibleIdentity": "Jean Pierre Albert",
+    "firstYear": 1773,
+    "lastYear": 1773,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a656e4714d358",
+    "name": "Jean Baptiste Colonne",
+    "wikidata": "Q337428",
+    "possibleIdentity": "Jean Alexander Heinrich Clapier de Colongue",
+    "firstYear": 1725,
+    "lastYear": 1725,
+    "recordCount": 1,
+    "birth": 1839
+  },
+  {
+    "id": "a6588e89f8729",
+    "name": "J Van Der Waals",
+    "wikidata": "Q4537825",
+    "possibleIdentity": "Jan van der Waals",
+    "firstYear": 1899,
+    "lastYear": 1899,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "a6778898a7177",
+    "name": "A.M.Yh Morel",
+    "wikidata": "Q114892391",
+    "possibleIdentity": "Alain Morel",
+    "firstYear": 1800,
+    "lastYear": 1800,
+    "recordCount": 1,
+    "birth": 1936
+  },
+  {
+    "id": "a67164213664f",
+    "name": "Pier Carlo Landucci",
+    "wikidata": "Q19357361",
+    "possibleIdentity": "Carlo Lapucci",
+    "firstYear": 1935,
+    "lastYear": 1935,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "a6835634356ed",
+    "name": "Peter Borissow",
+    "wikidata": "Q24947931",
+    "possibleIdentity": "Klaus-Peter Brüssow",
+    "firstYear": 1913,
+    "lastYear": 1913,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a68d915e3abde",
+    "name": "William Healey Dall",
+    "wikidata": "Q777148",
+    "possibleIdentity": "William Healey Dall",
+    "firstYear": 1742,
+    "lastYear": 1742,
+    "recordCount": 1,
+    "birth": 1845
+  },
+  {
+    "id": "a6a59f0ad689e",
+    "name": "Johannes Ant oine Kok",
+    "wikidata": "Q1697171",
+    "possibleIdentity": "Johannes Antonius de Kok",
+    "firstYear": 1935,
+    "lastYear": 1935,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "a6acd22a2df1c",
+    "name": "Zeil",
+    "wikidata": "Q95237339",
+    "possibleIdentity": "Werner Zeil",
+    "firstYear": 1920,
+    "lastYear": 1920,
+    "recordCount": 1,
+    "birth": 1922
+  },
+  {
+    "id": "a6adbeec14d8d",
+    "name": "Ogonowski",
+    "wikidata": "Q18431745",
+    "possibleIdentity": "Zbigniew Ogonowski",
+    "firstYear": 1891,
+    "lastYear": 1891,
+    "recordCount": 1,
+    "birth": 1924
+  },
+  {
+    "id": "a6c45c6b0cc05",
+    "name": "Emile Leroy",
+    "wikidata": "Q27663750",
+    "possibleIdentity": "Émile Leray",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a6cd7c48716a6",
+    "name": "Joseph Glynn",
+    "wikidata": "Q6283484",
+    "possibleIdentity": "Joseph Glynn",
+    "firstYear": 1849,
+    "lastYear": 1849,
+    "recordCount": 1,
+    "birth": 1869
+  },
+  {
+    "id": "a6eae95e358e6",
+    "name": "Johann Keill",
+    "wikidata": "Q1693872",
+    "possibleIdentity": "Johann Georg Keil",
+    "firstYear": 1747,
+    "lastYear": 1747,
+    "recordCount": 1,
+    "birth": 1781
+  },
+  {
+    "id": "a72f5b42d514d",
+    "name": "J. Jr Kalff",
+    "wikidata": "Q111020921",
+    "possibleIdentity": "Jacob Kalff",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 1,
+    "birth": 1935
+  },
+  {
+    "id": "a74985bc82360",
+    "name": "W Steffen",
+    "wikidata": "Q8003119",
+    "possibleIdentity": "Will Steffen",
+    "firstYear": 1889,
+    "lastYear": 1889,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "a751f6a13f7be",
+    "name": "Sydney Raymond Carter",
+    "wikidata": "Q3179517",
+    "possibleIdentity": "Raymond Carr",
+    "firstYear": 1926,
+    "lastYear": 1926,
+    "recordCount": 1,
+    "birth": 1919
+  },
+  {
+    "id": "a761dc42a9535",
+    "name": "Martin Schade",
+    "wikidata": "Q122303",
+    "possibleIdentity": "Martin Schadt",
+    "firstYear": 1912,
+    "lastYear": 1912,
+    "recordCount": 1,
+    "birth": 1938
+  },
+  {
+    "id": "a76ac7ad0809d",
+    "name": "Paul Laurencin",
+    "wikidata": "Q5940670",
+    "possibleIdentity": "Paul Laurin",
+    "firstYear": 1869,
+    "lastYear": 1869,
+    "recordCount": 1,
+    "birth": 1863
+  },
+  {
+    "id": "a78b082b92627",
+    "name": "Paul Charpentier",
+    "wikidata": "Q30106458",
+    "possibleIdentity": "Paul Charpentier",
+    "firstYear": 1885,
+    "lastYear": 1885,
+    "recordCount": 1,
+    "birth": 1881
+  },
+  {
+    "id": "a78903e2dbb09",
+    "name": "Lorenzo Crosta",
+    "wikidata": "Q122901043",
+    "possibleIdentity": "Francesco Zaverio da San Lorenzo della Costa",
+    "firstYear": 1846,
+    "lastYear": 1846,
+    "recordCount": 1,
+    "birth": 1878
+  },
+  {
+    "id": "a793fb8063c03",
+    "name": "Gwilym E Owen",
+    "wikidata": "Q979396",
+    "possibleIdentity": "Gwilym Ellis Lane Owen",
+    "firstYear": 1929,
+    "lastYear": 1929,
+    "recordCount": 1,
+    "birth": 1922
+  },
+  {
+    "id": "a7a6fb1880fe1",
+    "name": "llohann Ff iedrich ( Johannes Frede- Gronow",
+    "wikidata": "Q107164468",
+    "possibleIdentity": "Johannes Grunow",
+    "firstYear": 1662,
+    "lastYear": 1662,
+    "recordCount": 1,
+    "birth": 1902
+  },
+  {
+    "id": "a7ec92cac122f",
+    "name": "André Roussel",
+    "wikidata": "Q109810541",
+    "possibleIdentity": "André Roussel",
+    "firstYear": 1926,
+    "lastYear": 1926,
+    "recordCount": 1,
+    "birth": 1919
+  },
+  {
+    "id": "a7edf2057432b",
+    "name": "Franz Xav Millars",
+    "wikidata": "Q61198045",
+    "possibleIdentity": "P. Franz Xaver Millauer",
+    "firstYear": 1752,
+    "lastYear": 1752,
+    "recordCount": 1,
+    "birth": 1784
+  },
+  {
+    "id": "a7f8ac83f7db5",
+    "name": "Anton Gunther",
+    "wikidata": "Q84748",
+    "possibleIdentity": "Anton Günther",
+    "firstYear": 1631,
+    "lastYear": 1631,
+    "recordCount": 1,
+    "birth": 1783
+  },
+  {
+    "id": "a806a75653b17",
+    "name": "M Reimann",
+    "wikidata": "Q102303715",
+    "possibleIdentity": "Hans Martin Reimann",
+    "firstYear": 1866,
+    "lastYear": 1866,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "a80ffc7f4336a",
+    "name": "Gaspard Monge",
+    "wikidata": "Q206832",
+    "possibleIdentity": "Gaspard Monge",
+    "firstYear": 1734,
+    "lastYear": 1734,
+    "recordCount": 1,
+    "birth": 1746
+  },
+  {
+    "id": "a816bafee1a71",
+    "name": "C.M Guillemin",
+    "wikidata": "Q3679805",
+    "possibleIdentity": "Claude Guillemin",
+    "firstYear": 1860,
+    "lastYear": 1860,
+    "recordCount": 1,
+    "birth": 1923
+  },
+  {
+    "id": "a81f86f9369e4",
+    "name": "Maurice Block",
+    "wikidata": "Q21506165",
+    "possibleIdentity": "Maurice Black",
+    "firstYear": 1878,
+    "lastYear": 1878,
+    "recordCount": 1,
+    "birth": 1904
+  },
+  {
+    "id": "a82f2125dac90",
+    "name": "Robert H Gould",
+    "wikidata": "Q112449666",
+    "possibleIdentity": "John Robert Gold",
+    "firstYear": 1903,
+    "lastYear": 1903,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a8218ec547bc1",
+    "name": "Jean-Baptiste Le Rond d' Alembert",
+    "wikidata": "Q56000821",
+    "possibleIdentity": "Jean Pierre Albert",
+    "firstYear": 1758,
+    "lastYear": 1758,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a83792f5fbeb0",
+    "name": "Theodor Grothuss",
+    "wikidata": "Q252265",
+    "possibleIdentity": "Theodor von Grotthuss",
+    "firstYear": 1686,
+    "lastYear": 1686,
+    "recordCount": 1,
+    "birth": 1785
+  },
+  {
+    "id": "a8469b4c43966",
+    "name": "Ronald E Wilson",
+    "wikidata": "Q24240096",
+    "possibleIdentity": "Ronald Martin Wilson",
+    "firstYear": 1760,
+    "lastYear": 1760,
+    "recordCount": 1,
+    "birth": 1886
+  },
+  {
+    "id": "a8422e45fa41b",
+    "name": "Jean-Louis Lombard",
+    "wikidata": "Q119100040",
+    "possibleIdentity": "Jean Lombard",
+    "firstYear": 1798,
+    "lastYear": 1798,
+    "recordCount": 1,
+    "birth": 1939
+  },
+  {
+    "id": "a85c47537d590",
+    "name": "F Bertrand",
+    "wikidata": "Q2833458",
+    "possibleIdentity": "Alexandre Jacques François Bertrand",
+    "firstYear": 1763,
+    "lastYear": 1763,
+    "recordCount": 1,
+    "birth": 1795
+  },
+  {
+    "id": "a87dac95c3cc4",
+    "name": "Pietro Benini",
+    "wikidata": "Q3903692",
+    "possibleIdentity": "Pietro Benini",
+    "firstYear": 1777,
+    "lastYear": 1777,
+    "recordCount": 1,
+    "birth": 1813
+  },
+  {
+    "id": "a886830eafd9b",
+    "name": "M Landau",
+    "wikidata": "Q350521",
+    "possibleIdentity": "Jacob M. Landau",
+    "firstYear": 1910,
+    "lastYear": 1910,
+    "recordCount": 1,
+    "birth": 1924
+  },
+  {
+    "id": "a8907acf5bcc2",
+    "name": "Hans Januschke",
+    "wikidata": "Q25975554",
+    "possibleIdentity": "Hans Jancke",
+    "firstYear": 1887,
+    "lastYear": 1887,
+    "recordCount": 1,
+    "birth": 1911
+  },
+  {
+    "id": "a8a59b79c4ba5",
+    "name": "Robert Lupke",
+    "wikidata": "Q27535567",
+    "possibleIdentity": "Robert de Luppé",
+    "firstYear": 1903,
+    "lastYear": 1903,
+    "recordCount": 1,
+    "birth": 1922
+  },
+  {
+    "id": "a8bbb109173b0",
+    "name": "Hasenfratz",
+    "wikidata": "Q26213570",
+    "possibleIdentity": "Péter Hasenfratz",
+    "firstYear": 1931,
+    "lastYear": 1931,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "a8b369e1df791",
+    "name": "Jakob Bernoulli",
+    "wikidata": "Q123982",
+    "possibleIdentity": "Jakob II Bernoulli",
+    "firstYear": 1744,
+    "lastYear": 1744,
+    "recordCount": 1,
+    "birth": 1759
+  },
+  {
+    "id": "a8b8359163691",
+    "name": "Robert Thompson",
+    "wikidata": "Q7344276",
+    "possibleIdentity": "Robert Farris Thompson",
+    "firstYear": 1843,
+    "lastYear": 1843,
+    "recordCount": 1,
+    "birth": 1932
+  },
+  {
+    "id": "a8d10576a607b",
+    "name": "J.J Beeson",
+    "wikidata": "Q38178599",
+    "possibleIdentity": "Michael J. Beeson",
+    "firstYear": 1916,
+    "lastYear": 1916,
+    "recordCount": 1,
+    "birth": 1945
+  },
+  {
+    "id": "a8d0837dc9831",
+    "name": "Marjorie Bölen",
+    "wikidata": "Q61163834",
+    "possibleIdentity": "Marjorie O'Rourke Boyle",
+    "firstYear": 1948,
+    "lastYear": 1948,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "a8e10f4513990",
+    "name": "Antonio Donati",
+    "wikidata": "Q55672690",
+    "possibleIdentity": "Antonio Donati",
+    "firstYear": 1548,
+    "lastYear": 1548,
+    "recordCount": 1,
+    "birth": 1606
+  },
+  {
+    "id": "a8f7dbc2d7520",
+    "name": "Alf red H Brooks",
+    "wikidata": "Q4722896",
+    "possibleIdentity": "Alfred H. Brooks",
+    "firstYear": 1774,
+    "lastYear": 1774,
+    "recordCount": 1,
+    "birth": 1871
+  },
+  {
+    "id": "a8f4f0b46c5e9",
+    "name": "Carl Wilhelm Scheetæ",
+    "wikidata": "Q95485",
+    "possibleIdentity": "August-Wilhelm Scheer",
+    "firstYear": 1781,
+    "lastYear": 1781,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "a91503f9fc543",
+    "name": "et DAVID Brunhes",
+    "wikidata": "Q112407223",
+    "possibleIdentity": "David E. Bruns",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "a91cb43023b8d",
+    "name": "Ph Flajolet",
+    "wikidata": "Q92695",
+    "possibleIdentity": "Philippe Flajolet",
+    "firstYear": 1922,
+    "lastYear": 1922,
+    "recordCount": 1,
+    "birth": 1948
+  },
+  {
+    "id": "a91762e197a61",
+    "name": "Nicola Conte",
+    "wikidata": "Q907411",
+    "possibleIdentity": "Nicolas-Jacques Conté",
+    "firstYear": 1732,
+    "lastYear": 1732,
+    "recordCount": 1,
+    "birth": 1755
+  },
+  {
+    "id": "a91c9dc6ebcce",
+    "name": "Giuseppe Ramazzini",
+    "wikidata": "Q3771290",
+    "possibleIdentity": "Giuseppe Ragazzini",
+    "firstYear": 1767,
+    "lastYear": 1767,
+    "recordCount": 1,
+    "birth": 1923
+  },
+  {
+    "id": "a93e29d26e9fa",
+    "name": "Samuel Bruce Mclaren",
+    "wikidata": "Q173081",
+    "possibleIdentity": "Bruce McLaren",
+    "firstYear": 1925,
+    "lastYear": 1925,
+    "recordCount": 1,
+    "birth": 1937
+  },
+  {
+    "id": "a93b5bc59d2e0",
+    "name": "William Dixon Weaver",
+    "wikidata": "Q110089898",
+    "possibleIdentity": "William Weaver",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "a94dd82487398",
+    "name": "A Marston",
+    "wikidata": "Q55350817",
+    "possibleIdentity": "Adrian Marston",
+    "firstYear": 1893,
+    "lastYear": 1893,
+    "recordCount": 1,
+    "birth": 1927
+  },
+  {
+    "id": "a95396c1749db",
+    "name": "Basevi",
+    "wikidata": "Q113249208",
+    "possibleIdentity": "Paolo Basevi",
+    "firstYear": 1823,
+    "lastYear": 1823,
+    "recordCount": 1,
+    "birth": 1924
+  },
+  {
+    "id": "a958a855b4a55",
+    "name": "John Norton",
+    "wikidata": "Q1452923",
+    "possibleIdentity": "Frederick John Norton",
+    "firstYear": 1778,
+    "lastYear": 1778,
+    "recordCount": 1,
+    "birth": 1904
+  },
+  {
+    "id": "a95875bbaa77a",
+    "name": "H Wettstein",
+    "wikidata": "Q56000247",
+    "possibleIdentity": "Howard K. Wettstein",
+    "firstYear": 1880,
+    "lastYear": 1880,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "a96f26ada56dd",
+    "name": "Paul Barbe",
+    "wikidata": "Q30148892",
+    "possibleIdentity": "Jean-Paul Barbier",
+    "firstYear": 1870,
+    "lastYear": 1870,
+    "recordCount": 1,
+    "birth": 1948
+  },
+  {
+    "id": "a9637af87cedc",
+    "name": "Augusto Ottavio Forti",
+    "wikidata": "Q115544062",
+    "possibleIdentity": "Augusto Forti",
+    "firstYear": 1883,
+    "lastYear": 1883,
+    "recordCount": 1,
+    "birth": 1933
+  },
+  {
+    "id": "a9737a3aeee07",
+    "name": "Ernst Hentze",
+    "wikidata": "Q37189218",
+    "possibleIdentity": "Ernst Heintze",
+    "firstYear": 1929,
+    "lastYear": 1929,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "a98c52469855b",
+    "name": "Bourrieres",
+    "wikidata": "Q33105611",
+    "possibleIdentity": "Paul Bourrières",
+    "firstYear": 1913,
+    "lastYear": 1913,
+    "recordCount": 1,
+    "birth": 1914
+  },
+  {
+    "id": "a9a1a23753e0b",
+    "name": "Oswald Burger",
+    "wikidata": "Q2036362",
+    "possibleIdentity": "Oswald Burger",
+    "firstYear": 1927,
+    "lastYear": 1927,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "a9a13c91d14d1",
+    "name": "Guglielmo Jervis",
+    "wikidata": "Q3778959",
+    "possibleIdentity": "Guglielmo Jervis",
+    "firstYear": 1881,
+    "lastYear": 1881,
+    "recordCount": 1,
+    "birth": 1901
+  },
+  {
+    "id": "a9a666c9c0651",
+    "name": "P.J Archambault",
+    "wikidata": "Q3370495",
+    "possibleIdentity": "Paul Archambault",
+    "firstYear": 1851,
+    "lastYear": 1851,
+    "recordCount": 1,
+    "birth": 1883
+  },
+  {
+    "id": "a9afb73b49b4c",
+    "name": "Francesco Ignazio Costa",
+    "wikidata": "Q122901043",
+    "possibleIdentity": "Francesco Zaverio da San Lorenzo della Costa",
+    "firstYear": 1780,
+    "lastYear": 1780,
+    "recordCount": 1,
+    "birth": 1878
+  },
+  {
+    "id": "a9c8350ef956b",
+    "name": "Vincenzo Masini",
+    "wikidata": "Q131694504",
+    "possibleIdentity": "Vincenzo Marini",
+    "firstYear": 1759,
+    "lastYear": 1759,
+    "recordCount": 1,
+    "birth": 1917
+  },
+  {
+    "id": "a9da63b2bd698",
+    "name": "Fritz Bielz",
+    "wikidata": "Q1465717",
+    "possibleIdentity": "Fritz Bilz",
+    "firstYear": 1924,
+    "lastYear": 1924,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "a9f8be6fd4bfb",
+    "name": "William Charles Wells",
+    "wikidata": "Q5006309",
+    "possibleIdentity": "Charles Bradford Welles",
+    "firstYear": 1795,
+    "lastYear": 1795,
+    "recordCount": 1,
+    "birth": 1901
+  },
+  {
+    "id": "aa001e2b50bd1",
+    "name": "Richard Anderson",
+    "wikidata": "Q7325119",
+    "possibleIdentity": "Richard Davis Anderson",
+    "firstYear": 1879,
+    "lastYear": 1879,
+    "recordCount": 1,
+    "birth": 1922
+  },
+  {
+    "id": "aa41b5d3105f1",
+    "name": "Giuseppe Santini",
+    "wikidata": "Q21209023",
+    "possibleIdentity": "Giuseppe Santini",
+    "firstYear": 1604,
+    "lastYear": 1604,
+    "recordCount": 1,
+    "birth": 1735
+  },
+  {
+    "id": "aa4130aa216fe",
+    "name": "Gabriele Grosso",
+    "wikidata": "Q26770206",
+    "possibleIdentity": "Gabriele Grasso",
+    "firstYear": 1830,
+    "lastYear": 1830,
+    "recordCount": 1,
+    "birth": 1867
+  },
+  {
+    "id": "aa56ac7cbd45a",
+    "name": "Edward Dyer Peters",
+    "wikidata": "Q5344578",
+    "possibleIdentity": "Edward N. Peterson",
+    "firstYear": 1911,
+    "lastYear": 1911,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "aa690408afb8e",
+    "name": "M. de Lagny",
+    "wikidata": "Q100732685",
+    "possibleIdentity": "Michèle Lagny",
+    "firstYear": 1719,
+    "lastYear": 1719,
+    "recordCount": 1,
+    "birth": 1938
+  },
+  {
+    "id": "aa7b52158ee35",
+    "name": "A Lallemand",
+    "wikidata": "Q2848084",
+    "possibleIdentity": "André Lallemand",
+    "firstYear": 1864,
+    "lastYear": 1864,
+    "recordCount": 1,
+    "birth": 1904
+  },
+  {
+    "id": "aa9efa32405a1",
+    "name": "A Koch",
+    "wikidata": "Q45036582",
+    "possibleIdentity": "Adelheid Koch",
+    "firstYear": 1877,
+    "lastYear": 1877,
+    "recordCount": 1,
+    "birth": 1896
+  },
+  {
+    "id": "aa99e728428e2",
+    "name": "Johann Friedrieh ( Johannes Frede- Gronow",
+    "wikidata": "Q107164468",
+    "possibleIdentity": "Johannes Grunow",
+    "firstYear": 1691,
+    "lastYear": 1691,
+    "recordCount": 1,
+    "birth": 1902
+  },
+  {
+    "id": "aa921ac6fbbae",
+    "name": "Gio: Francesco Pivati",
+    "wikidata": "Q96098833",
+    "possibleIdentity": "Francesco Piva",
+    "firstYear": 1747,
+    "lastYear": 1747,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "aab0a5b9d848d",
+    "name": "G. A Binder",
+    "wikidata": "Q111579819",
+    "possibleIdentity": "Gertraut Ehrmann-Binder",
+    "firstYear": 1891,
+    "lastYear": 1891,
+    "recordCount": 1,
+    "birth": 1915
+  },
+  {
+    "id": "aabda22a9d808",
+    "name": "A Chevalier",
+    "wikidata": "Q766644",
+    "possibleIdentity": "Auguste Chevalier",
+    "firstYear": 1829,
+    "lastYear": 1829,
+    "recordCount": 1,
+    "birth": 1873
+  },
+  {
+    "id": "aae7876daf6e3",
+    "name": "Alexander Karl William Sueriæan",
+    "wikidata": "Q21610057",
+    "possibleIdentity": "Karl Wilhelm Supprian",
+    "firstYear": 1836,
+    "lastYear": 1836,
+    "recordCount": 1,
+    "birth": 1871
+  },
+  {
+    "id": "aaf52fea1f97d",
+    "name": "A Naumann",
+    "wikidata": "Q94782351",
+    "possibleIdentity": "Alexander Naumann",
+    "firstYear": 1870,
+    "lastYear": 1870,
+    "recordCount": 1,
+    "birth": 1905
+  },
+  {
+    "id": "ab099cb40184a",
+    "name": "Aime'",
+    "wikidata": "Q21523092",
+    "possibleIdentity": "Antonio Ponce de Leon y Aimé",
+    "firstYear": 1847,
+    "lastYear": 1847,
+    "recordCount": 1,
+    "birth": 1887
+  },
+  {
+    "id": "ab00b5c851143",
+    "name": "Giovan Francesco Pivati",
+    "wikidata": "Q96098833",
+    "possibleIdentity": "Francesco Piva",
+    "firstYear": 1748,
+    "lastYear": 1748,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "ab07415834583",
+    "name": "Luigi Maringola",
+    "wikidata": "Q61477538",
+    "possibleIdentity": "Luigi Marino",
+    "firstYear": 1853,
+    "lastYear": 1853,
+    "recordCount": 1,
+    "birth": 1873
+  },
+  {
+    "id": "ab156e4f9fb81",
+    "name": "Arthur R. (Arthur Robert) Hinks",
+    "wikidata": "Q2065787",
+    "possibleIdentity": "Arthur Robert Hinks",
+    "firstYear": 1824,
+    "lastYear": 1824,
+    "recordCount": 1,
+    "birth": 1873
+  },
+  {
+    "id": "ab4b0533a53d9",
+    "name": "Robert Strigel",
+    "wikidata": "Q130776410",
+    "possibleIdentity": "Robert Sigel",
+    "firstYear": 1949,
+    "lastYear": 1949,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "ab46fbc69e97f",
+    "name": "Robert Jones",
+    "wikidata": "Q18105646",
+    "possibleIdentity": "David Robert Jones",
+    "firstYear": 1803,
+    "lastYear": 1803,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "ab5b50ecfdba9",
+    "name": "Johann Jarke",
+    "wikidata": "Q55122432",
+    "possibleIdentity": "Johann Gottfried Janke",
+    "firstYear": 1725,
+    "lastYear": 1725,
+    "recordCount": 1,
+    "birth": 1724
+  },
+  {
+    "id": "ab59cbe864ddf",
+    "name": "Giuseppe Finocchi",
+    "wikidata": "Q112031632",
+    "possibleIdentity": "Giuseppe Finocchiaro",
+    "firstYear": 1930,
+    "lastYear": 1930,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "ab64da4f0d5c5",
+    "name": "Paul Besson",
+    "wikidata": "Q76365004",
+    "possibleIdentity": "Paul Bisson",
+    "firstYear": 1904,
+    "lastYear": 1904,
+    "recordCount": 1,
+    "birth": 1909
+  },
+  {
+    "id": "ab655a37ebb4e",
+    "name": "Adol£ Krebs",
+    "wikidata": "Q15990435",
+    "possibleIdentity": "Adolf Krebs",
+    "firstYear": 1889,
+    "lastYear": 1889,
+    "recordCount": 1,
+    "birth": 1931
+  },
+  {
+    "id": "ab793dd81cf0b",
+    "name": "G Guittonneau",
+    "wikidata": "Q5890026",
+    "possibleIdentity": "Guy Georges Guittonneau",
+    "firstYear": 1927,
+    "lastYear": 1927,
+    "recordCount": 1,
+    "birth": 1934
+  },
+  {
+    "id": "ab9a5423a33c9",
+    "name": "J.D Etienne",
+    "wikidata": "Q3167045",
+    "possibleIdentity": "Jean-Louis Etienne",
+    "firstYear": 1779,
+    "lastYear": 1779,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "ab9a7ed15121f",
+    "name": "W Hooper",
+    "wikidata": "Q22096473",
+    "possibleIdentity": "Robert William Hooper",
+    "firstYear": 1794,
+    "lastYear": 1794,
+    "recordCount": 1,
+    "birth": 1810
+  },
+  {
+    "id": "abad2466fea4c",
+    "name": "Martin Kahler",
+    "wikidata": "Q94877512",
+    "possibleIdentity": "Martin Kähler",
+    "firstYear": 1749,
+    "lastYear": 1749,
+    "recordCount": 1,
+    "birth": 1874
+  },
+  {
+    "id": "abbbcec0b8df6",
+    "name": "Francis Penæose",
+    "wikidata": "Q26459907",
+    "possibleIdentity": "Francis George Penrose",
+    "firstYear": 1752,
+    "lastYear": 1752,
+    "recordCount": 1,
+    "birth": 1857
+  },
+  {
+    "id": "abcd7b7d4271a",
+    "name": "Giuseppe Piola",
+    "wikidata": "Q85810784",
+    "possibleIdentity": "Giuseppe Pirola",
+    "firstYear": 1879,
+    "lastYear": 1879,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "abf78b7177b51",
+    "name": "Moruzzi",
+    "wikidata": "Q63299571",
+    "possibleIdentity": "Giovanni Moruzzi",
+    "firstYear": 1857,
+    "lastYear": 1857,
+    "recordCount": 1,
+    "birth": 1904
+  },
+  {
+    "id": "abf375ab8af4a",
+    "name": "G Collet",
+    "wikidata": "Q5622161",
+    "possibleIdentity": "Guy Christian Collet",
+    "firstYear": 1931,
+    "lastYear": 1931,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "ac0875e28ca3d",
+    "name": "C. W Lutz",
+    "wikidata": "Q94788028",
+    "possibleIdentity": "Christoph Lutz",
+    "firstYear": 1907,
+    "lastYear": 1907,
+    "recordCount": 1,
+    "birth": 1931
+  },
+  {
+    "id": "ac1b111fa5a57",
+    "name": "R Wall",
+    "wikidata": "Q87187604",
+    "possibleIdentity": "Richard Wall",
+    "firstYear": 1950,
+    "lastYear": 1950,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "ac1762313e8ca",
+    "name": "Jean Voisin",
+    "wikidata": "Q1680616",
+    "possibleIdentity": "Jean-Claude Voisin",
+    "firstYear": 1922,
+    "lastYear": 1922,
+    "recordCount": 1,
+    "birth": 1949
+  },
+  {
+    "id": "ac1bd4b954da2",
+    "name": "Gian Battist& Beccaria",
+    "wikidata": "Q3762684",
+    "possibleIdentity": "Gian Luigi Beccaria",
+    "firstYear": 1754,
+    "lastYear": 1754,
+    "recordCount": 1,
+    "birth": 1936
+  },
+  {
+    "id": "ac18f52d84af7",
+    "name": "Robert Browning",
+    "wikidata": "Q504999",
+    "possibleIdentity": "Robert Browning",
+    "firstYear": 1904,
+    "lastYear": 1904,
+    "recordCount": 1,
+    "birth": 1914
+  },
+  {
+    "id": "ac2aa263c9ed5",
+    "name": "J Joyce",
+    "wikidata": "Q112394590",
+    "possibleIdentity": "John J. Joyce",
+    "firstYear": 1821,
+    "lastYear": 1821,
+    "recordCount": 1,
+    "birth": 1914
+  },
+  {
+    "id": "ac2b699c2d5b0",
+    "name": "Giovanni Battista Lauro",
+    "wikidata": "Q61476965",
+    "possibleIdentity": "Giovanni Battista Laura",
+    "firstYear": 1625,
+    "lastYear": 1625,
+    "recordCount": 1,
+    "birth": 1801
+  },
+  {
+    "id": "ac37d2b845e2c",
+    "name": "Paul Adam",
+    "wikidata": "Q138642083",
+    "possibleIdentity": "Paul Jay Adams",
+    "firstYear": 1887,
+    "lastYear": 1887,
+    "recordCount": 1,
+    "birth": 1901
+  },
+  {
+    "id": "ac46c06cc261e",
+    "name": "M Causse",
+    "wikidata": "Q65571875",
+    "possibleIdentity": "Michel Causse",
+    "firstYear": 1892,
+    "lastYear": 1892,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "ac687f3892997",
+    "name": "Hans Giese",
+    "wikidata": "Q90089",
+    "possibleIdentity": "Hans Giese",
+    "firstYear": 1909,
+    "lastYear": 1909,
+    "recordCount": 1,
+    "birth": 1920
+  },
+  {
+    "id": "ac64eb5ebbb8c",
+    "name": "Pietro Castelli",
+    "wikidata": "Q61474163",
+    "possibleIdentity": "Pietro Capelli",
+    "firstYear": 1675,
+    "lastYear": 1675,
+    "recordCount": 1,
+    "birth": 1701
+  },
+  {
+    "id": "ac65ed718967a",
+    "name": "Francesco Santini",
+    "wikidata": "Q3750573",
+    "possibleIdentity": "Francesco Sabatini",
+    "firstYear": 1843,
+    "lastYear": 1843,
+    "recordCount": 1,
+    "birth": 1931
+  },
+  {
+    "id": "ac7c059eef338",
+    "name": "Richard E Threlfall",
+    "wikidata": "Q7329476",
+    "possibleIdentity": "Richard Threlfall",
+    "firstYear": 1851,
+    "lastYear": 1851,
+    "recordCount": 1,
+    "birth": 1861
+  },
+  {
+    "id": "ac870e0c53d60",
+    "name": "M. de Maillet",
+    "wikidata": "Q125537601",
+    "possibleIdentity": "Marc Maillet",
+    "firstYear": 1749,
+    "lastYear": 1749,
+    "recordCount": 1,
+    "birth": 1927
+  },
+  {
+    "id": "acb9d283adc0d",
+    "name": "J.L Bray",
+    "wikidata": "Q56702641",
+    "possibleIdentity": "Alan John Bray",
+    "firstYear": 1939,
+    "lastYear": 1939,
+    "recordCount": 1,
+    "birth": 1948
+  },
+  {
+    "id": "acc6b51790ba8",
+    "name": "Antoine Mizauld",
+    "wikidata": "Q2857368",
+    "possibleIdentity": "Antoine Mizauld",
+    "firstYear": 1513,
+    "lastYear": 1513,
+    "recordCount": 1,
+    "birth": 1510
+  },
+  {
+    "id": "ad0d4ee068c3a",
+    "name": "Rudol£ Bauer",
+    "wikidata": "Q112456712",
+    "possibleIdentity": "Jost Rudolf Bauer",
+    "firstYear": 1918,
+    "lastYear": 1918,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "ad03e0f46b6e8",
+    "name": "Carlo Castiglioni",
+    "wikidata": "Q54857140",
+    "possibleIdentity": "Carlo Castiglioni",
+    "firstYear": 1795,
+    "lastYear": 1795,
+    "recordCount": 1,
+    "birth": 1884
+  },
+  {
+    "id": "ad02605635f68",
+    "name": "Johan Juncker",
+    "wikidata": "Q55840624",
+    "possibleIdentity": "Johann Christian Wilhelm Juncker",
+    "firstYear": 1441,
+    "lastYear": 1441,
+    "recordCount": 1,
+    "birth": 1761
+  },
+  {
+    "id": "ad0f7269393a1",
+    "name": "Pedro Mata",
+    "wikidata": "Q64212289",
+    "possibleIdentity": "Pedro Jaume y Matas",
+    "firstYear": 1849,
+    "lastYear": 1849,
+    "recordCount": 1,
+    "birth": 1856
+  },
+  {
+    "id": "ad1738f0bf47f",
+    "name": "Jean Baptiste Rome' (De) De Liisle",
+    "wikidata": "Q111180241",
+    "possibleIdentity": "Jean-Baptiste Derome",
+    "firstYear": 1781,
+    "lastYear": 1781,
+    "recordCount": 1,
+    "birth": 1837
+  },
+  {
+    "id": "ad12bbecee9fa",
+    "name": "Francesco Lana",
+    "wikidata": "Q5492322",
+    "possibleIdentity": "Francesco Lanza",
+    "firstYear": 1684,
+    "lastYear": 1684,
+    "recordCount": 1,
+    "birth": 1808
+  },
+  {
+    "id": "ad4121b7c0c80",
+    "name": "C Kersten",
+    "wikidata": "Q137160012",
+    "possibleIdentity": "Carl Kersten",
+    "firstYear": 1833,
+    "lastYear": 1833,
+    "recordCount": 1,
+    "birth": 1878
+  },
+  {
+    "id": "ad4a487935944",
+    "name": "Giambattista Passeri",
+    "wikidata": "Q48839832",
+    "possibleIdentity": "Giambattista Passerini",
+    "firstYear": 1775,
+    "lastYear": 1775,
+    "recordCount": 1,
+    "birth": 1793
+  },
+  {
+    "id": "ad51b8aa036f5",
+    "name": "H Fournier",
+    "wikidata": "Q109362297",
+    "possibleIdentity": "Henry Fournier",
+    "firstYear": 1898,
+    "lastYear": 1898,
+    "recordCount": 1,
+    "birth": 1898
+  },
+  {
+    "id": "ad6e703ff383f",
+    "name": "Kenneth C Bailey",
+    "wikidata": "Q4117105",
+    "possibleIdentity": "Kenneth Bigley",
+    "firstYear": 1929,
+    "lastYear": 1929,
+    "recordCount": 1,
+    "birth": 1942
+  },
+  {
+    "id": "ad74a044c16ba",
+    "name": "Albert Christ",
+    "wikidata": "Q130775800",
+    "possibleIdentity": "Albert Di Cristo",
+    "firstYear": 1935,
+    "lastYear": 1935,
+    "recordCount": 1,
+    "birth": 1940
+  },
+  {
+    "id": "ad9addf730d71",
+    "name": "Pietro Ferroni",
+    "wikidata": "Q18945750",
+    "possibleIdentity": "Pietro Ferroni",
+    "firstYear": 1740,
+    "lastYear": 1740,
+    "recordCount": 1,
+    "birth": 1744
+  },
+  {
+    "id": "ad952c5e7c192",
+    "name": "George Lewis",
+    "wikidata": "Q28097389",
+    "possibleIdentity": "George Griffin Lewis",
+    "firstYear": 1762,
+    "lastYear": 1762,
+    "recordCount": 1,
+    "birth": 1865
+  },
+  {
+    "id": "ada00c9f261be",
+    "name": "Antonio Cardone",
+    "wikidata": "Q3712883",
+    "possibleIdentity": "Domenico Antonio Cardone",
+    "firstYear": 1830,
+    "lastYear": 1830,
+    "recordCount": 1,
+    "birth": 1902
+  },
+  {
+    "id": "ada6fefff67ee",
+    "name": "G.A.F Allix",
+    "wikidata": "Q112397959",
+    "possibleIdentity": "Guy Allix",
+    "firstYear": 1817,
+    "lastYear": 1817,
+    "recordCount": 1,
+    "birth": 1948
+  },
+  {
+    "id": "adbd31f36225d",
+    "name": "Jean Pascal",
+    "wikidata": "Q102076493",
+    "possibleIdentity": "Jean-Paul Pascual",
+    "firstYear": 1681,
+    "lastYear": 1681,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "adb07c5de00b6",
+    "name": "Hugo Ring",
+    "wikidata": "Q19671093",
+    "possibleIdentity": "Hugo Röling",
+    "firstYear": 1921,
+    "lastYear": 1921,
+    "recordCount": 1,
+    "birth": 1945
+  },
+  {
+    "id": "adc3e2921d9e1",
+    "name": "G Geiger",
+    "wikidata": "Q113776220",
+    "possibleIdentity": "Gebhard Geiger",
+    "firstYear": 1900,
+    "lastYear": 1900,
+    "recordCount": 1,
+    "birth": 1948
+  },
+  {
+    "id": "ade5bd9fe013b",
+    "name": "A Troesch",
+    "wikidata": "Q102364858",
+    "possibleIdentity": "Armin Troesch",
+    "firstYear": 1950,
+    "lastYear": 1950,
+    "recordCount": 1,
+    "birth": 1947
+  },
+  {
+    "id": "adf605652f10b",
+    "name": "Jean Mökin",
+    "wikidata": "Q123677111",
+    "possibleIdentity": "Jean Baptiste Du Molin",
+    "firstYear": 1748,
+    "lastYear": 1748,
+    "recordCount": 1,
+    "birth": 1790
+  },
+  {
+    "id": "ae0b8234590eb",
+    "name": "Edward Dyver Peters",
+    "wikidata": "Q5344578",
+    "possibleIdentity": "Edward N. Peterson",
+    "firstYear": 1892,
+    "lastYear": 1892,
+    "recordCount": 1,
+    "birth": 1925
+  },
+  {
+    "id": "ae004c4c36148",
+    "name": "Luigi Antonio Ceppi",
+    "wikidata": "Q3619458",
+    "possibleIdentity": "Antonio Coppi",
+    "firstYear": 1784,
+    "lastYear": 1784,
+    "recordCount": 1,
+    "birth": 1783
+  },
+  {
+    "id": "ae1f44dafd608",
+    "name": "Antonio Cojazzi",
+    "wikidata": "Q108752898",
+    "possibleIdentity": "Antonio Cozzi",
+    "firstYear": 1813,
+    "lastYear": 1813,
+    "recordCount": 1,
+    "birth": 1850
+  },
+  {
+    "id": "ae2666d829435",
+    "name": "R Barker",
+    "wikidata": "Q134385432",
+    "possibleIdentity": "Annie Reay Barker",
+    "firstYear": 1777,
+    "lastYear": 1777,
+    "recordCount": 1,
+    "birth": 1851
+  },
+  {
+    "id": "ae3a89c2e1b5f",
+    "name": "James Wilson",
+    "wikidata": "Q18917333",
+    "possibleIdentity": "James Arthur Wilson",
+    "firstYear": 1761,
+    "lastYear": 1761,
+    "recordCount": 1,
+    "birth": 1795
+  },
+  {
+    "id": "ae4f20bbd4fa4",
+    "name": "Franz Köbell",
+    "wikidata": "Q76459",
+    "possibleIdentity": "Wolfgang Franz von Kobell",
+    "firstYear": 1650,
+    "lastYear": 1650,
+    "recordCount": 1,
+    "birth": 1803
+  },
+  {
+    "id": "ae454c4d82fd2",
+    "name": "Erling Peterson",
+    "wikidata": "Q12310478",
+    "possibleIdentity": "Erling Ladewig Petersen",
+    "firstYear": 1904,
+    "lastYear": 1904,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "ae5fea1d90b36",
+    "name": "W. M Buchanan",
+    "wikidata": "Q108498349",
+    "possibleIdentity": "Arthur William Patrick Buchanan",
+    "firstYear": 1856,
+    "lastYear": 1856,
+    "recordCount": 1,
+    "birth": 1870
+  },
+  {
+    "id": "ae523627f6a30",
+    "name": "Harry Shipley Fry",
+    "wikidata": "Q27653719",
+    "possibleIdentity": "Harry Frey",
+    "firstYear": 1921,
+    "lastYear": 1921,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "ae6658960726f",
+    "name": "Pierre Seguin",
+    "wikidata": "Q3169759",
+    "possibleIdentity": "Jean-Pierre Seguin",
+    "firstYear": 1666,
+    "lastYear": 1666,
+    "recordCount": 1,
+    "birth": 1920
+  },
+  {
+    "id": "ae69e5c02404a",
+    "name": "J.H.C Eggers",
+    "wikidata": "Q4722920",
+    "possibleIdentity": "Alfred J. Eggers",
+    "firstYear": 1827,
+    "lastYear": 1827,
+    "recordCount": 1,
+    "birth": 1922
+  },
+  {
+    "id": "ae68b392d211d",
+    "name": "Peter Theopbil Riess",
+    "wikidata": "Q85861271",
+    "possibleIdentity": "Klaus Peter Reiss",
+    "firstYear": 1867,
+    "lastYear": 1867,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "ae70a8294c6c1",
+    "name": "George Stern",
+    "wikidata": "Q114896045",
+    "possibleIdentity": "George Henry Stein",
+    "firstYear": 1940,
+    "lastYear": 1940,
+    "recordCount": 1,
+    "birth": 1934
+  },
+  {
+    "id": "ae9c06a0531ba",
+    "name": "Giuseppe AntoniO Mercurio",
+    "wikidata": "Q3619890",
+    "possibleIdentity": "Antonio Mercurio",
+    "firstYear": 1844,
+    "lastYear": 1844,
+    "recordCount": 1,
+    "birth": 1930
+  },
+  {
+    "id": "ae97936b3826f",
+    "name": "Giuseppe Orlando",
+    "wikidata": "Q3771107",
+    "possibleIdentity": "Giuseppe Orlando",
+    "firstYear": 1744,
+    "lastYear": 1744,
+    "recordCount": 1,
+    "birth": 1855
+  },
+  {
+    "id": "aebafee05a079",
+    "name": "Samuel Clarke",
+    "wikidata": "Q54807490",
+    "possibleIdentity": "Samuel Asahel Clarke",
+    "firstYear": 1749,
+    "lastYear": 1749,
+    "recordCount": 1,
+    "birth": 1827
+  },
+  {
+    "id": "aeb2d4163a636",
+    "name": "G Schmid",
+    "wikidata": "Q1504141",
+    "possibleIdentity": "Georg Erich Schmid",
+    "firstYear": 1941,
+    "lastYear": 1941,
+    "recordCount": 1,
+    "birth": 1944
+  },
+  {
+    "id": "aec8c165db879",
+    "name": "Johann Wilhe Im Baulk(Er",
+    "wikidata": "Q12768386",
+    "possibleIdentity": "Johann Andreas Bäumler",
+    "firstYear": 1779,
+    "lastYear": 1779,
+    "recordCount": 1,
+    "birth": 1847
+  },
+  {
+    "id": "aed5251faaab3",
+    "name": "S Forrester",
+    "wikidata": "Q18921736",
+    "possibleIdentity": "James S. Forrester",
+    "firstYear": 1928,
+    "lastYear": 1928,
+    "recordCount": 1,
+    "birth": 1937
+  },
+  {
+    "id": "af18973c1875e",
+    "name": "Jean Kuntz",
+    "wikidata": "Q46693779",
+    "possibleIdentity": "Jean-Pierre Kintz",
+    "firstYear": 1938,
+    "lastYear": 1938,
+    "recordCount": 1,
+    "birth": 1932
+  },
+  {
+    "id": "af309c803b973",
+    "name": "Maurice f iglio Leblanc",
+    "wikidata": "Q1911364",
+    "possibleIdentity": "Maurice Leblanc",
+    "firstYear": 1486,
+    "lastYear": 1486,
+    "recordCount": 1,
+    "birth": 1857
+  },
+  {
+    "id": "af34f0c3e3db8",
+    "name": "Luciano Martinæz",
+    "wikidata": "Q51060029",
+    "possibleIdentity": "Luciano Andrade Marín",
+    "firstYear": 1846,
+    "lastYear": 1846,
+    "recordCount": 1,
+    "birth": 1893
+  },
+  {
+    "id": "af4418d6886b7",
+    "name": "Fr Strobel",
+    "wikidata": "Q102144689",
+    "possibleIdentity": "Charles Frederick Strobel",
+    "firstYear": 1824,
+    "lastYear": 1824,
+    "recordCount": 1,
+    "birth": 1911
+  },
+  {
+    "id": "af544819d993d",
+    "name": "L.E Bergeron",
+    "wikidata": "Q15428638",
+    "possibleIdentity": "Louis Bergeron",
+    "firstYear": 1816,
+    "lastYear": 1816,
+    "recordCount": 1,
+    "birth": 1929
+  },
+  {
+    "id": "af664a8232373",
+    "name": "Giuseppe Ceredi",
+    "wikidata": "Q105016790",
+    "possibleIdentity": "Giuseppe Ceredi",
+    "firstYear": 1567,
+    "lastYear": 1567,
+    "recordCount": 1,
+    "birth": 1560
+  },
+  {
+    "id": "af610d1f323c1",
+    "name": "Joseph T Singeiyald",
+    "wikidata": "Q112538315",
+    "possibleIdentity": "Joseph Theophilus Singewald",
+    "firstYear": 1574,
+    "lastYear": 1574,
+    "recordCount": 1,
+    "birth": 1884
+  },
+  {
+    "id": "af6ed1548c105",
+    "name": "Victor Egger",
+    "wikidata": "Q5627825",
+    "possibleIdentity": "Victor Eggertz",
+    "firstYear": 1718,
+    "lastYear": 1718,
+    "recordCount": 1,
+    "birth": 1817
+  },
+  {
+    "id": "af741d66baa2e",
+    "name": "Giuseppe Bartoli",
+    "wikidata": "Q105945812",
+    "possibleIdentity": "Giuseppe Bartoli",
+    "firstYear": 1745,
+    "lastYear": 1745,
+    "recordCount": 1,
+    "birth": 1941
+  },
+  {
+    "id": "af8bd2ca48867",
+    "name": "Morris Guggenheim",
+    "wikidata": "Q102173553",
+    "possibleIdentity": "Victor Kurt Alfred Morris Gugenheim",
+    "firstYear": 1930,
+    "lastYear": 1930,
+    "recordCount": 1,
+    "birth": 1923
+  },
+  {
+    "id": "af9e0738b5b73",
+    "name": "William Johnson",
+    "wikidata": "Q132824449",
+    "possibleIdentity": "Frank William Johnson",
+    "firstYear": 1657,
+    "lastYear": 1657,
+    "recordCount": 1,
+    "birth": 1867
+  },
+  {
+    "id": "af9af980c07a6",
+    "name": "Giovanni Contri",
+    "wikidata": "Q108107512",
+    "possibleIdentity": "Giovanni Conti",
+    "firstYear": 1820,
+    "lastYear": 1820,
+    "recordCount": 1,
+    "birth": 1946
+  },
+  {
+    "id": "afb2cee4e02cd",
+    "name": "M.A Basset",
+    "wikidata": "Q11209100",
+    "possibleIdentity": "Jean-Marie Basset",
+    "firstYear": 1901,
+    "lastYear": 1901,
+    "recordCount": 1,
+    "birth": 1943
+  },
+  {
+    "id": "afd1c29500184",
+    "name": "L Brugnatelli",
+    "wikidata": "Q3839392",
+    "possibleIdentity": "Luigi Brugnatelli",
+    "firstYear": 1802,
+    "lastYear": 1802,
+    "recordCount": 1,
+    "birth": 1859
+  },
+  {
+    "id": "afe83ac43d665",
+    "name": "Edmond Kayser",
+    "wikidata": "Q119180",
+    "possibleIdentity": "Edmond Kaiser",
+    "firstYear": 1894,
+    "lastYear": 1894,
+    "recordCount": 1,
+    "birth": 1914
+  },
+  {
+    "id": "afe6fc286d084",
+    "name": "Richard Wells",
+    "wikidata": "Q96202443",
+    "possibleIdentity": "Richard H. Welles",
+    "firstYear": 1770,
+    "lastYear": 1770,
+    "recordCount": 1,
+    "birth": 1872
+  },
+  {
+    "id": "affc1b60ff6d0",
+    "name": "J.NL Waldram",
+    "wikidata": "Q112520411",
+    "possibleIdentity": "John Ryder Waldram",
+    "firstYear": 1934,
+    "lastYear": 1934,
+    "recordCount": 1,
+    "birth": 1935
+  },
+  {
+    "id": "affd3ba0b1bbf",
+    "name": "Luigi Venturi",
+    "wikidata": "Q110333084",
+    "possibleIdentity": "Luigi Venturi",
+    "firstYear": 1888,
+    "lastYear": 1888,
+    "recordCount": 1,
+    "birth": 1909
+  },
+  {
+    "id": "affc85b3ac832",
+    "name": "Grandin",
+    "wikidata": "Q134706861",
+    "possibleIdentity": "Lilian Mary Grandin",
+    "firstYear": 1738,
+    "lastYear": 1738,
+    "recordCount": 1,
+    "birth": 1876
+  },
+  {
+    "id": "affd13d4a1c19",
+    "name": "W.S Swart",
+    "wikidata": "Q6324228",
+    "possibleIdentity": "Koenraad Wolter Swart",
+    "firstYear": 1831,
+    "lastYear": 1831,
+    "recordCount": 1,
+    "birth": 1916
+  }
+]

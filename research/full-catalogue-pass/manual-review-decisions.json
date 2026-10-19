@@ -1,0 +1,2840 @@
+[
+  {
+    "id": "w2dba18a01ac2",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3db32946c0a7",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3d4369f30ef6",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa67eb2213d73",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa635d008afa7",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa6a47aa86567",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w79acd17db42c",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w794c076eae46",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w798d140ff966",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w79a458332c78",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w698c90574896",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w693813a07def",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w69cffa0a5273",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w69557b38f5cc",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf40ad0c1e1ef",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wf42416fa44fa",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4ff52d98ffc3",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w5f360dbeee31",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5fdaca69b93e",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5fb76db62933",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfd9826c73ff9",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wfd4e5d682cbd",
+    "candidateType": "printing",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w46b3761fdf9e",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w46f8cf6afc53",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5660939018d6",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w56ae97a8aca9",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w56f011094c99",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w56435ea575f1",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb962c510d2b0",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w34e849930ac1",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3422e67ff029",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "waf6eec469e39",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "waf1e5a8bdbe5",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "waf1e5a8bdbe5",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w02b5618a971d",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w029fd605dc7a",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w12555d395462",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w12862e1f5a82",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w12b441b48de5",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "web9c29dadb4f",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "webd834224940",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "web51a958c355",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wdb232e0f7b22",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8db561ca6e18",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8d8e17a37ba6",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w8d4ef45ca1fb",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8dc90008f049",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8d78aebe01c9",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9d4f1d4151b7",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w84956fcf1ee4",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w945f9a20ef74",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w94b95c87f90a",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9464f8aa68a9",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9423e8b001d5",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "we2aa82bf4add",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we2a74044ae04",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd2fbe01357af",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd205285b7103",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wc01ea259ab56",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wc04aca502b13",
+    "candidateType": "printing",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc0c92cab23b4",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc0dd9f759645",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wc090b7af60a9",
+    "candidateType": "printing",
+    "disposition": "manually_verified_print_run_note",
+    "note": "Original scanned card visually inspected. Scope/conflicts are retained in the evidence; continuation is attached to the preceding entry."
+  },
+  {
+    "id": "wb04baef23481",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb0c08e2c437f",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb0ce441865ae",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wb0ae7ac76739",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb0e4dfdde10d",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0baabbb8af2a",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w0b30fe0f77dc",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0b1fb35af116",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0b5631a6ba5b",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1b72d057e525",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w1b760f27f932",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w1b3ebc4853be",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wba36b9a6d86b",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wba2216c531ed",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wcae49c695db0",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wca9f29f63460",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wcafcc6d2110a",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wca2f0cc051cb",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w139b7c359b69",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w139b7c359b69",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0341b853ba78",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w03441b68b25c",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6122ee9def67",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w610060392490",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w61747a3fce54",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6116b0644e27",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9eac20c5427a",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9ef71efedbd4",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8ed6ac4ecb67",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8ec47fdf2f30",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8ec0f1f07fd0",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8e1a565c85b5",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wdc2d08bb9ec2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wecf13a0aea54",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wec2767f304cb",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6aff8edc0f21",
+    "candidateType": "printing",
+    "disposition": "manually_verified_print_run_note",
+    "note": "Original scanned card visually inspected. Scope/conflicts are retained in the evidence; continuation is attached to the preceding entry."
+  },
+  {
+    "id": "we33a2d1815f9",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w95d324526ca6",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w85504d0b27e3",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8532aefd74ea",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w85634831f9da",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wb11f0ef0cb96",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb1ba02d6cb67",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb1b4894edeb7",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc18a5cc7ec12",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc18923b62c2f",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc1888fd8d0e6",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc14c5077be34",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1c40c1bad5f9",
+    "candidateType": "reproduction",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0c6b75308606",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0c6a61a649d2",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w782b63b90079",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w78b819dd4bec",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w78271d205e5f",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w2e8ed36e34fd",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w2ee431fa1cfb",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa733205e39c2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa7de776bc8ec",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wf52c4cb7ca11",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wc8d230582f90",
+    "candidateType": "incomplete",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb857bd3c8b47",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wfe04cbb55ee9",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w5778bb788cb0",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w57b95fd75b81",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w577b474c96b2",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w474406d9f582",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w35c7e5f8f229",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w3555f6f37564",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3530c9ca88c9",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w350a50bd5001",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w35f8eb26d7bc",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wdad7a7afb8b2",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w633fff5304f6",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w63e2e1a0a434",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7360635146c6",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w73c198d806da",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w01ea974971b6",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wcc83305197a1",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wbcad3ce84230",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbc9a4e68c170",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbcd4be93ecc8",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w0a5745d4b695",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0a14b1df858e",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1adc547b59ec",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc336e1d74fbb",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb365b94b54f9",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb366760a4fe0",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8798a3df3850",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w978de66b77e4",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we10d2260a558",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6ccc03b480e0",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6c052f22a8d4",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7caaef52406c",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4edcc0247822",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4edf7c4bb2ae",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5e345a88ab31",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5eeb899b96f5",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf7c17bb8e63f",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf7fd356601d6",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf754de94d21f",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w18f44d5a57a8",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w18ea11208791",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa59dc4775acf",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa55f3e9d2396",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "waeb031276c47",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w27fe3217c78e",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w376ff03bc49c",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w37c7197f48f0",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w37f186f898b7",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w37c1489fe65d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd8218d9f6f2d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we87f536505f8",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "we8836fe51f93",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w55aa787e93e4",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w09d5f208041b",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w09900bd196f1",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w19f81b407a8b",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w19c620107859",
+    "candidateType": "incomplete",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5d0bab1589a9",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w5dd96363ab59",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4d9e59792e02",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w3ff8fdd7ea55",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we91fbce15a72",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "we98ce59bd616",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd9f0fb6ccc90",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wad7c199d965a",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w36b60bbce736",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w36184aaa77fb",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3670bd43c3db",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w26e95932487b",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w26bede839688",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w26f4e9d545e2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w54c8ef8a4d23",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w44603bb763de",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wff514522d556",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wffe2d09b7434",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9f6f3f558424",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9f9622290ed2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9f97364a0067",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9ff5d067d1f8",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8f7513988ea2",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w723ae06c690a",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w62b5164aa50e",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w624527887827",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w100d2fff6653",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w103047174b6a",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w10c6a20b65b2",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w00105a301850",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbbd455d7e72e",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb2538876a26b",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb2c43a24fe46",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb258bf990e81",
+    "candidateType": "printing",
+    "disposition": "manually_verified_print_run_note",
+    "note": "Original scanned card visually inspected. Scope/conflicts are retained in the evidence; continuation is attached to the preceding entry."
+  },
+  {
+    "id": "wb2bc4582a19d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc2c6f0b936ec",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wd08cc20f2c5f",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we01417a08ebe",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w968e35193ee9",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w96220641fabf",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w96b232c54ad7",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8635952934e5",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w8646deb943c2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7b5d6334a45a",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7b9ce5c5157b",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7bc499bb74b7",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6bd5812eb714",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6badfa76dac6",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w6b4d5b9ae060",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6bd87da10a2a",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w58bf225ef3df",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w486c8b45ed92",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc7d4d9fe18a4",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb7f62d668ea9",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0ea5f8b42100",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0ede404545ab",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1ee3a5ec2e68",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we53c5696dffb",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we568468bb4c3",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we5ff568e9a52",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd55b5e100595",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wd5ac2f57b536",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd57a5526e81e",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w83aed29b220f",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa827037936c6",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wa867ebcaf3da",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w670edd6dfb25",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w67cfa89bcc10",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w779a293af969",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8c00dd5b7bb7",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8cb6c8d31551",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wee28d3bf3783",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "weefd7360333b",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wee5e8971eb75",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "weec592bf4fe7",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wee071187bf62",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wee29f609e6fd",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wee97e8615a27",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wde92c005ac9c",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wde479253d034",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w059991d67221",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w234058fec799",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w23cfe4074ff3",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w23f801c0569d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w23e2c759e137",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w33c70d417e3d",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w33310e8ecf51",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfcb9dc5d2815",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wfc0554154564",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfc236faf28a5",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w41536b395383",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w41b9cc1d5753",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w416b3a0318b0",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w51e85fafa950",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf3f0a5fd3ce2",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wf326990a6d03",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4a1003a7f9dc",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w4a53f9296cac",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w4a248db42c31",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5a2896c0878b",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5a87e2597110",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5a13e94dff68",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5a83c550354f",
+    "candidateType": "incomplete",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5aab0634c5fb",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w2c8aed56da13",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa1c46182b38d",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa1e056e8c4cb",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w32fd0e3ed9bc",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w32132c1d7545",
+    "candidateType": "printing",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w32132c1d7545",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w22e91cf96b7c",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfbf805efcd80",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfbf02d42eb1e",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wfbbc4be82b2f",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfb06598492e7",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wfbffac2e19fd",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfb34941f507d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w50ba51c8712d",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w4002f1c3b907",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w40215511f2b4",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w40852df5f441",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w40d6a8f1cbc2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w409152257811",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3b02f55c18a1",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w2b83b27a5a18",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w2b6d149c522e",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa0b2fe735577",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa0aabddbc12f",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb62e119ea0f4",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb64368d0f73d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc6444f598b05",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc6616e3d569a",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1d8574ed1e58",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0da8df303a18",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0de3d5fc45ac",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0d5c2ac4d8ef",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7f5b3366470b",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w7ff2f2b293aa",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w6f5e5ab34408",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w92825c6eb953",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w922df4f0f92a",
+    "candidateType": "reproduction",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w821e87f0faf7",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "we4d7b446c131",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we4d499eb807a",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we48a6d2704e2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w768a9ed5460a",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w7646246ed32f",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w76e3cdc0d0f0",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w76b81d759e20",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w761ade33e132",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7620d38c0077",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w66f1291e6fbf",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w66a0e2cc69ea",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6654cb9d9f28",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wddb0b6149d9f",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wdd7bcbc3801f",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wed9a334b84ee",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wed543b56a2cc",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wed0c68deb656",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "weddd51bd3770",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wedc1c7434845",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9b67098176fb",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8bf79e6c6028",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa937659063b4",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wa908e6abb722",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbfa25c387cb8",
+    "candidateType": "reproduction",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbfe13c59ffc0",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w14b302458885",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1431b0db504e",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0463a4288ab5",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w423af8eb716f",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4259bd95c89e",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w42e425244ae1",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5204fd30d644",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w529803ac1819",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wab49a369b758",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wab90309a0990",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wab698f1d3190",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w20ac24ffbda7",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w30525e070bd6",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w30525e070bd6",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w995f63f1c871",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w998b24b97477",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9937779c4eba",
+    "candidateType": "incomplete",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w89d3141a20fb",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa27b9d5c6767",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa2528c8603ff",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa27fa4d59f95",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4b6e68ed6b75",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w5b8241af6d90",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf006c5ca1393",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w391a27178573",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w292630ebf27d",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w2901eb1a7867",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w29250636a499",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we6598acb44be",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we69bd4b201ce",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wd6e7a83ebdbc",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wd64c12ea8edf",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9086a3e38126",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w908c919f77f2",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w90af62038a2a",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6d3d45f747dd",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7dd93164ffb9",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0fe5042a5687",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1f375d83ca6e",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1f6b6e5c2dd1",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1f8504ffe4f1",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1f50696036ec",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb44eece6a17c",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb4a1d27be8c3",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf99ca9daace7",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf94f467308f7",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w06758415cf17",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w0666c8daef42",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w06a399acd961",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w0675e42d1213",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w161d3cee54f9",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w1615f6d09da3",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wcd3c329ca20b",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbd6a6f3af0c3",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wefeac24141b2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wdf81478402d3",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wdf72d0662f14",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wdf62d331e004",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w64a20212a4f9",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w64c9beaab9ae",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w744ae784d90d",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w81e046599d83",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w8126a051a5e7",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wd7639b4c9a4c",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wd73fa6b73c18",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we7a7e9057eb7",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we71bc0afb951",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "we7cbafcec01f",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w7edc66314c1a",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w7e449ba7b1f2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6ec8850a140b",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6e3e14308cc6",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6e81d43503da",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w6e4ea1756d0b",
+    "candidateType": "reproduction",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w28fda283446c",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w287184af8935",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w38d10f45cfd3",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb5d591ac86c1",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wb506eb45e104",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wc526454540c1",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w172b3b2520cc",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w17379d450d59",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w076af8f771f7",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w07a48dc05d25",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbe2b352f425b",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wbe350c85312e",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wceeacceca787",
+    "candidateType": "printing",
+    "disposition": "manually_verified_print_run_note",
+    "note": "Original scanned card visually inspected. Scope/conflicts are retained in the evidence; continuation is attached to the preceding entry."
+  },
+  {
+    "id": "wf804e622c703",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf8bc4fb41abc",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wf83a218eb34b",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9a5cd7acecf0",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w9af32fd1f152",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w9a06a7addc92",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8a581f146cdc",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8a74aac234c5",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w8a2fbfdfc00d",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w754116cf8cc4",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w6598cc9bfe36",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w53f458db961c",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w53cdfe1bc601",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w43419f2f3795",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w434429b1014c",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfaddff637ba3",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wfa5101414a4c",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w981c8b1418a5",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w98f101423ac2",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w98bd740dcfe2",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w98ac58288489",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wac771e36333e",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wac24ccf0222f",
+    "candidateType": "printing",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wac48cf80e6df",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wacfab7950723",
+    "candidateType": "reproduction",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w316b462923b2",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w213325f3d71c",
+    "candidateType": "scarcity",
+    "disposition": "excluded_non_independent_record",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "w2106d99dda6c",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w21d758d16162",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wa39a06a6a348",
+    "candidateType": "incomplete",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3a945bbb3a8c",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w3a966d0d9e1b",
+    "candidateType": "incomplete",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w5cc6ec90eb0d",
+    "candidateType": "printing",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4c08e5d275db",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4c1183336f49",
+    "candidateType": "manuscript",
+    "disposition": "excluded_non_independent_record",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "w4cee66642cb0",
+    "candidateType": "manuscript",
+    "disposition": "source_evidence_retained",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  },
+  {
+    "id": "wf1679966828a",
+    "candidateType": "scarcity",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Rare terminology describes subject matter/title, not scarcity of this edition."
+  },
+  {
+    "id": "wf1a423188264",
+    "candidateType": "manuscript",
+    "disposition": "rejected_context_not_evidence",
+    "note": "Reviewed in full OCR context; dimensions, pagination, publisher Limited and title references are not print-run/manuscript evidence."
+  }
+]

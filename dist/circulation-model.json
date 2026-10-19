@@ -1,0 +1,32 @@
+{
+  "version": "exploratory-1",
+  "checked": "2026-10-17",
+  "title": "Ballpark surviving-copy estimates",
+  "description": "Broad scenario ranges for surviving physical copies worldwide of the described printing or individual volume. They include institutional and private copies, potentially incomplete. They do not estimate copies for sale, readers, all editions of a work, or complete multi-volume sets.",
+  "method": "Assumed original print run × assumed surviving fraction, rounded outward to one significant digit. These are editorial scenario assumptions, not a fitted statistical model or a confidence interval. Actual totals can fall outside the range. Many records share the same range because the available clues are limited.",
+  "cohorts": [
+    {"id":"early","label":"Printed work before 1600","from":1450,"to":1599,"printRun":[100,1500],"survivingFraction":[0.01,0.30]},
+    {"id":"seventeenth","label":"Printed work, 1600–1699","from":1600,"to":1699,"printRun":[250,2500],"survivingFraction":[0.02,0.40]},
+    {"id":"eighteenth","label":"Printed work, 1700–1799","from":1700,"to":1799,"printRun":[250,3000],"survivingFraction":[0.05,0.50]},
+    {"id":"nineteenth","label":"Printed work, 1800–1899","from":1800,"to":1899,"printRun":[500,10000],"survivingFraction":[0.05,0.60]},
+    {"id":"twentieth","label":"Printed work, 1900–1949","from":1900,"to":1949,"printRun":[500,20000],"survivingFraction":[0.10,0.80]},
+    {"id":"recent","label":"Printed work, 1950–2026","from":1950,"to":2026,"printRun":[500,50000],"survivingFraction":[0.10,0.90]},
+    {"id":"offprint","label":"Separate offprint or extract, any date","printRun":[25,500],"survivingFraction":[0.02,0.60]}
+  ],
+  "confidence": {
+    "low":"The edition has an individual verified or probable review, but its print run and surviving fraction are assumed.",
+    "very-low":"The date, format or edition rests on catalogue transcription or an automated match as well as assumed print run and survival."
+  },
+  "rules": [
+    "Use the catalogue year, never the year of a different online edition. A detected year can refer to a cited work; the estimate is conditional on that year being the printing date.",
+    "Offprint estimates concern separately circulated offprints or extracts only, excluding copies of the article inside bound journals. The small-run assumption may be wrong if the card describes a journal extract instead.",
+    "Do not derive a worldwide total by multiplying search hits, digital scans or a short list of holdings. An applicable documented minimum can only raise the lower end. If it exceeds the model ceiling, withhold the model range for review.",
+    "Do not replace a sourced worldwide estimate or an edition census. Withhold generic estimates for cross-references, continuation cards, manuscripts, typescripts, photocopies, explicit incomplete sets, conflicting editions/dates and specific print-run limitations.",
+    "Qualitative labels such as rare do not change these numerical assumptions. No unsuccessful search is evidence of scarcity.",
+    "The model is deliberately broad and uncalibrated. Age bands are scenario inputs, not a finding that an old book is rare. Model estimates never promote an edition to verified or count as new survival research."
+  ],
+  "sources": [
+    {"title":"H. van Goinga · Financing, print-runs and prices, 1725–1830","url":"https://www.nederlandseboekgeschiedenis.nl/en/handbook/1725-1830-domestic-orientation/3210-1725-1830-financing-print-runs-and-prices","role":"Historical context: reports varied eighteenth-century print runs, including hundreds for some scientific books and thousands for other publications. It does not supply survival rates or estimates for this catalogue. Other era bands and all surviving fractions are editorial assumptions."},
+    {"title":"Rare Books and Manuscripts Section · Your Old Books","url":"https://rbms.info/yob/","role":"Background on scarcity and edition-specific assessment; age alone does not establish rarity. This source does not validate the numerical model."}
+  ]
+}

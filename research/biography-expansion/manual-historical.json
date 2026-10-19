@@ -1,0 +1,418 @@
+{
+  "reviewedAt": "2026-10-19",
+  "scope": "Eight source-grounded historical scientists; identities checked against linked catalogue works. No dist files modified by this research pass.",
+  "entries": [
+    {
+      "authorIds": [
+        "a7b2e0e2347d8",
+        "a137a3c920ed7",
+        "a3ccc4c8d6c92",
+        "ac6988900fa99",
+        "abef17d465264",
+        "a2aad0d472c55"
+      ],
+      "name": "René-Antoine Ferchault de Réaumur",
+      "birth": 1683,
+      "death": 1757,
+      "lifeLabel": "1683–1757",
+      "origins": [
+        "France"
+      ],
+      "short": "French naturalist and experimental scientist who studied insects, metallurgy and the measurement of temperature.",
+      "biography": "René-Antoine Ferchault de Réaumur was a French naturalist and experimental scientist whose interests linked living organisms, materials and useful manufacturing techniques. Born in La Rochelle, he moved to Paris in 1703 and entered the Académie royale des sciences in 1708 after studying mathematics. From 1711 he worked on the Academy’s descriptions of arts and trades, investigating iron and steel production and later porcelain. In 1730 he proposed rules for making comparable thermometers, and his alcohol thermometer gave its name to a temperature scale. His six-volume Mémoires pour servir à l’histoire des insectes, published from 1734 to 1742, made detailed observation of insect life a major scientific undertaking. The catalogue’s Insecte des limaçons belongs to this broader programme of natural-history research; “Reaumub” is an OCR variant of his surname.",
+      "sources": [
+        {
+          "title": "Académie des sciences: Réaumur, biographical dossier",
+          "url": "https://www.academie-sciences.fr/pdf/dossiers/Reaumur/Reaumur_od1.htm"
+        },
+        {
+          "title": "University of Cagliari thesis bibliography: Réaumur’s Insecte des limaçons (1710)",
+          "url": "https://iris.unica.it/retrieve/e2f56ed8-57ff-3eaf-e053-3a05fe0a5d97/TESI-intera.pdf"
+        },
+        {
+          "title": "Académie des sciences: Mémoires pour servir à l’histoire des insectes",
+          "url": "https://www.academie-sciences.fr/pdf/dossiers/Reaumur/Reaumur_pubd2.htm"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "The full given names, early-eighteenth-century dates and distinctive works on thermometers, iron, anchors and birds agree with Réaumur. The Cagliari bibliography explicitly attributes Insecte des limaçons (1710) to R.-A. Réaumur; pagination differs between editions. The original card heading remains preserved.",
+      "canonicalId": "a7b2e0e2347d8",
+      "aliases": [
+        "Réaumur",
+        "René Antoine de Reaumub",
+        "René-Antoine Ferchault de Réaumur"
+      ]
+    },
+    {
+      "authorIds": [
+        "adbcca23f70fb"
+      ],
+      "name": "Pierre-Louis Dulong",
+      "birth": 1785,
+      "death": 1838,
+      "lifeLabel": "1785–1838",
+      "origins": [
+        "France"
+      ],
+      "short": "French physicist and chemist known for precise measurements of heat, gases and the Dulong–Petit relation.",
+      "biography": "Pierre-Louis Dulong was a French physicist and chemist trained initially in medicine. He entered the École polytechnique as a teenager and subsequently worked in Claude-Louis Berthollet’s laboratory and with Louis-Jacques Thénard. His research ranged from chemical reactions to the behaviour of heat and gases. With Alexis-Thérèse Petit he investigated cooling, temperature measurement and the heat capacities of substances; their collaboration is remembered in the Dulong–Petit relation. He also worked with Jöns Jacob Berzelius on the composition of water and with François Arago on steam pressure. Dulong taught physics at Polytechnique from 1820 to 1829 and directed its studies from 1830 until his death. The catalogue’s papers on heat, gaseous fluids and work with Petit and Thénard strongly identify this Dulong despite the stray initial “J”.",
+      "sources": [
+        {
+          "title": "École polytechnique, Bibliothèque centrale: Dulong Pierre Louis X1801",
+          "url": "https://www.polytechnique.edu/bibliotheque/actualites/dulong-pierre-louis-x1801"
+        },
+        {
+          "title": "Pierre Louis Dulong: bibliography of heat and gas research",
+          "url": "https://fr.wikipedia.org/wiki/Pierre_Louis_Dulong"
+        },
+        {
+          "title": "Historical article: Un savant rouennais, Pierre-Louis Dulong (1785–1838)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11635551/"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "The associated titles on heat, the refractive powers of gases, the composition of water, and collaborations with Petit and Thénard identify Pierre-Louis Dulong. The 1843 Recherches sur la chaleur is a posthumous publication; the “J” initial is not a reason to create another scientist. One Cabart-authored record only mentions Dulong and is flagged separately.",
+      "canonicalId": "adbcca23f70fb",
+      "aliases": [
+        "Pierre Louis Dulong",
+        "P.-L. Dulong",
+        "Dulong",
+        "J Dulong"
+      ]
+    },
+    {
+      "authorIds": [
+        "aa8ca61c6de7d",
+        "a9c69f3ded0c9",
+        "ad68aa6c493b0",
+        "ad0f819bfe4f9"
+      ],
+      "name": "Louis-Bernard Guyton de Morveau",
+      "birth": 1737,
+      "death": 1816,
+      "lifeLabel": "1737–1816",
+      "origins": [
+        "France"
+      ],
+      "short": "French chemist, teacher and politician who helped reform chemical nomenclature and establish the École polytechnique.",
+      "biography": "Louis-Bernard Guyton de Morveau combined chemistry, teaching and public life. Originally a lawyer in Dijon, he established a laboratory, gave public chemistry courses and corresponded with researchers across Europe. With Hugues Maret and Jean-François Durande he produced the Élémens de chymie théorique et pratique, published at Dijon in 1777–1778 to support those courses. His concern with clear chemical terminology helped prepare the later reform of chemical nomenclature. After discussions with Lavoisier he adopted the new chemistry that displaced phlogiston explanations. During the French Revolution he served in the Legislative Assembly and National Convention and participated in scientific work for national defence. He helped establish the institution that became the École polytechnique, taught chemistry there and served as its director from 1799 to 1804. His practical interests also included disinfecting air.",
+      "sources": [
+        {
+          "title": "École polytechnique: Guyton de Morveau, director 1799–1804",
+          "url": "https://www.polytechnique.edu/bibliotheque/actualites/1799-guyton-de-morveau-louis-baron-dijon-1737-paris-1816"
+        },
+        {
+          "title": "Science History Institute: Élémens de Chymie, Théorique et Pratique",
+          "url": "https://digital.sciencehistory.org/works/z74nidq"
+        },
+        {
+          "title": "Wellcome Collection: Élémens de chymie, Dijon 1777–1778",
+          "url": "https://wellcomecollection.org/works/bhy92wsx"
+        },
+        {
+          "title": "Inspiring Air: scholarly bibliography, Guyton de Morveau’s 1795 eudiometer paper, p. 327",
+          "url": "https://vernonpress.com/file/8215/e220af90dea9373b43de325db7dc2a49/1552469195.pdf"
+        },
+        {
+          "title": "Journal des mines, 1808: Guyton’s calcédoine du Creuzot analysis and original journal reference",
+          "url": "https://annales.ensmp.fr/numeros/Journ_24_1808.pdf"
+        },
+        {
+          "title": "Journal des mines, 1810: Guyton de Morveau and the analysis of Creuzot chalcedony",
+          "url": "https://annales.minesparis.psl.eu/numeros/Journ_27_1810.pdf"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "The card wc3d31c431757 gives the distinctive 1777–1778 Dijon textbook, coauthors Maret and Durande, and Louis Bernard. Those details match the Wellcome and Science History Institute records. “Gujton” and “Bernærd” are transcription variants. The L.B. Guyton group is also the chemist: w7598fc004fb6 is Description et usage d’un eudiomètre à sulfure de potasse, Journal de l’École polytechnique, 1795, pp. 166–168, explicitly attributed to B. L. Guyton de Morveau in the scholarly bibliography of Inspiring Air. Its companion w9354e8b87510, Analyse de la calcédoine du Creuzot, is identified as Guyton’s École polytechnique analysis in the 1808 and 1810 Journal des mines. The remaining cards are the same contemporary mineral-chemistry teaching sequence or a letter to the chemist Crell. The existing Louis-Marie Guyton (1794–1869) candidate is chronologically and topically incompatible and must be cleared.",
+      "canonicalId": "aa8ca61c6de7d",
+      "aliases": [
+        "Guyton de Morveau",
+        "Louis-Bernard Guyton-Morveau",
+        "Gujton Morveau (De)",
+        "L.B. Guyton",
+        "GUYTON, L.B."
+      ],
+      "resetIdentity": true,
+      "resetAuthorIds": [
+        "ad0f819bfe4f9"
+      ]
+    },
+    {
+      "authorIds": [
+        "a9a6f60686b52",
+        "a1a6aa7541610",
+        "abc78819dae21"
+      ],
+      "name": "Heinrich Rose",
+      "birth": 1795,
+      "death": 1864,
+      "lifeLabel": "1795–1864",
+      "origins": [
+        "Germany"
+      ],
+      "short": "German analytical chemist whose mineral studies and teaching manuals helped establish systematic chemical analysis.",
+      "biography": "Heinrich Rose was a German chemist and pharmacist associated with the University of Berlin. He came from a family of pharmacists and chemists and learned analytical methods from Martin Heinrich Klaproth before continuing his training with Jöns Jacob Berzelius in Stockholm. Research on titanium compounds and minerals led to his doctorate at Kiel in 1821. He began teaching in Berlin in 1822 and became a full professor of chemistry in 1835. His work concentrated on identifying and separating the constituents of inorganic substances, and his textbooks became important guides to analytical practice. French translations published his name as Henri Rose, the form used on many of the catalogue cards. He should be distinguished from his younger brother Gustav Rose, a mineralogist with a separate scientific career.",
+      "sources": [
+        {
+          "title": "Neue Deutsche Biographie: Heinrich Rose",
+          "url": "https://www.deutsche-biographie.de/sfz30941.html"
+        },
+        {
+          "title": "Wellcome Collection: Traité pratique d’analyse chimique, par Henri Rose",
+          "url": "https://wellcomecollection.org/works/eyv66mny"
+        },
+        {
+          "title": "Humboldt University: biography, Heinrich Rose",
+          "url": "https://www.lautarchiv.hu-berlin.de/en/objekte/-/230/"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "Wellcome explicitly indexes the French author name Henri Rose under Heinrich Rose. The catalogue’s 1859 Traité complet de chimie analytique and mineral/analytical papers agree with the works and research described in Deutsche Biographie. The brother Gustav is not included.",
+      "canonicalId": "a9a6f60686b52",
+      "aliases": [
+        "Henri Rose",
+        "Heinrich Rose",
+        "Henri l Rose"
+      ]
+    },
+    {
+      "authorIds": [
+        "a9e17618339e0"
+      ],
+      "name": "Friedrich Wöhler",
+      "birth": 1800,
+      "death": 1882,
+      "lifeLabel": "1800–1882",
+      "origins": [
+        "Germany"
+      ],
+      "short": "German chemist known for preparing urea in the laboratory and for influential work in organic and inorganic chemistry.",
+      "biography": "Friedrich Wöhler was a German chemist whose career joined laboratory teaching with wide-ranging experimental research. After medical training he worked with Jöns Jacob Berzelius in Stockholm, then developed a long collaboration with Justus von Liebig. In 1828 he obtained urea while studying cyanate chemistry, a celebrated demonstration that a substance associated with living organisms could be prepared in the laboratory. His work was broader than that episode: he investigated minerals and elements as well as organic compounds, and with Liebig studied uric acid and bitter-almond oil. Appointed professor of pharmacy and chemistry at Göttingen in 1836, he helped make its teaching laboratory internationally influential. The collection includes the French version of his 1828 urea paper, investigations of titanium and aluminium, and an inorganic-analysis handbook; “Friedricb Wôhler” is a transcription variant.",
+      "sources": [
+        {
+          "title": "University of Göttingen, Museum of Chemistry: Friedrich Wöhler",
+          "url": "https://www.museum.chemie.uni-goettingen.de/woehler.htm"
+        },
+        {
+          "title": "International Society for the Study of Xenobiotics: Friedrich Woehler",
+          "url": "https://www.issx.org/page/FriedrichWoehler"
+        },
+        {
+          "title": "ENS CultureSciences-Chimie: Wöhler’s laboratory preparation of urea",
+          "url": "https://culturesciences.chimie.ens.fr/thematiques/chimie-organique/synthese-et-retrosynthese/aux-frontieres-de-la-chimie-chercher-lutter"
+        },
+        {
+          "title": "Université Paris Cité: La découverte de l’urée urinaire, historical bibliography",
+          "url": "https://numerabilis.u-paris.fr/ressources/pdf/sfhm/hsm/HSMx1990x024x002/HSMx1990x024x002x0121.pdf"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "The catalogue’s Sur la formation artificielle de l’urée (1828) is Wöhler’s distinctive paper, independently cited in the medical-history bibliography. Full-name handbook and inorganic chemistry papers support the same identification; unrelated Lothar Wöhler is excluded.",
+      "canonicalId": "a9e17618339e0",
+      "aliases": [
+        "Friedrich Wöhler",
+        "Friedrich Woehler",
+        "Friedricb Wôhler"
+      ]
+    },
+    {
+      "authorIds": [
+        "ac450e1b707e5",
+        "aff45d7857bdd",
+        "a4a06fe771a04",
+        "aa12f555ae13d"
+      ],
+      "name": "Henri Pellat",
+      "birth": 1850,
+      "death": 1909,
+      "lifeLabel": "1850–1909",
+      "origins": [
+        "France"
+      ],
+      "short": "French physicist and Sorbonne teacher whose work addressed electrical potential, dielectrics and physical measurement.",
+      "biography": "Henri Pellat was a French physicist who taught at the Sorbonne and worked on experimental questions in electricity and physical measurement. His publications examine the potential difference between metals in contact, the behaviour of insulating materials in electric fields, electrolysis and electrical discharges in rarefied gases. He also wrote and taught beyond electricity: the École normale supérieure preserves manuscript notes of his thermodynamics course from 1896–1897. His public role included directing the Ministry of Commerce and Industry’s office for checking alcohol-measuring instruments, and he reported on precision instruments at the Paris exhibition of 1900. The catalogue reflects both laboratory research and teaching through papers, a doctoral thesis, and lecture volumes on electricity, polarisation and thermodynamics. The forms “Henrl Pellat” and “Henr i Pellat” represent transcription variants of Henri.",
+      "sources": [
+        {
+          "title": "BnF authority: Henri Pellat (1850–1909)",
+          "url": "https://data.bnf.fr/en/ark%3A/12148/cb12744499f"
+        },
+        {
+          "title": "ENS, Lucienne: Henri Pellat, Cours de thermodynamique, 1896–1897",
+          "url": "https://www.lucienne.ens.psl.eu/s/lucienne/item/36486"
+        },
+        {
+          "title": "CNAM: 1900 exhibition document identifying Pellat’s Sorbonne and metrology roles",
+          "url": "https://cnum.cnam.fr/PDF/cnum_8XAE516.pdf"
+        },
+        {
+          "title": "Société Française de Physique: historical bibliography of Pellat’s gas-discharge research",
+          "url": "https://www.sfp150ans.fr/wp-content/uploads/2023/06/Bibliographie-.pdf"
+        },
+        {
+          "title": "BnF: 1900 exhibition report, instruments de précision by Henri Pellat",
+          "url": "https://catalogue.bnf.fr/ark%3A/12148/cb41644676b"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "Full-name and H. Pellat groups share identical card IDs and the same 1881 thesis title. The surname-only group contains that thesis plus Sorbonne thermodynamics and electrical-measurement texts, which agree with the ENS manuscript and institutional records. Its existing 1825–1912 candidate is the wrong namesake and must be cleared.",
+      "canonicalId": "ac450e1b707e5",
+      "aliases": [
+        "Joseph Solange Henri Pellat",
+        "Henri Pellat",
+        "H. Pellat",
+        "Henrl Pellat"
+      ],
+      "resetIdentity": true,
+      "resetAuthorIds": [
+        "aa12f555ae13d"
+      ]
+    },
+    {
+      "authorIds": [
+        "af77c91dc3249",
+        "a44cbcf31d7e7"
+      ],
+      "name": "Władysław Natanson",
+      "birth": 1864,
+      "death": 1937,
+      "lifeLabel": "1864–1937",
+      "origins": [
+        "Poland"
+      ],
+      "short": "Polish theoretical physicist at the Jagiellonian University who studied thermodynamics, viscous fluids, radiation and optics.",
+      "biography": "Władysław Natanson was a Polish theoretical physicist whose publications also used the name Ladislaus Natanson. After studies in Saint Petersburg and Dorpat and periods with J. J. Thomson in Cambridge and Ludwig Boltzmann in Graz, he settled in Kraków. He qualified to teach at the Jagiellonian University in 1891 and became professor of theoretical physics in 1902. His early work concerned the kinetic theory of gases; he subsequently investigated irreversible processes and their application to the motion of viscous fluids. Later interests included electron theory, radiation and the passage of light through gases. A 1911 study examined the statistical treatment of indistinguishable radiation quanta. The catalogue’s German papers on dissipation, viscosity, thermodynamic potentials and irreversible processes correspond closely to this programme. The Polish form “Wład. Natansona” is an inflected abbreviated name.",
+      "sources": [
+        {
+          "title": "Jagiellonian University repository: Władysław Natanson, biographical and scientific account",
+          "url": "https://ruj.uj.edu.pl/server/api/core/bitstreams/ec1b30a1-ecd0-4c37-92f0-ea365a404fce/content"
+        },
+        {
+          "title": "Acta Physica Polonica, 1937: Ladislaus Natanson, 1864–1937",
+          "url": "https://sbc.org.pl/Content/305635/PDF/ii29501_6-1937-04-0001.pdf"
+        },
+        {
+          "title": "Staatsbibliothek zu Berlin, Kalliope: Władysław Natanson letter filed under Ladislaus",
+          "url": "https://kalliope-verbund.info/DE-611-HS-1463560"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "The Kalliope archival record explicitly links Ladislaus and Władysław. The German paper subjects and dates match the Jagiellonian account; the additional 1924 Polish physicists’ congress address uses his abbreviated inflected name. G. L., G. I. and S. Natanson are excluded.",
+      "canonicalId": "af77c91dc3249",
+      "aliases": [
+        "Ladislaus Natanson",
+        "Ladislas Natanson",
+        "Władysław Natanson",
+        "Wlad Natansona"
+      ]
+    },
+    {
+      "authorIds": [
+        "aa883cd31f994",
+        "ac5b44b1111fa",
+        "a9ff09b368c17",
+        "a9d3df9da567a",
+        "a47bfa99fc392"
+      ],
+      "name": "Carlo Matteucci",
+      "birth": 1811,
+      "death": 1868,
+      "lifeLabel": "1811–1868",
+      "origins": [
+        "Italy"
+      ],
+      "short": "Italian physicist and physiologist whose experiments helped establish the study of electrical activity in living tissue.",
+      "biography": "Carlo Matteucci was an Italian physicist and physiologist, often called Charles Matteucci in French publications. His experiments investigated electrical currents in animal tissues and the relationship between muscle activity and electricity, making him an important early figure in electrophysiology. Appointed to the chair of experimental physics at Pisa in 1840, he developed a laboratory intended for research as well as teaching and acquired instruments in Paris for the university. His interests also extended to electromagnetic induction, magnetism, meteorology and telegraphy. He helped found Il Cimento in 1844; the journal was later revived as Il Nuovo Cimento. Matteucci also served as Italy’s minister of public instruction in 1862. The collection’s French and Italian works on animal electricity, nerve currents, induction and physics lectures belong to this scientist, not the later namesake previously attached to “Charles”.",
+      "sources": [
+        {
+          "title": "Museo Galileo: Carlo Matteucci",
+          "url": "https://catalogo.museogalileo.it/biografia/CarloMatteucci.html"
+        },
+        {
+          "title": "University of Pisa, Physics Department: Carlo Matteucci",
+          "url": "https://www.df.unipi.it/storia-dellistituto-di-fisica-delluniversita-di-pisa/carlo-matteucci/"
+        },
+        {
+          "title": "Max Planck Institute Virtual Laboratory bibliography: Carlo and Charles Matteucci",
+          "url": "https://vlp.mpiwg-berlin.mpg.de/library/search?-display=short&-max=25&-op_author=all&-sort=online%2Csql_year&-sortorder_online=desc&author=Matteucci"
+        },
+        {
+          "title": "University of Pisa: Carlo Matteucci, scientific bibliography",
+          "url": "https://osiris.df.unipi.it/~rossi/Matteucci%20Carlo.pdf"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "The Max Planck bibliography lists the same 1840 Essai sur les phénomènes électriques des animaux under both Charles and Carlo. Catalogue works on animal currents and the 1842 muscle-contraction paper match the historical physicist’s bibliography. The Charles profile’s 1889–1973 candidate is chronologically impossible for its 1840s works and must be cleared.",
+      "canonicalId": "aa883cd31f994",
+      "aliases": [
+        "Carlo Matteucci",
+        "Charles Matteucci",
+        "Ch. Matteucci",
+        "C&rlo Matteucci",
+        "Carlo Matteucciii"
+      ],
+      "resetIdentity": true,
+      "resetAuthorIds": [
+        "a9ff09b368c17"
+      ]
+    }
+  ],
+  "held": [
+    {
+      "authorIds": [
+        "aaad8f53fe8ee",
+        "a99be4a51bd62",
+        "abf87e11ca301"
+      ],
+      "reason": "G. L./G. I./S. Natanson are not included in the Władysław Natanson group. G. L. is attached to a 1940 molecular predissociation article; separate initials and posthumous chronology require independent identification."
+    },
+    {
+      "authorIds": [
+        "a99df2d0df7c4"
+      ],
+      "reason": "Lothar Wöhler (1870–1952) is a distinct later chemist; do not merge with Friedrich."
+    },
+    {
+      "authorIds": [
+        "ae87645b70f62",
+        "ae9a0830b1fca"
+      ],
+      "reason": "Names combine Buff/Wöhler or Wöhler/Liebig; these are compound headings requiring contributor-role repair, not single-person identity merges."
+    },
+    {
+      "authorIds": [
+        "a156f1d845284",
+        "a0131db357998"
+      ],
+      "reason": "Likely additional Friedrich Wöhler variants, but their one-off mellitate/titanium titles were not independently bibliographically verified in this bounded pass."
+    },
+    {
+      "authorIds": [
+        "adbcca23f70fb"
+      ],
+      "recordIds": [
+        "w0704f7b9eaf6"
+      ],
+      "reason": "The card says CABART, Description de la caisse du calorimètre de M. Dulong (1843). Dulong is mentioned in the title; this alone does not establish Dulong as author. Preserve it as a related mention or review the attribution separately."
+    },
+    {
+      "authorIds": [
+        "a12250e281916",
+        "a61b383528754",
+        "abe7a219717a6"
+      ],
+      "reason": "Surname-only Morveau entries fit Louis-Bernard Guyton de Morveau’s period and subject area but are omitted from the definitive duplicate group until their individual articles and author/subject roles are verified."
+    },
+    {
+      "authorIds": [
+        "a669f737f285b"
+      ],
+      "reason": "Surname-only Matteucci group likely the physicist, but these three particular records were not independently checked; omitted from definite merges."
+    },
+    {
+      "authorIds": [
+        "ac39e8baa55b6"
+      ],
+      "reason": "Surname-only Réaumur forest paper (1723) is likely the naturalist; not included without checking that specific title."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "reviewedAt": "2026-10-19",
+  "scope": "Chronology conflicts individually checked against exact scientific titles; no distribution data edited.",
+  "entries": [
+    {
+      "authorIds": [
+        "a60dd3afa0345",
+        "a4560d1f1929c"
+      ],
+      "name": "Jules Janssen",
+      "birth": 1824,
+      "death": 1907,
+      "lifeLabel": "1824–1907",
+      "origins": [
+        "France"
+      ],
+      "short": "French astronomer who pioneered solar spectroscopy and photography and founded the physical-astronomy observatory at Meudon.",
+      "biography": "Jules Janssen was a French astronomer who helped make spectroscopy and photography central to the study of the Sun. Born in Paris, he earned a doctorate in 1860 and investigated how the atmosphere absorbs light. His distinction between terrestrial absorption and features originating in celestial objects became essential to interpreting astronomical spectra. After observing the 1868 solar eclipse in India, he demonstrated that solar prominences could be studied spectroscopically without waiting for an eclipse. He developed a photographic revolver for observing the 1874 transit of Venus, and established the physical-astronomy observatory at Meudon in the 1870s. There he organised systematic solar photography. Seeking observations through a thinner layer of atmosphere, he also promoted the summit observatory on Mont Blanc, inaugurated in 1893. The catalogue’s papers on atmospheric spectra, oxygen, eclipses and mountain observatories represent this interconnected programme of laboratory experiments, instrumentation and astronomical fieldwork.",
+      "sources": [
+        {
+          "title": "Observatoire de Paris: Jules Janssen, scientific chronology",
+          "url": "https://observations-solaires.obspm.fr/Jules-Janssen"
+        },
+        {
+          "title": "Observatoire de Paris: Janssen and the Mont Blanc summit observatory",
+          "url": "https://lira.obspm.fr/perso/jean-marie-malherbe/Montagne/Obs_MtBlanc/Janssen.htm"
+        },
+        {
+          "title": "CNAM digital library: Jules Janssen, Œuvres scientifiques, volume 1",
+          "url": "https://cnum.cnam.fr/pgi/redir.php?ident=8RA35.1&onglet=c"
+        },
+        {
+          "title": "CNAM digital library: Jules Janssen, Œuvres scientifiques, volume 2",
+          "url": "https://cnum.cnam.fr/pgi/redir.php?ident=8RA35.2&onglet=c"
+        },
+        {
+          "title": "Royal Society archive: Janssen, Pierre Jules Cesar (1824–1907)",
+          "url": "https://catalogues.royalsociety.org/CalmView/Record.aspx?id=NA6526&pos=1&src=CalmView.Persons"
+        }
+      ],
+      "identityLevel": "high",
+      "identityReason": "All eight J. Janssen records are also linked to the existing Jules Janssen catalogue profile a60dd3afa0345. Their distinctive titles are reproduced in the astronomer’s collected scientific works at CNAM: Analyse spectrale des éléments de l’atmosphère terrestre (1885, volume 1 p. 533); Note sur l’observatoire du Mont Blanc (1892, volume 2 p. 299); Sur la prochaine éclipse totale du 16 avril 1893 (p. 311); Sur les spectres de l’oxygène aux hautes températures (1894, p. 345); Note sur un météorographe à longue marche (1894, p. 356); Sur les travaux entrepris en 1895 à l’Observatoire du Mont Blanc (p. 391); Sur l’Observatoire du Mont Etna (1900, p. 524); and Sur la nouvelle étoile apparue récemment dans la constellation de Persée (1901, p. 554). The canonical profile’s additional 1860 doctoral-thesis card is consistent with the Observatory biography. Jacques Janssen (born 1939), the current J. Janssen candidate, cannot have authored these papers. Remove that mismatch rather than retaining it as an alternative.",
+      "canonicalId": "a60dd3afa0345",
+      "aliases": [
+        "J. Janssen",
+        "Pierre Janssen",
+        "Pierre Jules César Janssen"
+      ],
+      "resetIdentity": true,
+      "resetAuthorIds": [
+        "a4560d1f1929c"
+      ],
+      "rejectedCandidates": [
+        {
+          "authorId": "a4560d1f1929c",
+          "name": "Jacques Janssen",
+          "reason": "Born 1939; impossible for 1885–1901 astronomical papers."
+        },
+        {
+          "authorId": "a60dd3afa0345",
+          "name": "Jules L. Janssens",
+          "reason": "Born 1949; impossible for the 1860–1901 works."
+        }
+      ]
+    }
+  ],
+  "held": []
+}

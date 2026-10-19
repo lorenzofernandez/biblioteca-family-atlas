@@ -1,0 +1,37 @@
+{
+  "title": "Original-catalogue evidence screening",
+  "checkedAt": "2026-10-17",
+  "universe": "All 49,780 records from the original OCR text, matched to their original PDF filename and one-based scan page.",
+  "process": [
+    "Scan all records for scarcity words, edition limitation/numbering, manuscripts, reproduction/printing notes, offprints and incompleteness.",
+    "Read all 93 scarcity,95 printing,122 manuscript,29 reproduction and 134 incompleteness candidate contexts. Reject title words and subject terminology.",
+    "Visually inspect the four numerical printing notes in the original PDF scans. Inspect the preceding Torricelli card to connect the continuation correctly.",
+    "Use automatic OCR matches for explicit abbreviated offprint notation and typescript/duplicated-copy notes; expose the short original context and retain medium/lowconfidence.",
+    "Review manuscript-catalogue headings and group continuation cards with the first card. Detect explicit cross-reference/continuation markers, including ones missing from the old flags.",
+    "Retain all 49,780 IDs in a compact assessment index, including records where no explicit signal was found."
+  ],
+  "scope": [
+    "This is a catalogue evidence pass, not an external institutional search for every edition.",
+    "No original publication date or age alone is used to assign rarity.",
+    "No signal found means no explicit evidence detected by this method; it does not mean non-rare or absent from other libraries.",
+    "An offprint marker can describe a journal extract or clipping; a separately printed offprint has not been proved.",
+    "Manuscript objects can be individually distinctive while the same text exists in other manuscripts or print. No global count is assigned.",
+    "A facsimile may itself be limited; its print run belongs to that reproduction, not the earlier original.",
+    "Numbered copies do not prove a total without a limitation statement.",
+    "Original print-run numbers give only conditional ceilings, never present-day survivor estimates.",
+    "Completeness, presentation inscriptions and handwritten additions are copy-specific attributes, not global edition rarity.",
+    "Cross-references and continuation cards are not independently counted as books; manuscript continuations and Torricelli are explicitly linked. Other records remain undeduplicated catalogue records."
+  ],
+  "knownConflicts": {
+    "Boffito1929": "The card itself says 300 numbered copies and copy 328. No numeric ceiling retained.",
+    "GalvaniTaccuino": "The card itself dates the bicentenary facsimile 1837;1937 is supported by the Bologna Library chronology. Date conflict retained.",
+    "TorricelliScina": "Two copies applies to special Parma blue-paper issues only. The catalogue does not explicitly establish that the family copy has this paper."
+  },
+  "files": {
+    "catalogue-signals.json": "Positive records with quoted OCR evidence and original PDF/page citations.",
+    "catalogue-assessment-index.json": "Compact flags/status for all 49,780 records.",
+    "catalogue-signals-stats.json": "Exhaustive-screening totals and signal counts.",
+    "manual-review-decisions.json": "Disposition of every high-risk lexical candidate.",
+    "catalogue-print-run-evidence.json": "The four visually checked numerical notes and caveats."
+  }
+}

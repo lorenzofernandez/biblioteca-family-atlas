@@ -1,0 +1,588 @@
+{
+  "reviewedAt": "2026-10-18",
+  "method": "Manual source review with catalogue title, subject and date comparisons. Personal life dates are left unset where not verified. No portrait is invented. Original profiles and rejected name matches are retained in the research archive.",
+  "entries": [
+    {
+      "authorIds": [
+        "a773a245cb082"
+      ],
+      "name": "Nicolò Rorario",
+      "birth": null,
+      "death": null,
+      "origins": [
+        "Italy"
+      ],
+      "short": "A sixteenth-century physician and surgeon in Udine, Rorario compared the teachings of ancient medical authorities.",
+      "biography": "Nicolò Rorario, also recorded as Nicola Rorario and Nicolaus Rorarius, was a physician from Udine whose family came from Pordenone. His birth is placed approximately in the 1510s; his exact birth and death dates are not established. He graduated at Padua on 17 April 1542 and served as Udine’s municipal surgeon from 1551 to 1570.\n\nHis Contradictiones, dubia et paradoxa, published in Venice in 1566, examined disagreements among Hippocrates, Celsus, Galen, Aetius, Paul of Aegina and Avicenna, attempting to reconcile their medical teachings. Its discussions also encompass eye medicine and medicinal plants. A revised edition followed in 1572. The title, author and 1566 date on this catalogue card provide a strong match to that work.",
+      "sources": [
+        {
+          "title": "Bruno Lucci · Dizionario Biografico dei Friulani",
+          "url": "https://www.dizionariobiograficodeifriulani.it/rorario-nicolo"
+        },
+        {
+          "title": "University of Padua · Una vita da medico",
+          "url": "https://mostre.cab.unipd.it/caimo/it/79/una-vita-da-medico-spigolature"
+        }
+      ],
+      "identityReason": "The author name, distinctive medical title and 1566 Venetian publication agree with the biographical dictionary and the University of Padua exhibition.",
+      "identityLevel": "high",
+      "lifeLabel": "Born c.1510s · active 1542–1572"
+    },
+    {
+      "authorIds": [
+        "a4dd44c6f4fdf"
+      ],
+      "name": "Roberto Piontelli",
+      "birth": 1909,
+      "death": 1971,
+      "origins": [
+        "Italy"
+      ],
+      "short": "An Italian physical chemist and electrochemist, Piontelli studied metal deposition, electrode reactions and industrial electrochemical processes.",
+      "biography": "Roberto Piontelli was born in Lodi and built his scientific career at the Politecnico di Milano. His training crossed electrical engineering, physics and chemistry. He worked with Oscar Scarpa and succeeded him in the electrochemistry chair in 1948, later directing an institute that brought together electrochemistry, physical chemistry and metallurgy.\n\nHis research connected the theory of electrode reactions with industrial problems, including the deposition and dissolution of metals and the extra voltage needed to drive electrochemical reactions. He helped establish the international committee CITCE, which developed into the International Society of Electrochemistry. Elected to the Accademia dei Lincei in 1969, he died in Milan in 1971.",
+      "sources": [
+        {
+          "title": "Treccani · Roberto Piontelli",
+          "url": "https://www.treccani.it/enciclopedia/roberto-piontelli/"
+        },
+        {
+          "title": "Società Chimica Italiana · The electrochemistry school at the Politecnico",
+          "url": "https://www.societachimica.it/sites/default/files/chimind/pdf/2014_3_3607_on.pdf"
+        }
+      ],
+      "identityReason": "Full name, electrochemistry publications and the Politecnico research context match the documented scientist.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a79050fa903c8"
+      ],
+      "name": "Ferdinand Anne Kröger",
+      "birth": 1915,
+      "death": 2006,
+      "origins": [
+        "Netherlands"
+      ],
+      "short": "A Dutch physical chemist, Kröger researched imperfections in crystals and semiconductor materials in industry and at the University of Southern California.",
+      "biography": "Ferdinand Anne Kröger was born in Amsterdam and earned a doctorate in physical chemistry there in 1937. He worked at Philips from 1937 to 1958, then at Mullard in Britain until 1964, before joining the University of Southern California as a founding professor of materials science.\n\nHis work concerned the properties of solids, semiconductors and the defects that affect how crystals behave. His book The Chemistry of Imperfect Crystals, published in Amsterdam in 1964, brought this research together. The crystal-chemistry publications in the family catalogue trace these interests across his industrial and academic career.",
+      "sources": [
+        {
+          "title": "Family obituary · San Diego Union-Tribune",
+          "url": "https://www.legacy.com/us/obituaries/sandiegouniontribune/name/f-kroger-obituary?id=25938821"
+        },
+        {
+          "title": "CINiBA university library · The Chemistry of Imperfect Crystals",
+          "url": "https://integro.ciniba.edu.pl/integro/191901546731/kroger-ferdinand-anne/the-chemistry-of-imperfect-crystals"
+        }
+      ],
+      "identityReason": "The full name and 1964 book on imperfect crystals identify the materials scientist. The former legal-historian match is incompatible with these works.",
+      "identityLevel": "high",
+      "corrected": true,
+      "wikidata": "Q27863073",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": [
+        "a4bac48d3223d"
+      ],
+      "name": "Alfred Lacroix",
+      "birth": 1863,
+      "death": 1948,
+      "origins": [
+        "France"
+      ],
+      "short": "A French mineralogist and petrographer, Lacroix studied rock-forming minerals and volcanic eruptions, including Montagne Pelée in 1902.",
+      "biography": "Alfred Lacroix was born in Mâcon and trained in pharmacy before turning to mineralogy and the microscopic study of rocks. Working in the circle of Ferdinand Fouqué and Auguste Michel-Lévy, he co-authored Les minéraux des roches in 1888 and completed a doctorate in 1889 on rocks containing pyroxene and wernerite. He became professor of mineralogy at the Muséum national d’histoire naturelle in 1893.\n\nHis research ranged from the identification of minerals to the study of volcanoes, notably the 1902 eruption of Montagne Pelée. The catalogue’s papers on wernerite and volcanic rocks strongly support Alfred Lacroix as the author behind “A. Lacroix.”",
+      "sources": [
+        {
+          "title": "Société géologique de France · Alfred Lacroix",
+          "url": "https://geosoc.fr/propos-html/historique/presidents-de-la-sgf/64-presidents-sgf/1044-francois-antoine-alfred-lacroix.html"
+        },
+        {
+          "title": "Charles Bedel · 1948 obituary",
+          "url": "https://www.persee.fr/doc/pharm_0035-2349_1948_num_36_121_9696"
+        },
+        {
+          "title": "CNRS/MNHN · Journées Lacroix",
+          "url": "https://cak.ehess.fr/system/files/2024-09/document%20d%E2%80%99accompagnement%20des%20Journ%C3%A9es%20Lacroix.pdf"
+        }
+      ],
+      "identityReason": "The initials, dates, wernerite studies and volcanic-rock papers correspond to Alfred Lacroix, not the previously selected Adolphe Lacroix.",
+      "identityLevel": "high",
+      "corrected": true,
+      "wikidata": "Q586570",
+      "resetIdentity": true
+    },
+    {
+      "authorIds": [
+        "ab627d370df4d"
+      ],
+      "name": "Giovanni Guglielmo",
+      "birth": null,
+      "death": null,
+      "origins": [
+        "Italy"
+      ],
+      "short": "An experimental physicist, Guglielmo taught in Turin, Sassari and Cagliari, where he directed the physics laboratory for decades.",
+      "biography": "Giovanni Guglielmo was an Italian experimental physicist. After graduating in physics at Turin in 1878, he worked there as an assistant and moved to Sassari as a professor in 1886. He subsequently held the experimental physics chair at Cagliari from 1891 to 1928, directing its physics laboratory for 37 years and serving as dean.\n\nA University of Cagliari study documents more than a hundred scientific publications, along with teaching notes and correspondence. The family catalogue includes his work on electrometers, electrical measurements and voltaic cells. Exact life dates have not yet been verified for this profile.",
+      "sources": [
+        {
+          "title": "Cristiana Carrus · University of Cagliari doctoral research",
+          "url": "https://iris.unica.it/handle/11584/266519"
+        },
+        {
+          "title": "Dizionario Biografico degli Italiani · Andrea Naccari",
+          "url": "https://www.treccani.it/enciclopedia/andrea-naccari_%28Dizionario-Biografico%29/"
+        },
+        {
+          "title": "Gazzetta Ufficiale · 2 May 1891",
+          "url": "https://www.gazzettaufficiale.it/eli/gu/1891/05/02/103/sg/pdf"
+        }
+      ],
+      "identityReason": "The full name and nineteenth-century physics publications fit the Cagliari physicist. They predate the career of hematologist Giovanni Di Guglielmo.",
+      "identityLevel": "high",
+      "corrected": true,
+      "resetIdentity": true,
+      "lifeLabel": "Active late 19th–early 20th century"
+    },
+    {
+      "authorIds": [
+        "ab38c7cd9e817"
+      ],
+      "name": "David Caldwell Grahame",
+      "birth": 1912,
+      "death": 1958,
+      "origins": [
+        "United States"
+      ],
+      "short": "An Amherst chemist, Grahame investigated the electrical double layer where a metal electrode meets a solution.",
+      "biography": "David Caldwell Grahame was born in St Paul, Minnesota. He earned his bachelor’s degree at the University of Minnesota in 1935 and his chemistry doctorate at Berkeley in 1937. After two further years at Berkeley, he joined Amherst College in 1939 and remained there until his death in London in 1958, during a Guggenheim fellowship.\n\nHis papers at Amherst document sustained research on the electrical double layer, electrode capacitance and the effects of different ions at an electrode surface, including mercury in aqueous solutions. These are also the subjects of the Grahame papers in the family catalogue.",
+      "sources": [
+        {
+          "title": "Amherst College Archives · David C. Grahame papers",
+          "url": "https://archivesspace.amherst.edu/repositories/2/resources/651"
+        },
+        {
+          "title": "Amherst College Archives · Electrochemical research papers",
+          "url": "https://archivesspace.amherst.edu/repositories/2/archival_objects/277060"
+        }
+      ],
+      "identityReason": "Name, initials and the distinctive electrical-double-layer publications match the Amherst archive.",
+      "identityLevel": "high",
+      "corrected": true,
+      "resetIdentity": true
+    },
+    {
+      "authorIds": [
+        "ae2fd855e09e7",
+        "a8b906e5c69bd"
+      ],
+      "name": "Antonio Rius Miró",
+      "birth": 1890,
+      "death": 1973,
+      "origins": [
+        "Spain"
+      ],
+      "short": "A Spanish chemist, Rius Miró helped establish physical chemistry and electrochemistry research at the CSIC’s Rocasolano Institute.",
+      "biography": "Antonio Rius Miró was a Spanish chemist whose career helped shape university and institutional electrochemistry in Spain. He taught electrochemistry in Zaragoza from the 1920s and became the first director of the Instituto de Química Física Rocasolano, created within the CSIC in 1946.\n\nAt Rocasolano he led research in electrochemistry and industrial physical chemistry. Work on electrode behaviour, corrosion and passivation connected fundamental chemistry with industrial applications. The catalogue’s electrochemical papers under “A. Rius” and the reversed name “Antonio Miró Rius” fit this career.",
+      "sources": [
+        {
+          "title": "Historia Contemporánea · Antonio Rius Miró (1890–1973)",
+          "url": "https://ojs.ehu.eus/index.php/HC/article/view/23730"
+        },
+        {
+          "title": "Real Sociedad Española de Química · History of Spanish electrochemistry",
+          "url": "https://www.uco.es/electroquimica-rseq/Costa.pdf"
+        }
+      ],
+      "identityReason": "The name forms, mid-century dates and electrode research support Antonio Rius Miró. Initial-only attributions remain provisional.",
+      "identityLevel": "high",
+      "correctedIds": [
+        "ae2fd855e09e7"
+      ],
+      "resetIdentity": true,
+      "mediumIds": [
+        "ae2fd855e09e7"
+      ]
+    },
+    {
+      "authorIds": [
+        "ad4eeb96524e8",
+        "a6ca1ea3916cc"
+      ],
+      "name": "Juan Francisco Llopis Marí",
+      "birth": null,
+      "death": null,
+      "origins": [
+        "Spain"
+      ],
+      "short": "An electrochemist at Madrid’s Rocasolano Institute, Llopis researched platinum-group metals and supervised Francisco Colom’s doctoral work.",
+      "biography": "Juan Francisco Llopis Marí worked in electrochemistry at the Instituto de Química Física Rocasolano in Madrid. A historical account published by the Real Sociedad Española de Química identifies him as the supervisor of Francisco Colom’s 1954 doctorate and describes their research on platinum-group metals. Their later collaboration included chapters on platinum, iridium, osmium and palladium for the Encyclopedia of Electrochemistry of the Elements in 1976.\n\nThe catalogue’s Llopis papers on platinum electrodes and passivation are consistent with this researcher. Because some headings give only an initial or surname, this attribution remains tentative. His birth and death dates have not been established here.",
+      "sources": [
+        {
+          "title": "Anales de Química · Francisco Colom obituary and research history (2012)",
+          "url": "https://analesdequimica.es/index.php/AnalesQuimica/issue/download/19/49"
+        },
+        {
+          "title": "Boletín Oficial del Estado · Juan Francisco Llopis Marí (1964)",
+          "url": "https://www.boe.es/boe/dias/1964/11/26/pdfs/A15592-15593.pdf"
+        }
+      ],
+      "identityReason": "Platinum electrochemistry and the research context support Juan Francisco Llopis Marí. Initial/surname-only headings do not establish every attribution. Previous physician and historian matches are unsupported.",
+      "identityLevel": "high",
+      "corrected": true,
+      "resetIdentity": true,
+      "mediumIds": [
+        "ad4eeb96524e8",
+        "a6ca1ea3916cc"
+      ],
+      "lifeLabel": "Active mid-20th century"
+    },
+    {
+      "authorIds": [
+        "ad5304850f719"
+      ],
+      "name": "Louis Cohen",
+      "birth": null,
+      "death": null,
+      "origins": [],
+      "short": "An author of early twentieth-century electrical research, Cohen co-authored a detailed reference on calculating inductance with Edward B. Rosa.",
+      "biography": "Louis Cohen contributed to early twentieth-century research on electrical circuits and inductance. With Edward B. Rosa, he compiled Formulae and Tables for the Calculation of Mutual and Self-Inductance, listed among the US Bureau of Standards’ scientific publications in 1907. The work assembled formulas, corrections, tables and worked examples for coils and conductors.\n\nThis publication provides a specific match to the inductance material in the family catalogue. It supports identifying an electrical researcher of this name, but does not establish his life dates or a full career history.",
+      "sources": [
+        {
+          "title": "US Bureau of Standards · Scientific publications catalogue",
+          "url": "https://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular24e4.pdf"
+        }
+      ],
+      "identityReason": "The Rosa–Cohen inductance publication matches the catalogue. The author’s broader personal identity and life dates remain unresolved.",
+      "identityLevel": "high",
+      "corrected": true,
+      "resetIdentity": true,
+      "mediumIds": [
+        "ad5304850f719"
+      ],
+      "lifeLabel": "Active early 20th century"
+    },
+    {
+      "authorIds": [
+        "aad7b3b8d8f82",
+        "a63fbea8ee908",
+        "af2b518266bb2"
+      ],
+      "name": "Oscar Scarpa",
+      "birth": 1876,
+      "death": 1955,
+      "origins": [
+        "Italy"
+      ],
+      "short": "An Italian physical chemist and electrochemist, Scarpa taught in Naples, Turin and Milan and was a mentor to Roberto Piontelli.",
+      "biography": "Oscar Scarpa was born in Venice and trained in physics and electrochemistry at Turin. He helped introduce physical chemistry and electrochemistry teaching at Naples, where he taught physical chemistry from 1909 to 1917. He later worked in Turin and moved to the Politecnico di Milano in the late 1920s.\n\nScarpa’s career connected experimental physical chemistry with the study of electrochemical processes. Roberto Piontelli worked with him and later succeeded him in Milan; Piontelli also wrote his commemoration for the Accademia dei Lincei. The family catalogue preserves numerous Scarpa papers and cross-references, under both his full name and abbreviated headings.",
+      "sources": [
+        {
+          "title": "Roberto Piontelli · Commemoration of Oscar Scarpa (1962)",
+          "url": "https://www.bdim.eu/item?fmt=pdf&id=RLINA_1962_8_32_3_419_0"
+        },
+        {
+          "title": "University of Naples · History of the chemistry department",
+          "url": "https://www.scienzechimiche.unina.it/en/il-dipartimento/la-nostra-storia"
+        }
+      ],
+      "identityReason": "The full name and physical-chemistry works match Oscar Scarpa. Abbreviated headings and the bare-surname cross-reference remain less certain.",
+      "identityLevel": "high",
+      "correctedIds": [
+        "af2b518266bb2"
+      ],
+      "resetIdentity": true,
+      "wikidata": "Q109876811",
+      "mediumIds": [
+        "a63fbea8ee908",
+        "af2b518266bb2"
+      ]
+    },
+    {
+      "authorIds": [
+        "a62492000705d"
+      ],
+      "name": "Franciscus Antonius Hubertus Schreinemakers",
+      "birth": 1864,
+      "death": 1945,
+      "origins": [
+        "Netherlands"
+      ],
+      "short": "A Leiden physical chemist, Schreinemakers developed methods for understanding the equilibrium of mixtures and representing it in phase diagrams.",
+      "biography": "Franciscus Antonius Hubertus Schreinemakers was a Dutch chemist who became professor of inorganic and physical chemistry at Leiden in 1901 and remained there until his retirement in 1934. He was elected to the Royal Netherlands Academy of Arts and Sciences in 1906.\n\nHis research concerned phase equilibria: the conditions under which different forms or components of a chemical system coexist. He studied mixtures and used geometric representations to make their relationships intelligible. The catalogue’s papers on vapour pressure and binary and ternary systems belong to this sustained programme of physical-chemistry research.",
+      "sources": [
+        {
+          "title": "Royal Netherlands Chemical Society · F.A.H. Schreinemakers",
+          "url": "https://chg.kncv.nl/geschiedenis/biografieen/s/schreinemakers%2C-f.a.h."
+        },
+        {
+          "title": "H.A.M. Snelders · History of chemistry in the Netherlands",
+          "url": "https://www.dbnl.org/tekst/snel016gesc02_01/snel016gesc02_01_0005.php"
+        }
+      ],
+      "identityReason": "Distinctive initials, surname and phase-equilibrium publications identify the Leiden chemist.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a79f3ad72ecb6"
+      ],
+      "name": "Ernst Julius Cohen",
+      "birth": 1869,
+      "death": 1944,
+      "origins": [
+        "Netherlands"
+      ],
+      "short": "A Dutch physical chemist and historian of chemistry, Cohen studied chemical transformations through electrical measurements.",
+      "biography": "Ernst Julius Cohen trained with Jacobus Henricus van ’t Hoff and completed his doctorate in Amsterdam in 1893, investigating how electrical measurements could reveal transitions in chemical systems. He became a professor at Utrecht in 1902. His research addressed physical chemistry, phase changes and the relationship between chemical transformations and electromotive force.\n\nCohen also wrote about the history of chemistry and earlier scientists, a strand represented alongside his experimental papers in this catalogue. He was murdered at Auschwitz in March 1944. His biographical dates should not be confused with the much earlier dates appearing in titles about historical figures.",
+      "sources": [
+        {
+          "title": "Utrecht University · Ernst Julius Cohen",
+          "url": "https://profs.library.uu.nl/hoogleraar/cohen-e-j/"
+        },
+        {
+          "title": "DBNL · Ernst Julius Cohen (1869–1944)",
+          "url": "https://www.dbnl.org/auteurs/auteur.php?id=cohe026"
+        },
+        {
+          "title": "Utrecht University · Bibliography of Cohen scholarship",
+          "url": "https://biguu.library.uu.nl/keywords/cohen-ernst-julius-1869-1944/"
+        }
+      ],
+      "identityReason": "The name and physical-chemistry works match Cohen. Early dates in works about historical scientists are not treated as his publication lifetime.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a3289de323518"
+      ],
+      "name": "Alphonse Mailhe",
+      "birth": 1872,
+      "death": 1932,
+      "origins": [
+        "France"
+      ],
+      "short": "A French chemist, Mailhe worked on chemical reactions and artificial liquid fuels, moving from Toulouse to a fuel-chemistry chair in Paris.",
+      "biography": "Alphonse Pierre Bernard Mailhe was born at Trie-sur-Baïse in 1872. He worked at the Toulouse faculties of medicine and science and completed a doctorate in 1902 on metal oxides, hydrates and mixtures of salts. He later led chemical research for the Paris gas company and held a chair in fuel chemistry in Paris from 1926 until his death in 1932.\n\nHis career linked laboratory chemistry with the practical production of fuels. He published Les combustibles liquides artificiels in 1929. The family catalogue also contains earlier Mailhe papers on chemical reduction and nickel catalysis, showing a wider range of his experimental work.",
+      "sources": [
+        {
+          "title": "Christophe Charle and Eva Telkès · Alphonse Mailhe biography",
+          "url": "https://www.persee.fr/doc/inrp_0298-5632_1989_ant_25_1_8725"
+        }
+      ],
+      "identityReason": "The abbreviated first name, surname, dates and chemistry publications support Alphonse Mailhe.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a01a1481cd023"
+      ],
+      "name": "Louis Georges Gouy",
+      "birth": 1854,
+      "death": 1926,
+      "origins": [
+        "France"
+      ],
+      "short": "A French experimental physicist at Lyon, Gouy worked across optics, electricity, magnetism and electrochemical phenomena.",
+      "biography": "Louis Georges Gouy was born at Vals-les-Bains in 1854 and worked as a physicist at the University of Lyon. His investigations ranged across optics, electricity and meteorology, reflecting the breadth of experimental physics around the turn of the twentieth century.\n\nHe studied electrokinetic phenomena and electrical cells and is associated with a method for measuring magnetic susceptibility. The catalogue’s Gouy papers belong to this physical and electrochemical research context.",
+      "sources": [
+        {
+          "title": "Treccani · Louis Georges Gouy",
+          "url": "https://www.treccani.it/enciclopedia/louis-georges-gouy/"
+        }
+      ],
+      "identityReason": "The surname, initial, dates and physical/electrochemical subjects are consistent with Louis Georges Gouy.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a7bb0919d3efc"
+      ],
+      "name": "Guillaume Homberg",
+      "birth": 1652,
+      "death": 1715,
+      "origins": [],
+      "short": "A physician and experimental chemist in Paris, Homberg investigated phosphorus, acids and mineral substances at the Académie des sciences.",
+      "biography": "Guillaume Homberg, also known as Wilhelm Homberg, was born in Batavia in 1652. Trained as a physician, he pursued chemistry through travel, practical experimentation and contact with European scientific networks. He joined the Académie des sciences in Paris in 1691 and later worked for Philippe, Duke of Orléans.\n\nHis chemical investigations included phosphorus, the preparation of boric acid from borax and quantitative experiments on the neutralization of acids. The Homberg papers in the family catalogue, including work on phosphorus and mineral transformations, reflect this experimental approach to substances and their reactions.",
+      "sources": [
+        {
+          "title": "Grete Ronge · Neue Deutsche Biographie: Homberg",
+          "url": "https://www.deutsche-biographie.de/sfz33645.html"
+        }
+      ],
+      "identityReason": "Name, dates and the phosphorus papers in the catalogue agree with the documented Paris chemist.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "aec73c93fa0cf",
+        "a731e968cb70e"
+      ],
+      "name": "Nicolas Lémery",
+      "birth": 1645,
+      "death": 1715,
+      "origins": [
+        "France"
+      ],
+      "short": "A French apothecary and chemistry teacher, Lémery made practical chemical demonstrations widely accessible through his Cours de chimie.",
+      "biography": "Nicolas Lémery was a French apothecary and chemist whose teaching combined explanations of substances with practical laboratory demonstrations. After working in Montpellier, he established himself in Paris, where his courses attracted a broad audience. His Cours de chimie became a widely circulated guide to chemical operations and preparations.\n\nHe also investigated such subjects as underground fires, camphor, honey, urine and corrosive sublimate. The catalogue includes editions and translations of his chemistry course as well as papers under the spelling “Nicole Lemery.” Those abbreviated or variant headings require care: Nicolas should not be confused with his son Louis Lémery, who was also a scientist.",
+      "sources": [
+        {
+          "title": "Société d’Histoire de la Pharmacie · Nicolas Lémery exhibition",
+          "url": "https://www.shp-asso.org/expositionlemery/"
+        },
+        {
+          "title": "Mediachimie · Nicolas Lémery (1645–1715)",
+          "url": "https://www.mediachimie.org/ressource/nicolas-lemery-1645-1715"
+        }
+      ],
+      "identityReason": "Cours de chimie identifies Nicolas Lémery. The Nicole spelling and matching paper subjects are compatible, but individual later-dated records remain provisional.",
+      "identityLevel": "high",
+      "mediumIds": [
+        "a731e968cb70e"
+      ]
+    },
+    {
+      "authorIds": [
+        "a3645f4cbb126"
+      ],
+      "name": "Nicolas Louis de Lacaille",
+      "birth": 1713,
+      "death": 1762,
+      "origins": [
+        "France"
+      ],
+      "short": "A French astronomer, Lacaille observed the southern sky from the Cape of Good Hope and worked on the measurement of the Earth.",
+      "biography": "Nicolas Louis de Lacaille was a French astronomer and geodesist. He taught at the Collège Mazarin in Paris, where he established an observatory, and combined astronomical observation with the measurement of the Earth. His expedition to the Cape of Good Hope enabled an extensive survey of southern stars and the introduction of fourteen constellations.\n\nThe catalogue contains observations associated with the Mazarin observatory, fitting his work before and around the southern expedition. His name appears in several forms, including La Caille and Lacaille; the catalogue’s “Nicole Louis” is a transcription variant.",
+      "sources": [
+        {
+          "title": "University of St Andrews · Nicolas Louis de Lacaille",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lacaille/"
+        }
+      ],
+      "identityReason": "The near-complete name and Mazarin astronomical observations identify Nicolas Louis de Lacaille.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a92681c956eeb",
+        "a5e9e27d738b9"
+      ],
+      "name": "Alexis Claude Clairaut",
+      "birth": 1713,
+      "death": 1765,
+      "origins": [
+        "France"
+      ],
+      "short": "A French mathematician, Clairaut applied Newtonian mechanics to the shape of the Earth, the Moon’s motion and the return of Halley’s comet.",
+      "biography": "Alexis Claude Clairaut was a French mathematician recognized for his work while still very young. He joined the Académie des sciences in 1731 and took part in the 1736–1737 expedition to Lapland that investigated the shape of the Earth. His Théorie de la figure de la Terre appeared in 1743.\n\nHe also developed mathematical accounts of the Moon’s motion and helped calculate the return of Halley’s comet. He assisted Émilie du Châtelet with her work on Newton. The family catalogue includes his geometry and lunar-theory publications. An anomalous 1716 date under the abbreviated heading needs checking against the scan and is not evidence of a publication by the three-year-old Clairaut.",
+      "sources": [
+        {
+          "title": "University of St Andrews · Alexis Claude Clairaut",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clairaut/"
+        }
+      ],
+      "identityReason": "The distinctive name and geometry/lunar-theory titles fit Clairaut. The abbreviated entry contains an incompatible early date that remains unresolved.",
+      "identityLevel": "high",
+      "mediumIds": [
+        "a5e9e27d738b9"
+      ]
+    },
+    {
+      "authorIds": [
+        "afc6b8eecb475",
+        "a29d5c1943a79"
+      ],
+      "name": "Henri Louis Duhamel du Monceau",
+      "birth": 1700,
+      "death": 1782,
+      "origins": [
+        "France"
+      ],
+      "short": "A French botanist and agronomist, Duhamel du Monceau connected experimental research with forestry, agriculture and naval administration.",
+      "biography": "Henri Louis Duhamel du Monceau was a French scientist whose work joined botany, agriculture and forestry with practical questions of production and public administration. A member of the Académie des sciences, he also served as inspector-general of the navy. His career illustrates the close relationship between scientific investigation, useful trades and state service in eighteenth-century France.\n\nThe family catalogue reflects that breadth: it includes material on the physiology of trees, botanical observations, chemical substances and sugar refining. These works help identify the longer and shorter forms of his name as references to the same historical figure, while the original catalogue headings remain preserved.",
+      "sources": [
+        {
+          "title": "Académie d’agriculture de France · Duhamel du Monceau",
+          "url": "https://www.academie-agriculture.fr/actualites/academie/colloque/academie/duhamel-du-monceau-academicien-agronome-et-sylviculteur"
+        },
+        {
+          "title": "Condorcet · Académie des sciences eulogy",
+          "url": "https://www.academie-sciences.fr/pdf/eloges/duhamel_p131_vol3581.pdf"
+        }
+      ],
+      "identityReason": "Distinctive surname forms and the botanical, forestry and technical works support Duhamel du Monceau.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a05f52587e1e1"
+      ],
+      "name": "Voltaire",
+      "birth": 1694,
+      "death": 1778,
+      "origins": [
+        "France"
+      ],
+      "short": "The Enlightenment writer François-Marie Arouet, known as Voltaire, also helped introduce Newton’s science to French readers.",
+      "biography": "Voltaire was the pen name of François-Marie Arouet, the French writer, dramatist and philosopher. Alongside his literary and political work, he played a substantial role in making English philosophy and Newtonian science familiar to French readers during the 1730s.\n\nAt Cirey, where he lived and worked with Émilie du Châtelet, scientific study formed part of a much wider intellectual collaboration. His Éléments de la philosophie de Newton appeared in 1738. Editions and translations of that work in the family catalogue place Voltaire here in his role as an interpreter and popularizer of natural philosophy.",
+      "sources": [
+        {
+          "title": "University of Oxford · Voltaire Foundation biography",
+          "url": "https://voltaire.ox.ac.uk/about-voltaire/"
+        }
+      ],
+      "identityReason": "The complete catalogue name and Newtonian-philosophy title identify Voltaire.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a41e782c44f40"
+      ],
+      "name": "Conrad Gessner",
+      "birth": 1516,
+      "death": 1565,
+      "origins": [
+        "Switzerland"
+      ],
+      "short": "A Zurich physician, naturalist and bibliographer, Gessner gathered observations and illustrations of animals, plants and other natural objects.",
+      "biography": "Conrad Gessner, also written Konrad Gesner, was a Zurich physician and scholar who combined natural history with the collection and organization of knowledge. His Historia animalium brought together ancient accounts, contemporary observations and illustrations of animals. He also made detailed botanical studies and compiled the Bibliotheca universalis, a major bibliographical undertaking.\n\nThe family catalogue represents another aspect of this wide-ranging activity through books on fossils, stones and gems and the remedies associated with his Euonymus publications. Gessner died during a plague outbreak in Zurich in 1565, aged forty-nine.",
+      "sources": [
+        {
+          "title": "University of Zurich · Conrad Gessner anniversary",
+          "url": "https://www.news.uzh.ch/de/articles/2016/gessner.html"
+        },
+        {
+          "title": "University of Zurich Zoological Museum · Gessner exhibition",
+          "url": "https://www.zm.uzh.ch/en/sonderausstellungen/2016gessner.html"
+        }
+      ],
+      "identityReason": "The Gesner/Gessner name and distinctive natural-history and Euonymus titles provide a strong match.",
+      "identityLevel": "high"
+    },
+    {
+      "authorIds": [
+        "a7039c7c7b03f"
+      ],
+      "name": "Paracelsus",
+      "birth": 1493,
+      "death": 1541,
+      "origins": [],
+      "short": "A physician and natural philosopher, Paracelsus challenged established medical teaching and gave chemical substances a central place in his medicine.",
+      "biography": "Paracelsus was the name used by Philipp Theophrast Bombast von Hohenheim, born near Einsiedeln in 1493. A travelling physician and natural philosopher, he challenged reliance on inherited medical authorities and developed an approach that gave chemical substances and practical experience a central role.\n\nAs city physician in Basel in 1527–1528, he taught in German and came into conflict with the university’s medical faculty. He died in Salzburg in 1541. The later editions and collected medical works in the family catalogue reflect the continued circulation of his writings after his death; their publication dates are not dates from his lifetime.",
+      "sources": [
+        {
+          "title": "Treccani · Paracelso",
+          "url": "https://www.treccani.it/enciclopedia/paracelso/"
+        },
+        {
+          "title": "University of Basel · University history",
+          "url": "https://www.unibas.ch/en/University/About-University/History.html"
+        }
+      ],
+      "identityReason": "The distinctive name and collected medical works identify Paracelsus; later imprint dates are posthumous editions.",
+      "identityLevel": "high"
+    }
+  ]
+}

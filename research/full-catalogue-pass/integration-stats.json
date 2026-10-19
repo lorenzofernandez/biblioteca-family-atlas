@@ -1,0 +1,341 @@
+{
+  "checked": "2026-10-17",
+  "screened": 49780,
+  "externalWorkRecords": 8689,
+  "containerRecords": 9446,
+  "individualReviews": 264,
+  "rarityEvidenceRecords": 309,
+  "offprintRecords": 19965,
+  "catalogueSignalRecords": 20578,
+  "statuses": {
+    "reviewed": 287,
+    "linked": 8402,
+    "container": 7736,
+    "catalogue": 27411,
+    "reference": 5944
+  },
+  "signalCounts": {
+    "extract_or_offprint_notation": 19965,
+    "incomplete_collection_section": 303,
+    "typescript": 43,
+    "manuscript": 38,
+    "duplicated_copy": 45,
+    "autograph_presentation": 59,
+    "copy_incomplete": 123,
+    "photocopy": 11,
+    "reprint_or_facsimile": 16,
+    "later_impression": 13,
+    "manuscript_component": 14,
+    "limited_print_run": 2,
+    "limited_print_run_conflict": 1,
+    "special_issue_print_run": 1
+  },
+  "articleCorpusRecords": 87395,
+  "newWorkLeadRecords": 6462,
+  "matchingStats": {
+    "noCandidate": 41442,
+    "withCandidates": 8338,
+    "medium": 3979,
+    "low": 3828,
+    "sameYear": 2831,
+    "previouslyNoNames": 1222,
+    "high": 531,
+    "catalogueRecords": 49780,
+    "corpusRecords": 855837,
+    "internetArchiveRecords": 768442,
+    "crossrefRecords": 87395,
+    "localRecordsScreened": 49780,
+    "individualExternalRecordSearches": 1,
+    "containerResearch": {
+      "recognisedCitedPublications": 10540,
+      "withContainerCandidates": 9446,
+      "hostOnlyRecords": 7790,
+      "recordsWithAnyLead": 16128
+    },
+    "containerGroups": {
+      "academy_sciences": 4597,
+      "journal_chem_phys": 624,
+      "observations_physique": 371,
+      "zphysicalchem": 995,
+      "annalen_physik": 373,
+      "annales_chimie": 983,
+      "lincei": 546,
+      "nuovo_cimento": 290,
+      "royal_proceedings": 54,
+      "royal_philtrans": 91,
+      "physica": 123,
+      "philmag": 75,
+      "jacs": 38,
+      "zanorgchem": 29,
+      "zphysik": 71,
+      "nature": 37,
+      "gazzetta": 74,
+      "physical_review": 45,
+      "jphyschem": 30
+    },
+    "articleCorpusRecords": 87395,
+    "individualExternalTitleApiRequests": 2,
+    "crossrefBatchRequests": 93,
+    "crossrefItemsRetrieved": 88487,
+    "crossrefJournalQueries": 16,
+    "coverageSummary": {
+      "totalRecords": 49780,
+      "localCorpusScreened": 49780,
+      "individualExternalTitlesQueried": 1,
+      "individualExternalTitleApiRequests": 2,
+      "withWorkCandidates": 8338,
+      "workReferenceThumbnailCandidateRecords": 3582,
+      "hostPublicationThumbnailCandidateRecords": 9446,
+      "withHostPublicationCandidates": 9446,
+      "hostOnlyRecords": 7790,
+      "withAnyLead": 16128,
+      "noCandidateInSelectedCorpora": 33652,
+      "newWorkCandidateRecords": 5978,
+      "oldCandidateRecordsNotRetainedByThisPass": 222,
+      "bestWorkCandidateConfidence": {
+        "medium": 3979,
+        "low": 3828,
+        "high": 531
+      },
+      "referenceTypes": {
+        "journal-article": 6170,
+        "cited publication / possible host journal": 9446,
+        "digitized publication": 5240,
+        "possible book review or bibliographic notice": 351
+      },
+      "referenceSources": {
+        "Crossref": 6521,
+        "Internet Archive": 14686
+      },
+      "statuses": {
+        "no_candidate_above_threshold": 33450,
+        "candidate_found": 8338,
+        "host_publication_lead": 7790,
+        "insufficient_searchable_title": 202
+      },
+      "sectionCoverage": {
+        "001": {
+          "workCandidates": 4392,
+          "anyLead": 9243,
+          "hostCandidates": 6258
+        },
+        "005": {
+          "hostCandidates": 3150,
+          "anyLead": 3701,
+          "workCandidates": 798
+        },
+        "007": {
+          "workCandidates": 836,
+          "anyLead": 844,
+          "hostCandidates": 9
+        },
+        "006": {
+          "workCandidates": 1697,
+          "anyLead": 1723,
+          "hostCandidates": 27
+        },
+        "003": {
+          "workCandidates": 241,
+          "anyLead": 243,
+          "hostCandidates": 2
+        },
+        "004": {
+          "workCandidates": 195,
+          "anyLead": 195
+        },
+        "002": {
+          "workCandidates": 179,
+          "anyLead": 179
+        }
+      },
+      "crossrefRetrieval": {
+        "source": "Crossref REST API",
+        "retrievedAt": "2026-10-17",
+        "requests": 93,
+        "itemsRetrieved": 88487,
+        "journals": [
+          {
+            "issn": "0003-3804",
+            "title": "Annalen der Physik",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 28484,
+            "complete": false
+          },
+          {
+            "issn": "0942-9352",
+            "title": "Zeitschrift für Physikalische Chemie",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 16899,
+            "complete": false
+          },
+          {
+            "issn": "0044-2313",
+            "title": "Zeitschrift für anorganische und allgemeine Chemie",
+            "pages": 4,
+            "records": 3245,
+            "totalMatching": 3245,
+            "complete": true
+          },
+          {
+            "issn": "0372-8323",
+            "title": "Zeitschrift für Elektrochemie und angewandte physikalische Chemie",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 12868,
+            "complete": false
+          },
+          {
+            "issn": "2367-1491",
+            "title": "Zeitschrift für Elektrochemie",
+            "pages": 4,
+            "records": 3616,
+            "totalMatching": 3616,
+            "complete": true
+          },
+          {
+            "issn": "0372-8382",
+            "title": "Zeitschrift für Elektrochemie Berichte der Bunsengesellschaft",
+            "pages": 3,
+            "records": 2858,
+            "totalMatching": 2858,
+            "complete": true
+          },
+          {
+            "issn": "0031-8914",
+            "title": "Physica",
+            "pages": 5,
+            "records": 4397,
+            "totalMatching": 4397,
+            "complete": true
+          },
+          {
+            "issn": "0029-6341",
+            "title": "Il Nuovo Cimento",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 11699,
+            "complete": false
+          },
+          {
+            "issn": "0368-3842",
+            "title": "Journal de Physique et le Radium",
+            "pages": 5,
+            "records": 4516,
+            "totalMatching": 4516,
+            "complete": true
+          },
+          {
+            "issn": "0031-899X",
+            "title": "Physical Review",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 36442,
+            "complete": false
+          },
+          {
+            "issn": "0002-7863",
+            "title": "Journal of the American Chemical Society",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 66151,
+            "complete": false
+          },
+          {
+            "issn": "0022-3654",
+            "title": "Journal of Physical Chemistry",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 8437,
+            "complete": false
+          },
+          {
+            "issn": "0941-1216",
+            "title": "Journal für praktische Chemie",
+            "pages": 1,
+            "records": 0,
+            "totalMatching": 0,
+            "complete": true
+          },
+          {
+            "issn": "0013-4651",
+            "title": "Journal of The Electrochemical Society",
+            "pages": 5,
+            "records": 4350,
+            "totalMatching": 4350,
+            "complete": true
+          },
+          {
+            "issn": "0034-6861",
+            "title": "Reviews of Modern Physics",
+            "pages": 2,
+            "records": 1505,
+            "totalMatching": 1505,
+            "complete": true
+          },
+          {
+            "issn": "0028-0836",
+            "title": "Nature",
+            "pages": 8,
+            "records": 8000,
+            "totalMatching": 208617,
+            "complete": false
+          }
+        ],
+        "scope": "Bounded historical article corpus. Up to 8000 metadata records per selected journal dated1600–1965, in API default order. Not individual searches for every family record."
+      },
+      "validation": "PASS: complete record coverage, distinct relationship types, no automatic verified flags, no scan-to-survivor conversions, and complete image/source provenance fields."
+    }
+  },
+  "matchingMethod": {
+    "approach": "All catalogue records screened locally against public Internet Archive and a bounded Crossref journal-article metadata corpus. OCR f/£ repair, line-break repair, shortened imprint-free title variants, phonetic token normalization and near-spelling retrieval precede fuzzy title, creator and publication-year scoring. Two distinct best metadata candidates retained. This is candidate generation, not a verified catalogue crosswalk.",
+    "confidence": "Heuristic tiers, not calibrated probabilities. High requires close title, creator overlap and same/adjacent year; medium supports a plausible work connection; low can be an OCR, translation, edition or false-match lead.",
+    "imagePolicy": "Source thumbnails are reference-copy images. Page type and edition match unverified unless separately researched. No image inferred to depict the family copy.",
+    "copyCountPolicy": "External record, digitization and search-result counts are never converted into surviving physical copies.",
+    "scope": "All family catalogue records were screened locally, not individually searched on the web. Internet Archive corpus source selection is recorded in the earlier broad-research/book-cache/ia-corpus-log.json. The added bounded Crossref journal corpus and its requests are recorded in full-catalogue-pass/cache/crossref-retrieval-log.json. Unmatched records may be absent from these corpora, have unreadable OCR, or need other sources; this is not an exhaustive search of world catalogues.",
+    "containerPolicy": "Host-publication candidates are inferred from an OCR offprint citation. They identify a possible reading source, not the article, edition, physical offprint or survival count. No individual external request was sent for these records; matching uses the cached Internet Archive corpus.",
+    "externalSearchScope": "One family title was individually probed through Crossref and OpenAlex. All 49,780 family records were locally screened; the main external activity was public-corpus retrieval (93 Crossref batch requests plus journal discovery), not 49,780 web searches.",
+    "reviewedFalsePositiveProtections": "Spot-checking exposed publisher/imprint words matching unrelated book reviews. Three named regression records were rechecked after removing imprint variants: Das Gold and Mathematische Schwingungslehre no longer matched unrelated reviews; Molecular rays now matched a source with that title. Common publication-format tokens are excluded. Low-confidence related-title mismatches still remain and are explicitly labelled.",
+    "falsePositivePolicy": "Low-confidence candidates can be false matches. Imprints and common publication-format words are removed before title matching; apparent book reviews and host-journal leads are separately labelled. No automatic candidate is marked verified."
+  },
+  "publicationConfidencePolicy": "Automatic candidate confidence is capped at medium on the site. High similarity scores do not establish an individually verified edition.",
+  "catalogueMethod": {
+    "title": "Original-catalogue evidence screening",
+    "checkedAt": "2026-10-17",
+    "universe": "All 49,780 records from the original OCR text, matched to their original PDF filename and one-based scan page.",
+    "process": [
+      "Scan all records for scarcity words, edition limitation/numbering, manuscripts, reproduction/printing notes, offprints and incompleteness.",
+      "Read all 93 scarcity,95 printing,122 manuscript,29 reproduction and 134 incompleteness candidate contexts. Reject title words and subject terminology.",
+      "Visually inspect the four numerical printing notes in the original PDF scans. Inspect the preceding Torricelli card to connect the continuation correctly.",
+      "Use automatic OCR matches for explicit abbreviated offprint notation and typescript/duplicated-copy notes; expose the short original context and retain medium/lowconfidence.",
+      "Review manuscript-catalogue headings and group continuation cards with the first card. Detect explicit cross-reference/continuation markers, including ones missing from the old flags.",
+      "Retain all 49,780 IDs in a compact assessment index, including records where no explicit signal was found."
+    ],
+    "scope": [
+      "This is a catalogue evidence pass, not an external institutional search for every edition.",
+      "No original publication date or age alone is used to assign rarity.",
+      "No signal found means no explicit evidence detected by this method; it does not mean non-rare or absent from other libraries.",
+      "An offprint marker can describe a journal extract or clipping; a separately printed offprint has not been proved.",
+      "Manuscript objects can be individually distinctive while the same text exists in other manuscripts or print. No global count is assigned.",
+      "A facsimile may itself be limited; its print run belongs to that reproduction, not the earlier original.",
+      "Numbered copies do not prove a total without a limitation statement.",
+      "Original print-run numbers give only conditional ceilings, never present-day survivor estimates.",
+      "Completeness, presentation inscriptions and handwritten additions are copy-specific attributes, not global edition rarity.",
+      "Cross-references and continuation cards are not independently counted as books; manuscript continuations and Torricelli are explicitly linked. Other records remain undeduplicated catalogue records."
+    ],
+    "knownConflicts": {
+      "Boffito1929": "The card itself says 300 numbered copies and copy 328. No numeric ceiling retained.",
+      "GalvaniTaccuino": "The card itself dates the bicentenary facsimile 1837;1937 is supported by the Bologna Library chronology. Date conflict retained.",
+      "TorricelliScina": "Two copies applies to special Parma blue-paper issues only. The catalogue does not explicitly establish that the family copy has this paper."
+    },
+    "files": {
+      "catalogue-signals.json": "Positive records with quoted OCR evidence and original PDF/page citations.",
+      "catalogue-assessment-index.json": "Compact flags/status for all 49,780 records.",
+      "catalogue-signals-stats.json": "Exhaustive-screening totals and signal counts.",
+      "manual-review-decisions.json": "Disposition of every high-risk lexical candidate.",
+      "catalogue-print-run-evidence.json": "The four visually checked numerical notes and caveats."
+    }
+  },
+  "scope": "All catalogue records were screened locally; external API retrievals collected public reference corpora. This is not 49,780 individual web searches or holdings censuses. An unmatched record is not evidence of scarcity. Category bar is exclusive; headline evidence totals can overlap."
+}

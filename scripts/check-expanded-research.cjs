@@ -1,0 +1,17 @@
+const fs=require('fs'),path=require('path'),zlib=require('zlib'),vm=require('vm'),assert=require('assert');
+const root=path.join(__dirname,'../dist'),read=n=>JSON.parse(fs.existsSync(path.join(root,n))?fs.readFileSync(path.join(root,n),'utf8'):zlib.gunzipSync(fs.readFileSync(path.join(root,n+'.gz'))).toString());
+const records=Object.assign({},...fs.readdirSync(path.join(root,'book-records')).filter(n=>n.endsWith('.gz')).map(n=>JSON.parse(zlib.gunzipSync(fs.readFileSync(path.join(root,'book-records',n))))));
+const books=read('books-data.json').books,data=read('research-data.json'),rarity=read('rarity-data.json');
+assert.equal(Object.keys(records).length,49780);assert.equal(books.length,49780);assert.equal(new Set(books.map(b=>b.id)).size,49780);
+assert.equal(data.sourceVerification.verified,229+data.deepResearchPass.newVerifiedEditions);assert.equal(data.sourceVerification.verified+data.sourceVerification.tentative+data.sourceVerification.unmatched,49780);
+for(const e of data.sourceVerification.verifiedEntries){const r=records[e.id];assert(r.research.curated&&r.confidence.metadata.level==='high');assert(e.source.url.startsWith('https://'));assert(e.basis.length>20)}
+assert.equal(records.wb51b7b0821e0.bibliographyAssessment.applicable,false,'Poggendorff complete set must not transfer');assert.equal(records.w2ac4dc9f284f.bibliographyAssessment.applicable,false,'Jars complete set must not transfer');
+const sage=records.w5479c5ae293e.survivalResearch;assert.equal(sage.conditionalSurvivalBounds.maxApprox,500);assert.equal(sage.conditionalSurvivalBounds.confidence,'low');assert.equal(sage.worldwideEstimate,null);assert.equal(sage.worldwideSurvivingRange.max,null);
+assert.equal(records.w527e11650b83.survivalResearch.documentedLowerBound,8);assert.equal(records.wd4afa3ed90a6.survivalResearch.documentedLowerBound,6);
+for(const r of Object.values(records)){if(r.editionReview?.decision==='different_edition')assert.notEqual(r.confidence.metadata.level,'high');if(r.bibliographyAssessment){assert.equal(r.bibliographyAssessment.confidence,'low');assert(r.bibliographyAssessment.sources.length)}}
+const context={window:{}};vm.createContext(context);vm.runInContext(fs.readFileSync(path.join(root,'rarity.js'),'utf8'),context);const classify=context.window.LibraryRarity.classify;
+for(const basis of ['counts','sources'])for(const threshold of [10,50,100,500,1000])for(const tentative of [false,true]){const c={rare:0,possible:0,nonrare:0,unknown:rarity.total-rarity.researched};for(const r of rarity.records)c[classify(r,threshold,tentative,basis).key]++;assert.equal(Object.values(c).reduce((a,b)=>a+b),49780);if(!tentative)assert.equal(c.possible,0)}
+const counts=basis=>rarity.records.reduce((c,r)=>(c[classify(r,100,true,basis).key]++,c),{rare:0,possible:0,nonrare:0,unknown:rarity.total-rarity.researched});assert.equal(counts('counts').possible,1);assert(counts('sources').possible>=197);
+assert.equal(classify({editionConfidence:'high',evidenceConfidence:'high',minimum:2},100,true,'counts').key,'unknown');
+let bytes=0;function total(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const p=path.join(dir,e.name);if(e.isDirectory())total(p);else bytes+=fs.statSync(p).size}}total(root);assert(bytes<256*1024*1024);
+console.log(JSON.stringify({records:49780,verified:data.sourceVerification.verified,researchedRarity:rarity.researched,countsOnly:counts('counts'),withSourceAssessments:counts('sources'),staticMiB:bytes/2**20,checks:'passed'},null,2));

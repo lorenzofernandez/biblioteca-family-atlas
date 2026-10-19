@@ -1,0 +1,58 @@
+{
+  "generator": "Built-in image_gen",
+  "date": "2026-10-18",
+  "purpose": "AI-generated ornamental assets composed with each catalogue record's actual text; interpretations, never evidence of original bindings.",
+  "assets": [
+    {
+      "file": "italian-early.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: reusable book-cover ornamental illustration for a historical library. Create one FLAT portrait 2:3 cover design: thin precise WHITE engraved lines on PURE BLACK (#000000), inspired by Italian Renaissance printed book ornaments, circa 1500\u20131700. A fine double rectangular frame, restrained symmetrical acanthus vines at the corners, small graceful classical rosette at bottom. Broad open central black space from 18% to 80% height and 18% to 82% width, reserved for title and author typeset later. No letters, no numbers, no words, no logo, no publisher marks, no heraldic arms. Balanced, scholarly, elegant, delicate but readable linework at thumbnail size. Entire artwork is white linework and black negative space only. No gradients, no gold, no textures, no physical book, no perspective, no shadow. This is an explicitly imagined period-inspired cover, not a facsimile. Fill the full portrait canvas with the black design.",
+      "original": "italian-early.png"
+    },
+    {
+      "file": "french-early.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE engraved linework on PURE BLACK only. Reserve the whole middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography added later. Decoration confined to narrow margins and corners. No text, letters, numbers, logos, coats of arms, publisher symbols, gray fills, gradients, gold, paper textures, perspective or shadows. Elegant and readable at small size. An imagined historical interpretation, not a facsimile. Inspired by French printed books and bindings of the seventeenth and eighteenth centuries: extremely delicate symmetric interlacing, restrained fan-shaped corner tooling, fine triple rule frame and small lace-like arabesque at bottom. Refined precision, much quieter than Italian acanthus.",
+      "original": "french-early.png"
+    },
+    {
+      "file": "northern-early.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE engraved linework on PURE BLACK only. Reserve the whole middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography added later. Decoration confined to narrow margins and corners. No text, letters, numbers, logos, coats of arms, publisher symbols, gray fills, gradients, gold, paper textures, perspective or shadows. Elegant and readable at small size. An imagined historical interpretation, not a facsimile. Inspired by German and Netherlandish printed books of the sixteenth and seventeenth centuries: a woodcut-like rectangular border, geometric strapwork and small stylized leaf blocks at corners, crisp angular rhythm, fine single outer rule. Scholarly and restrained.",
+      "original": "northern-early.png"
+    },
+    {
+      "file": "italian-industrial.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE engraved linework on PURE BLACK only. Reserve the whole middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography added later. Decoration confined to narrow margins and corners. No text, letters, numbers, logos, coats of arms, publisher symbols, gray fills, gradients, gold, paper textures, perspective or shadows. Elegant and readable at small size. An imagined historical interpretation, not a facsimile. Inspired by Italian nineteenth-century scientific book design: fine neoclassical ruled frame, tiny engraved laurel sprays at top and bottom, restrained architectural corner brackets, absolutely no human figures or buildings. Quiet, precise scientific elegance.",
+      "original": "italian-industrial.png"
+    },
+    {
+      "file": "french-industrial.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE engraved linework on PURE BLACK only. Reserve the whole middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography added later. Decoration confined to narrow margins and corners. No text, letters, numbers, logos, coats of arms, publisher symbols, gray fills, gradients, gold, paper textures, perspective or shadows. Elegant and readable at small size. An imagined historical interpretation, not a facsimile. Inspired by French nineteenth-century scholarly publishing: elegant fine engraved neoclassical frame with restrained palmette corner ornaments, delicate oval rosette in the bottom margin. Symmetric crisp linework. Not Art Nouveau, not medieval, not lavishly ornate.",
+      "original": "french-industrial.png"
+    },
+    {
+      "file": "anglo-early.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE linework on PURE BLACK only. Reserve the entire middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography later. Decoration only in narrow outer margins and corners. No text, letters, numbers, logos, coats of arms, gray fills, gradients, gold, textures, perspective or shadows. Elegant, restrained, legible when small. Imagined interpretation, not a facsimile. Inspired by eighteenth-century British scholarly bookbindings: very spare double rule border, small geometric diamond tools at corners, tiny symmetrical bottom leaf ornament. Straight crisp engraving with lots of untouched black, no ornate vines.",
+      "original": "anglo-early.png"
+    },
+    {
+      "file": "anglo-industrial.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE linework on PURE BLACK only. Reserve the entire middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography later. Decoration only in narrow outer margins and corners. No text, letters, numbers, logos, coats of arms, gray fills, gradients, gold, textures, perspective or shadows. Elegant, restrained, legible when small. Imagined interpretation, not a facsimile. Inspired by nineteenth-century British clothbound scientific books: precise symmetrical Victorian corner tooling, tiny angular star and fine interlocking line border. Restrained industrial-era engraved ornament. Use lines, not filled masses.",
+      "original": "anglo-industrial.png"
+    },
+    {
+      "file": "northern-industrial.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE linework on PURE BLACK only. Reserve the entire middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography later. Decoration only in narrow outer margins and corners. No text, letters, numbers, logos, coats of arms, gray fills, gradients, gold, textures, perspective or shadows. Elegant, restrained, legible when small. Imagined interpretation, not a facsimile. Inspired by nineteenth-century German-language scientific publishing: rigorous thin rectangular frame, angular interlacing corner ornaments, small stylized botanical geometric ornament at bottom. Restrained mathematical symmetry and precision.",
+      "original": "northern-industrial.png"
+    },
+    {
+      "file": "modern.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE linework on PURE BLACK only. Reserve the entire middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography later. Decoration only in narrow outer margins and corners. No text, letters, numbers, logos, coats of arms, gray fills, gradients, gold, textures, perspective or shadows. Elegant, restrained, legible when small. Imagined interpretation, not a facsimile. Inspired by early twentieth-century geometric book design: a minimal asymmetrical line composition along the outer margins with parallel vertical strokes, a few outlined circles and a single diagonal in the bottom margin. Bauhaus-like abstraction without colored fields or filled shapes. Broad center stays empty black.",
+      "original": "modern.png"
+    },
+    {
+      "file": "neutral.jpg",
+      "prompt": "Use case: stylized-concept. Asset type: flat book-cover ornamental artwork. One portrait 2:3 design, WHITE linework on PURE BLACK only. Reserve the entire middle rectangle (x=18\u201382%, y=18\u201380%) as empty pure black for real typography later. Decoration only in narrow outer margins and corners. No text, letters, numbers, logos, coats of arms, gray fills, gradients, gold, textures, perspective or shadows. Elegant, restrained, legible when small. Imagined interpretation, not a facsimile. A timeless restrained library cover: a single fine white rectangular rule, delicate small open-diamond accents in corners, a tiny abstract line rosette at bottom. No historically or geographically specific motifs. Sophisticated quiet neutral frame, pure black negative space.",
+      "original": "neutral.png"
+    }
+  ],
+  "delivery": "JPEG web encoding; original generated PNG artwork retained in assets/cover-artwork and the downloadable archive."
+}
