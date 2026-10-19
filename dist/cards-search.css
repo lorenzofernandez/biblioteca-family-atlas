@@ -67,3 +67,7 @@ body.card-open .card-view-toolbar,body:has(#authorPanel[open]) .card-view-toolba
 @media(max-width:600px){.card-view-toolbar{bottom:max(16px,env(safe-area-inset-bottom));gap:4px;padding:5px;max-width:calc(100vw - 20px)}.card-view-toolbar button{padding:9px 10px;font-size:12px}.card-zoom-controls{padding-left:4px}#cardZoomIn,#cardZoomOut{padding:6px 9px}.card-list-view{padding:95px 24px 100px}.card-list-heading{display:block;margin-top:12px}.card-list-heading p{margin-top:15px}.card-list-columns{display:none}.card-search-result{grid-template-columns:1fr;gap:8px;padding:24px 0}.card-search-result strong{font-size:22px}.card-search-result small{font-size:12px}}
 .country-label:disabled{opacity:.35;cursor:default}
 @media(max-width:600px){#cardSearchDialog{inset:62px 12px auto auto;width:calc(100vw - 24px);max-height:calc(100dvh - 88px)}.card-filter-summary{top:61px;right:12px}.card-search-heading{padding-top:18px;padding-bottom:14px}#cardSearchDialog h2{font-size:27px}#cardSearchDialog .dialog-close{top:14px}#cardSearchForm input[type=search],#cardSearchForm select{font-size:16px}.card-search-dates{margin-top:16px}}
+
+/* The catalogue is a dedicated browsing surface, independent of the story. */
+body.catalogue-only{overflow:hidden}
+body.catalogue-only .story-step,body.catalogue-only .chapters,body.catalogue-only .skip-link,body.catalogue-only #cardContinue,body.catalogue-only #scrollProgress{visibility:hidden;pointer-events:none}

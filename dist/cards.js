@@ -2,6 +2,8 @@
 'use strict';
 (async()=>{
  const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
+ const catalogueOnly=new URL(location.href).searchParams.has('catalogue');
+ document.body.classList.toggle('catalogue-only',catalogueOnly);
  const canvas=$('#cardSpace'),steps=$$('.story-step'),copies=$$('.chapter-copy'),nav=$$('.chapters a'),introWords=$$('.intro-word'),contextCopy=$('#contextIntro'),projectCopy=$('#unfinishedProject'),familyPhotos=$$('#familyPhotographs figure');
  const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),mix=(a,b,t)=>a+(b-a)*t,smooth=t=>{t=clamp(t);return t*t*(3-2*t)};
  const fmt=n=>n.toLocaleString('en-US');
@@ -115,7 +117,7 @@
  let squareLayouts=[],squarePositions=new Float32Array(data.total*3),squareBitmaps=[],squaresActive=false;
  let filteredWallLayout=null,filterTransition=null;
  let wallBrowsing=false,wallList=false;
- const inSearchMode=()=>cardSearch?.isOpen||cardSearch?.active;
+ const inSearchMode=()=>catalogueOnly||cardSearch?.isOpen||cardSearch?.active;
  const wallCamera={scale:1,x:0,y:0};
  let wallDrag=null,suppressWallClick=false;
  const canPanWall=()=>inSearchMode()&&wallBrowsing&&!wallList&&wallCamera.scale>1&&!document.querySelector('dialog:modal')&&!authorPanel?.isOpen;
@@ -140,6 +142,7 @@
   hideHover();showFilterWall();if(list)$('#cardListView').focus({preventScroll:true});
  }
  function leaveWall(){
+  if(catalogueOnly){wallBrowsing=true;showFilterWall();return;}
   wallBrowsing=false;wallList=false;cardSearch.setListMode(false);document.body.classList.remove('wall-browsing','wall-list');resetWallCamera();
   $('#cardGridView').setAttribute('aria-pressed','true');$('#cardListToggle').setAttribute('aria-pressed','false');$('#cardZoomControls').hidden=false;hideHover();wake();
  }
@@ -183,7 +186,7 @@
   const dateCorrections=new Map((data.dateCorrections||[]).map(entry=>[entry.id,entry.year]));
   catalogueCards=index.cards.map(row=>({id:row[0],title:row[1],author:row[2],year:dateCorrections.has(row[0])?dateCorrections.get(row[0]):row[3],file:index.files[row[4]],page:row[5],rare:false}));
   if(catalogueCards.length+cards.length!==data.total)throw Error('Incomplete catalogue lookup');
-  if(wallGrid){buildWallLookup();layoutSquares();}cardSearch.setRecords([...cards,...catalogueCards],geo);if(new URL(location.href).searchParams.has('catalogue'))cardSearch.show();wallCanvas.dataset.catalogueReady='true';cardById=new Map([...cards,...catalogueCards].map((card,index)=>[card.id,index]));routeReady=true;syncRoute();wake();
+  if(wallGrid){buildWallLookup();layoutSquares();}cardSearch.setRecords([...cards,...catalogueCards],geo);if(catalogueOnly){setWallView(false);cardSearch.show();}wallCanvas.dataset.catalogueReady='true';cardById=new Map([...cards,...catalogueCards].map((card,index)=>[card.id,index]));routeReady=true;syncRoute();wake();
  }).catch(error=>{cardSearch.failed();wallCanvas.dataset.catalogueReady='false';console.warn('Catalogue geography unavailable',error.message);$('#sceneCaption').hidden=false;$('#sceneCaption').textContent='The catalogue map could not load. Refresh to try again.'});
  function buildWallLookup(){
   wallIds.fill(-1);wallCellById.fill(-1);
