@@ -58,3 +58,6 @@ nav.library-navigation>a.library-home{margin-right:auto!important;font:22px/18px
 .books-grid-only .book-grid:not(.library-list) .book-tile>h3{display:none!important}
 @media(max-width:999px){.library-space-mode .library-filter-panel{position:fixed;top:72px;right:12px;left:12px;margin:0;width:auto;max-height:165px;overflow:auto}.library-space-mode .library-filter-panel .directory-toolbar,.library-space-mode .library-filter-panel .book-tools{display:flex;flex-direction:row;flex-wrap:wrap;gap:8px}.library-space-mode .library-filter-panel input,.library-space-mode .library-filter-panel select{width:auto;flex:1;min-width:130px}}
 .library-space-item>.generated-cover-frame{max-width:none!important;min-height:0!important;background:#000!important}.library-space-item .generated-cover-label{display:none!important}
+
+.library-list .person-tile-link{grid-template-columns:65px minmax(150px,1fr) minmax(220px,2fr)!important}.library-list .person-tile-link>.author-card-bio{display:block!important;font:14px/1.6 Arial,sans-serif;color:#bfc3b7;white-space:normal}.person-tile .author-card-bio{font:14px/1.6 Arial,sans-serif;color:#bfc3b7;margin-top:12px}.library-space-item .author-card-bio{display:none!important}
+@media(max-width:650px){.library-list .person-tile-link{grid-template-columns:50px 1fr!important}.library-list .person-tile-link>.author-card-bio{grid-column:2}}
