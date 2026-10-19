@@ -80,3 +80,6 @@ body.catalogue-only #cardSearchDialog{top:84px;max-height:calc(100svh - 110px)}
 
 body.catalogue-only #cardSearchDialog .dialog-close{display:block!important;width:auto;height:auto;position:static;border:0;border-bottom:1px solid #766c55;border-radius:0;padding:4px 0;margin-top:12px;font:12px Arial;color:#d2bd91}.filter-reopen{position:fixed;z-index:35;top:84px;right:24px;padding:12px 18px;border:1px solid #66604e;border-radius:4px;background:#10110ff2;color:#eeeade;font:13px Arial;cursor:pointer}
 body.catalogue-only .card-filter-summary{top:84px;right:125px;max-width:calc(100vw - 150px)}
+
+/* Search is accessed through Catalogue and its text filter control. */
+#cardSearchToggle{display:none!important}
