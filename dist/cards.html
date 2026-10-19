@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#000000"><title>A life in cards · Biblioteca</title>
 <link rel="preload" as="image" href="cards-assets/first-card.jpg">
 <link rel="stylesheet" href="cards.css?v=family-1">
-<link rel="stylesheet" href="cards-authors.css?v=1">
+<link rel="stylesheet" href="cards-authors.css?v=lifespans-1">
 <link rel="stylesheet" href="book-summaries.css?v=1">
 <script src="book-summaries.js?v=2" defer></script>
 <script src="data-loader.js?v=names-20261019" defer></script>
@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="author-panel.css?v=biographies-20261019">
 <script src="cards-history.js?v=1" defer></script>
 <script src="author-panel.js?v=biographies-20261019" defer></script>
-<script src="cards.js?v=family-1" defer></script>
+<script src="cards.js?v=lifespans-1" defer></script>
 <link rel="stylesheet" href="generated-covers.css?v=1"><link rel="stylesheet" href="library-navigation.css?v=1"><script src="library-navigation.js?v=1" defer></script></head>
 <body>
 <a class="skip-link" href="#time">Skip to the timeline</a>
@@ -35,6 +35,7 @@
 <a href="#time" aria-label="5. Across time"><i></i></a>
 <a href="#geography" aria-label="6. Across the world"><i></i></a>
 <a href="#authors" aria-label="7. The authors"><i></i></a>
+<a href="#lifespans" aria-label="8. Author lifespans"><i></i></a>
 </nav>
 <main id="story">
 <section id="collection" class="story-step" aria-labelledby="collectionTitle"><div id="contextIntro" class="context-copy"><div class="eyebrow">An archive told through its catalogue</div><h1>What you are about to explore is a family library,<br>told through its catalogue.</h1><span class="context-scroll" aria-hidden="true">Scroll to enter the catalogue ↓</span></div><div class="chapter-copy intro-copy"><h1 id="collectionTitle" aria-label="For the better part of the last century, my grandfather, Roberto Piontelli, a scientist, collected thousands of books."><span class="intro-word" aria-hidden="true">For</span> <span class="intro-word" aria-hidden="true">the</span> <span class="intro-word" aria-hidden="true">better</span> <span class="intro-word" aria-hidden="true">part</span> <span class="intro-word" aria-hidden="true">of</span> <span class="intro-word" aria-hidden="true">the</span> <span class="intro-word" aria-hidden="true">last</span> <span class="intro-word" aria-hidden="true">century,</span> <span class="intro-word" aria-hidden="true">my</span> <span class="intro-word" aria-hidden="true">grandfather,</span> <span class="intro-word intro-name" aria-hidden="true">Roberto</span> <span class="intro-word intro-name" aria-hidden="true">Piontelli,</span> <span class="intro-word" aria-hidden="true">a</span> <span class="intro-word" aria-hidden="true">scientist,</span> <span class="intro-word" aria-hidden="true">collected</span> <span class="intro-word intro-books" aria-hidden="true">thousands</span> <span class="intro-word intro-books" aria-hidden="true">of</span> <span class="intro-word intro-books" aria-hidden="true">books.</span></h1></div><div id="unfinishedProject" class="unfinished-project"><h2>He was collecting for<br><em>a book he never wrote.</em></h2><p>His dream was to write a history of chemistry. This library was its foundation.<br>He died in 1971 before he could complete the project.</p></div></section>
@@ -50,9 +51,10 @@
 <section id="many" class="story-step" aria-labelledby="manyTitle"><div class="chapter-copy many-copy"><h2 id="manyTitle">49,780 cards.<br><em>One by one.</em></h2></div></section>
 <section id="time" class="story-step" aria-labelledby="timeTitle"><div class="chapter-copy timeline-intro"><h2 id="timeTitle">The collection spans<br>from the <em>1400s</em><br>to the <em>1900s.</em></h2></div></section>
 <section id="geography" class="story-step" aria-labelledby="geographyTitle"><div class="chapter-copy geography-copy"><h2 id="geographyTitle">From across<br><em>the world.</em></h2><p>Publication places on the cards.<br><span id="geographyCoverage"></span></p></div></section>
-<section id="authors" class="story-step final-step" aria-labelledby="authorsTitle"><div class="chapter-copy authors-copy"><h2 id="authorsTitle">The authors.</h2><p>Larger portraits mean more catalogue mentions.</p></div></section>
+<section id="authors" class="story-step" aria-labelledby="authorsTitle"><div class="chapter-copy authors-copy"><h2 id="authorsTitle">The authors.</h2><p>Larger portraits mean more catalogue mentions.</p></div></section>
+<section id="lifespans" class="story-step final-step" aria-labelledby="lifespansTitle"><div class="chapter-copy lifespan-copy"><h2 id="lifespansTitle">Lives in parallel.</h2><p>Overlapping lives show who shared the same years. They do not establish that two people met.</p></div></section>
 </main>
-<section id="authorPortraits" class="author-portrait-scene" aria-label="Authors by catalogue mentions" hidden><div class="author-portrait-board"></div><div class="author-scene-footer"><p class="author-scene-status"></p><a href="author-lifespans.html">Compare lifespans ↗</a></div></section>
+<section id="authorPortraits" class="author-portrait-scene" aria-label="Authors by catalogue mentions" hidden><div class="author-portrait-board"></div><div class="author-scene-footer"><p class="author-scene-status"></p></div></section>
 <div class="timeline-labels scene-labels" id="timelineLabels" aria-label="Catalogue timeline" hidden><div class="era-axis" id="eraAxis"></div></div>
 <div class="geography-labels scene-labels" id="geographyLabels" aria-label="Publication geography" hidden><div id="countryLabels"></div><label class="country-browser">Explore a country <select id="countryBrowser" aria-label="Explore cards by publication country"><option value="">Choose a country</option></select></label></div>
 <div class="hover-card" id="hoverCard" hidden><img alt=""><small class="hover-image-status hover-loading" aria-hidden="true">Loading original card…</small><small class="hover-image-status hover-unavailable" aria-hidden="true">Original card unavailable</small><div><span class="hover-year"></span><strong></strong></div></div>

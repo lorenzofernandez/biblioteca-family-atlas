@@ -6,7 +6,7 @@
  const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),mix=(a,b,t)=>a+(b-a)*t,smooth=t=>{t=clamp(t);return t*t*(3-2*t)};
  const fmt=n=>n.toLocaleString('en-US');
  const originalSequenceStart=2.5,originalCardSpan=.5;
- const cataloguerHold=5.25,labourHold=5,overviewHold=2.6,holds=[0,cataloguerHold,labourHold,overviewHold,.9,1.9,0];
+ const cataloguerHold=5.25,labourHold=5,overviewHold=2.6,holds=[0,cataloguerHold,labourHold,overviewHold,.9,1.9,1.6,0];
  const originalSlides=$$('.original-slide'),cataloguerNarrative=$('#cataloguerTitle'),cataloguerIntro=$('#cataloguerIntro'),narration=cataloguerNarrative.getAttribute('aria-label'),typedNarrative=$('#typedNarrative'),untypedNarrative=$('#untypedNarrative');
  let labourTyping=0,originalPhase=0,wallZoomProgress=0,wallTravel=0,wallOpacity=0;
  function drawOriginals(){
@@ -57,7 +57,7 @@
   $('#labour').dataset.unit=duration.unit;
   canvas.dataset.typing=wallOpacity>.01?labourTyping.toFixed(3):'inactive';
  }
- $('#selectionNote').textContent='The five featured cards and the typed wall use original scans and catalogue transcriptions. Close views draw on '+fmt(data.shown)+' available card images. The overview, timeline and map use '+fmt(data.total)+' squares, one per scanned catalogue record. The final scene shows the 48 most-mentioned authors with identified profiles, with portrait area proportional to linked catalogue records. These include cross-references, not just distinct books. Reference portraits may depict proposed identities; initials mark missing images.';
+ $('#selectionNote').textContent='The five featured cards and the typed wall use original scans and catalogue transcriptions. Close views draw on '+fmt(data.shown)+' available card images. The overview, timeline and map use '+fmt(data.total)+' squares, one per scanned catalogue record. The portrait scene shows the 48 most-mentioned authors with identified profiles, with portrait area proportional to linked catalogue records. These include cross-references, not just distinct books. Reference portraits may depict proposed identities; initials mark missing images. In the following lifespan chart, the same authors are arranged by birth year using their biographical birth and death dates. These overlaps do not establish personal acquaintance.';
 
  const eraKeys=Object.keys(data.centuries).map(Number),byEra=new Map(eraKeys.map(y=>[y,[]])),undated=[];
  // Travel through one continuous, multi-screen timeline before regrouping by publication country.
@@ -413,14 +413,14 @@
   W=innerWidth;H=innerHeight;sizeTimeline();
   const storyCardWidth=Math.min(760,W*.84,H*.62/(866/1440));
   document.documentElement.style.setProperty('--story-card-width',storyCardWidth+'px');
-  resetWallCamera();layoutWall();authorScene?.resize(W,H);if(cardSearch?.isOpen||wallBrowsing)showFilterWall();onScroll();
+  resetWallCamera();layoutWall();authorScene?.resize(W,H);if(authorScene)steps[7].style.height=(authorScene.timelineTravel+H*1.6)+'px';if(cardSearch?.isOpen||wallBrowsing)showFilterWall();onScroll();
  }
  function chapterTop(index){return steps[index].offsetTop}
  function onScroll(){
   authorRevealTarget=clamp((scrollY-chapterTop(6)+H*.65)/(H*2));
   if(wallBrowsing){target=progress=3;wake();return;}
   if(scrollY<chapterTop(1))target=clamp((scrollY-chapterTop(1)+H*1.4)/(H*1.4),0,1);
-  else{target=6;for(let i=1;i<6;i++){const end=chapterTop(i)+H*holds[i];if(scrollY<chapterTop(i+1)){target=i+clamp((scrollY-end)/(1.4*H));break;}}}
+  else{target=7;for(let i=1;i<7;i++){const end=chapterTop(i)+H*holds[i];if(scrollY<chapterTop(i+1)){target=i+clamp((scrollY-end)/(1.4*H));break;}}}
   timelinePanTarget=timelineGeometry?clamp((scrollY-chapterTop(4))-H*timelineLead,0,timelineGeometry.maxPan):0;
   hideHover();wake();
  }
@@ -451,7 +451,7 @@
    if(i===3)opacity*=cardSearch?.isOpen||cardSearch?.active||wallBrowsing?0:smooth((wallZoomProgress-.6)/.32);
    if(i===4)opacity*=1-smooth((timelineDistance-.5)/.55);
    copy.style.opacity=opacity;copy.style.visibility=opacity>.01?'visible':'hidden';
-   if(i!==1&&i!==6&&opacity>.01)narrationOpacity=Math.max(narrationOpacity,opacity);
+   if(i!==1&&i!==6&&i!==7&&opacity>.01)narrationOpacity=Math.max(narrationOpacity,opacity);
    copy.style.transform=i===0?'translate3d(-50%,calc(-50% + '+(reduced?0:-progress*24)+'px),0)':i===1?'none':i===3||i===4?'translate3d(-50%,-50%,0)':reduced?'none':'translateY('+((i-progress)*24)+'px)';
    copy.setAttribute('aria-hidden',String(i!==stage||opacity<.01));copy.inert=i!==stage||opacity<.01;
   });
@@ -472,10 +472,10 @@
   wallCanvas.dataset.timelinePan=timelinePan.toFixed(1);
   for(const [node,index] of [[$('#geographyLabels'),5]]){const opacity=clamp(1-Math.abs(progress-index)/.3);node.hidden=opacity<.05;node.style.opacity=opacity;node.inert=opacity<.6;}
   $('#geographyMap').style.opacity=smooth(clamp(1-Math.abs(progress-5)/.8))*(1-focusAmount);
-  $('#scrollProgress').style.transform='scaleX('+clamp(scrollY/(chapterTop(6)+H*1.35))+')';
+  $('#scrollProgress').style.transform='scaleX('+clamp(scrollY/(chapterTop(7)+steps[7].offsetHeight-H))+')';
   $('#cardViewToolbar').hidden=!(inSearchMode()&&(wallBrowsing||progress>2.8&&progress<3.05));
   updateWallCursor();
-  projected=[];drawWall();authorScene?.render(authorReveal,progress>5.4&&!wallBrowsing&&!cardSearch?.isOpen,reduced);
+  projected=[];drawWall();authorScene?.render(authorReveal,progress>5.4&&!wallBrowsing&&!cardSearch?.isOpen,reduced,smooth(progress-6),Math.max(0,scrollY-chapterTop(7)-H*.3));
   if(Math.abs(progress-target)>.0003||focusAmount!==focusTarget||timelinePan!==timelinePanTarget||authorReveal!==authorRevealTarget)wake();
  }
  const tooltip=$('#hoverCard');let highlighted=-1;
@@ -536,8 +536,8 @@
   onCard:id=>{reopenSearch=false;routes.write({card:id,author:null,authorView:null},{kind:'card'});},
  });
  function openAuthor(id){routes.write({author:id,authorView:null},{kind:'author'});}
- import('./cards-authors.mjs?v=1').then(({createAuthorScene})=>createAuthorScene({host:$('#authorPortraits'),onOpen:openAuthor,href:id=>storyHref({author:id,card:null},true)+'#authors',onChange:wake})).then(scene=>{
-  authorScene=scene;if(cardFilterMask)scene.setFilter(Array.from(cardFilterMask,(included,index)=>included?cardAt(index).id:null).filter(Boolean));scene.resize(W,H);wake();
+ import('./cards-authors.mjs?v=lifespans-1').then(({createAuthorScene})=>createAuthorScene({host:$('#authorPortraits'),onOpen:openAuthor,href:id=>storyHref({author:id,card:null},true)+'#authors',onChange:wake})).then(scene=>{
+  authorScene=scene;if(cardFilterMask)scene.setFilter(Array.from(cardFilterMask,(included,index)=>included?cardAt(index).id:null).filter(Boolean));scene.resize(W,H);steps[7].style.height=(scene.timelineTravel+H*1.6)+'px';wake();
  }).catch(error=>{console.warn('Author scene unavailable',error.message);$('#authorsTitle').nextElementSibling.textContent='Explore the people behind the catalogue.';const link=document.createElement('a');link.href='authors.html#directory';link.textContent='Explore the authors →';link.style.pointerEvents='auto';$('#authorsTitle').after(link);});
  function syncRoute(){
   if(!routeReady)return;

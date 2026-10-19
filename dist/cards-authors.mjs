@@ -35,16 +35,34 @@ export function createPortraitLayout(authors,width,height){
 }
 
 export async function createAuthorScene({host,onOpen,href,onChange}){
- const response=await fetch('cards-assets/authors.json');if(!response.ok)throw Error('Author portraits could not load');
+ const response=await fetch('cards-assets/authors.json?v=lifespans-1');if(!response.ok)throw Error('Author portraits could not load');
  const data=await response.json(),board=host.querySelector('.author-portrait-board'),status=host.querySelector('.author-scene-status');
  let width=innerWidth,height=innerHeight,layout=[],phase=0,visible=false,filtered=null;
+ let timelineAmount=0,timelineScroll=0,timelineTravel=0,rowHeight=40,timelineAuthors=[],timelineLeft=230,timelineWidth=0;
+ const timeline=document.createElement('div');timeline.className='author-life-chart';timeline.setAttribute('aria-label','Lifespans of the authors from the portrait scene');timeline.hidden=true;host.append(timeline);
+ const axis=document.createElement('div');axis.className='author-life-axis';const rowViewport=document.createElement('div');rowViewport.className='author-life-viewport';const rows=document.createElement('div');rows.className='author-life-rows';rowViewport.append(rows);timeline.append(axis,rowViewport);
+ const chartRows=new Map();
  const tiles=new Map(),fmt=n=>n.toLocaleString('en-US');
  function build(){
   const authors=data.authors.map(a=>({...a,count:filtered?a.records.reduce((n,id)=>n+filtered.has(id),0):a.count})).filter(a=>a.count>0);
-  const padding=width<700?18:Math.max(34,width*.045),top=width<700?155:155,bottom=width<700?75:60;
+  const padding=width<700?18:Math.max(34,width*.045),top=width<700?180:205,bottom=width<700?75:60;
   layout=createPortraitLayout(authors,width-2*padding,height-top-bottom);
   board.style.inset=`${top}px ${padding}px ${bottom}px`;
   board.replaceChildren();tiles.clear();
+  timelineAuthors=authors.filter(a=>Number.isFinite(a.birth)&&Number.isFinite(a.death)&&a.death>=a.birth).sort((a,b)=>a.birth-b.birth||a.death-b.death);
+  rowHeight=width<700?50:42;timelineLeft=width<700?130:235;timelineWidth=width-padding*2-timelineLeft-18;
+  const min=Math.floor((timelineAuthors.length?Math.min(...timelineAuthors.map(a=>a.birth)):1400)/25)*25,max=Math.ceil((timelineAuthors.length?Math.max(...timelineAuthors.map(a=>a.death)):2000)/25)*25,span=Math.max(25,max-min);
+  timeline.style.inset=`${top}px ${padding}px ${bottom}px`;axis.style.left=timelineLeft+'px';rows.replaceChildren();axis.replaceChildren();chartRows.clear();
+  for(let i=0;i<=5;i++){const tick=document.createElement('span');tick.textContent=String(Math.round(min+span*i/5));tick.style.left=i/5*100+'%';axis.append(tick);}
+  for(const [index,a] of timelineAuthors.entries()){
+   const row=document.createElement('div');row.className='author-life-row';row.style.height=rowHeight+'px';
+   const name=document.createElement('a');name.className='author-life-name';name.href=href(a.id);name.textContent=a.name;name.title=a.name+' · '+a.birth+'–'+a.death+' · '+a.confidence+' identity confidence';name.onclick=e=>{if(e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;e.preventDefault();onOpen(a.id);};
+   const dot=document.createElement('i');dot.className='author-life-dot '+a.confidence;name.prepend(dot);name.style.width=(timelineLeft-46)+'px';
+   const bar=document.createElement('a');bar.className='author-life-bar';bar.href=href(a.id);bar.title=name.title;bar.setAttribute('aria-label',name.title+'. Open author.');bar.style.left=(timelineLeft+(a.birth-min)/span*timelineWidth)+'px';bar.style.width=Math.max(2,(a.death-a.birth)/span*timelineWidth)+'px';bar.onclick=name.onclick;
+   const dates=document.createElement('span');dates.className='author-life-dates';dates.textContent=a.birth+'–'+a.death;bar.append(dates);row.append(name,bar);rows.append(row);chartRows.set(a.id,{index,row});
+  }
+  timelineTravel=Math.max(0,timelineAuthors.length*rowHeight-(height-top-bottom-40));
+
   for(const author of layout){
    const tile=document.createElement('a');tile.className='author-portrait-tile';tile.href=href(author.id);tile.dataset.authorId=author.id;tile.dataset.count=String(author.count);
    tile.setAttribute('aria-label',`${author.name}, ${fmt(author.count)} catalogue mentions. Open author.`);
@@ -62,19 +80,29 @@ export async function createAuthorScene({host,onOpen,href,onChange}){
   host.dataset.authorCount=String(layout.length);resetStatus();render(phase,visible);
  }
  function resetStatus(){status.textContent=layout.length?`${layout.length} most-mentioned profiles${filtered?' · matching your filters':''}`:'No featured authors match these filters.';}
- function render(value,enabled=true,reduced=false){
+ function render(value,enabled=true,reduced=false,life=timelineAmount,travel=timelineScroll){
+  timelineAmount=life;timelineScroll=travel;
   phase=value;visible=enabled;host.hidden=!enabled;host.inert=!enabled||(!reduced&&value<.4);
   if(!enabled)return;
   const boardWidth=board.clientWidth,boardHeight=board.clientHeight;
+  const blend=reduced?(life>.5?1:0):life,pan=Math.min(timelineTravel,travel);
+  timeline.hidden=blend<.01;timeline.style.opacity=String(ease((blend-.3)/.7));timeline.inert=blend<.9;rows.style.transform=`translate3d(0,${-pan}px,0)`;
+  status.parentElement.style.opacity=String(1-blend);host.classList.toggle('showing-lifespans',blend>.5);
+
   for(const author of layout){
    const tile=tiles.get(author.id),delay=author.distance*.38,t=reduced?1:ease((value-delay)/(1-delay));
-   tile.style.opacity=String(ease((t-.08)/.48));
-   tile.style.transform=`translate3d(${mix((boardWidth-author.size)/2,author.x,t)}px,${mix((boardHeight-author.size)/2,author.y,t)}px,0) scale(${mix(.12,1,t)})`;
-   tile.style.zIndex=String(layout.length-layout.indexOf(author));tile.tabIndex=t>.9?0:-1;tile.style.pointerEvents=t>.9?'auto':'none';
+   const chart=chartRows.get(author.id),rowY=chart?40+chart.index*rowHeight-pan:boardHeight+author.size;
+   const visibleRow=rowY+rowHeight>38&&rowY<boardHeight;
+   tile.style.opacity=String(ease((t-.08)/.48)*(chart?(blend>.99&&!visibleRow?0:1):1-blend));
+   const size=mix(author.size,28,blend),x=mix(mix((boardWidth-author.size)/2,author.x,t),0,blend),y=mix(mix((boardHeight-author.size)/2,author.y,t),rowY+Math.max(0,(rowHeight-28)/2),blend);
+   tile.style.width=tile.style.height=size+'px';tile.style.transform=`translate3d(${x}px,${y}px,0) scale(${mix(.12,1,t)})`;
+   tile.querySelector('.author-portrait-label').style.opacity=blend>.01?'0':'';
+
+   tile.style.zIndex=String(layout.length-layout.indexOf(author));tile.tabIndex=t>.9&&(blend<.99||visibleRow)?0:-1;tile.style.pointerEvents=t>.9&&(blend<.99||visibleRow)?'auto':'none';
   }
   host.dataset.reveal=value.toFixed(3);
  }
  function resize(w,h){width=w;height=h;build();}
  function setFilter(ids){filtered=ids?new Set(ids):null;build();}
- build();onChange();return {render,resize,setFilter};
+ build();onChange();return {render,resize,setFilter,get timelineTravel(){return timelineTravel;}};
 }
