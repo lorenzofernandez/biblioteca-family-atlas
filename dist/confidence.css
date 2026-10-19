@@ -12,3 +12,5 @@
 :is(.reading-dark,#authorPanel) .confidence-dot:is(.confidence-low,.confidence-very-low){color:#c78468}
 :is(.reading-dark,#authorPanel) .confidence-dot.confidence-unresolved{color:#96978e}
 :is(.reading-dark,#authorPanel) .confidence-tooltip{background:#191b17;border-color:#55584d;color:#e9e5d6;box-shadow:0 8px 28px #0008}
+
+.confidence-tooltip[popover]{position:fixed;inset:auto;margin:0;isolation:isolate;background:#191b17!important;color:#e9e5d6!important;border-color:#55584d!important}.confidence-tooltip::backdrop{background:transparent;pointer-events:none}
