@@ -71,3 +71,6 @@ body.card-open .card-view-toolbar,body:has(#authorPanel[open]) .card-view-toolba
 /* The catalogue is a dedicated browsing surface, independent of the story. */
 body.catalogue-only{overflow:hidden}
 body.catalogue-only .story-step,body.catalogue-only .chapters,body.catalogue-only .skip-link,body.catalogue-only #cardContinue,body.catalogue-only #scrollProgress{visibility:hidden;pointer-events:none}
+
+body.catalogue-only #cardSearchToggle,body.catalogue-only #cardSearchDialog .dialog-close{display:none!important}
+body.catalogue-only #cardSearchDialog{top:84px;max-height:calc(100svh - 110px)}
