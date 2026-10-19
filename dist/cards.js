@@ -2,7 +2,7 @@
 'use strict';
 (async()=>{
  const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
- const canvas=$('#cardSpace'),steps=$$('.story-step'),copies=$$('.chapter-copy'),nav=$$('.chapters a'),introWords=$$('.intro-word');
+ const canvas=$('#cardSpace'),steps=$$('.story-step'),copies=$$('.chapter-copy'),nav=$$('.chapters a'),introWords=$$('.intro-word'),contextCopy=$('#contextIntro');
  const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),mix=(a,b,t)=>a+(b-a)*t,smooth=t=>{t=clamp(t);return t*t*(3-2*t)};
  const fmt=n=>n.toLocaleString('en-US');
  const originalSequenceStart=2.5,originalCardSpan=.5;
@@ -431,12 +431,17 @@
   timelinePan=reduced?timelinePanTarget:mix(timelinePan,timelinePanTarget,.14);
   if(Math.abs(timelinePan-timelinePanTarget)<.05)timelinePan=timelinePanTarget;
   const timelineDistance=(scrollY-chapterTop(4))/H;
+  const openingDistance=scrollY/H;
+  const contextOpacity=reduced?(openingDistance<.55?1:0):1-smooth((openingDistance-.15)/.55);
+  contextCopy.style.opacity=contextOpacity;contextCopy.style.visibility=contextOpacity>.01?'visible':'hidden';
+  contextCopy.setAttribute('aria-hidden',String(contextOpacity<.01));contextCopy.inert=contextOpacity<.6;
   const stage=Math.round(progress);
   if(stage!==active){active=stage;document.body.dataset.chapter=String(stage);nav.forEach((a,i)=>{if(i===stage)a.setAttribute('aria-current','step');else a.removeAttribute('aria-current')});$('.stage-shade').style.background=stage===1||stage===5?'none':stage===2?(W<751?'linear-gradient(#000e 6%,#000d 35%,transparent 72%)':'linear-gradient(90deg,#000e 7%,#000d 30%,#0005 53%,transparent 76%)'):stage===3||stage===4?'radial-gradient(ellipse at center,#000f 0%,#000c 20%,transparent 58%)':stage>=4&&stage<=5?'linear-gradient(#000 8%,#000e 28%,transparent 42%)':'linear-gradient(90deg,#000e,rgba(0,0,0,.12) 65%,transparent)';}
   drawOriginals();drawLabour();if(cardSearch?.isOpen||wallBrowsing){wallZoomProgress=1;wallOpacity=1;}
   let narrationOpacity=0;
   copies.forEach((copy,i)=>{
    let opacity=reduced?(i===stage?1:0):smooth(clamp(1-Math.abs(progress-i)/.49));
+   if(i===0)opacity*=reduced?(openingDistance>=.55?1:0):smooth((openingDistance-.55)/.55);
    if(i===3)opacity*=cardSearch?.isOpen||cardSearch?.active||wallBrowsing?0:smooth((wallZoomProgress-.6)/.32);
    if(i===4)opacity*=1-smooth((timelineDistance-.5)/.55);
    copy.style.opacity=opacity;copy.style.visibility=opacity>.01?'visible':'hidden';
@@ -444,8 +449,9 @@
    copy.style.transform=i===0?'translate3d(-50%,calc(-50% + '+(reduced?0:-progress*24)+'px),0)':i===1?'none':i===3||i===4?'translate3d(-50%,-50%,0)':reduced?'none':'translateY('+((i-progress)*24)+'px)';
    copy.setAttribute('aria-hidden',String(i!==stage||opacity<.01));copy.inert=i!==stage||opacity<.01;
   });
+  narrationOpacity=Math.max(narrationOpacity,contextOpacity);
   $('.stage-shade').style.opacity=.8*narrationOpacity*(1-focusAmount);
-  const reading=clamp(scrollY/(H*1.05));introWords.forEach((word,i)=>{word.style.opacity=reduced?1:mix(.12,1,smooth((reading*(introWords.length+2)-i+2)/4));});
+  const reading=clamp((scrollY-H*.65)/(H*.95));introWords.forEach((word,i)=>{word.style.opacity=reduced?1:mix(.12,1,smooth((reading*(introWords.length+2)-i+2)/4));});
   const timelineLabels=$('#timelineLabels'),axisOpacity=clamp(1-Math.abs(progress-4)/.3)*smooth((timelineDistance-.75)/.3);
   timelineLabels.hidden=axisOpacity<.01;timelineLabels.style.opacity=axisOpacity;timelineLabels.inert=axisOpacity<.6;
   if(timelineGeometry){
