@@ -165,6 +165,17 @@
   zoomWall(event.clientX,event.clientY,Math.exp(-clamp(delta,-350,350)*.003));
  },{passive:false});
  const wallScans=new Map(),legibleCardWidth=280;
+ let coverMode=catalogueOnly&&new URL(location.href).searchParams.get('display')==='covers',coverRecords=new Map();
+ const coverLayer=document.createElement('div');coverLayer.className='catalogue-cover-layer';document.body.append(coverLayer);const coverNodes=new Map();
+ fetch('books-data.json').then(r=>r.json()).then(d=>{coverRecords=new Map(d.books.map(b=>[b.id,b]));coverNodes.clear();coverLayer.replaceChildren();wake();}).catch(()=>{});
+ $$('input[name=catalogueDisplay]').forEach(input=>{input.checked=input.value===(coverMode?'covers':'cards');input.onchange=()=>{coverMode=input.value==='covers';const u=new URL(location.href);u.searchParams.set('display',coverMode?'covers':'cards');history.replaceState(history.state,'',u);hideHover();wake();};});
+ function drawCovers(){
+  const visible=new Set();coverLayer.hidden=!coverMode||!catalogueOnly||wallList||selectedCard>=0;
+  if(coverLayer.hidden)return;
+  for(let id=0;id<squarePositions.length/3;id++){const at=id*3,x=squarePositions[at],y=squarePositions[at+1],size=squarePositions[at+2];if(cardFilterMask&&!cardFilterMask[id]||size<75||x+size/2<0||x-size/2>W||y+size/2<0||y-size/2>H)continue;visible.add(id);let node=coverNodes.get(id);if(!node){const card=cardAt(id),record=coverRecords.get(card.id)||card;node=document.createElement('div');node.className='catalogue-cover';if(record.image){const image=new Image();image.src=record.image;image.alt=record.title;image.onerror=()=>image.replaceWith(LibraryGeneratedCovers.create(record));node.append(image);}else node.append(LibraryGeneratedCovers.create(record));coverNodes.set(id,node);coverLayer.append(node);}node.style.cssText='left:'+(x-size/2)+'px;top:'+(y-size/2)+'px;width:'+size+'px;height:'+size+'px;';}
+  for(const [id,node] of coverNodes)if(!visible.has(id)){node.remove();coverNodes.delete(id);}
+ }
+
  let timelineGeometry=null,timelinePan=0,timelinePanTarget=0,geographyData=null,geographyGeometry=null,worldOutlines=null;
  const cardAt=index=>index<cards.length?cards[index]:catalogueCards[index-cards.length];
  cardSearch=LibraryCardSearch.create({
@@ -478,7 +489,7 @@
   $('#scrollProgress').style.transform='scaleX('+clamp(scrollY/(chapterTop(7)+steps[7].offsetHeight-H))+')';
   $('#cardViewToolbar').hidden=!(inSearchMode()&&(wallBrowsing||progress>2.8&&progress<3.05));
   updateWallCursor();
-  projected=[];drawWall();authorScene?.render(authorReveal,progress>5.4&&!wallBrowsing&&!cardSearch?.isOpen,reduced,smooth(progress-6),Math.max(0,scrollY-chapterTop(7)-H*.3));
+  projected=[];drawWall();drawCovers();authorScene?.render(authorReveal,progress>5.4&&!wallBrowsing&&!cardSearch?.isOpen,reduced,smooth(progress-6),Math.max(0,scrollY-chapterTop(7)-H*.3));
   if(Math.abs(progress-target)>.0003||focusAmount!==focusTarget||timelinePan!==timelinePanTarget||authorReveal!==authorRevealTarget)wake();
  }
  const tooltip=$('#hoverCard');let highlighted=-1;

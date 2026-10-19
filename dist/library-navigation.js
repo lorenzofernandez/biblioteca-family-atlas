@@ -5,7 +5,7 @@
  const file=location.pathname.split('/').filter(Boolean).pop()||'index.html',isAuthors=/^authors(?:\.html)?$/.test(file),isBooks=/^books(?:\.html)?$/.test(file);
  const nav=el('nav',null,'library-navigation');nav.setAttribute('aria-label','Main navigation');
  const home=el('a','La Biblioteca','library-home');home.href=navBase.href;nav.append(home);
- for(const [text,url,active] of [['The Books','books.html',isBooks],['The Authors','authors.html',isAuthors],['The Catalogue','cards.html?catalogue=1#many',new URL(location.href).searchParams.has('catalogue')]]){const a=el('a',text);a.href=new URL(url,navBase).href;if(active)a.setAttribute('aria-current','page');nav.append(a);}document.body.prepend(nav);document.body.classList.add('has-library-navigation');
+ for(const [text,url,active] of [['The Authors','authors.html',isAuthors],['The Catalogue','cards.html?catalogue=1#many',new URL(location.href).searchParams.has('catalogue')]]){const a=el('a',text);a.href=new URL(url,navBase).href;if(active)a.setAttribute('aria-current','page');nav.append(a);}document.body.prepend(nav);document.body.classList.add('has-library-navigation');
  if(!isAuthors&&!isBooks)return;
  document.body.classList.add('library-directory');
  const setup=()=>{
