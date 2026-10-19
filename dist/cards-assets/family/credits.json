@@ -1,0 +1,38 @@
+{
+  "source": "Libro Completo OK.pdf",
+  "sourceType": "Family-supplied historical booklet",
+  "photographs": [
+    {
+      "file": "childhood.jpg",
+      "pdfPage": 3,
+      "caption": "Roberto Piontelli as a child with his parents and brothers"
+    },
+    {
+      "file": "portrait.jpg",
+      "pdfPage": 3,
+      "caption": "Roberto Piontelli at the time of his first university appointment"
+    },
+    {
+      "file": "wedding.jpg",
+      "pdfPage": 8,
+      "caption": "Roberto Piontelli and Edvige Tonolli on their wedding day"
+    },
+    {
+      "file": "family.jpg",
+      "pdfPage": 8,
+      "caption": "Roberto and Edvige with their five daughters"
+    },
+    {
+      "file": "mountains.jpg",
+      "pdfPage": 9,
+      "caption": "Roberto Piontelli during a mountain walk"
+    }
+  ],
+  "narrative": {
+    "pdfPages": [
+      6,
+      31
+    ],
+    "summary": "Piontelli planned to write a history of chemical science after retirement and assembled the collection for that project. He died before completing it."
+  }
+}

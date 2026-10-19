@@ -273,3 +273,23 @@ body.card-open .stage-shade{opacity:0}
 #cardDialog .detail-people-track .detail-person p{font-size:13px;line-height:1.65}
 .detail-people-track .detail-person-links{margin-top:auto;padding-top:24px;justify-content:space-between;gap:12px;flex-wrap:wrap}
 @media(max-width:600px){.detail-people-heading{flex-wrap:wrap;gap:16px}.detail-people-controls{margin-left:auto}.detail-people-track{gap:15px}.detail-people-track .detail-person{flex-basis:88%;padding:22px}}
+/* Family photographs rise behind the opening narrative, then give way to the cards. */
+#collection.story-step{height:465svh}
+.family-photographs{position:absolute;inset:0;pointer-events:none;overflow:hidden;opacity:1;will-change:opacity}
+.family-photographs:after{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at center,#000b 0%,#0005 42%,transparent 77%),linear-gradient(#0009 0%,transparent 20%,transparent 70%,#000c 100%)}
+.family-photograph{position:absolute;margin:0;width:clamp(180px,25vw,420px);will-change:transform;opacity:.5}
+.family-photograph img{display:block;width:100%;height:auto;filter:grayscale(1) sepia(.12) brightness(.8);box-shadow:0 12px 50px #0008}
+.family-photo-0{left:72%;width:clamp(170px,23vw,360px)}
+.family-photo-1{left:2%;width:clamp(200px,29vw,450px)}
+.family-photo-2{left:65%;width:clamp(220px,31vw,470px)}
+.family-photo-3{left:4%;width:clamp(170px,23vw,350px)}
+.family-photo-4{left:67%;width:clamp(200px,27vw,410px)}
+.unfinished-project{position:fixed;z-index:3;left:50%;top:50%;width:min(900px,84vw);transform:translate(-50%,-50%);opacity:0;visibility:hidden;pointer-events:none;text-shadow:0 2px 35px #000}
+.unfinished-project h2{font:400 clamp(38px,5.5vw,82px)/1.09 Georgia,serif;letter-spacing:-.035em;margin:0 0 28px;text-wrap:pretty}
+.unfinished-project h2 em{color:#d5d8bd;font-weight:400}.unfinished-project p{font:clamp(15px,1.4vw,20px)/1.7 Arial,sans-serif;max-width:700px;color:#d0d1c3;margin:0}
+.context-copy,.chapter-copy.intro-copy{text-shadow:0 2px 35px #000}
+body.card-open .unfinished-project,body.author-panel-open .unfinished-project{opacity:0!important}
+@media(max-width:750px){.family-photograph{opacity:.45}.family-photo-0{left:60%;width:44vw}.family-photo-1{left:-9%;width:59vw}.family-photo-2{left:57%;width:55vw}.family-photo-3{left:-10%;width:51vw}.family-photo-4{left:57%;width:55vw}.unfinished-project h2{font-size:clamp(34px,9vw,52px)}.unfinished-project p{font-size:14px;line-height:1.7}.unfinished-project p br{display:none}.family-photographs:after{background:radial-gradient(ellipse at center,#000b 0%,#0005 55%,transparent 100%)}}
+@media(prefers-reduced-motion:reduce){.family-photograph{will-change:auto}}
+.chapter-copy.intro-copy{opacity:0;visibility:hidden}.context-copy h1{font-size:clamp(40px,6vw,92px);line-height:1.02}
+@media(max-width:750px){.context-copy h1{font-size:clamp(34px,10vw,52px)}}
