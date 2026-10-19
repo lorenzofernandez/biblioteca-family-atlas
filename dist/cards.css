@@ -293,3 +293,12 @@ body.card-open .unfinished-project,body.author-panel-open .unfinished-project{op
 @media(prefers-reduced-motion:reduce){.family-photograph{will-change:auto}}
 .chapter-copy.intro-copy{opacity:0;visibility:hidden}.context-copy h1{font-size:clamp(40px,6vw,92px);line-height:1.02}
 @media(max-width:750px){.context-copy h1{font-size:clamp(34px,10vw,52px)}}
+/* Reveal family photographs clearly while the reader explores them. */
+.family-photographs:after{pointer-events:none;transition:opacity .3s}
+.family-photograph{pointer-events:auto;transition:opacity .3s}
+.family-photograph img{transition:filter .3s}
+.family-photograph:hover{opacity:1;z-index:1}
+.family-photograph:hover img{filter:grayscale(0) sepia(0) brightness(1.12)}
+.family-photographs:has(.family-photograph:hover):after{opacity:.15}
+.stage:has(.family-photograph:hover) .stage-shade{opacity:0!important}
+@media(prefers-reduced-motion:reduce){.family-photograph,.family-photograph img,.family-photographs:after{transition:none}}
