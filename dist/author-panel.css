@@ -101,3 +101,6 @@ body.author-panel-open:not(.card-open) #wallSpace{filter:opacity(.2)}
 #authorPanel:not(.is-fullscreen) .author-panel-hero{display:flex;flex-direction:column;gap:28px}
 #authorPanel:not(.is-fullscreen) .author-reading-sidebar{position:static;max-height:none;width:100%;overflow:visible}
 #authorPanel:not(.is-fullscreen) .author-panel-biography>p{font-size:19px}
+
+/* Keep catalogue author drill-down in its side panel. */
+#authorPanel #authorPanelExpand{display:none}
