@@ -1,0 +1,1118 @@
+[
+  {
+    "authorId": "a718950ba2722",
+    "catalogueName": "Albert Haller",
+    "candidate": "Albert Hermann August Haller",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 7 linked non-reference catalogue records predate this candidate's birth (1828). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wcd47c5ff5f43",
+        "year": 1771,
+        "title": "Primae Lineae Physiologiae... Lausanne, Apud Franc.Grasset et soc., 1771",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "wc22605206d4f",
+        "year": 1755,
+        "title": "Opuscula pathologica. • accedunt experimenta de respiratione. Quarta parte aucta",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w76dd4f3ae10a",
+        "year": 1768,
+        "title": "Elementa physiologiae corporis humani... Editio prima veneta... Tomi I-VIII",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w5f8b85ff016b",
+        "year": 1764,
+        "title": "Memoires sur I'evaporation de I'eau salée Extr. des \"Mémoires de I'Academie Royale des Sciences 1764",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wf19b88c82d06",
+        "year": 1776,
+        "title": "Elementa physiologiae corporis humani... Imus decimus: Fetus, Vita, Mors. Editio prima neapolitana",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w6e91794efc0a",
+        "year": 1763,
+        "title": "Mémoire sur une maladie épidémique arrivée dans le canton de Bern en 1762",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w39e91ce67479",
+        "year": 1755,
+        "title": "A dissertation on the sensible and irritable parts of animals",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "a1100adca9fa4",
+    "catalogueName": "Maurice Francois",
+    "candidate": "Maurice Françon",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 5 linked non-reference catalogue records predate this candidate's birth (1913). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w9820a30beb63",
+        "year": 1896,
+        "title": "Action de la chaleur sur l'iodure mercureux",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wbc43c6e3e2b6",
+        "year": 1899,
+        "title": "Sur la dissociation de l'iodure mercurdiammonium",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w3c34aeff5ab3",
+        "year": 1900,
+        "title": "Sur l'iodure de dimercurammonium anhydre amorphe et cristallisé",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wf75957dc5b54",
+        "year": 1903,
+        "title": "Iodures de mercurammonium des amines primaires et des amines tertiaires. Estr• da: \" Acad. des Sciences \", 1903•",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w58006b931787",
+        "year": 1905,
+        "title": "Sur quelques iodomercurates de pyridine",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a5d476fc62bc1",
+    "catalogueName": "Pierre David",
+    "candidate": "Pierre David",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 5 linked non-reference catalogue records predate this candidate's birth (1900). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wb59da18a6ebc",
+        "year": 1781,
+        "title": "Suite du Mémoire de M. David sur la cause du Mouvement",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w30eb034ee2c0",
+        "year": 1781,
+        "title": "Idées sur la cause du mouvement",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w2903f7e5868d",
+        "year": 1782,
+        "title": "Reflexions sur la force centripète & sur la force centrifuge",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w1819b8ac5e5f",
+        "year": 1773,
+        "title": "Réponse aux Réflexions de M. Le Sage, sur les expériences du R.P. Bertier, Insérées dans le Journal de Physique du mois de Novembre 1773",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w1594849fc8ca",
+        "year": 1775,
+        "title": "Lettre a l'Auteur du Journal, sur la pesanteur des Corps",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "a058436bd7e4f",
+    "catalogueName": "William Watson",
+    "candidate": "William Charles Richard Watson",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 5 linked non-reference catalogue records predate this candidate's birth (1885). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wae2c472dae89",
+        "year": 1746,
+        "title": "A sequel to the experiments and observations tending to illustrate the nature and properties o£ electricity The second edition",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w37cea274ffcc",
+        "year": 1748,
+        "title": "An account of the experiments made by some gentlemena of the Royal Society in order to discover whether the Electrical power... Iondon, C.Davis, 1748",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wf90171c640aa",
+        "year": 1746,
+        "title": "Experiments and observations tending to il' lustrate the nature and properties of elec tricity",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wfbad3e789e98",
+        "year": 1746,
+        "title": "Experiments and Observations tending to illustrate the Nature and properties of Elect: tricity..The third Edition",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w6a4e7d37395b",
+        "year": 1746,
+        "title": "E sequel to the experiments and observatio ons tendind to illustrate the nxkixe nature and properties of electricity... Iondon, C.Danis, 1746",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "ac4cdc8b60b78",
+    "catalogueName": "J.M Stevels",
+    "candidate": "Josina Marina Cornelia Westphal-Stevels",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 5 linked non-reference catalogue records predate this candidate's birth (1942). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w067cfc0940d4",
+        "year": 1937,
+        "title": "On the Refraction of Halogenated Methane Derivatives Containing one or More Nitro Groups",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w89e58975a2b8",
+        "year": 1938,
+        "title": "The General Connection of Different Proeprties of the Carbon-Halogen bond in Aliphati Compounds",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wb23ea906515e",
+        "year": 1939,
+        "title": "New aspects on the cohesion of simple compounds. III",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w07f0ee621dfa",
+        "year": 1939,
+        "title": "New aspects on the cohesion of simple compounds. I. e. II",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w1e4dbe3d6b41",
+        "year": 1939,
+        "title": "Koude Vlammen",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a156200d3a1f0",
+    "catalogueName": "Charles Bailly",
+    "candidate": "Charles Bailey",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 4 linked non-reference catalogue records predate this candidate's birth (1838). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wc973159523aa",
+        "year": 1836,
+        "title": "Manuale di fisica... Opera adorna di cinque tavole in rame arricchita di note ed aggiunte dei Signori Mamiani, Richard ed altri...Terza edizione pesarese... Pesaro, dalla Tipografia Nobiliana, 1836",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w4650b73ae3c4",
+        "year": 1825,
+        "title": "Manuale ovvero brevi elementi di fisica ad uso degli studiosi, ed anche degli imperiti di questa scienza.. volgarizzato da Giuseppe Mamiani Prima edizione italiana. Pesaro, coi tipi di Annesio Nobili, 1825",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w4bb391c3430e",
+        "year": 1828,
+        "title": "Manuel de Physique, ou Elémens abrégés de cette science...Ouvrage orné de planches.Quatrième Edition enrichie de notes et d'additions mathé matiques par T.Richard",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w0289fd9ccdea",
+        "year": 1777,
+        "title": "Lettres sur l'origine des schences et sur cel le des peuples de l'Asie, adressées à M. de X Voltaire par M.Bailly & precedées de quelques Lettees de M. de Voltaire à l'Auteur",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      }
+    ]
+  },
+  {
+    "authorId": "a2b6bcd1e49c8",
+    "catalogueName": "Swings",
+    "candidate": "Jean-Pierre Swings",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 4 linked non-reference catalogue records predate this candidate's birth (1943). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w411348b55511",
+        "year": 1933,
+        "title": "Molécules diatomiques. Etude des termes spec traux. III",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wa8c23dda4a70",
+        "year": 1933,
+        "title": "Spectres moléculaires. Etude des molécules diatomiques. IV",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w9041481af751",
+        "year": 1934,
+        "title": "La fluorescence des molécules diatomiques",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w7ee8e383219a",
+        "year": 1930,
+        "title": "Sur le spectre de résonance de la vapeur de soufre",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "aa02d26ec0050",
+    "catalogueName": "A Romain",
+    "candidate": "Charles-Armand Romain",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 4 linked non-reference catalogue records predate this candidate's birth (1864). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wad926fa1bb90",
+        "year": 1776,
+        "title": "ssai sur la possibilité de diviser un angle quelconque en trois parties égales, en ne fai sant usage que de la règle & du compas",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w1025c2538812",
+        "year": 1775,
+        "title": "lettre à l'Auteur de ce Recueil",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wf3eb39610ce5",
+        "year": 1683,
+        "title": "Nouveau Manuel complet du Plombier, Zingueur, Couvreur et de l'appareilleur à Gaz...Ouvrage orné de Figures et accompagné de Planches",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w13a0db582c7b",
+        "year": 1775,
+        "title": "Mémoire en abrégé de l'exécution du Radeau qui a servi de chantier à la caisse qu'on construit au Port de Toulon",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "a82eb8c4bc11a",
+    "catalogueName": "V Thomas",
+    "candidate": "Lewis Victor Thomas",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 4 linked non-reference catalogue records predate this candidate's birth (1914). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w95138278c008",
+        "year": 1897,
+        "title": "Contribution a l'étude de quelques sels métalliques halogenés. Soutenus le...1897, devant la Commission d'E xamen",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "003"
+      },
+      {
+        "recordId": "waa301afd8d22",
+        "year": 1897,
+        "title": "Thése: Contribution a l'étude de quelques sels métalliques halogènés",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w683161f80764",
+        "year": 1901,
+        "title": "Chlorobromures de T1",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w58fd16a6d83c",
+        "year": 1896,
+        "title": "Action du peroxyde d'azote sur le trichlorure",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a1614a2314230",
+    "catalogueName": "William Thomson",
+    "candidate": "William Alexander Thomson",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 4 linked non-reference catalogue records predate this candidate's birth (1876). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w412d1f23084c",
+        "year": 1858,
+        "title": "Mémoire sur la propriétès électrodynamiques des métaux",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w37c7cfd9d660",
+        "year": 1844,
+        "title": "Note sur la theorie de l'attraction",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "we9477d1d031d",
+        "year": 1851,
+        "title": "On a method of discovering experimentally the relation between the mechanical work spent, and the heat produced by the compression of a gaseous fluid",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wb11f0ef0cb96",
+        "year": 1872,
+        "title": "Reprint of papers on electrostatics and magnetism",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      }
+    ]
+  },
+  {
+    "authorId": "a91bf8fbea36b",
+    "catalogueName": "E Roger",
+    "candidate": "Edgar Rößger",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 4 linked non-reference catalogue records predate this candidate's birth (1905). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wb574623295a9",
+        "year": 1874,
+        "title": "Mémoire sur les coordonnées curvilignes",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w26f97d4a2406",
+        "year": 1872,
+        "title": "Mémoire sur les coordonnées curvilignes. Seconde partie. Bagdad, s.n., 1872",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wca5d53b9e4c1",
+        "year": 1887,
+        "title": "Théorie mécanique des phénomènes capillaires",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w05534e666ed0",
+        "year": 1887,
+        "title": "Théorie mécanique des phénomènes capillaires",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "aa7974564bcda",
+    "catalogueName": "J Chappuis",
+    "candidate": "James Chappuis",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 3 linked non-reference catalogue records predate this candidate's birth (1854). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w3760fa479be6",
+        "year": 1756,
+        "title": "OBSERVATIONS DE PHYSIQUE GENERALE",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wac8665aabeb2",
+        "year": 1713,
+        "title": "observations de physique générale",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w05f861bd8b40",
+        "year": 1767,
+        "title": "OBSERVATIONS DE PHYSIQUE GENERALE",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "a96a84ba037a9",
+    "catalogueName": "John Steiner",
+    "candidate": "John Steiner",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 3 linked non-reference catalogue records predate this candidate's birth (1941). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w8e7281b888b9",
+        "year": 1844,
+        "title": "Teoremi sulle zoniche inscritte e circoscritte",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wd912c27c76a8",
+        "year": 1844,
+        "title": "Del baricentro di curvatura, taadotto dal tedesco dal prof. Luigi Schlaefli",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w5b253a630f6d",
+        "year": 1934,
+        "title": "Potentiometric studies of passivity",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a3397da4aa423",
+    "catalogueName": "Georges Lemoine",
+    "candidate": "Georges Lemoine",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 3 linked non-reference catalogue records predate this candidate's birth (1877). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w450b36090244",
+        "year": 1875,
+        "title": "Note sur les procédés les plus récents proposés en Angleterre pour la fabrication perfectionnée du chlore",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wc00b7e68aedf",
+        "year": 1865,
+        "title": "Thèses présentées à la Faculté des Sciences de Paris pour obtenir le grade de doctaur ès sciences physiques... Rennes, Ch.Oberthur, 1865",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wa042c499f450",
+        "year": 1872,
+        "title": "Théorie des réactions simples limitées par l'action inverse",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a9bf94bf61c4f",
+    "catalogueName": "Samuel Smiles",
+    "candidate": "Samuel Smiles",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 3 linked non-reference catalogue records predate this candidate's birth (1877). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wd44ba588e577",
+        "year": 1857,
+        "title": "The life of George Stephenson. Third Edition, revised, with additions",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      },
+      {
+        "recordId": "w15ea988bc6c0",
+        "year": 1869,
+        "title": "Storia di cinque lavoranti inventori...Annotata da Gustavo Strafforello",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      },
+      {
+        "recordId": "w7c6cc06fd8d4",
+        "year": 1862,
+        "title": "Lives of the engineers London, John IlIurray J (W. Clowes and Sons), 1862",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      }
+    ]
+  },
+  {
+    "authorId": "a21b82f138dff",
+    "catalogueName": "A Besson",
+    "candidate": "Albert Besson",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 3 linked non-reference catalogue records predate this candidate's birth (1896). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w251ad49fa886",
+        "year": 1892,
+        "title": "Thèse: Etude de quelques produits nouveaux obtenus par substitution dans les compsés haloides des métalloides",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w589b8ae551e4",
+        "year": 1892,
+        "title": "Sur un bromazature de phosphore. Estr• da: \" Acad. des Sciences \", 1892•",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w352e6ec098e0",
+        "year": 1891,
+        "title": "Sur l'action de l'acide bromhydrique sur le chlorure desilicium",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a9db0c129f15b",
+    "catalogueName": "Alexander Watt",
+    "candidate": "Alexander Stuart Watt",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1892). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w48bf0ad11f03",
+        "year": 1889,
+        "title": "Electro-metallurgy pratically treated.. Nintly Edition, Enlarged and rebised? With additional illustrations, and including the most recent processes",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      },
+      {
+        "recordId": "w3983dc5ff771",
+        "year": 1889,
+        "title": "Electro-depositlon electro-metallurgy London, Crosby Lockwood and son, 1889",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      }
+    ]
+  },
+  {
+    "authorId": "ad2fe1c6a575f",
+    "catalogueName": "S.G Clarke",
+    "candidate": "Giles C.S. Clarke",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1944). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w7607ff8e2960",
+        "year": 1939,
+        "title": "The atmospheric corrosion resistance and protective value of metallic coatings",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wd25a0778b8b1",
+        "year": 1934,
+        "title": "A Rapid Test of Thickness of Tin Coatings on Steel",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a357c4758c57c",
+    "catalogueName": "G Guglielmo",
+    "candidate": "Giovanni Di Guglielmo",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1886). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w51eec571cad6",
+        "year": 1881,
+        "title": "Sulla evaporazione dell'acqua e sull'assorbi mento del vapore acqueo per effetto delle soluzioni saline",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "wd7160eb34f1c",
+        "year": 1884,
+        "title": "Sul riscaldamento degli elettrodi prodotto dalla scintilla d'induzione nell'aria molto rarefatta",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "ab3c287e67a4e",
+    "catalogueName": "Bernhard Neumann",
+    "candidate": "Bernhard Neumann",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1909). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wcfc498c33fa0",
+        "year": 1907,
+        "title": "Elektrometallurgie des Eisens",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      },
+      {
+        "recordId": "w789f0e910d8a",
+        "year": 1905,
+        "title": "Das Ruthenburgsche Agglomerationsverfahren",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a26ae3943f809",
+    "catalogueName": "Thomas Andrews",
+    "candidate": "Thomas Andrews",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1847). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w5a95dad67d21",
+        "year": 1842,
+        "title": "Sur la chaleur développée pendant la combinaison des acides avec les bases",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w2ce42d4586b1",
+        "year": 1841,
+        "title": "On the heat developed during the combination of acids and bases. Dublin, Graisberry and Gill, 1841",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "ab2ef8d9f654f",
+    "catalogueName": "Jean-Paul Mathieu",
+    "candidate": "Jean-Paul Mathieu",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1940). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wccad23b24a45",
+        "year": 1935,
+        "title": "La synthèse asymétrlque Paris, Hermann & Cle, 1935 em. 25? pp. 29 (Actualités Scientlf Iques et Indudtrielles)",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w2941d876e4f0",
+        "year": 1937,
+        "title": "Annual Tables of constants and numerical data 21: Free Energy, heat Contebt, Entrppy, Activity",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "af31c6b43521f",
+    "catalogueName": "L Appert",
+    "candidate": "Léon Appert",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1837). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w17e0c1097b12",
+        "year": 1810,
+        "title": "Arte di conservare tutte le sostanze animali e vegetabili per molti anni..Tradotta dall'originale francese... Siena, Onorato Peri, 1810",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "wb379b5d5ca59",
+        "year": 1811,
+        "title": "L'art de conserver pendant plusieurs années toutes les substance animales et végétales.. Deuxième Editio",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      }
+    ]
+  },
+  {
+    "authorId": "a3c93cde99eae",
+    "catalogueName": "J.C Hudson",
+    "candidate": "David J. Hudson",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1943). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w3fbf53a25a8e",
+        "year": 1940,
+        "title": "The corrosion of iron and steel...With an • troduction by W.H.Hatfield and I.Swinden",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      },
+      {
+        "recordId": "w90d2bfc50a87",
+        "year": 1935,
+        "title": "The effect of five Years' Atmospheric Exposure on the Breaking Load and the electrica. Resistance of non-ferrous Wires",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "a50d8e7627001",
+    "catalogueName": "Gio. Fortunato Bianchini",
+    "candidate": "Giovanni Fortunato Bianchini",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1719). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w5bbf7e3eb98c",
+        "year": 1704,
+        "title": "Reflexions sur des memoires touchant la correction Gregorienne, communiquées a M. Cassini",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w037b41762323",
+        "year": 1702,
+        "title": "Observations d'une Comete du mois d'Avril de cette année 1702",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "a999bbf014306",
+    "catalogueName": "James Ferguson",
+    "candidate": "James Ferguson",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1797). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w487fb1fa6701",
+        "year": 1770,
+        "title": "Lectures on select subjects dition London, W. Strahan, and F.Rivington",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w0913198ca720",
+        "year": 1778,
+        "title": "Introduzione alla elettricità rame Firenze, Per Gaetano Cambiagi, 1778",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      }
+    ]
+  },
+  {
+    "authorId": "a29a48256d4dc",
+    "catalogueName": "C. J Brockman",
+    "candidate": "Charles Thurston Brockman",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1927). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w8961c27b2917",
+        "year": 1924,
+        "title": "The Theory of Co-ordination and the Lewis- Langmuir Structure of the Atom",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w7c8df4e183e9",
+        "year": 1926,
+        "title": "Electro-organic chemistry",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "006"
+      }
+    ]
+  },
+  {
+    "authorId": "aeff70a646709",
+    "catalogueName": "Jean Plana",
+    "candidate": "Jean Cluzel du Plan",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1848). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wfef4d9490907",
+        "year": 1845,
+        "title": "Memoire sur la distribution de l'électricité à la surface de deux sphères conductrices com plètement isolées... Turin, de l'Imprimerie Royale, 1845",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "007"
+      },
+      {
+        "recordId": "w4dd796a3311f",
+        "year": 1842,
+        "title": "Mémoire sur la chaleur des gaz permanens",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  },
+  {
+    "authorId": "adf4fb52d3361",
+    "catalogueName": "Walter Althammer",
+    "candidate": "Walter Althammer",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1928). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "wa4e997f10fea",
+        "year": 1924,
+        "title": "Die graphische und rechnerische Behandlung von Salzlösungen. Stassfurt, Kali-Forschungs-Anstalt, 1924",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      },
+      {
+        "recordId": "w333382203791",
+        "year": 1913,
+        "title": "Ueber die Beweglichkeit der Ionen ternarer Elektrolyte. Inaug Dissertation... Halle (Saale), Hohmann, 1913",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "001"
+      }
+    ]
+  },
+  {
+    "authorId": "adfcbedd15cc7",
+    "catalogueName": "A Magnan",
+    "candidate": "Adrien Fauchier Magnan",
+    "action": "demote-primary-to-alternative",
+    "reason": "Chronology review: 2 linked non-reference catalogue records predate this candidate's birth (1873). The catalogue may contain OCR errors or more than one person under this heading; this candidate is retained only as an alternative until the original records and identity are verified.",
+    "conflictingRecords": [
+      {
+        "recordId": "w26c98a4108ac",
+        "year": 1776,
+        "title": "Mémoire sur les accidens auxquels sont exposé les garcons chapeliers de la ville de Marseil le, & sur les moyens de les prévenir",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      },
+      {
+        "recordId": "w0728e257d764",
+        "year": 1778,
+        "title": "Procedé qui demontre que le nitre existe tout formé dans la créme de tartee... s.1.; s.n.t.; 1778",
+        "reason": "before_birth",
+        "crossReference": false,
+        "continuation": false,
+        "section": "005"
+      }
+    ]
+  }
+]
