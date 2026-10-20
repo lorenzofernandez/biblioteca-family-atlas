@@ -89,7 +89,7 @@ body.author-panel-open:not(.card-open) #wallSpace{filter:opacity(.2)}
 @media(max-width:750px){#authorPanel .author-title-card.has-portrait{display:flex;text-align:center;align-items:center}#authorPanel .author-title-card .author-panel-portrait{max-width:160px;margin-bottom:20px!important}#authorPanel .author-title-card .author-panel-portrait img{max-height:180px}#authorPanel .author-title-card.has-portrait h2{font-size:30px}}
 /* Catalogue drill-down remains a compact side panel; full view is opt-in. */
 #authorPanel:not(.is-fullscreen)::backdrop{background:#0005}
-#authorPanel:not(.is-fullscreen) #authorPanelExpand{display:block;pointer-events:auto;margin:18px 86px 0 0;background:#10110f}
+#authorPanel:not(.is-fullscreen) #authorPanelExpand{display:none}
 #authorPanel:not(.is-fullscreen) #authorPanelContent{padding:80px 30px 48px;width:auto}
 #authorPanel:not(.is-fullscreen) .author-title-carousel{min-height:0;margin-bottom:28px}
 #authorPanel:not(.is-fullscreen) .author-title-card{width:100%;min-height:0;padding:24px;text-align:left}
