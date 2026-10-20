@@ -5,7 +5,7 @@
  const file=location.pathname.split('/').filter(Boolean).pop()||'index.html',isAuthors=/^authors(?:\.html)?$/.test(file),isBooks=/^books(?:\.html)?$/.test(file);
  const nav=el('nav',null,'library-navigation');nav.setAttribute('aria-label','Main navigation');
  const home=el('a','La Biblioteca','library-home');home.href=navBase.href;nav.append(home);
- for(const [text,url,active] of [['The Authors','authors.html',isAuthors],['The Catalogue','cards.html?catalogue=1#many',new URL(location.href).searchParams.has('catalogue')]]){const a=el('a',text);a.href=new URL(url,navBase).href;if(active)a.setAttribute('aria-current','page');nav.append(a);}document.body.prepend(nav);document.body.classList.add('has-library-navigation');
+ for(const [text,url,active] of [['The Authors','authors.html',isAuthors||new URL(location.href).searchParams.get('return')==='authors'],['The Catalogue','cards.html?catalogue=1#many',new URL(location.href).searchParams.has('catalogue')&&new URL(location.href).searchParams.get('return')!=='authors']]){const a=el('a',text);a.href=new URL(url,navBase).href;if(active)a.setAttribute('aria-current','page');nav.append(a);}document.body.prepend(nav);document.body.classList.add('has-library-navigation');
  if(!isAuthors&&!isBooks)return;
  document.body.classList.add('library-directory');
  const setup=()=>{
@@ -20,7 +20,7 @@
   const showFilters=open=>{panel.hidden=!open;toggle.setAttribute('aria-expanded',String(open));toggle.hidden=open;document.body.classList.toggle('directory-filters-hidden',!open);if(open)tools.querySelector('input')?.focus();};toggle.onclick=()=>showFilters(panel.hidden);close.onclick=()=>showFilters(false);document.addEventListener('keydown',e=>{if(e.key==='Escape')tools.querySelector('input')?.blur();});
   const switcher=el('div',null,'library-view-switch library-browse-toolbar');switcher.setAttribute('role','group');switcher.setAttribute('aria-label','Catalogue view');document.body.append(switcher);
   const buttons=[];let mode=new URL(location.href).searchParams.get('view')||sessionStorage.getItem('biblioteca-directory-view')||'grid';let zoom=1;
-  let board;import('./library-board.mjs?v=1').then(({createBoard})=>{board=createBoard(grid);board.setList(mode==='list');});
+  let board;import('./library-board.mjs?v=return-2').then(({createBoard})=>{board=createBoard(grid);board.setList(mode==='list');});
   const baseColumns=()=>innerWidth<650?2:innerWidth<1000?3:isBooks?5:4;
   const applyZoom=()=>{grid.style.setProperty('--browse-columns',Math.max(1,Math.round(baseColumns()/zoom)));};
   const zoomButtons=[];

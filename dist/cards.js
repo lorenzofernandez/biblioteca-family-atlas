@@ -548,7 +548,7 @@
    authorDirectory??=fetch('authors-data.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Author index unavailable');return r.json();});const directory=await authorDirectory,authors=directory.authors,map=new Map(authors.map(a=>[a.id,a]));let ids;try{ids=JSON.parse(sessionStorage.getItem('biblioteca-author-sequence')||'null');}catch{}if(!Array.isArray(ids)||!ids.includes(id))ids=[...authors].sort((a,b)=>a.surname.localeCompare(b.surname)||a.displayName.localeCompare(b.displayName)).map(a=>a.id);ids=[...new Set(ids.map(a=>directory.authorRedirects?.[a]||a).filter(a=>map.has(a)))];const at=ids.indexOf(id);return{previous:at>0?map.get(ids[at-1]):null,next:at>=0&&at<ids.length-1?map.get(ids[at+1]):null,index:at,total:ids.length};
   },
   authorHref:id=>storyHref({author:id,authorView:'full'},true),
-  onNavigate:id=>routes.write({author:id,authorView:$('#authorPanel').classList.contains('is-fullscreen')?'full':null},{kind:'author'}),
+  onNavigate:id=>routes.write({author:id,authorView:$('#authorPanel').classList.contains('is-fullscreen')?'full':null},{replace:true,kind:'author'}),
   cardHref:id=>storyHref({card:id},true),
   onClose:()=>routes.close('author'),
   onFullscreen:full=>routes.write({authorView:full?'full':null},{replace:true}),

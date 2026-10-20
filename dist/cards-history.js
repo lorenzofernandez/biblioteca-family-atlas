@@ -6,7 +6,7 @@
   const current=()=>{const p=new URL(location.href).searchParams;return {card:p.get('card'),author:p.get('author'),full:p.get('authorView')==='full'};};
   function href(changes,standalone=false){
    const url=new URL(location.href);
-   if(standalone){url.search='';url.hash='';}
+   if(standalone){const keep=new URLSearchParams();for(const key of ['catalogue','display','return'])if(url.searchParams.has(key))keep.set(key,url.searchParams.get(key));url.search=keep.toString();url.hash='';}
    for(const [key,value] of Object.entries(changes))value==null?url.searchParams.delete(key):url.searchParams.set(key,value);
    return url.pathname+url.search+url.hash;
   }
@@ -16,6 +16,8 @@
    history[replace?'replaceState':'pushState'](state,'',next);if(notify)onChange(current());
   }
   function close(kind){
+   if(kind==='author'&&!current().card&&new URL(location.href).searchParams.get('return')==='authors'){let destination=new URL('authors.html',location.href);try{const saved=new URL(sessionStorage.getItem('biblioteca-author-return')||destination.href,location.href);if(saved.origin===location.origin&&saved.pathname===destination.pathname)destination=saved;}catch{}location.assign(destination.href);return;}
+
    if(history.state?.libraryCards===session&&history.state.kind===kind){history.back();return;}
    write(kind==='author'?{author:null,authorView:null}:{card:null,author:null,authorView:null},{replace:true});
   }
