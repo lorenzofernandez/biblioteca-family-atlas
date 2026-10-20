@@ -1,0 +1,91 @@
+{
+  "authorId": "aefc769eb9a79",
+  "rejectedIdentity": "Albertus Magnus",
+  "originalMatch": {
+    "possibleIdentity": "Albertus Magnus",
+    "birth": 1200,
+    "death": 1280,
+    "bio": "Albertus Magnus (c. 1200 – 15 November 1280), also known as Saint Albert the Great, Albert of Swabia, Albert von Bollstadt, or Albert of Cologne, was a German Dominican friar, philosopher, scientist, and bishop. He is considered one of the greatest medieval philosophers and thinkers. Canonized in 1931, he was known during his lifetime as Doctor universalis and Doctor expertus; late in his life the sobriquet Magnus was appended to his name. Scholars such as James A. Weisheipl and Joachim R. Söder have referred to him as the greatest German philosopher and theologian of the Middle Ages. The Catholic Church distinguishes him as one of the Doctors of the Church.",
+    "portrait": "https://commons.wikimedia.org/wiki/Special:FilePath/Tommaso%20da%20modena%2C%20ritratti%20di%20domenicani%20%28vescovo%29%201352%20150cm%2C%20treviso%2C%20ex%20convento%20di%20san%20niccol%C3%B2%2C%20sala%20del%20capitolo.jpg?width=600",
+    "identityCandidates": [
+      {
+        "authorId": "aefc769eb9a79",
+        "catalogueName": "A Magnus",
+        "candidateName": "Albertus Magnus",
+        "wikidataId": "Q60059",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q60059",
+        "authorityUrl": "https://www.wikidata.org/wiki/Q60059",
+        "sourceLanguage": "en",
+        "description": "German-Dominican friar and saint (c. 1200–1280)",
+        "bio": "Albertus Magnus (c. 1200 – 15 November 1280), also known as Saint Albert the Great, Albert of Swabia, Albert von Bollstadt, or Albert of Cologne, was a German Dominican friar, philosopher, scientist, and bishop. He is considered one of the greatest medieval philosophers and thinkers. Canonized in 1931, he was known during his lifetime as Doctor universalis and Doctor expertus; late in his life the sobriquet Magnus was appended to his name. Scholars such as James A. Weisheipl and Joachim R. Söder have referred to him as the greatest German philosopher and theologian of the Middle Ages. The Catholic Church distinguishes him as one of the Doctors of the Church.",
+        "birth": 1200,
+        "death": 1280,
+        "birthYearCandidates": [
+          1200
+        ],
+        "deathYearCandidates": [
+          1280
+        ],
+        "origins": [
+          "Holy Roman Empire"
+        ],
+        "originIds": [
+          "Q12548"
+        ],
+        "birthplaces": [],
+        "occupations": [],
+        "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Tommaso%20da%20modena%2C%20ritratti%20di%20domenicani%20%28vescovo%29%201352%20150cm%2C%20treviso%2C%20ex%20convento%20di%20san%20niccol%C3%B2%2C%20sala%20del%20capitolo.jpg?width=600",
+        "imageCreditUrl": "https://commons.wikimedia.org/wiki/File:Tommaso%20da%20modena%2C%20ritratti%20di%20domenicani%20%28vescovo%29%201352%20150cm%2C%20treviso%2C%20ex%20convento%20di%20san%20niccol%C3%B2%2C%20sala%20del%20capitolo.jpg",
+        "imageLicenseStatus": "Reference image from authority record; image type and license need review on the credit page.",
+        "confidence": {
+          "level": "low",
+          "reason": "Surname and given-name initials or abbreviation are compatible. Automated authority-name match; catalogue works have not been checked individually. This is a candidate identity, not a confirmed attribution. Catalogue dates are much later than this lifetime; reprints, mentions, or a homonym may explain the difference. 3 possible public identities match this name; alternatives are retained separately."
+        },
+        "matchMethod": "surname-and-initials-or-abbreviation",
+        "query": "A Magnus",
+        "catalogueRecordCount": 3,
+        "existingBiography": false,
+        "authorityDataset": "Wikidata public data via QLever; historical scientific, technical, medical, and scholarly occupations, birth before 1950",
+        "retrievedAt": "2026-10-17",
+        "alternativeCandidateCount": 2,
+        "dataConfidence": "public-source metadata; not independently verified",
+        "biographySourceRevision": 1380331973,
+        "bioShort": "Albertus Magnus (c. 1200 – 15 November 1280), also known as Saint Albert the Great, Albert of Swabia, Albert von Bollstadt, or Albert of Cologne, was a German Dominican friar, philosopher, scientist, and bishop. He is…",
+        "bioSources": [
+          {
+            "title": "Albertus Magnus — Wikipedia contributors",
+            "url": "https://en.wikipedia.org/wiki/Albertus_Magnus"
+          },
+          {
+            "title": "Revision history and contributors",
+            "url": "https://en.wikipedia.org/w/index.php?title=Albertus%20Magnus&action=history"
+          },
+          {
+            "title": "CC BY-SA 4.0 — shortened excerpt",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ],
+        "bioSource": "https://en.wikipedia.org/wiki/Albertus_Magnus",
+        "bioSourceTitle": "Albertus Magnus — Wikipedia contributors",
+        "bioSourceKind": "encyclopedia-excerpt",
+        "bioLicense": "Wikipedia contributors · CC BY-SA 4.0 · shortened excerpt",
+        "biographyStatus": "source-summary",
+        "biographyExpandedAt": "2026-10-19",
+        "lifeLabel": "1200–1280",
+        "biographyConfidence": {
+          "level": "low",
+          "reason": "Biography drawn from an attributed encyclopedia lead. This automated expansion has not been individually source-reviewed. The catalogue identity remains tentative; these details describe the candidate person."
+        }
+      }
+    ]
+  },
+  "reason": "The Albertus Magnus authority match was rejected. The catalogue identifies A. Magnus, active in specific-heat research in 1910; a full personal identity has not been established.",
+  "bibliographicEvidence": {
+    "title": "Über die Bestimmung spezifischer Wärmen",
+    "author": "A. Magnus",
+    "year": 1910,
+    "journal": "Annalen der Physik, series 4, volume 31, pp. 597–608",
+    "source": "https://epubs.stfc.ac.uk/manifestation/40740885/RAL-TR-2019-002.pdf"
+  },
+  "replacementIdentity": null
+}
