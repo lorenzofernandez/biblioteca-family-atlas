@@ -15,7 +15,7 @@
   function fullscreen(value){currentFull=value;dialog.classList.toggle('is-fullscreen',value);expand.textContent=value?'Side panel':'Full screen';expand.setAttribute('aria-label',value?'Return author to side panel':'Open author full screen');expand.setAttribute('aria-pressed',String(value));}
   function close(){++token;currentId=null;if(dialog.open)dialog.close();document.body.classList.remove('author-panel-open');}
   async function open(id,{full=false}={}){
-   fullscreen(true);document.body.classList.add('author-panel-open');if(!dialog.open){dialog.showModal();closeButton.focus({preventScroll:true});}
+   fullscreen(full);document.body.classList.add('author-panel-open');if(!dialog.open){dialog.showModal();closeButton.focus({preventScroll:true});}
    if(currentId===id)return;
    currentId=id;neighbours=null;dialog.dataset.authorId=id;dialog.scrollTop=0;const request=++token;
    const loadingTitle=el('h2','Opening the author…');loadingTitle.id='authorPanelTitle';content.replaceChildren(loadingTitle);content.setAttribute('aria-busy','true');

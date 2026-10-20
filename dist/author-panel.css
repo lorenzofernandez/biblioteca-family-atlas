@@ -87,3 +87,17 @@ body.author-panel-open:not(.card-open) #wallSpace{filter:opacity(.2)}
 #authorPanel .author-title-card .author-panel-portrait img{width:100%;max-height:330px;object-fit:contain}
 #authorPanel .author-title-card .author-panel-portrait figcaption{font:11px/1.5 Arial;margin-top:12px}
 @media(max-width:750px){#authorPanel .author-title-card.has-portrait{display:flex;text-align:center;align-items:center}#authorPanel .author-title-card .author-panel-portrait{max-width:160px;margin-bottom:20px!important}#authorPanel .author-title-card .author-panel-portrait img{max-height:180px}#authorPanel .author-title-card.has-portrait h2{font-size:30px}}
+/* Catalogue drill-down remains a compact side panel; full view is opt-in. */
+#authorPanel:not(.is-fullscreen)::backdrop{background:#0005}
+#authorPanel:not(.is-fullscreen) #authorPanelExpand{display:block;pointer-events:auto;margin:18px 86px 0 0;background:#10110f}
+#authorPanel:not(.is-fullscreen) #authorPanelContent{padding:80px 30px 48px;width:auto}
+#authorPanel:not(.is-fullscreen) .author-title-carousel{min-height:0;margin-bottom:28px}
+#authorPanel:not(.is-fullscreen) .author-title-card{width:100%;min-height:0;padding:24px;text-align:left}
+#authorPanel:not(.is-fullscreen) .author-title-card h2{font-size:36px}
+#authorPanel:not(.is-fullscreen) .author-title-card .author-panel-dates{font-size:14px}
+#authorPanel:not(.is-fullscreen) .author-title-card.has-portrait{display:grid;grid-template-columns:100px minmax(0,1fr);gap:18px}
+#authorPanel:not(.is-fullscreen) .author-title-card .author-panel-portrait img{max-height:150px}
+#authorPanel:not(.is-fullscreen) .author-profile-navigation{display:none}
+#authorPanel:not(.is-fullscreen) .author-panel-hero{display:flex;flex-direction:column;gap:28px}
+#authorPanel:not(.is-fullscreen) .author-reading-sidebar{position:static;max-height:none;width:100%;overflow:visible}
+#authorPanel:not(.is-fullscreen) .author-panel-biography>p{font-size:19px}
