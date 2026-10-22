@@ -1,0 +1,10 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import vm from 'node:vm';
+const script=fs.readFileSync('public/archive/staging-bridge.js','utf8');
+function harness(){const listeners={},messages=[];let clicks=0,button=false,mutation;const parent={postMessage:m=>messages.push(m)};const context={URL,location:{href:'https://staging.test/archive/cards.html?staging=1',origin:'https://staging.test'},parent,document:{documentElement:{},querySelector:()=>button?{click:()=>clicks++}:null},MutationObserver:class{constructor(fn){mutation=fn}observe(){}disconnect(){}},history:{replaceState(){}},PopStateEvent:class{},window:{addEventListener:(type,fn)=>listeners[type]=fn,dispatchEvent(){}}};vm.runInNewContext(script,context);return{listeners,messages,parent,context,get clicks(){return clicks},mount(){button=true;mutation()}}}
+test('story language waits for legacy switch and ignores messages from other windows',()=>{const h=harness();h.listeners.message({source:{},origin:'https://staging.test',data:{type:'biblioteca-staging-language',locale:'it'}});h.mount();assert.equal(h.clicks,0);h.listeners.message({source:h.parent,origin:'https://staging.test',data:{type:'biblioteca-staging-language',locale:'it'}});assert.equal(h.clicks,1)});
+test('early language selection is applied when the legacy switch mounts',()=>{const h=harness();h.listeners.message({source:h.parent,origin:'https://staging.test',data:{type:'biblioteca-staging-language',locale:'it'}});assert.equal(h.clicks,0);h.mount();assert.equal(h.clicks,1)});
+test('story routes are emitted once per selection',()=>{const h=harness();h.context.location.href+='&card=book1&author=author1';h.listeners['biblioteca-routechange']();h.listeners['biblioteca-routechange']();assert.equal(h.messages.length,1);assert.equal(h.messages[0].card,'book1');assert.equal(h.messages[0].author,'author1')});
+test('embedded header suppression outranks legacy important navigation selector',()=>{const html=fs.readFileSync('public/archive/cards.html','utf8');assert.match(html,/html body nav\.library-navigation[^}]+display:none!important/)});

@@ -1,0 +1,9 @@
+import{useLanguage}from'../i18n/Language';
+/** End-of-story navigation lives in the story scroll container. */
+export function ExploreBy(){const{locale}=useLanguage(),italian=locale==='it';const base=new URL(location.href);base.hash='';base.search='';return <section className="explore-by" aria-labelledby="explore-by-title"><style>{`
+.explore-by{position:relative;z-index:30;pointer-events:auto;box-sizing:border-box;min-height:75svh;padding:110px max(28px,8vw) 100px;background:#080907;color:#eeeade;border-top:1px solid #55564b;font-family:Arial,sans-serif}
+.explore-by h2{font:normal clamp(44px,7vw,88px)/1.1 Georgia,serif;margin:0 0 54px;color:#eeeade;letter-spacing:-.035em}
+.explore-by-links{display:grid;grid-template-columns:1fr 1fr;gap:24px}.explore-by-links a{display:flex;align-items:center;justify-content:space-between;gap:28px;min-height:150px;padding:32px;border:1px solid #55564b;background:#11120f;color:#eeeade;text-decoration:none;font:normal clamp(28px,4vw,52px)/1.2 Georgia,serif;transition:border-color .2s,background .2s}
+.explore-by-links a:hover,.explore-by-links a:focus-visible{border-color:#d8c18c;background:#1c1d16;color:#d8c18c;outline:2px solid #d8c18c;outline-offset:4px}.explore-by-links span[aria-hidden]{font:32px Arial,sans-serif;color:#d8c18c}
+@media(max-width:650px){.explore-by{padding:80px 24px;min-height:65svh}.explore-by h2{margin-bottom:32px}.explore-by-links{grid-template-columns:1fr;gap:16px}.explore-by-links a{min-height:110px;padding:24px}}
+`}</style><h2 id="explore-by-title">{italian?'Esplora per':'Explore by'}</h2><div className="explore-by-links"><a href={base.href+'#/authors'} target="_top">{italian?'Autori':'Authors'}<span aria-hidden="true">↗</span></a><a href={base.href+'#/catalogue'} target="_top">{italian?'Catalogo':'Catalog'}<span aria-hidden="true">↗</span></a></div></section>}

@@ -1,0 +1,24 @@
+/* White linework, black ground; typography remains selectable catalogue text. */
+.generated-cover-frame{width:100%;max-width:320px;margin:0 auto;min-width:0}
+.generated-book-cover{position:relative;isolation:isolate;aspect-ratio:2/3;width:100%;background:#000;color:#fff;overflow:hidden;container-type:inline-size;box-sizing:border-box}
+.generated-book-cover .generated-cover-art{position:absolute;inset:0;width:100%;height:100%;object-fit:fill;background:#000;filter:none;z-index:-1}
+.generated-book-cover .generated-cover-copy{position:absolute;inset:18% 18% 17%;display:flex;flex-direction:column;align-items:center;text-align:center;gap:5cqw;color:#fff}
+.generated-book-cover .generated-cover-author{font:small-caps 4.2cqw/1.4 Georgia,serif;letter-spacing:.08em;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.generated-book-cover .generated-cover-title{font:var(--title-size,9cqw)/1.12 Georgia,serif;letter-spacing:-.015em;overflow-wrap:anywhere;text-wrap:balance;max-height:67%;display:-webkit-box;-webkit-line-clamp:9;-webkit-box-orient:vertical;overflow:hidden;margin:auto 0}
+.generated-book-cover .generated-cover-rule{width:18%;border-top:1px solid #fff;flex-shrink:0}
+.generated-book-cover .generated-cover-imprint{font:3.5cqw/1.45 Georgia,serif;letter-spacing:.03em;overflow-wrap:anywhere;display:flex;flex-direction:column;gap:2cqw;max-height:19%;overflow:hidden}
+.generated-book-cover .generated-cover-imprint>span:last-child{font-size:4.8cqw;letter-spacing:.12em}
+.generated-book-cover[data-period=modern] .generated-cover-copy{align-items:flex-start;text-align:left;inset:19% 19% 16%}
+.generated-book-cover[data-period=modern] .generated-cover-title{font-family:Arial,sans-serif;font-weight:500;text-wrap:pretty;letter-spacing:-.03em}
+.generated-book-cover[data-period=modern] .generated-cover-author,.generated-book-cover[data-period=modern] .generated-cover-imprint{font-family:Arial,sans-serif}
+.generated-book-cover[data-region=french] .generated-cover-title{font-style:italic}
+.generated-book-cover[data-region=northern][data-period=industrial] .generated-cover-author{letter-spacing:.16em}
+.generated-cover-no-art::after{content:'';position:absolute;inset:5%;border:1px solid #fff;pointer-events:none}
+.generated-cover-frame .generated-cover-label{display:block;font:10px/1.5 system-ui,sans-serif;color:#888;text-align:center;margin-top:9px;letter-spacing:.04em}
+.reading-cover .generated-cover-frame{max-width:min(280px,27svh)}
+.book-tile>.generated-cover-frame{max-width:163px;height:245px;margin-bottom:23px}
+.book-tile .generated-cover-label{font-size:9px;color:#626b5e}
+@media(max-width:850px){.reading-cover .generated-cover-frame{max-width:min(300px,50vw)}}
+@media(max-width:650px){.book-tile>.generated-cover-frame{max-width:126px;height:190px}.generated-cover-frame .generated-cover-label{font-size:9px}}
+
+.book-cover{margin:0 auto 30px;max-width:320px}.book-cover-reference{display:block;width:100%;max-height:470px;object-fit:contain}.book-cover-caption{font:12px/1.6 Arial;color:var(--muted);margin-top:12px}.book-cover-caption summary{cursor:pointer}.book-cover-caption a{display:block;margin-top:10px}

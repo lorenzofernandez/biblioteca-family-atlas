@@ -1,0 +1,2 @@
+import{test}from'node:test';import assert from'node:assert/strict';import{build}from'../src/data/summaryEngine.js';
+test('summary engine preserves inference scores and source links',()=>{const result=build({id:'w1',title:'Mathematical methods',file:'test.pdf',page:2});assert(result.length);assert.equal(result[0].title,'Mathematical methods');assert(result[0].score<=60);assert.equal(result[0].sources[0].url,'originals/test.pdf#page=2')});

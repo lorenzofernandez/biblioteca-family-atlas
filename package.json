@@ -1,9 +1,28 @@
 {
   "name": "biblioteca-family-atlas",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "typecheck": "node scripts/validate-pages-build.mjs",
-    "build:pages": "node scripts/validate-pages-build.mjs"
+    "dev": "vite --host 127.0.0.1 --port 8780",
+    "build": "tsc --noEmit && vite build && node scripts/production-routes.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "storybook": "storybook dev -p 6006",
+    "build:storybook": "storybook build -o dist/design-system",
+    "build:pages": "npm run build",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "vite": "^6.2.0",
+    "typescript": "^5.7.0",
+    "storybook": "^9.0.0",
+    "@storybook/react-vite": "^9.0.0"
   }
 }

@@ -1,0 +1,6 @@
+export type Level='high'|'medium'|'low'|'very-low'|'unresolved';
+export interface Confidence{level?:Level;reason?:string;overall?:Level;identity?:Confidence;biography?:Confidence;metadata?:Confidence}
+export interface Author{id:string;displayName:string;name?:string;surname?:string;birth?:number|null;death?:number|null;lifeLabel?:string;origins?:string[];bio?:string;bioShort?:string;portrait?:string;portraitSource?:string;recordCount?:number;referenceCount?:number;confidence?:Confidence;possibleIdentity?:string;aliases?:string[];identityCandidates?:Author[];candidateName?:string;bioSources?:{title:string;url:string}[];bioLicense?:string;catalogueContext?:string;biographyStatus?:string}
+export interface Book{id:string;title:string;displayTitle?:string;year?:number|null;authorNames?:string[];authors?:string[];file?:string;source?:string;page?:number;text?:string;confidence?:Confidence|string;research?:{summary?:string};onlineCandidates?:{title:string;url:string}[];[key:string]:any}
+export interface FilterState{query:string;from:number;to:number;unknown:boolean;origin:string;confidence:string;status:string}
+export type View='list'|'grid';export type Section='home'|'catalogue'|'authors'|'system';
