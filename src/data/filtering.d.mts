@@ -1,0 +1,1 @@
+import type{Author,Book,FilterState,Section}from './types';export const defaultFilters:FilterState;export function filterItems<T extends Author|Book>(items:T[],filters:FilterState,kind:string):T[];export function readRoute(hash:string):{section:Section;params:URLSearchParams};

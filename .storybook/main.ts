@@ -1,0 +1,1 @@
+import type{StorybookConfig}from'@storybook/react-vite';const config:StorybookConfig={stories:['../src/**/*.stories.tsx'],framework:'@storybook/react-vite',staticDirs:[],viteFinal:async config=>({...config,publicDir:false}),docs:{autodocs:true}};export default config;

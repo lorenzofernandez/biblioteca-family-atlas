@@ -1,0 +1,3 @@
+import{test}from'node:test';import assert from'node:assert/strict';import{containImage,portraitGrid}from'../src/data/imageLayout.mjs';
+test('portrait and landscape images keep their aspect ratio in portrait frames',()=>{for(const[sw,sh]of[[600,900],[900,600],[600,600]]){const fit=containImage(sw,sh,10,20,100,150);assert(Math.abs(fit.width/fit.height-sw/sh)<1e-10);assert(fit.width<=100&&fit.height<=150);assert(fit.x>=10&&fit.y>=20)}});
+test('grid rows have portrait proportions and fit within the viewport',()=>{for(const count of[1,20,21532,49780]){const g=portraitGrid(count,1200,900);assert.equal(g.rowHeight/g.cell,1.5);assert(g.cols*g.cell<=1152);assert(Math.ceil(count/g.cols)*g.rowHeight<=720.000001)}});
