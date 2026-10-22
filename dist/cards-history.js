@@ -13,7 +13,7 @@
   function write(changes,{replace=false,kind=null,notify=true}={}){
    const next=href(changes);if(next===location.pathname+location.search+location.hash)return;
    const state=replace?history.state:{libraryCards:session,kind,parent:location.pathname+location.search+location.hash};
-   history[replace?'replaceState':'pushState'](state,'',next);if(notify)onChange(current());
+   history[replace?'replaceState':'pushState'](state,'',next);window.dispatchEvent(new Event('biblioteca-routechange'));if(notify)onChange(current());
   }
   function close(kind){
    if(kind==='author'&&!current().card&&new URL(location.href).searchParams.get('return')==='authors'){let destination=new URL('authors.html',location.href);try{const saved=new URL(sessionStorage.getItem('biblioteca-author-return')||destination.href,location.href);if(saved.origin===location.origin&&saved.pathname===destination.pathname)destination=saved;}catch{}location.assign(destination.href);return;}

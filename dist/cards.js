@@ -4,11 +4,17 @@
  const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
  const catalogueOnly=new URL(location.href).searchParams.has('catalogue');
  document.body.classList.toggle('catalogue-only',catalogueOnly);
+ let scrollGuideDismissed=false;
+ const dismissScrollGuide=()=>{scrollGuideDismissed=true;$('#interactionGuide').hidden=true;};
+ window.addEventListener('wheel',event=>{if(event.deltaY||event.deltaX)dismissScrollGuide();},{passive:true});
+ window.addEventListener('touchmove',dismissScrollGuide,{passive:true});
+ window.addEventListener('keydown',event=>{if(!event.target.closest('input,textarea,select,[contenteditable=true]')&&['ArrowDown','ArrowUp','PageDown','PageUp','Home','End',' '].includes(event.key))dismissScrollGuide();});
+ window.addEventListener('pointerdown',event=>{if(event.clientX>=document.documentElement.clientWidth)dismissScrollGuide();},{passive:true});
  const canvas=$('#cardSpace'),steps=$$('.story-step'),copies=$$('.chapter-copy'),nav=$$('.chapters a'),introWords=$$('.intro-word'),contextCopy=$('#contextIntro'),projectCopy=$('#unfinishedProject'),familyPhotos=$$('#familyPhotographs figure');
  const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x)),mix=(a,b,t)=>a+(b-a)*t,smooth=t=>{t=clamp(t);return t*t*(3-2*t)};
  const fmt=n=>n.toLocaleString('en-US');
- const originalSequenceStart=2.5,originalCardSpan=.5;
- const cataloguerHold=5.25,labourHold=5,overviewHold=2.6,holds=[0,cataloguerHold,labourHold,overviewHold,.9,1.9,1.6,0];
+ const originalSequenceStart=1.7,originalCardSpan=.25;
+ const cataloguerHold=3,labourHold=5,overviewHold=2.6,holds=[0,cataloguerHold,labourHold,overviewHold,.9,1.9,1.6,0];
  const originalSlides=$$('.original-slide'),cataloguerNarrative=$('#cataloguerTitle'),cataloguerIntro=$('#cataloguerIntro'),narrationEnglish=cataloguerNarrative.getAttribute('aria-label'),typedNarrative=$('#typedNarrative'),untypedNarrative=$('#untypedNarrative');
  const narrationItalian='La sua collezione fu catalogata con cura da mia nonna, Edvige Tonolli. Una alla volta, riportò le informazioni su una scheda.';
 
@@ -17,13 +23,13 @@
   const distance=Math.max(0,(scrollY-chapterTop(1))/H);
   originalPhase=clamp(distance/cataloguerHold);
   const narration=document.documentElement.lang==='it'?narrationItalian:narrationEnglish;
-  const typedCount=reduced?narration.length:Math.floor(narration.length*clamp(distance/1.5));
+  const typedCount=reduced?narration.length:Math.floor(narration.length*clamp(distance/1));
   typedNarrative.textContent=narration.slice(0,typedCount);untypedNarrative.textContent=narration.slice(typedCount);
   cataloguerNarrative.classList.toggle('is-complete',typedCount===narration.length);
-  const border=reduced?(distance>=1.55?1:0):smooth((distance-1.55)/.4),narrativeOpacity=1-smooth((distance-2.2)/.3);
+  const border=reduced?(distance>=1.05?1:0):smooth((distance-1.05)/.25),narrativeOpacity=1-smooth((distance-1.45)/.25);
   cataloguerIntro.style.opacity=narrativeOpacity;cataloguerIntro.setAttribute('aria-hidden',String(narrativeOpacity<.05));
   cataloguerIntro.querySelector('svg').style.opacity=border;cataloguerIntro.querySelector('rect').style.strokeDashoffset=1-border;
-  cataloguerIntro.dataset.phase=distance<1.5?'typing':distance<1.95?'outline':distance<2.5?'complete':'scans';
+  cataloguerIntro.dataset.phase=distance<1?'typing':distance<1.3?'outline':distance<1.7?'complete':'scans';
   originalSlides.forEach((node,i)=>{
    const local=(distance-originalSequenceStart)/originalCardSpan-i;
    const opacity=local<0||local>1?0:reduced?1:smooth(local/.12)*(1-smooth((local-.5)/.4));
@@ -133,9 +139,8 @@
   const drag=wallDrag;wallDrag=null;suppressWallClick=drag.moved;
   if(canvas.hasPointerCapture(drag.id))canvas.releasePointerCapture(drag.id);
   const guide=$('#interactionGuide'),zoomGuide=inSearchMode()&&(wallBrowsing||wallZoomProgress>=.999);
-  guide.hidden=!!document.querySelector('dialog:modal')||wallList;
+  guide.hidden=scrollGuideDismissed||!!document.querySelector('dialog:modal')||wallList;
   $('#interactionGuideTitle').textContent=zoomGuide?'Scroll to zoom':'Scroll to explore';
-  $('#interactionGuideText').textContent=zoomGuide?(wallCamera.scale>1?'Drag to move · Click a card to open':'Zoom in to discover individual cards'):'Move through the story and its visualizations';
   guide.classList.toggle('is-zoom',zoomGuide);
   updateWallCursor();
  }
@@ -145,6 +150,7 @@
  function resetWallCamera(){finishWallPan();wallCamera.scale=1;wallCamera.x=wallCamera.y=0;}
  function setWallView(list){
   finishWallPan();
+  if(catalogueOnly){const url=new URL(location.href);url.searchParams.set('view',list?'list':'grid');history.replaceState(history.state,'',url);}
   wallBrowsing=true;wallList=list;document.body.classList.add('wall-browsing');document.body.classList.toggle('wall-list',list);
   cardSearch.setListMode(list);$('#cardGridView').setAttribute('aria-pressed',String(!list));$('#cardListToggle').setAttribute('aria-pressed',String(list));$('#cardZoomControls').hidden=list;
   hideHover();showFilterWall();if(list)$('#cardListView').focus({preventScroll:true});
@@ -206,7 +212,7 @@
   const dateCorrections=new Map((data.dateCorrections||[]).map(entry=>[entry.id,entry.year]));
   catalogueCards=index.cards.map(row=>({id:row[0],title:row[1],author:row[2],year:dateCorrections.has(row[0])?dateCorrections.get(row[0]):row[3],file:index.files[row[4]],page:row[5],rare:false}));
   if(catalogueCards.length+cards.length!==data.total)throw Error('Incomplete catalogue lookup');
-  if(wallGrid){buildWallLookup();layoutSquares();}cardSearch.setRecords([...cards,...catalogueCards],geo);if(catalogueOnly){setWallView(false);cardSearch.show();}wallCanvas.dataset.catalogueReady='true';cardById=new Map([...cards,...catalogueCards].map((card,index)=>[card.id,index]));routeReady=true;syncRoute();wake();
+  if(wallGrid){buildWallLookup();layoutSquares();}cardSearch.setRecords([...cards,...catalogueCards],geo);if(catalogueOnly){setWallView(new URL(location.href).searchParams.get('view')!=='grid');cardSearch.show();}wallCanvas.dataset.catalogueReady='true';cardById=new Map([...cards,...catalogueCards].map((card,index)=>[card.id,index]));routeReady=true;syncRoute();wake();
  }).catch(error=>{cardSearch.failed();wallCanvas.dataset.catalogueReady='false';console.warn('Catalogue geography unavailable',error.message);$('#sceneCaption').hidden=false;$('#sceneCaption').textContent='The catalogue map could not load. Refresh to try again.'});
  function buildWallLookup(){
   wallIds.fill(-1);wallCellById.fill(-1);
@@ -498,9 +504,8 @@
   $('#scrollProgress').style.transform='scaleX('+clamp(scrollY/(chapterTop(7)+steps[7].offsetHeight-H))+')';
   $('#cardViewToolbar').hidden=!(inSearchMode()&&(wallBrowsing||progress>2.8&&progress<3.05));
   const guide=$('#interactionGuide'),zoomGuide=inSearchMode()&&(wallBrowsing||wallZoomProgress>=.999);
-  guide.hidden=!!document.querySelector('dialog:modal')||wallList;
+  guide.hidden=scrollGuideDismissed||!!document.querySelector('dialog:modal')||wallList;
   $('#interactionGuideTitle').textContent=zoomGuide?'Scroll to zoom':'Scroll to explore';
-  $('#interactionGuideText').textContent=zoomGuide?(wallCamera.scale>1?'Drag to move · Click a card to open':'Zoom in to discover individual cards'):'Move through the story and its visualizations';
   guide.classList.toggle('is-zoom',zoomGuide);
   updateWallCursor();
   projected=[];drawWall();drawCovers();authorScene?.render(authorReveal,progress>5.4&&!wallBrowsing&&!cardSearch?.isOpen,reduced,smooth(progress-6),Math.max(0,scrollY-chapterTop(7)-H*.3));

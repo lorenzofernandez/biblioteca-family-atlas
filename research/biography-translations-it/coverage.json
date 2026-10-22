@@ -1,0 +1,10 @@
+{
+  "language": "it",
+  "method": "Automatic offline translation with Argos en_it 1.0 / CTranslate2; existing editorial translations take precedence",
+  "textCount": 26278,
+  "translatedCount": 26278,
+  "sourceCharacters": 4483804,
+  "shards": 256,
+  "yearMismatchCount": 0,
+  "yearMismatches": []
+}

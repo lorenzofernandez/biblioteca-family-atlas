@@ -5,23 +5,23 @@
 <meta name="description" content="A family library, told through the original catalogue cards. A collection built by a grandfather, and given order by a grandmother.">
 <meta name="theme-color" content="#000000"><title>A life in cards · Biblioteca</title>
 <link rel="preload" as="image" href="cards-assets/first-card.jpg">
-<link rel="stylesheet" href="cards.css?v=scroll-guide-1">
+<link rel="stylesheet" href="cards.css?v=larger-time-units-4">
 <link rel="stylesheet" href="cards-authors.css?v=lifespans-1">
 <link rel="stylesheet" href="book-summaries.css?v=1">
 <script src="book-summaries.js?v=2" defer></script>
 <script src="data-loader.js?v=names-20261019" defer></script>
 <link rel="stylesheet" href="book-reading.css?v=biographies-20261019">
 <link rel="stylesheet" href="confidence.css?v=visible-levels-1">
-<script src="confidence.js?v=visible-levels-1" defer></script>
+<script src="confidence.js?v=concise-2" defer></script>
 <script src="generated-covers.js?v=1" defer></script>
 <script src="book-reading.js?v=biography-empty-state-20261019" defer></script>
 <link rel="stylesheet" href="cards-search.css?v=no-search-icon-4">
 <script src="cards-search.js?v=4" defer></script>
 <link rel="stylesheet" href="author-panel.css?v=catalogue-template-8">
-<script src="cards-history.js?v=return-context-2" defer></script>
+<script src="cards-history.js?v=current-section-14" defer></script>
 <script src="author-panel.js?v=catalogue-template-8" defer></script>
-<script src="cards.js?v=scroll-guide-1-return-context-6" defer></script>
-<link rel="stylesheet" href="generated-covers.css?v=1"><link rel="stylesheet" href="library-navigation.css?v=author-range-11"><script src="library-navigation.js?v=grid-default-13" defer></script><script>if(new URL(location.href).searchParams.has('catalogue'))document.documentElement.classList.add('catalogue-route');</script><style>.catalogue-route .story-step,.catalogue-route .chapter-copy,.catalogue-route .context-copy,.catalogue-route .unfinished-project,.catalogue-route .family-photographs,.catalogue-route .original-slide,.catalogue-route .chapters,.catalogue-route .skip-link{visibility:hidden!important;pointer-events:none!important}.catalogue-route .stage-shade{opacity:0!important}</style><link rel="stylesheet" href="language.css?v=1"><script src="language.js?v=1" defer></script></head>
+<script src="cards.js?v=shorter-cataloguer-4-return-context-6" defer></script>
+<link rel="stylesheet" href="generated-covers.css?v=1"><link rel="stylesheet" href="library-navigation.css?v=separate-zoom-16"><script src="library-navigation.js?v=separate-zoom-17" defer></script><script>if(new URL(location.href).searchParams.has('catalogue'))document.documentElement.classList.add('catalogue-route');</script><style>.catalogue-route .story-step,.catalogue-route .chapter-copy,.catalogue-route .context-copy,.catalogue-route .unfinished-project,.catalogue-route .family-photographs,.catalogue-route .original-slide,.catalogue-route .chapters,.catalogue-route .skip-link{visibility:hidden!important;pointer-events:none!important}.catalogue-route .stage-shade{opacity:0!important}</style><link rel="stylesheet" href="language.css?v=all-bios-4"><script src="language.js?v=confidence-5" defer></script></head>
 <body>
 <a class="skip-link" href="#time">Skip to the timeline</a>
 <div class="stage" aria-hidden="true"><canvas id="cardSpace"></canvas><div id="familyPhotographs" class="family-photographs" aria-hidden="true"><figure class="family-photograph family-photo-0" data-start="0.05" data-speed="0.55" style="transform:translate3d(0,5.0svh,0)"><img src="cards-assets/family/portrait.jpg" alt="" decoding="async" fetchpriority="low"></figure><figure class="family-photograph family-photo-1" data-start="0.64" data-speed="0.68" style="transform:translate3d(0,64.0svh,0)"><img src="cards-assets/family/childhood.jpg" alt="" decoding="async" fetchpriority="low"></figure><figure class="family-photograph family-photo-2" data-start="1.55" data-speed="0.64" style="transform:translate3d(0,155.0svh,0)"><img src="cards-assets/family/family.jpg" alt="" decoding="async" fetchpriority="low"></figure><figure class="family-photograph family-photo-3" data-start="2.3" data-speed="0.57" style="transform:translate3d(0,229.99999999999997svh,0)"><img src="cards-assets/family/mountains.jpg" alt="" decoding="async" fetchpriority="low"></figure><figure class="family-photograph family-photo-4" data-start="4.1" data-speed="0.65" style="transform:translate3d(0,410.0svh,0)"><img src="cards-assets/family/wedding.jpg" alt="" decoding="async" fetchpriority="low"></figure></div><svg id="geographyMap" aria-hidden="true"></svg><canvas id="wallSpace"></canvas><div class="stage-shade"></div><div class="grain"></div></div>
@@ -58,7 +58,7 @@
 <div class="timeline-labels scene-labels" id="timelineLabels" aria-label="Catalogue timeline" hidden><div class="era-axis" id="eraAxis"></div></div>
 <div class="geography-labels scene-labels" id="geographyLabels" aria-label="Publication geography" hidden><div id="countryLabels"></div><label class="country-browser">Explore a country <select id="countryBrowser" aria-label="Explore cards by publication country"><option value="">Choose a country</option></select></label></div>
 <div class="hover-card" id="hoverCard" hidden><img alt=""><small class="hover-image-status hover-loading" aria-hidden="true">Loading original card…</small><small class="hover-image-status hover-unavailable" aria-hidden="true">Original card unavailable</small><div><span class="hover-year"></span><strong></strong></div></div>
-<div id="interactionGuide" class="interaction-guide"><span class="interaction-guide-arrow" aria-hidden="true">↓</span><div><strong id="interactionGuideTitle">Scroll to explore</strong><span id="interactionGuideText">Move through the story and its visualizations</span></div></div><footer class="story-footer"><button class="story-icon" type="button" id="aboutView" aria-label="About the catalogue and estimates"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 11v6M12 7v1"/></svg></button><div class="scroll-progress"><i id="scrollProgress"></i></div></footer><p id="sceneCaption" class="scene-error" role="status" hidden></p>
+<div id="interactionGuide" class="interaction-guide"><span class="interaction-guide-arrow" aria-hidden="true">↓</span><div><strong id="interactionGuideTitle">Scroll to explore</strong></div></div><footer class="story-footer"><button class="story-icon" type="button" id="aboutView" aria-label="About the catalogue and estimates"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 11v6M12 7v1"/></svg></button><div class="scroll-progress"><i id="scrollProgress"></i></div></footer><p id="sceneCaption" class="scene-error" role="status" hidden></p>
 <dialog id="cardSearchDialog" aria-labelledby="cardSearchTitle" aria-modal="false">
  <div class="card-search-heading"><h2 id="cardSearchTitle">Filter the cards.</h2><button class="dialog-close" type="button" aria-label="Hide filters">Hide filters</button></div>
  <form id="cardSearchForm" role="search">
