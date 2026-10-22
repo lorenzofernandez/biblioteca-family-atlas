@@ -14,3 +14,20 @@
 :is(.reading-dark,#authorPanel) .confidence-tooltip{background:#191b17;border-color:#55584d;color:#e9e5d6;box-shadow:0 8px 28px #0008}
 
 .confidence-tooltip[popover]{position:fixed;inset:auto;margin:0;isolation:isolate;background:#191b17!important;color:#e9e5d6!important;border-color:#55584d!important}.confidence-tooltip::backdrop{background:transparent;pointer-events:none}
+/* Confidence is a readable status, with colour as a supporting cue. */
+.author-confidence-row{gap:10px 12px!important;align-items:center}
+.confidence-indicator{display:inline-flex;align-items:center;gap:7px;padding:7px 12px 7px 6px;border:1px solid #8c8b7e;border-radius:6px;background:#f3f1e8;color:#30352e;font:600 14px/1.4 Arial,sans-serif;max-width:100%}
+.confidence-indicator .confidence-dot-wrap{margin-top:0}
+.confidence-indicator .confidence-dot{width:30px;height:30px;border:0!important;background:transparent!important}
+.confidence-dot::before{width:14px;height:14px;box-shadow:0 0 0 3px color-mix(in srgb,currentColor 18%,transparent)}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-indicator{background:#171914f5;color:#f1eee3;border-color:#747668;font-size:14px}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-indicator[data-confidence-level=high]{border-color:#8aa97e;background:#1b291cf5}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-indicator[data-confidence-level=medium]{border-color:#cfb36c;background:#302918f5}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-indicator:is([data-confidence-level=low],[data-confidence-level=very-low]){border-color:#d38c6b;background:#30201af5}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-dot.confidence-high{color:#a4d393}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-dot.confidence-medium{color:#f1ce78}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-dot:is(.confidence-low,.confidence-very-low){color:#f1a281}
+:is(.reading-dark,#authorPanel,.library-directory,.card-detail-sheet) .confidence-dot.confidence-unresolved{color:#c1c3b9}
+.person-tile .confidence-indicator,.candidate-labels .confidence-indicator{font-size:12px;padding:4px 8px 4px 3px}
+#authorPanel .author-panel-intro .confidence-indicator{font-size:14px}
+@media(max-width:600px){.confidence-indicator,#authorPanel .author-panel-intro .confidence-indicator{font-size:12px;padding:5px 9px 5px 4px}}

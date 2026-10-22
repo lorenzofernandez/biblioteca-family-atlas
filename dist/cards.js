@@ -9,11 +9,14 @@
  const fmt=n=>n.toLocaleString('en-US');
  const originalSequenceStart=2.5,originalCardSpan=.5;
  const cataloguerHold=5.25,labourHold=5,overviewHold=2.6,holds=[0,cataloguerHold,labourHold,overviewHold,.9,1.9,1.6,0];
- const originalSlides=$$('.original-slide'),cataloguerNarrative=$('#cataloguerTitle'),cataloguerIntro=$('#cataloguerIntro'),narration=cataloguerNarrative.getAttribute('aria-label'),typedNarrative=$('#typedNarrative'),untypedNarrative=$('#untypedNarrative');
+ const originalSlides=$$('.original-slide'),cataloguerNarrative=$('#cataloguerTitle'),cataloguerIntro=$('#cataloguerIntro'),narrationEnglish=cataloguerNarrative.getAttribute('aria-label'),typedNarrative=$('#typedNarrative'),untypedNarrative=$('#untypedNarrative');
+ const narrationItalian='La sua collezione fu catalogata con cura da mia nonna, Edvige Tonolli. Una alla volta, riportò le informazioni su una scheda.';
+
  let labourTyping=0,originalPhase=0,wallZoomProgress=0,wallTravel=0,wallOpacity=0;
  function drawOriginals(){
   const distance=Math.max(0,(scrollY-chapterTop(1))/H);
   originalPhase=clamp(distance/cataloguerHold);
+  const narration=document.documentElement.lang==='it'?narrationItalian:narrationEnglish;
   const typedCount=reduced?narration.length:Math.floor(narration.length*clamp(distance/1.5));
   typedNarrative.textContent=narration.slice(0,typedCount);untypedNarrative.textContent=narration.slice(typedCount);
   cataloguerNarrative.classList.toggle('is-complete',typedCount===narration.length);
@@ -129,6 +132,11 @@
   if(!wallDrag||event&&event.pointerId!==undefined&&event.pointerId!==wallDrag.id)return;
   const drag=wallDrag;wallDrag=null;suppressWallClick=drag.moved;
   if(canvas.hasPointerCapture(drag.id))canvas.releasePointerCapture(drag.id);
+  const guide=$('#interactionGuide'),zoomGuide=inSearchMode()&&(wallBrowsing||wallZoomProgress>=.999);
+  guide.hidden=!!document.querySelector('dialog:modal')||wallList;
+  $('#interactionGuideTitle').textContent=zoomGuide?'Scroll to zoom':'Scroll to explore';
+  $('#interactionGuideText').textContent=zoomGuide?(wallCamera.scale>1?'Drag to move · Click a card to open':'Zoom in to discover individual cards'):'Move through the story and its visualizations';
+  guide.classList.toggle('is-zoom',zoomGuide);
   updateWallCursor();
  }
  function constrainWallCamera(){
@@ -489,6 +497,11 @@
   $('#geographyMap').style.opacity=smooth(clamp(1-Math.abs(progress-5)/.8))*(1-focusAmount);
   $('#scrollProgress').style.transform='scaleX('+clamp(scrollY/(chapterTop(7)+steps[7].offsetHeight-H))+')';
   $('#cardViewToolbar').hidden=!(inSearchMode()&&(wallBrowsing||progress>2.8&&progress<3.05));
+  const guide=$('#interactionGuide'),zoomGuide=inSearchMode()&&(wallBrowsing||wallZoomProgress>=.999);
+  guide.hidden=!!document.querySelector('dialog:modal')||wallList;
+  $('#interactionGuideTitle').textContent=zoomGuide?'Scroll to zoom':'Scroll to explore';
+  $('#interactionGuideText').textContent=zoomGuide?(wallCamera.scale>1?'Drag to move · Click a card to open':'Zoom in to discover individual cards'):'Move through the story and its visualizations';
+  guide.classList.toggle('is-zoom',zoomGuide);
   updateWallCursor();
   projected=[];drawWall();drawCovers();authorScene?.render(authorReveal,progress>5.4&&!wallBrowsing&&!cardSearch?.isOpen,reduced,smooth(progress-6),Math.max(0,scrollY-chapterTop(7)-H*.3));
   if(Math.abs(progress-target)>.0003||focusAmount!==focusTarget||timelinePan!==timelinePanTarget||authorReveal!==authorRevealTarget)wake();

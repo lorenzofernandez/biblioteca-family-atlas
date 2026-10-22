@@ -304,3 +304,13 @@ body.card-open .unfinished-project,body.author-panel-open .unfinished-project{op
 @media(prefers-reduced-motion:reduce){.family-photograph,.family-photograph img,.family-photographs:after{transition:none}}
 
 .author-panel-alternatives{margin:40px 0;border-top:1px solid #ffffff26;padding-top:28px}.author-alternatives-heading{display:flex;align-items:center;justify-content:space-between;gap:16px}.author-alternatives-heading h3{font:32px Georgia;margin:0 0 22px}.author-alternatives-heading button{background:#191b17;color:#eeeade;border:1px solid #666456;padding:10px 15px;margin-left:6px}.author-alternatives-track{display:flex;gap:20px;overflow-x:auto;scroll-snap-type:x mandatory}.author-alternatives-track>article{flex:0 0 min(100%,520px);box-sizing:border-box;padding:24px;background:#141610;border:1px solid #55584d;scroll-snap-align:start}.author-alternatives-track h4{font:28px Georgia;margin:0 0 12px}.author-alternatives-track p{font:16px/1.7 Georgia}.author-alternatives-track a{font:13px Arial;text-decoration:underline}
+/* Persistent, readable orientation for the scroll-driven dark experience. */
+.interaction-guide{position:fixed;bottom:26px;left:50%;transform:translateX(-50%);z-index:35;display:flex;align-items:center;gap:14px;padding:15px 22px;border:1px solid #c4a76b80;border-radius:40px;background:#080908ed;box-shadow:0 6px 32px #0009;color:#f3f0e4;pointer-events:none;max-width:calc(100vw - 110px);white-space:nowrap}
+.interaction-guide strong{display:block;font:600 16px/1.4 Arial,Helvetica,sans-serif}
+.interaction-guide div>span{display:block;margin-top:2px;color:#c4c1b5;font:12px/1.4 Arial,Helvetica,sans-serif}
+.interaction-guide-arrow{display:grid;place-items:center;width:32px;height:38px;border:1px solid #c4a76b;border-radius:18px;font:24px/1 Arial;color:#e4c989;animation:scroll-guide-nudge 1.8s ease-in-out infinite}
+.context-scroll{font-size:14px;letter-spacing:1px;color:#e4c989}
+body.card-open .interaction-guide,body.author-panel-open .interaction-guide{display:none}
+@keyframes scroll-guide-nudge{0%,100%{transform:translateY(-3px)}50%{transform:translateY(3px)}}
+@media(max-width:750px){.interaction-guide{bottom:18px;padding:12px 17px;gap:10px;max-width:calc(100vw - 60px);white-space:normal;width:max-content}.interaction-guide strong{font-size:14px}.interaction-guide div>span{font-size:11px;max-width:230px}.context-scroll{font-size:12px}}
+@media(prefers-reduced-motion:reduce){.interaction-guide-arrow{animation:none}}

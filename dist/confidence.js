@@ -10,7 +10,7 @@ window.LibraryConfidence={
  },
  indicator(value,label='Biography') {
   const c=typeof value==='string'?{level:value}:value||{level:'unresolved'},item=document.createElement('span'),text=document.createElement('span');
-  item.className='confidence-indicator';item.dataset.confidenceKind=label.toLowerCase();text.textContent=label+' · '+(this.labels[c.level]||'Unresolved');item.append(this.dot(c,label),text);return item;
+  item.className='confidence-indicator';item.dataset.confidenceLevel=c.level||'unresolved';item.dataset.confidenceKind=label.toLowerCase();text.textContent=label+' · '+(this.labels[c.level]||'Unresolved');item.append(this.dot(c,label),text);return item;
  },
  dot(value,label='Identity') {
   const c=typeof value==='string'?{level:value}:value||{level:'unresolved'},level=this.labels[c.level]||'Unresolved';
